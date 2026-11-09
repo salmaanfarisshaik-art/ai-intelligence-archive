@@ -29670,12 +29670,14 @@ hf_ds_6a9d8e54cb1f70afa752542c,numix/balises-openwindmap-pyrenees,dataset,Huggin
 hf_ds_6aa585f5e13985455758f8eb,sjkhfuk/fofo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk/fofo
 hf_ds_6ab65a7f909092518dca860f,XiaomiMiMo/MiMo-V2.6-RL-oss,dataset,HuggingFace Datasets,format:parquet|library:datasets|library:mlcroissant|library:pandas|library:polars|license:apache-2.0|modality:document|modality:image|modality:text|region:us|size_categories:1K<n<10K,https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss
 hf_ds_6ac0e3e0aadad5e0492a39f0,roisincrtai/ptb-xl-1.0.3,dataset,HuggingFace Datasets,modality:text|region:us|size_categories:10K<n<100K,https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3
+hf_ds_6ac6b608bd990480ebe6e800,carlotabronze/sm-stuff,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/carlotabronze/sm-stuff
 hf_ds_6acca32f6fa844eabec4e77b,lerobot/FineART,dataset,HuggingFace Datasets,LeRobot|arxiv:2609.36416|bimanual-manipulation|license:cc-by-4.0|modality:video|region:us|robotics|size_categories:10K<n<100K|subtask-annotations|task_categories:robotics|vision-language-action,https://huggingface.co/datasets/lerobot/FineART
 hf_ds_6accfa5c558696f3caf5dbfc,hdlzidane/ConteRecopilacion,dataset,HuggingFace Datasets,not-for-all-audiences|region:us,https://huggingface.co/datasets/hdlzidane/ConteRecopilacion
 hf_ds_6acfd70a1ee5628d262f3350,sjkhfuk/fofo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk/fofo
 hf_ds_6ad73b2611ffd4dabac49e74,sjkhfuk1/foffo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk1/foffo
+hf_ds_6ad82fcedf69b48f86bb012f,adscli/copycheck-videos,dataset,HuggingFace Datasets,license:other|region:us,https://huggingface.co/datasets/adscli/copycheck-videos
 hf_ds_6ada2ff08f0f9c17f60ebac9,visionhdstream/data-vision-01,dataset,HuggingFace Datasets,library:datasets|library:mlcroissant|modality:video|region:us|size_categories:n<1K,https://huggingface.co/datasets/visionhdstream/data-vision-01
-hf_ds_6ae993485240eb6b7ac68d30,DAGroup-PKU/Open-HumanWAM-50K,dataset,HuggingFace Datasets,arxiv:2611.06817|egocentric-video|hand-motion|lerobot|region:us|robot-learning|robotics|task_categories:robotics,https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K
+hf_ds_6ae993485240eb6b7ac68d30,DAGroup-PKU/Open-HumanWAM-50K,dataset,HuggingFace Datasets,arxiv:2611.06817|egocentric-video|hand-motion|lerobot|modality:video|region:us|robot-learning|robotics|task_categories:robotics,https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K
 hf_ds_ACCC1380_private-model,ACCC1380/private-model,dataset,Hugging Face,,https://huggingface.co/datasets/ACCC1380/private-model
 hf_ds_ADSKAILab_Zero-To-CAD-1m,ADSKAILab/Zero-To-CAD-1m,dataset,Hugging Face,,https://huggingface.co/datasets/ADSKAILab/Zero-To-CAD-1m
 hf_ds_AI-Growth-Lab_patents_claims_1.5m_traim_test,AI-Growth-Lab/patents_claims_1.5m_traim_test,dataset,Hugging Face,,https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
@@ -30683,7 +30685,7 @@ hf_facebook_opt-2.7b,facebook/opt-2.7b,text-generation,Hugging Face,,https://hug
 hf_facebook_opt-350m,facebook/opt-350m,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-350m
 hf_facebook_opt-6.7b,facebook/opt-6.7b,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-6.7b
 hf_facebook_xglm-564M,facebook/xglm-564M,text-generation,Hugging Face,,https://huggingface.co/facebook/xglm-564M
-hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit,farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit,text-generation,Hugging Face,4-bit|amd|arxiv:2610.07766|awq|base_model:google/gemma-4-26B-A4B-it|base_model:quantized:google/gemma-4-26B-A4B-it|classification|compressed-tensors|conversational|cuda|decision-engine|en|endpoints_compatible|gemma4|gguf|h100|license:apache-2.0|mixture-of-experts|nvidia|open-telco-ai|region:us|rocm|safetensors|system-one|telecom|telecommunications|text-generation|typed-decisions|vllm|w4a16,https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit
+hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit,farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit,text-generation,Hugging Face,4-bit|amd|arxiv:2610.07766|awq|base_model:google/gemma-4-26B-A4B-it|base_model:quantized:google/gemma-4-26B-A4B-it|classification|compressed-tensors|conversational|cuda|decision-engine|decision-model|en|endpoints_compatible|gemma4|gguf|h100|license:apache-2.0|llama.cpp|mixture-of-experts|nvidia|open-telco-ai|region:us|rocm|safetensors|system-one|telecom|telecommunications|text-generation|typed-decisions|vllm|w4a16,https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit
 hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT,farbodtavakkoli/OTel-2.0-LLM-31B-IT,text-generation,Hugging Face,amd|arxiv:2504.07097|at-t|continual-learning|conversational|dell|deploy:azure|domain-adaptation|en|endpoints_compatible|gemma4|gsma|image-text-to-text|instruction-following|license:apache-2.0|microsoft|multimodal|open-telco-ai|orthogonal-subspace-fine-tuning|osft|post-trained|rag|red-hat|region:us|safetensors|telecom|telecommunications|text-generation|tool-calling|transformers|vllm,https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT
 hf_farbodtavakkoli_OTel-LLM-0.6B-IT,farbodtavakkoli/OTel-LLM-0.6B-IT,text-generation,Hugging Face,,https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT
 hf_farbodtavakkoli_OTel-LLM-1.2B-IT,farbodtavakkoli/OTel-LLM-1.2B-IT,text-generation,Hugging Face,,https://huggingface.co/farbodtavakkoli/OTel-LLM-1.2B-IT
@@ -31575,6 +31577,8 @@ model_deepseek_ai_deepseek_v4_pro_0813,deepseek-ai/DeepSeek-V4-Pro-0813,models,,
 model_deepseek_ai_deepseek_v4_pro_dspark,deepseek-ai/DeepSeek-V4-Pro-DSpark,models,,,
 model_defog_sqlcoder_7b_2,defog/sqlcoder-7b-2,models,,,
 model_delphi_suite_v0_llama2_100k,delphi-suite/v0-llama2-100k,models,,,
+model_dendriteholdings_ingot_27b_dflash2,dendriteholdings/Ingot-27B-DFlash2,models,,,
+model_desert_ant_labs_title,desert-ant-labs/title,models,,,
 model_devquasar_13_thudm_glm_z1_32b_0414_gguf,DevQuasar-13/THUDM.GLM-Z1-32B-0414-GGUF,models,,,
 model_devquasar_amd_instella_moe_16b_a3b_think_gguf,DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF,models,,,
 model_devquasar_deepseek_ai_deepseek_v3_2_gguf,DevQuasar/deepseek-ai.DeepSeek-V3.2-GGUF,models,,,
@@ -31607,6 +31611,7 @@ model_duoneural_gemma4_12b_it_abliterated_gguf,DuoNeural/Gemma4-12B-IT-Abliterat
 model_ebircak_gemma_4_31b_it_4bit_w4a16_awq,ebircak/gemma-4-31B-it-4bit-W4A16-AWQ,models,,,
 model_echarlaix_tiny_mpt_random_remote_code,echarlaix/tiny-mpt-random-remote-code,models,,,
 model_echarlaix_tiny_random_phiforcausallm,echarlaix/tiny-random-PhiForCausalLM,models,,,
+model_edge0_audio8_asr_0_1b,Edge0/Audio8-ASR-0.1B,models,,,
 model_edge0_audio8_asr_infinite,Edge0/Audio8-ASR-Infinite,models,,,
 model_edge0_edge0_35b_a3b_preview,Edge0/Edge0-35B-A3B-preview,models,,,
 model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf,Edge-Quant/Nanbeige4.1-3B-Q4_K_M-GGUF,models,,,
@@ -60437,6 +60442,7 @@ rss_http://bair.berkeley.edu/blog/2026/07/01/grads-2026/,,news,BAIR Blog,,http:/
 rss_http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/,,news,BAIR Blog,,http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/
 rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/,,news,BAIR Blog,,http://bair.berkeley.edu/blog/2026/07/26/abbel/
 rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/,,news,BAIR Blog,,http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/
+rss_http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/,,news,BAIR Blog,,http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/
 rss_https://openai.com/academy/applications-of-ai,,news,OpenAI Blog,,https://openai.com/academy/applications-of-ai
 rss_https://openai.com/academy/brainstorming,,news,OpenAI Blog,,https://openai.com/academy/brainstorming
 rss_https://openai.com/academy/chatgpt-sites,,news,OpenAI Blog,,https://openai.com/academy/chatgpt-sites
@@ -60693,6 +60699,7 @@ rss_https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan,,news,Ope
 rss_https://openai.com/index/chatgpt-agent-system-card,,news,OpenAI Blog,,https://openai.com/index/chatgpt-agent-system-card
 rss_https://openai.com/index/chatgpt-can-now-see-hear-and-speak,,news,OpenAI Blog,,https://openai.com/index/chatgpt-can-now-see-hear-and-speak
 rss_https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources,,news,OpenAI Blog,,https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
+rss_https://openai.com/index/chatgpt-enterprise-aws-marketplace,,news,OpenAI Blog,,https://openai.com/index/chatgpt-enterprise-aws-marketplace
 rss_https://openai.com/index/chatgpt-enterprise-spend-controls,,news,OpenAI Blog,,https://openai.com/index/chatgpt-enterprise-spend-controls
 rss_https://openai.com/index/chatgpt-expanding-world-of-work,,news,OpenAI Blog,,https://openai.com/index/chatgpt-expanding-world-of-work
 rss_https://openai.com/index/chatgpt-for-academic-researchers,,news,OpenAI Blog,,https://openai.com/index/chatgpt-for-academic-researchers
@@ -61239,6 +61246,7 @@ rss_https://openai.com/index/jump-trading,,news,OpenAI Blog,,https://openai.com/
 rss_https://openai.com/index/k-12-educators-practical-skills,,news,OpenAI Blog,,https://openai.com/index/k-12-educators-practical-skills
 rss_https://openai.com/index/khan-academy,,news,OpenAI Blog,,https://openai.com/index/khan-academy
 rss_https://openai.com/index/klarna,,news,OpenAI Blog,,https://openai.com/index/klarna
+rss_https://openai.com/index/kuken,,news,OpenAI Blog,,https://openai.com/index/kuken
 rss_https://openai.com/index/language-model-safety-and-misuse,,news,OpenAI Blog,,https://openai.com/index/language-model-safety-and-misuse
 rss_https://openai.com/index/language-models-are-few-shot-learners,,news,OpenAI Blog,,https://openai.com/index/language-models-are-few-shot-learners
 rss_https://openai.com/index/language-models-can-explain-neurons-in-language-models,,news,OpenAI Blog,,https://openai.com/index/language-models-can-explain-neurons-in-language-models

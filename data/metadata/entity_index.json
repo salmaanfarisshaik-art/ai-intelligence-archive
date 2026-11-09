@@ -338555,6 +338555,23 @@
     "local_path": "datasets/roisincrtai/hf_ds_6ac0e3e0aadad5e0492a39f0.json"
   },
   {
+    "id": "hf_ds_6ac6b608bd990480ebe6e800",
+    "title": "carlotabronze/sm-stuff",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/carlotabronze/sm-stuff",
+    "local_path": "datasets/carlotabronze/hf_ds_6ac6b608bd990480ebe6e800.json"
+  },
+  {
     "id": "hf_ds_6acca32f6fa844eabec4e77b",
     "title": "lerobot/FineART",
     "category": "dataset",
@@ -338636,6 +338653,24 @@
     "local_path": "datasets/sjkhfuk1/hf_ds_6ad73b2611ffd4dabac49e74.json"
   },
   {
+    "id": "hf_ds_6ad82fcedf69b48f86bb012f",
+    "title": "adscli/copycheck-videos",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:other",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/adscli/copycheck-videos",
+    "local_path": "datasets/adscli/hf_ds_6ad82fcedf69b48f86bb012f.json"
+  },
+  {
     "id": "hf_ds_6ada2ff08f0f9c17f60ebac9",
     "title": "visionhdstream/data-vision-01",
     "category": "dataset",
@@ -338666,6 +338701,7 @@
       "egocentric-video",
       "hand-motion",
       "lerobot",
+      "modality:video",
       "region:us",
       "robot-learning",
       "robotics",
@@ -348788,12 +348824,14 @@
       "conversational",
       "cuda",
       "decision-engine",
+      "decision-model",
       "en",
       "endpoints_compatible",
       "gemma4",
       "gguf",
       "h100",
       "license:apache-2.0",
+      "llama.cpp",
       "mixture-of-experts",
       "nvidia",
       "open-telco-ai",
@@ -358765,6 +358803,26 @@
     "local_path": "models/delphi-suite/model_delphi_suite_v0_llama2_100k.json"
   },
   {
+    "id": "model_dendriteholdings_ingot_27b_dflash2",
+    "title": "dendriteholdings/Ingot-27B-DFlash2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/dendriteholdings/model_dendriteholdings_ingot_27b_dflash2.json"
+  },
+  {
+    "id": "model_desert_ant_labs_title",
+    "title": "desert-ant-labs/title",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/desert-ant-labs/model_desert_ant_labs_title.json"
+  },
+  {
     "id": "model_devquasar_13_thudm_glm_z1_32b_0414_gguf",
     "title": "DevQuasar-13/THUDM.GLM-Z1-32B-0414-GGUF",
     "category": "models",
@@ -359083,6 +359141,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/echarlaix/model_echarlaix_tiny_random_phiforcausallm.json"
+  },
+  {
+    "id": "model_edge0_audio8_asr_0_1b",
+    "title": "Edge0/Audio8-ASR-0.1B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/edge0/model_edge0_audio8_asr_0_1b.json"
   },
   {
     "id": "model_edge0_audio8_asr_infinite",
@@ -647576,6 +647644,27 @@
     "local_path": "prompts/bair-blog/rss_http___bair.berkeley.edu_blog_2026_07_29_cuda-to-mlx-k-search_.json"
   },
   {
+    "id": "rss_http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+    "title": "",
+    "category": "news",
+    "source": "BAIR Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2602.13476",
+        "2604.25050",
+        "2609.40134",
+        "2610.09117",
+        "2610.28480"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+    "local_path": "prompts/bair-blog/rss_http___bair.berkeley.edu_blog_2026_11_09_bair-at-corl-2026_.json"
+  },
+  {
     "id": "rss_https://openai.com/academy/applications-of-ai",
     "title": "",
     "category": "news",
@@ -651414,6 +651503,21 @@
     },
     "source_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_chatgpt-connects-health-records-and-healthcare-sources.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_chatgpt-enterprise-aws-marketplace.json"
   },
   {
     "id": "rss_https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -659604,6 +659708,21 @@
     },
     "source_url": "https://openai.com/index/klarna",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_klarna.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/kuken",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/kuken",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_kuken.json"
   },
   {
     "id": "rss_https://openai.com/index/language-model-safety-and-misuse",

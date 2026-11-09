@@ -1402,6 +1402,12 @@
 - **URL**: [https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3](https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3)
 - **Tags**: modality:text, region:us, size_categories:10K<n<100K
 
+## carlotabronze/sm-stuff
+- **ID**: hf_ds_6ac6b608bd990480ebe6e800
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/carlotabronze/sm-stuff](https://huggingface.co/datasets/carlotabronze/sm-stuff)
+- **Tags**: region:us
+
 ## lerobot/FineART
 - **ID**: hf_ds_6acca32f6fa844eabec4e77b
 - **Source**: HuggingFace Datasets
@@ -1426,6 +1432,12 @@
 - **URL**: [https://huggingface.co/datasets/sjkhfuk1/foffo](https://huggingface.co/datasets/sjkhfuk1/foffo)
 - **Tags**: region:us
 
+## adscli/copycheck-videos
+- **ID**: hf_ds_6ad82fcedf69b48f86bb012f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/adscli/copycheck-videos](https://huggingface.co/datasets/adscli/copycheck-videos)
+- **Tags**: license:other, region:us
+
 ## visionhdstream/data-vision-01
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
@@ -1436,7 +1448,7 @@
 - **ID**: hf_ds_6ae993485240eb6b7ac68d30
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K](https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K)
-- **Tags**: arxiv:2611.06817, egocentric-video, hand-motion, lerobot, region:us, robot-learning, robotics, task_categories:robotics
+- **Tags**: arxiv:2611.06817, egocentric-video, hand-motion, lerobot, modality:video, region:us, robot-learning, robotics, task_categories:robotics
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

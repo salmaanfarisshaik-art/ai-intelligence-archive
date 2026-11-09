@@ -71,6 +71,11 @@
 - **URL**: [http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/)
 
 ## 
+- **ID**: rss_http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/
+- **Source**: BAIR Blog
+- **URL**: [http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/)
+
+## 
 - **ID**: rss_https://openai.com/academy/applications-of-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/academy/applications-of-ai](https://openai.com/academy/applications-of-ai)
@@ -1349,6 +1354,11 @@
 - **ID**: rss_https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources)
+
+## 
+- **ID**: rss_https://openai.com/index/chatgpt-enterprise-aws-marketplace
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-enterprise-aws-marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)
 
 ## 
 - **ID**: rss_https://openai.com/index/chatgpt-enterprise-spend-controls
@@ -4079,6 +4089,11 @@
 - **ID**: rss_https://openai.com/index/klarna
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/klarna](https://openai.com/index/klarna)
+
+## 
+- **ID**: rss_https://openai.com/index/kuken
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/kuken](https://openai.com/index/kuken)
 
 ## 
 - **ID**: rss_https://openai.com/index/language-model-safety-and-misuse

@@ -8686,6 +8686,11 @@
       "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "kez": [
@@ -20822,6 +20827,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_dealignai_ornith_1_5_122b_uncensored_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_edge0_audio8_asr_0_1b",
       "match_type": "exact",
       "score": 1.5
@@ -22570,6 +22580,13 @@
       "score": 1.5
     }
   ],
+  "krea2": [
+    {
+      "entity_id": "dataset_hide1_moss_image_character_catalog",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "krenn": [
     {
       "entity_id": "rss_https://openai.com/index/o1-quantum-physics",
@@ -23390,6 +23407,13 @@
     },
     {
       "entity_id": "hf_ds_IPEC-COMMUNITY_kuka_lerobot",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
+  "kuken": [
+    {
+      "entity_id": "rss_https://openai.com/index/kuken",
       "match_type": "exact",
       "score": 3.0
     }

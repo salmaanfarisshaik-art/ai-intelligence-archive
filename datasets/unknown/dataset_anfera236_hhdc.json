@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d0c7dc6a218f0e2c2afdfcb05afdb31b25d11263",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tHyperheight Data Cube Denoising and Super-Resolution\n\t\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\n\nGeneration code and pipeline: https://github.com/Anfera/HHDC-Creator (HHDC-Creator repo).\n3-D photon-count waveforms (Hyperheight data cubes) built from NEON discrete-return LiDAR using the HHDC pipeline (hhdc/cube_generator.py).\nEach cube stores a high-resolution canopy volume (default: 0.5 m vertical bins over 64 m height, footprints every 2 m) across a 96 m × 96 m tile. In the HHDC-Creator… See the full description on the dataset page: https://huggingface.co/datasets/anfera236/HHDC.",
-  "downloads": 57291,
+  "downloads": 70683,
   "tags": [
     "task_categories:image-to-image",
     "annotations_creators:author-generated",

@@ -2759,6 +2759,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_webai_official_twil_8b",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_avitotech_avibe",
       "match_type": "exact",
       "score": 3.0
@@ -3664,6 +3669,13 @@
       "score": 1.0
     }
   ],
+  "8b647d1": [
+    {
+      "entity_id": "dataset_akshithio_arva",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "8bit": [
     {
       "entity_id": "hf_NexVeridian_Qwen3-Coder-Next-8bit",
@@ -4102,6 +4114,13 @@
     },
     {
       "entity_id": "alpaca_-1308878878427036",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "8seed": [
+    {
+      "entity_id": "dataset_akshithio_arva",
       "match_type": "exact",
       "score": 1.0
     }

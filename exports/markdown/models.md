@@ -1532,6 +1532,14 @@
 - **ID**: model_delphi_suite_v0_llama2_100k
 - **Source**: 
 
+## dendriteholdings/Ingot-27B-DFlash2
+- **ID**: model_dendriteholdings_ingot_27b_dflash2
+- **Source**: 
+
+## desert-ant-labs/title
+- **ID**: model_desert_ant_labs_title
+- **Source**: 
+
 ## DevQuasar-13/THUDM.GLM-Z1-32B-0414-GGUF
 - **ID**: model_devquasar_13_thudm_glm_z1_32b_0414_gguf
 - **Source**: 
@@ -1658,6 +1666,10 @@
 
 ## echarlaix/tiny-random-PhiForCausalLM
 - **ID**: model_echarlaix_tiny_random_phiforcausallm
+- **Source**: 
+
+## Edge0/Audio8-ASR-0.1B
+- **ID**: model_edge0_audio8_asr_0_1b
 - **Source**: 
 
 ## Edge0/Audio8-ASR-Infinite

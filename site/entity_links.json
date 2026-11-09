@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:07:47Z",
+  "generated_at": "2026-11-09T20:25:56Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2514,6 +2514,11 @@
     {
       "source_id": "model_dealignai_nanbeige4_3_33b_uncensored_gguf",
       "target_id": "hf_Nanbeige_Nanbeige4.3-33B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dealignai_ornith_1_5_122b_uncensored_gguf",
+      "target_id": "hf_ornith-ai_Ornith-1.5-122B",
       "type": "derived_from"
     },
     {
@@ -5849,6 +5854,11 @@
     {
       "source_id": "model_naomibtw_rwkv7_g1c_13_3b_gguf",
       "target_id": "hf_BlinkDL_rwkv7-g1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_neopolita_qwen3_6_11b_a3b_niwaki_4bit_gguf",
+      "target_id": "hf_neopolita_Qwen3.6-11B-A3B-Niwaki-4bit-mlx",
       "type": "derived_from"
     },
     {
@@ -10549,6 +10559,11 @@
     {
       "source_id": "model_warshanks_qwen3_4b_instruct_2507_awq",
       "target_id": "hf_Qwen_Qwen3-4B-Instruct-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_webai_official_twil_8b",
+      "target_id": "hf_ibm-granite_granite-4.2-8b",
       "type": "derived_from"
     },
     {

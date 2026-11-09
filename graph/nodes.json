@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:07:04.630679+00:00",
+  "generated_at": "2026-11-09T20:25:02.312902+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -148360,6 +148360,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6ac6b608bd990480ebe6e800",
+      "label": "carlotabronze/sm-stuff"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6acca32f6fa844eabec4e77b",
       "label": "lerobot/FineART"
     },
@@ -148377,6 +148382,11 @@
       "category": "dataset",
       "id": "hf_ds_6ad73b2611ffd4dabac49e74",
       "label": "sjkhfuk1/foffo"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6ad82fcedf69b48f86bb012f",
+      "label": "adscli/copycheck-videos"
     },
     {
       "category": "dataset",
@@ -157885,6 +157895,16 @@
     },
     {
       "category": "models",
+      "id": "model_dendriteholdings_ingot_27b_dflash2",
+      "label": "dendriteholdings/Ingot-27B-DFlash2"
+    },
+    {
+      "category": "models",
+      "id": "model_desert_ant_labs_title",
+      "label": "desert-ant-labs/title"
+    },
+    {
+      "category": "models",
       "id": "model_devquasar_13_thudm_glm_z1_32b_0414_gguf",
       "label": "DevQuasar-13/THUDM.GLM-Z1-32B-0414-GGUF"
     },
@@ -158042,6 +158062,11 @@
       "category": "models",
       "id": "model_echarlaix_tiny_random_phiforcausallm",
       "label": "echarlaix/tiny-random-PhiForCausalLM"
+    },
+    {
+      "category": "models",
+      "id": "model_edge0_audio8_asr_0_1b",
+      "label": "Edge0/Audio8-ASR-0.1B"
     },
     {
       "category": "models",
@@ -302195,6 +302220,11 @@
     },
     {
       "category": "news",
+      "id": "rss_http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/academy/applications-of-ai",
       "label": ""
     },
@@ -303471,6 +303501,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "label": ""
     },
     {
@@ -306201,6 +306236,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/klarna",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/kuken",
       "label": ""
     },
     {
@@ -464200,5 +464240,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 92839
+  "total_nodes": 92847
 }

@@ -14,7 +14,7 @@
     "id": "farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit",
     "likes": 7,
     "private": false,
-    "downloads": 3116103,
+    "downloads": 3246291,
     "tags": [
       "safetensors",
       "gguf",
@@ -37,6 +37,7 @@
       "cuda",
       "h100",
       "vllm",
+      "llama.cpp",
       "text-generation",
       "conversational",
       "en",
@@ -45,13 +46,14 @@
       "base_model:quantized:google/gemma-4-26B-A4B-it",
       "license:apache-2.0",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "decision-model"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2026-10-06T17:58:50.000Z",
     "modelId": "farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit"
   },
-  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "retrieval_timestamp": "2026-11-09T20:24:47Z",
   "last_updated": "",
   "links": {
     "related_models": [],

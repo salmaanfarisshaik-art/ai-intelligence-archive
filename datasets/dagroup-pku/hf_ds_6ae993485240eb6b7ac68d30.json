@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "DAGroup-PKU/Open-HumanWAM-50K",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM\n\t\n\nAn Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models\nReport · Code · Project page · Models · HF Paper · Citation\n\n\n\nOpen-HumanWAM overview: scaling human and robot experience for embodied foundation models.\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM-50K\n\t\n\n50,000 hours of egocentric human manipulation video, with hand-motion and\nnatural-language annotations, for scaling robot learning.\nStatus: Upload in progress · Upload details.\nOpen-HumanWAM-50K… See the full description on the dataset page: https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K.",
-  "size": "340272",
+  "size": "366613",
   "source_url": "https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -14,14 +14,15 @@
     "author": "DAGroup-PKU",
     "disabled": false,
     "gated": "auto",
-    "lastModified": "2026-11-09T09:06:20.000Z",
-    "likes": 11,
+    "lastModified": "2026-11-09T09:22:10.000Z",
+    "likes": 14,
     "private": false,
-    "sha": "369c623f9f88f45725a5ec37eb471d1670fb41be",
+    "sha": "0b260fcaeb20ffe368f3fd002f735e263a469be8",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM\n\t\n\nAn Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models\nReport · Code · Project page · Models · HF Paper · Citation\n\n\n\nOpen-HumanWAM overview: scaling human and robot experience for embodied foundation models.\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM-50K\n\t\n\n50,000 hours of egocentric human manipulation video, with hand-motion and\nnatural-language annotations, for scaling robot learning.\nStatus: Upload in progress · Upload details.\nOpen-HumanWAM-50K… See the full description on the dataset page: https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K.",
-    "downloads": 340272,
+    "downloads": 366613,
     "tags": [
       "task_categories:robotics",
+      "modality:video",
       "arxiv:2611.06817",
       "region:us",
       "robotics",
@@ -33,8 +34,8 @@
     "createdAt": "2026-11-03T07:54:48.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-09T09:06:56.640778+00:00",
-  "last_updated": "2026-11-09T09:06:20.000Z",
+  "retrieval_timestamp": "2026-11-09T20:24:52.415730+00:00",
+  "last_updated": "2026-11-09T09:22:10.000Z",
   "links": {
     "related_models": [
       "datasets/DAGroup-PKU"

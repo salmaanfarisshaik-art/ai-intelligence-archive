@@ -9,7 +9,7 @@
   "private": false,
   "sha": "29a28dedb792345bfaab2982cdf55758972e40f5",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tBINANCE USDT Perpetual — L2 Order-Book Deltas + Trades (2026)\n\t\n\nRaw market-microstructure tick data for BINANCE USDT-margined perpetual\nfutures: full-depth L2 order-book deltas and trades, as zstd-compressed\nParquet. Recorded by the goldmine market-data recorder; converted losslessly from\nits internal GMKT v1 format.\nThis repo holds year 2026. Data is sharded one repo per exchange per year\n(mktdata-binance-<year>) to keep per-repo file counts and size bounded.\n\n⚠️ Under… See the full description on the dataset page: https://huggingface.co/datasets/rogerdehe/mktdata-binance-2026.",
-  "downloads": 43671,
+  "downloads": 45128,
   "tags": [
     "task_categories:time-series-forecasting",
     "language:en",

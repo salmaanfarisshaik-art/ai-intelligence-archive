@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bbb01675182feca1434ae3fbb97a9355d9337a25",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPer-400k Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nThis dataset is designed for training models that generate person-consistent images: given a reference person image, the model learns to create new images of the same individual (with the same clothing and appearance), but in different backgrounds or performing different activities.\nEach entry in the dataset JSON file is a dictionary containing paths to the original generated image, its two sub-images (left and right), and prompts… See the full description on the dataset page: https://huggingface.co/datasets/a1557811266/Per-400k.",
-  "downloads": 125353,
+  "downloads": 125341,
   "tags": [
     "region:us"
   ],

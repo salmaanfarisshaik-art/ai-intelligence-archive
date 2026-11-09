@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8d6fd616b9092c0e4dfde5feeec109a6c69ef684",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDegraded Infrared Maritime Vessel Dataset\n\t\n\nReal-ESRGAN's synthetic image degradation pipeline applied to the FLUX2-Klein synthetic infrared dataset.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\nsynthetic-infrared-maritime-vessel-dataset-flux2klein-degraded/\n├── in-distribution/\n│   ├── train/{C00,C02,...}/*.jpg\n│   ├── val/{C00,C02,...}/*.jpg\n│   ├── test/{C00,C02,...}/*.jpg\n│   ├── labels.txt\n│   └── selected-metadata-{train,val,test}.json\n└── out-of-distribution/\n    ├── val/{C01,C03,C06,C16}/*.jpg… See the full description on the dataset page: https://huggingface.co/datasets/hanchong/synthetic-infrared-maritime-vessel-dataset-flux2klein-degraded.",
-  "downloads": 81371,
+  "downloads": 81361,
   "tags": [
     "task_categories:image-classification",
     "size_categories:100K<n<1M",
