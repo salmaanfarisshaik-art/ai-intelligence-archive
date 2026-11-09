@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.01353v3",
+  "schema_version": "1.0",
+  "name": "Differentiable Nonlinear Model Predictive Control",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.01353v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "math.OC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.01353v3",
+    "updated": "2026-11-06T18:39:20Z",
+    "published": "2025-05-02T15:43:37Z",
+    "title": "Differentiable Nonlinear Model Predictive Control",
+    "summary": "The efficient computation of parametric solution sensitivities is a key challenge in the integration of learning-enhanced methods with nonlinear model predictive control, as their availability is crucial for many learning algorithms. This paper discusses the computation of solution sensitivities of general nonlinear programs using the implicit function theorem and smoothed optimality conditions treated in interior-point methods (IPM). We introduce sequential barrier quadratic programming (SBQP), which generalizes SQP with an IPM quadratic programming (QP) solver by allowing the barrier parameter to approach a prescribed nonnegative target value, recovering classical SQP when this target is zero. Previous works are limited to convex or unconstrained formulations, or lack an implementation for efficient sensitivity evaluation. The publication is accompanied by an efficient open-source implementation within the `acados` framework, providing both forward and adjoint sensitivities for general optimal control problems, achieving speedups exceeding 3x over the state-of-the-art solvers `mpc.pytorch` and `cvxpygen`.",
+    "primary_category": "math.OC"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:39:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.01353v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

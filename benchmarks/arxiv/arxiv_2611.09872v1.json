@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.09872v1",
+  "schema_version": "1.0",
+  "name": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.09872v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.09872v1",
+    "updated": "2026-11-06T18:49:02Z",
+    "published": "2026-11-06T18:49:02Z",
+    "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external supervision, we focus on mitigating the downstream effects of finite-rollout variation. We propose \\emph{Prompt-Conditional Distributionally Robust DPO (PC-Dr.DPO)}, which conditions within-prompt robust reweighting on observed vote reliability to make updates from sampling-sensitive prompts more conservative. We further introduce a cache-based mechanism to reduce self-supervised forgetting during online adaptation. Across six mathematical and knowledge-intensive reasoning benchmarks and five model backbones, PC-Dr.DPO matches or outperforms the strongest TTRL baseline in 24 of 30 settings.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:49:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.09872v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

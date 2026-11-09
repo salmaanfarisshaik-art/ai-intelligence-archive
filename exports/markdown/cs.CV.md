@@ -710,6 +710,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.01433v3](http://arxiv.org/abs/2603.01433v3)
 
+## SimpliHuMoN: Simplifying Human Motion Prediction
+- **ID**: arxiv_2603.04399v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.04399v2](http://arxiv.org/abs/2603.04399v2)
+
 ## SUREON: A Benchmark and Vision-Language Model for Surgical Reasoning
 - **ID**: arxiv_2603.06570v2
 - **Source**: ArXiv
@@ -1424,6 +1429,11 @@
 - **ID**: arxiv_2606.17049v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.17049v1](http://arxiv.org/abs/2606.17049v1)
+
+## Beyond Benchmarks: Continuous Edge Inference for Traffic Sign Recognition on Embedded Vehicular Hardware
+- **ID**: arxiv_2606.17241v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17241v2](http://arxiv.org/abs/2606.17241v2)
 
 ## Enhancing Pathological VLMs with Cross-scale Reasoning
 - **ID**: arxiv_2606.17412v4
@@ -4219,6 +4229,11 @@
 - **ID**: arxiv_2609.02886v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02886v1](http://arxiv.org/abs/2609.02886v1)
+
+## Exemplar: Few-Shot Biomedical Segmentation That Fits in Seconds
+- **ID**: arxiv_2609.03080v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.03080v3](http://arxiv.org/abs/2609.03080v3)
 
 ## Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving
 - **ID**: arxiv_2609.04070v1
@@ -7739,4 +7754,54 @@
 - **ID**: arxiv_2611.08486v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08486v1](http://arxiv.org/abs/2611.08486v1)
+
+## Zero-Shot Benchmarking of Unified Multimodal Models for Shallow-Water UAV Image Distortion Assessment and Restoration
+- **ID**: arxiv_2611.09740v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09740v1](http://arxiv.org/abs/2611.09740v1)
+
+## A lightweight convolutional neural network for target detection in an edge environment
+- **ID**: arxiv_2611.09756v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09756v1](http://arxiv.org/abs/2611.09756v1)
+
+## AR-Edit: Training-Free Autoregressive Video Editing without Inversion
+- **ID**: arxiv_2611.09795v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09795v1](http://arxiv.org/abs/2611.09795v1)
+
+## BEV3SR: Evidence-Aware 3D Spatial Reasoning from Video
+- **ID**: arxiv_2611.09816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09816v1](http://arxiv.org/abs/2611.09816v1)
+
+## Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology
+- **ID**: arxiv_2611.09851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09851v1](http://arxiv.org/abs/2611.09851v1)
+
+## GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description
+- **ID**: arxiv_2611.09866v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09866v1](http://arxiv.org/abs/2611.09866v1)
+
+## Graded convolutional networks: scale invariance without the scale and robustness to unknown blur
+- **ID**: arxiv_2611.09878v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09878v1](http://arxiv.org/abs/2611.09878v1)
+
+## ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations
+- **ID**: arxiv_2611.09880v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09880v1](http://arxiv.org/abs/2611.09880v1)
+
+## FlowMoP: Stochastic Multi-Person Motion Prediction
+- **ID**: arxiv_2611.09882v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09882v1](http://arxiv.org/abs/2611.09882v1)
+
+## Video-Coder: Reinforcing Agentic Coding for Video Generation
+- **ID**: arxiv_2611.09894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09894v1](http://arxiv.org/abs/2611.09894v1)
 

@@ -65,3 +65,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05355v1](http://arxiv.org/abs/2611.05355v1)
 
+## Discovering formally verified quantum programs with AI
+- **ID**: arxiv_2611.09822v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09822v1](http://arxiv.org/abs/2611.09822v1)
+

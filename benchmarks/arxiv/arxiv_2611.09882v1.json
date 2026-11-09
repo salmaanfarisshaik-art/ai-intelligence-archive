@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.09882v1",
+  "schema_version": "1.0",
+  "name": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.09882v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.09882v1",
+    "updated": "2026-11-06T18:56:41Z",
+    "published": "2026-11-06T18:56:41Z",
+    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods producing a fixed number of outputs per agent. In contrast, we present a conditional flow matching framework that jointly generates diverse future motions for multiple agents, modeling both global trajectories and root-relative poses. A B-spline reparameterization compresses the generative state space while enforcing temporal smoothness, and a dual-stream transformer conditions each agent's predictions on observed neighbor motion for interaction-aware forecasting. Our method achieves state-of-the-art performance on CMU-Mocap (UMPM) and 3DPW, outperforming deterministic baselines on joint position error, pose error, and final displacement error despite producing a full predictive distribution. We additionally establish the first motion prediction baseline on WorldPose, a large-scale professional soccer dataset, where social conditioning demonstrably concentrates predictive uncertainty along interaction-constrained directions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:56:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.09882v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

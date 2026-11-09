@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11624v2",
+  "schema_version": "1.0",
+  "name": "Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.11624v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11624v2",
+    "updated": "2026-11-06T17:32:43Z",
+    "published": "2026-08-12T04:11:22Z",
+    "title": "Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs",
+    "summary": "Persuasion is a core dynamic of natural language communication, shaping how large language models (LLMs) update beliefs, resolve disagreements, and reach decisions. As LLMs increasingly debate, advise, and think collaboratively with humans and each other, resistance to harmful persuasion becomes a core requirement for reliable behavior. Yet a single targeted persuasive argument can be enough to collapse model accuracy to near zero, even when the argument is factually false. We formalize this threat as adversarial persuasion and introduce an adversarial reinforcement learning framework that trains persuader agents to change a target model's answer in a single interaction. First, we show that RL-trained persuaders raise persuasion success from approximately 24% to over 93% against the training-time persuadee. Second, we find that these learned strategies generalize across four out-of-distribution benchmarks, maintaining 89-95% persuasion success against the training-time persuadee. They also transfer to unseen models, achieving 83% success on Qwen-14B, 79% on Llama-3.1-8B, and 25% on GPT-4o-mini, although effectiveness can be limited for frontier models, with only 4% success on GPT-5-mini. Third, we demonstrate that a curriculum that bootstraps on more persuadable open-weight models before targeting harder models further increases GPT-4o-mini attack success from 25% to 38%. Moreover, our results reveal that optimized persuaders increasingly rely on credibility-based tactics, including fabricated citations and false authoritative evidence. Together, these findings expose a critical weakness in current LLM agents. Even when they initially reason correctly, they can be steered toward false conclusions by optimized natural language influence. This positions persuasion robustness as a necessary safety criterion for multi-agent and human-AI decision-making systems.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T17:32:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11624v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

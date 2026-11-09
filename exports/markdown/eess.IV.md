@@ -100,3 +100,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06430v1](http://arxiv.org/abs/2611.06430v1)
 
+## AdaptivePnP: Fast Auto-Tuned Plug-and-Play for Deconvolution
+- **ID**: arxiv_2611.09845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09845v1](http://arxiv.org/abs/2611.09845v1)
+
+## Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level
+- **ID**: arxiv_2611.09854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09854v1](http://arxiv.org/abs/2611.09854v1)
+

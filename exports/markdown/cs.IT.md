@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24788v1](http://arxiv.org/abs/2610.24788v1)
 
+## How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages
+- **ID**: arxiv_2611.09848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09848v1](http://arxiv.org/abs/2611.09848v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.09746v1",
+  "schema_version": "1.0",
+  "name": "Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.09746v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.09746v1",
+    "updated": "2026-11-06T17:17:07Z",
+    "published": "2026-11-06T17:17:07Z",
+    "title": "Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples",
+    "summary": "Extracting discriminative features from laser-induced breakdown spectroscopy (LIBS) spectra is important for the classification of complex biological samples. This study evaluates continuous wavelet transform (CWT)-based spectral peak extraction for distinguishing human plasma samples labeled as SARS-CoV-2-positive or negative. Plasma specimens from 181 individuals, comprising 53 positive samples and 128 negative controls, were deposited as 5 μL droplets on silicon substrates and dried before analysis. Spectra were acquired using a nanosecond Nd:YAG laser operating at 1064 nm, with 100 single-shot measurements collected per specimen and averaged after intensity-based outlier rejection. CWT-based peak detection was coupled with a support vector machine (SVM) classifier. The reported leave-one-out evaluation yielded an accuracy of 93.00%, sensitivity of 94.67%, and specificity of 91.61%; these estimates remain provisional pending reconciliation with specimen-level predictions. Features identified by the CWT pipeline included emission lines assigned to Ca II, K I, and N I. The workflow provides a basis for examining spectral features associated with the studied plasma groups. Independent validation and assessment of specimen, substrate, and acquisition-related variability are required to establish generalizability and diagnostic relevance.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T17:17:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.09746v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

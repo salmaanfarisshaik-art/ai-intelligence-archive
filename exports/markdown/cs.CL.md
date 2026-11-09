@@ -785,6 +785,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06642v2](http://arxiv.org/abs/2605.06642v2)
 
+## Can LLMs Take Retrieved Information with a Grain of Salt?
+- **ID**: arxiv_2605.06919v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06919v2](http://arxiv.org/abs/2605.06919v2)
+
 ## TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature
 - **ID**: arxiv_2605.07507v2
 - **Source**: ArXiv
@@ -2209,6 +2214,11 @@
 - **ID**: arxiv_2608.11534v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11534v2](http://arxiv.org/abs/2608.11534v2)
+
+## Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs
+- **ID**: arxiv_2608.11624v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11624v2](http://arxiv.org/abs/2608.11624v2)
 
 ## Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge
 - **ID**: arxiv_2608.12218v1
@@ -5119,4 +5129,29 @@
 - **ID**: arxiv_2611.08439v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08439v1](http://arxiv.org/abs/2611.08439v1)
+
+## Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents
+- **ID**: arxiv_2611.09768v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09768v1](http://arxiv.org/abs/2611.09768v1)
+
+## ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models
+- **ID**: arxiv_2611.09770v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09770v1](http://arxiv.org/abs/2611.09770v1)
+
+## Are These Programmers Ripe Enough to Eat? Evaluating How LLMs Handle Lexical Knowledge Conflicts in Translation
+- **ID**: arxiv_2611.09785v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09785v1](http://arxiv.org/abs/2611.09785v1)
+
+## Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation
+- **ID**: arxiv_2611.09807v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09807v1](http://arxiv.org/abs/2611.09807v1)
+
+## CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs
+- **ID**: arxiv_2611.09868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09868v1](http://arxiv.org/abs/2611.09868v1)
 

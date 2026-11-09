@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.06919v2",
+  "schema_version": "1.0",
+  "name": "Can LLMs Take Retrieved Information with a Grain of Salt?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.06919v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.06919v2",
+    "updated": "2026-11-06T17:37:04Z",
+    "published": "2026-05-07T20:29:22Z",
+    "title": "Can LLMs Take Retrieved Information with a Grain of Salt?",
+    "summary": "Large language models have demonstrated impressive retrieval-augmented capabilities. However, a crucial area remains underexplored: their ability to appropriately adapt responses to the certainty of the retrieved information. It is a limitation with real consequences in high-stakes domains like medicine and finance. We evaluate eight LLMs on their context-certainty obedience, measuring how well they adjust responses to match expressed context certainty. Our analysis reveals systematic limitations: LLMs fail to reproduce their prior outputs after observing an uncertain context, respond to expressed certainties in a distorted way, and overrely on complex contexts. To address these, we propose an interaction strategy combining prior reminders (feeding the model's own context-free answer back into the prompt), context-certainty recalibration, and context simplification. This approach reduces obedience errors by 25% on average, without modifying model weights, demonstrating the efficacy of interaction design in enhancing LLM reliability. Our contributions include a principled evaluation metric, empirical insights into LLMs' uncertainty handling, and a portable strategy to improve context-certainty obedience across diverse LLMs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T17:37:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.06919v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

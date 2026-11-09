@@ -1250,3 +1250,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08449v1](http://arxiv.org/abs/2611.08449v1)
 
+## Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation
+- **ID**: arxiv_2611.09794v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09794v1](http://arxiv.org/abs/2611.09794v1)
+
+## Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation
+- **ID**: arxiv_2611.09864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09864v1](http://arxiv.org/abs/2611.09864v1)
+
+## On Agentic Manipulation Policies
+- **ID**: arxiv_2611.09892v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09892v1](http://arxiv.org/abs/2611.09892v1)
+

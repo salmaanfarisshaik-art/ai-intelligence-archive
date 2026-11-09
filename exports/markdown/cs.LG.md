@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.22442v4](http://arxiv.org/abs/2505.22442v4)
 
+## Equivariant Spherical Transformer for Efficient Molecular Modeling
+- **ID**: arxiv_2505.23086v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.23086v4](http://arxiv.org/abs/2505.23086v4)
+
 ## Rethinking Generalization in Knowledge Graph Embedding: An Empirical Study and Sparse Peak Regularization
 - **ID**: arxiv_2505.23442v2
 - **Source**: ArXiv
@@ -569,6 +574,11 @@
 - **ID**: arxiv_2605.16433v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.16433v4](http://arxiv.org/abs/2605.16433v4)
+
+## Mechanisms of Misgeneralization in Physical Sequence Modeling
+- **ID**: arxiv_2605.20299v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20299v2](http://arxiv.org/abs/2605.20299v2)
 
 ## Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
 - **ID**: arxiv_2605.20314v2
@@ -2844,4 +2854,14 @@
 - **ID**: arxiv_2611.08472v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08472v1](http://arxiv.org/abs/2611.08472v1)
+
+## Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs
+- **ID**: arxiv_2611.09736v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09736v1](http://arxiv.org/abs/2611.09736v1)
+
+## Scaling Graph Similarity Learning with Graph Neural Networks
+- **ID**: arxiv_2611.09805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09805v1](http://arxiv.org/abs/2611.09805v1)
 

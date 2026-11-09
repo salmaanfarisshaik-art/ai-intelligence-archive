@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.03080v3",
+  "schema_version": "1.0",
+  "name": "Exemplar: Few-Shot Biomedical Segmentation That Fits in Seconds",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.03080v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.03080v3",
+    "updated": "2026-11-06T18:29:09Z",
+    "published": "2026-09-02T18:49:58Z",
+    "title": "Exemplar: Few-Shot Biomedical Segmentation That Fits in Seconds",
+    "summary": "Segmenting a new microscopy dataset usually means training a deep network on its annotations, and training again for every added image. Exemplar solves a segmentation readout in closed form and updates it exactly with each new mask in seconds, as accurately as networks trained for minutes. The updated readout is identical to a fit from all masks at once. Its linear readout combines frozen DINOv3 features, read at a magnification chosen from the masks, with classical filter responses at native resolution. Its regularisation and its pixel weighting are chosen exactly by leaving out one annotated image at a time, so none is set aside for validation. On ten biomedical datasets from cells to vessels and filaments, Exemplar is more accurate than every few-shot method that only applies a pretrained model, and on average than nnU-Net trained on the same masks. A fine-tuned Cellpose-SAM, the strongest baseline, is as accurate on average, but each of its fits takes a median of 25 minutes against 8.5 seconds, and each new mask means fine-tuning it again.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:29:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.03080v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

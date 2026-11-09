@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21744v2](http://arxiv.org/abs/2604.21744v2)
 
+## Build-and-Find: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases
+- **ID**: arxiv_2605.06136v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06136v2](http://arxiv.org/abs/2605.06136v2)
+
 ## The Biomimetic Architecture of Software 4.0
 - **ID**: arxiv_2606.04025v2
 - **Source**: ArXiv
@@ -394,4 +399,14 @@
 - **ID**: arxiv_2610.33958v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.33958v1](http://arxiv.org/abs/2610.33958v1)
+
+## AnimWeb-Bench: Benchmarking Animated Webpage Code Generation from Videos
+- **ID**: arxiv_2611.09769v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09769v1](http://arxiv.org/abs/2611.09769v1)
+
+## When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents
+- **ID**: arxiv_2611.09802v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09802v1](http://arxiv.org/abs/2611.09802v1)
 

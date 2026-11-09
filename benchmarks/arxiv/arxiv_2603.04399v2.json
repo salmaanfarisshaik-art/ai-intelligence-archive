@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.04399v2",
+  "schema_version": "1.0",
+  "name": "SimpliHuMoN: Simplifying Human Motion Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.04399v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.04399v2",
+    "updated": "2026-11-06T18:55:35Z",
+    "published": "2026-03-04T18:59:57Z",
+    "title": "SimpliHuMoN: Simplifying Human Motion Prediction",
+    "summary": "Human motion prediction combines the tasks of trajectory forecasting and human pose prediction. For each of the two tasks, specialized models have been developed. Combining these models for holistic human motion prediction is non-trivial, and recent methods have struggled to compete on established benchmarks for individual tasks. To address this, we propose a simple yet effective transformer-based model for human motion prediction. The model employs a stack of self-attention modules to effectively capture both spatial dependencies within a pose and temporal relationships across a motion sequence. This simple, streamlined, end-to-end model is sufficiently versatile to handle pose-only, trajectory-only, and combined prediction tasks without task-specific modifications. We demonstrate that this approach achieves state-of-the-art results across all tasks through extensive experiments on a wide range of benchmark datasets, including Human3.6M, AMASS, ETH-UCY, and 3DPW.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:55:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.04399v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

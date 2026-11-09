@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.20299v2",
+  "schema_version": "1.0",
+  "name": "Mechanisms of Misgeneralization in Physical Sequence Modeling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.20299v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.20299v2",
+    "updated": "2026-11-06T18:25:48Z",
+    "published": "2026-05-19T12:34:16Z",
+    "title": "Mechanisms of Misgeneralization in Physical Sequence Modeling",
+    "summary": "Generative sequence models are often trained to plan motion in physical domains, from robotics to mechanical simulations. When constructing a dataset to train such a model, engineers may curate demonstrations to specify how trajectories should be distributed over a physical quantity like travel distance or mechanical energy. For example, a roboticist building a maze navigation agent might choose demonstrations whose travel distances cover a fixed range uniformly, hoping to constrain the agent's expected power usage. We find that standard deep learning can violate this intent: each generated trajectory can seem plausible on its own, but the aggregate distribution over the physical quantity is wrong. We call this failure physical misgeneralization. In this work, we identify and formalize the problem, develop and validate an account of its mechanism, and use that account to compare and design mitigations. Using controlled synthetic tasks, we show that physical misgeneralization arises when local errors typical of the model class propagate through the physical measurement to shift the recovered distribution. We estimate these errors with a data deviation kernel, and we use it to predict which physical quantity values gain or lose mass under real diffusion sequence models trained on both toy and applied trajectory generation tasks. Finally, our mechanistic interpretation helps identify which mitigations are structurally promising. We first compare interventions that modify the dataset and generative interface, then show that the mechanistic understanding we develop throughout this paper suggests a novel way to construct data representations informed by the kernel. We show that our proposed mitigation, which transforms the coordinate system under which the generator learns and samples, effectively reduces quantity drift.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:25:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.20299v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

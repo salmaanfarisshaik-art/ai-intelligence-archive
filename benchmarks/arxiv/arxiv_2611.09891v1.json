@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.09891v1",
+  "schema_version": "1.0",
+  "name": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.09891v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.09891v1",
+    "updated": "2026-11-06T18:58:50Z",
+    "published": "2026-11-06T18:58:50Z",
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasoning traces. ARCs show on-par performance with frontier LLMs across a range of difficult mathematical and scientific tasks, are fully explainable, continually trainable, robust to input perturbations, and 16-291x cheaper to invoke than the source model.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:58:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.09891v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

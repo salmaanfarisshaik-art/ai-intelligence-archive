@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.23086v4",
+  "schema_version": "1.0",
+  "name": "Equivariant Spherical Transformer for Efficient Molecular Modeling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.23086v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.23086v4",
+    "updated": "2026-11-06T17:21:38Z",
+    "published": "2025-05-29T04:43:07Z",
+    "title": "Equivariant Spherical Transformer for Efficient Molecular Modeling",
+    "summary": "Equivariant Graph Neural Networks (GNNs) have significantly advanced the modeling of 3D molecular structure by leveraging group representations. However, message passing built only from exactly equivariant operations can have restricted practical expressiveness at a fixed representation degree. We introduce the Equivariant Spherical Transformer (EST), a plug-and-play module that applies Transformer attention to spherical spatial representations obtained from group representations. EST explicitly mixes information across sampled orientations, unlike prior orientation-wise spherical operations, while retaining a strong approximate equivariant inductive bias through near-uniform spherical sampling. As demonstrated by our experiments on challenging benchmarks like OC20, MPtrj and QM9, EST-based models achieve state-of-the-art performance. For the complex molecular systems within OC20, small models empowered by EST can outperform some larger models and those using additional data. We characterize the ideal closed-domain condition under which the continuous operation is exactly equivariant and empirically quantify the finite-sampling accuracy--equivariance--memory trade-off used in practice.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T17:21:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.23086v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

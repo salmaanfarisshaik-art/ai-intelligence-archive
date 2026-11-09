@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.06136v2",
+  "schema_version": "1.0",
+  "name": "Build-and-Find: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.06136v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.06136v2",
+    "updated": "2026-11-06T18:16:33Z",
+    "published": "2026-05-07T12:35:27Z",
+    "title": "Build-and-Find: An Effort-Aware Protocol for Evaluating Agent-Managed Codebases",
+    "summary": "Most coding-agent benchmarks ask whether generated code behaves correctly. That remains essential, but repository-level engineering is increasingly agent-managed: one agent writes a repository, and later agents inspect, audit, or extend it as working context. In that setting, a generated repository is not only an answer to a task but also a communication artifact for future work. Even when strong agents nearly satisfy the visible behavioral objective, repositories can differ in how clearly they expose the intended behavior and design choices behind that behavior. We introduce Build-and-Find to evaluate whether downstream agents can efficiently recover intended choices from generated repositories. For each task, a builder creates a codebase from a hidden specification; a finder receives only the codebase and a specification-traced question bank. The protocol separates behavioral correctness from artifact-side recovery and reports recovery accuracy, repeatability, implementation coverage, and inspection effort. Evaluation proceeds in two stages: the first uses recovery accuracy and stability as gates to establish that finders can reliably recover the intended choices; the second compares inspection effort by the same finder across artifacts that pass these gates and allow the same intent to be recovered. Lower effort suggests that the artifact makes that intent easier to locate. We find that several frontier models approach saturation in intent recovery on our task pack, yet second-stage inspection effort reveals differences among their generated artifacts, providing a dimension beyond accuracy for comparing artifact legibility. We also audit artifacts to distinguish unimplemented specification claims from finder failures and check whether correct answers are supported by artifact evidence. We release the harness and benchmark data for reproducibility and extension.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-11-09T09:06:51Z",
+  "last_updated": "2026-11-06T18:16:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.06136v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

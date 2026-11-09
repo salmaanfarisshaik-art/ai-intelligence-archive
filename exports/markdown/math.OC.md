@@ -1,5 +1,10 @@
 # Math.Oc Export
 
+## Differentiable Nonlinear Model Predictive Control
+- **ID**: arxiv_2505.01353v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.01353v3](http://arxiv.org/abs/2505.01353v3)
+
 ## Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\geq 4$
 - **ID**: arxiv_2607.21579v1
 - **Source**: ArXiv

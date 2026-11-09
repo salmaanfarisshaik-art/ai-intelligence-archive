@@ -425,6 +425,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.05866v2](http://arxiv.org/abs/2605.05866v2)
 
+## Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery
+- **ID**: arxiv_2605.05921v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.05921v2](http://arxiv.org/abs/2605.05921v2)
+
 ## ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries
 - **ID**: arxiv_2605.06223v4
 - **Source**: ArXiv
@@ -3760,6 +3765,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02202v1](http://arxiv.org/abs/2610.02202v1)
 
+## Continual Graph Memory and Community Infrastructure for AI-Assisted Mathematical Discovery
+- **ID**: arxiv_2610.02945v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02945v2](http://arxiv.org/abs/2610.02945v2)
+
 ## Predictor-Guided Latent Space Codon Optimization for Maximizing Protein Expression
 - **ID**: arxiv_2610.03098v2
 - **Source**: ArXiv
@@ -4914,4 +4924,64 @@
 - **ID**: arxiv_2611.08483v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08483v1](http://arxiv.org/abs/2611.08483v1)
+
+## Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples
+- **ID**: arxiv_2611.09746v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09746v1](http://arxiv.org/abs/2611.09746v1)
+
+## Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving
+- **ID**: arxiv_2611.09791v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09791v1](http://arxiv.org/abs/2611.09791v1)
+
+## Knowing When to Intervene: Causal Evaluation of AI Agents
+- **ID**: arxiv_2611.09792v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09792v1](http://arxiv.org/abs/2611.09792v1)
+
+## Test-Time Compute Scales Better with Parallel Agent Teams
+- **ID**: arxiv_2611.09798v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09798v1](http://arxiv.org/abs/2611.09798v1)
+
+## Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregressive Decision Model
+- **ID**: arxiv_2611.09803v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09803v1](http://arxiv.org/abs/2611.09803v1)
+
+## Generative Latent Priors for Interpreting and Steering Protein Language Models
+- **ID**: arxiv_2611.09818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09818v1](http://arxiv.org/abs/2611.09818v1)
+
+## BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design
+- **ID**: arxiv_2611.09825v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09825v1](http://arxiv.org/abs/2611.09825v1)
+
+## Can Agentic Systems Close the Gap in Radiology with Production AI Tools?
+- **ID**: arxiv_2611.09836v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09836v1](http://arxiv.org/abs/2611.09836v1)
+
+## Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization
+- **ID**: arxiv_2611.09846v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09846v1](http://arxiv.org/abs/2611.09846v1)
+
+## Flow-Guided Target-Space Alignment via Path Consistency
+- **ID**: arxiv_2611.09863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09863v1](http://arxiv.org/abs/2611.09863v1)
+
+## On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning
+- **ID**: arxiv_2611.09872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09872v1](http://arxiv.org/abs/2611.09872v1)
+
+## CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse
+- **ID**: arxiv_2611.09891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09891v1](http://arxiv.org/abs/2611.09891v1)
 

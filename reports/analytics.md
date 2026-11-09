@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92789
+**Total Entities Tracked**: 92839
 
 ## Category Distribution
 
@@ -9,31 +9,32 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2709
 - **models**: 2029
-- **cs.CV**: 1548
+- **cs.CV**: 1561
 - **news**: 1393
 - **dataset**: 1238
-- **cs.CL**: 1024
+- **cs.CL**: 1031
 - **text-generation**: 1017
-- **cs.AI**: 983
-- **cs.LG**: 569
-- **cs.RO**: 250
+- **cs.AI**: 997
+- **cs.LG**: 573
+- **cs.RO**: 253
 - **cs.CR**: 104
-- **cs.SE**: 79
+- **cs.SE**: 82
 - **tool**: 59
 - **cs.HC**: 53
 - **cs.IR**: 52
 - **cs.SD**: 47
 - **cs.CY**: 34
 - **cs.MA**: 26
+- **eess.IV**: 22
 - **eess.AS**: 20
-- **eess.IV**: 20
 - **stat.ML**: 17
 - **cs.GT**: 16
 - **API**: 15
+- **quant-ph**: 14
 - **cs.DB**: 13
 - **cs.DC**: 13
-- **quant-ph**: 13
 - **cs.NI**: 11
+- **math.OC**: 11
 - **Backend**: 10
 - **Database**: 10
 - **DevOps**: 10
@@ -43,8 +44,7 @@
 - **Tool**: 10
 - **cs.AR**: 10
 - **cs.GR**: 10
-- **math.OC**: 10
-- **cs.IT**: 9
+- **cs.IT**: 10
 - **cs.MM**: 9
 - **cs.NE**: 9
 - **cs.LO**: 7
@@ -88,6 +88,7 @@
 - **hep-ph**: 1
 - **hep-th**: 1
 - **math.AG**: 1
+- **math.MG**: 1
 - **math.NA**: 1
 - **math.NT**: 1
 - **physics.acc-ph**: 1
@@ -102,7 +103,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31916
-- **ArXiv**: 5058
+- **ArXiv**: 5108
 - **Hugging Face**: 2025
 - **OpenAI Blog**: 1379
 - **HuggingFace Datasets**: 238
@@ -151,8 +152,8 @@
 - **library:mlcroissant**: 90
 - **modality:text**: 85
 - **language:en**: 80
+- **endpoints_compatible**: 78
 - **license:apache-2.0**: 78
-- **endpoints_compatible**: 77
 - **safetensors**: 77
 - **transformers**: 76
 - **conversational**: 74
@@ -179,8 +180,8 @@
 - **size_categories:100K<n<1M**: 19
 - **task_categories:robotics**: 19
 - **api**: 16
+- **gguf**: 15
 - **size_categories:1M<n<10M**: 15
-- **gguf**: 14
 - **license:odc-by**: 14
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
