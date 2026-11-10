@@ -858,6 +858,11 @@
       "entity_id": "model_h2oai_h2ogpt_4096_llama2_70b_chat",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "40b": [
@@ -2212,6 +2217,11 @@
       "entity_id": "dataset_egosteer_egosteer_realworld",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "4545": [
@@ -2431,6 +2441,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_6a000179f854441c31227673",
       "match_type": "exact",
       "score": 1.0
@@ -2446,6 +2461,13 @@
   "461": [
     {
       "entity_id": "dataset_openassistant_oasst1",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "462": [
+    {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
       "match_type": "exact",
       "score": 1.0
     }
@@ -2574,6 +2596,11 @@
     },
     {
       "entity_id": "dataset_voxel51_pidray",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
       "match_type": "exact",
       "score": 1.0
     }

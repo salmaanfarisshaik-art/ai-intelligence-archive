@@ -1,5 +1,10 @@
 # Stat.Me Export
 
+## A Statistical Framework for Algorithmic Collective Action with Multiple Collectives
+- **ID**: arxiv_2605.06749v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06749v2](http://arxiv.org/abs/2605.06749v2)
+
 ## Valid Inference with Synthetic Data via Task Exchangeability
 - **ID**: arxiv_2606.13629v1
 - **Source**: ArXiv

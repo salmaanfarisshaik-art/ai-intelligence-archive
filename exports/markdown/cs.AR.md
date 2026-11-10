@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28358v1](http://arxiv.org/abs/2609.28358v1)
 
+## SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing
+- **ID**: arxiv_2610.05037v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.05037v2](http://arxiv.org/abs/2610.05037v2)
+
 ## Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS
 - **ID**: arxiv_2611.06829v1
 - **Source**: ArXiv

@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.10600v6](http://arxiv.org/abs/2509.10600v6)
 
+## Racing to the Starting Line: Measuring Opportunity and Improvement in Cross Country
+- **ID**: arxiv_2509.10600v8
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.10600v8](http://arxiv.org/abs/2509.10600v8)
+
 ## Large language models eroding science understanding: an empirical study of malignment
 - **ID**: arxiv_2604.25639v2
 - **Source**: ArXiv
@@ -169,4 +174,9 @@
 - **ID**: arxiv_2610.29342v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29342v2](http://arxiv.org/abs/2610.29342v2)
+
+## Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients
+- **ID**: arxiv_2611.12814v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12814v1](http://arxiv.org/abs/2611.12814v1)
 

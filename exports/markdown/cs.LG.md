@@ -290,6 +290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
+## Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games
+- **ID**: arxiv_2602.12517v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.12517v2](http://arxiv.org/abs/2602.12517v2)
+
 ## Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning
 - **ID**: arxiv_2602.14868v3
 - **Source**: ArXiv
@@ -1835,6 +1840,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17652v2](http://arxiv.org/abs/2609.17652v2)
 
+## CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning
+- **ID**: arxiv_2609.18639v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18639v2](http://arxiv.org/abs/2609.18639v2)
+
 ## Higher-order pruning of experts in mixture-of-experts language models
 - **ID**: arxiv_2609.18916v1
 - **Source**: ArXiv
@@ -2904,4 +2914,19 @@
 - **ID**: arxiv_2611.10950v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10950v1](http://arxiv.org/abs/2611.10950v1)
+
+## Anchor Behavior, Not Parameters: Rehearsal-Free Continual Learning with a Single Shared Prompt
+- **ID**: arxiv_2611.12777v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12777v1](http://arxiv.org/abs/2611.12777v1)
+
+## Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks
+- **ID**: arxiv_2611.12799v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12799v1](http://arxiv.org/abs/2611.12799v1)
+
+## Guiding Data Allocation for Robust Subpopulation Generalization
+- **ID**: arxiv_2611.12884v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12884v1](http://arxiv.org/abs/2611.12884v1)
 

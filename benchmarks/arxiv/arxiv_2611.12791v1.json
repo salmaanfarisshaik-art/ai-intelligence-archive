@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.12791v1",
+  "schema_version": "1.0",
+  "name": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.12791v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.12791v1",
+    "updated": "2026-11-09T17:58:38Z",
+    "published": "2026-11-09T17:58:38Z",
+    "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
+    "summary": "Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, training hyperparameter, and data ratio optimization. Here, we bridge this gap by proposing a universal, large language model (LLM)-based AutoML framework that jointly optimizes these configurations for the first time without the need for task-specific fine-tuning. We propose NCode, a unified numerical encoding scheme that translates diverse AutoML design choices into universal discrete sequences and effectively reframes the optimization process as a unified ranking task. Trained solely on optimization trajectories derived from a limited, single-domain vision task, the proposed LLM-based searcher demonstrates impressive cross-task, cross-modality and joint search-space optimization generalizability, achieving state-of-the-art performance across image classification, image segmentation, speaker verification and text-to-image benchmarks. Crucially, it exhibits superior scalability in the large-scale training and joint optimization of a billion-parameter Diffusion Transformer, requiring 896 GPU-days and attaining a state-of-the-art GenEval score of 0.91. By leveraging reinforcement learning to instill Chain-of-Thought reasoning, we provide a systematic way to interpret the LLM-based searcher's internal decision-making mechanisms, revealing its optimization strategy shifted from the early-stage diversity-driven exploration to the late-stage anchor exploitation. Our proposed framework provides a scalable, generalizable, and interpretable pathway toward general-purpose open-world machine learning optimization.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T17:58:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.12791v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

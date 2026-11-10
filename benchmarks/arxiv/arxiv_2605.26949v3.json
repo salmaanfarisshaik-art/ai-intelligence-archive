@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.26949v3",
+  "schema_version": "1.0",
+  "name": "DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.26949v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.26949v3",
+    "updated": "2026-11-09T18:44:34Z",
+    "published": "2026-05-26T12:40:52Z",
+    "title": "DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models",
+    "summary": "3D shape completion from partial scans remains challenging for unseen categories and noisy real-world observations, where geometry alone is often insufficient for inferring missing structure. We present DinoComplete, a deterministic and efficient shape completion framework that augments geometric reconstruction with voxel-aligned semantic priors distilled from DINO features. First, we construct multi-view DINO feature volumes aligned with ShapeNet data and train a student network to predict dense semantic features directly from incomplete shapes. These predicted features capture global structure and part-aware semantic context while remaining aligned with the underlying geometry. We then integrate these distilled features into a completion network, where geometric and semantic voxel representations are fused through voxel state-space modeling. To enable efficient long-range reasoning without sacrificing resolution, we introduce a Multi-Scale Voxel Mamba module that refines the fused features by combining full-grid and chunk-wise sequence modeling. Experiments on unseen ShapeNet categories and ScanNet objects show that DinoComplete achieves competitive completion quality than prior deterministic and generative based completion methods while using relatively fewer parameters, requiring lower memory, and achieving faster inference. Our results demonstrate that distilling semantic priors from visual foundation models improves generalization and robustness in 3D shape completion.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:44:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.26949v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

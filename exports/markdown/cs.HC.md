@@ -270,3 +270,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06346v1](http://arxiv.org/abs/2611.06346v1)
 
+## Programming Prescience: Issues in Human Construction of Forecasting Bots
+- **ID**: arxiv_2611.12834v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12834v1](http://arxiv.org/abs/2611.12834v1)
+

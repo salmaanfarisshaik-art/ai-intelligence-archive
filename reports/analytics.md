@@ -1,38 +1,39 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92913
+**Total Entities Tracked**: 92968
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2720
+- **datasets**: 2721
 - **models**: 2035
-- **cs.CV**: 1573
-- **news**: 1398
-- **dataset**: 1240
-- **cs.CL**: 1041
+- **cs.CV**: 1589
+- **news**: 1399
+- **dataset**: 1243
+- **cs.CL**: 1050
+- **cs.AI**: 1021
 - **text-generation**: 1017
-- **cs.AI**: 1012
-- **cs.LG**: 581
-- **cs.RO**: 255
-- **cs.CR**: 104
+- **cs.LG**: 586
+- **cs.RO**: 256
+- **cs.CR**: 105
 - **cs.SE**: 83
 - **tool**: 59
-- **cs.HC**: 54
-- **cs.IR**: 52
+- **cs.HC**: 55
+- **cs.IR**: 53
 - **cs.SD**: 47
-- **cs.CY**: 34
+- **cs.CY**: 36
 - **cs.MA**: 26
 - **eess.IV**: 22
 - **eess.AS**: 20
 - **stat.ML**: 17
 - **cs.GT**: 16
 - **API**: 15
-- **quant-ph**: 14
-- **cs.DB**: 13
+- **quant-ph**: 15
+- **cs.DB**: 14
 - **cs.DC**: 13
+- **cs.AR**: 11
 - **cs.NI**: 11
 - **math.OC**: 11
 - **Backend**: 10
@@ -42,15 +43,14 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.AR**: 10
 - **cs.GR**: 10
 - **cs.IT**: 10
 - **cs.MM**: 9
 - **cs.NE**: 9
-- **cond-mat.mtrl-sci**: 7
+- **cond-mat.mtrl-sci**: 8
+- **stat.ME**: 8
 - **cs.LO**: 7
 - **eess.SY**: 7
-- **stat.ME**: 7
 - **IDE Rule**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
@@ -102,11 +102,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31933
-- **ArXiv**: 5158
+- ****: 31934
+- **ArXiv**: 5208
 - **Hugging Face**: 2025
-- **OpenAI Blog**: 1383
-- **HuggingFace Datasets**: 240
+- **OpenAI Blog**: 1384
+- **HuggingFace Datasets**: 243
 - **GitHub Trending**: 59
 - **BAIR Blog**: 15
 - **Backend**: 10
@@ -146,35 +146,35 @@
 
 ## Top Tags
 
-- **region:us**: 332
-- **text-generation**: 93
-- **library:datasets**: 90
-- **library:mlcroissant**: 90
+- **region:us**: 336
+- **text-generation**: 94
+- **library:datasets**: 91
+- **library:mlcroissant**: 91
 - **modality:text**: 85
 - **language:en**: 80
-- **endpoints_compatible**: 78
-- **license:apache-2.0**: 78
-- **safetensors**: 77
-- **transformers**: 76
-- **conversational**: 74
+- **endpoints_compatible**: 79
+- **license:apache-2.0**: 79
+- **safetensors**: 78
+- **transformers**: 77
+- **conversational**: 75
 - **library:polars**: 65
-- **license:mit**: 56
+- **license:mit**: 57
 - **format:parquet**: 51
-- **text-generation-inference**: 38
-- **deploy:azure**: 37
+- **text-generation-inference**: 39
+- **deploy:azure**: 38
 - **en**: 34
 - **library:pandas**: 34
-- **modality:image**: 33
+- **modality:image**: 34
 - **task_categories:text-generation**: 33
 - **library:dask**: 31
+- **license:other**: 31
 - **deploy:sagemaker**: 30
-- **license:other**: 30
 - **eval-results**: 29
 - **size_categories:n<1K**: 27
 - **enterprise**: 25
 - **modality:tabular**: 25
+- **qwen3**: 22
 - **license:cc-by-4.0**: 21
-- **qwen3**: 21
 - **size_categories:10K<n<100K**: 21
 - **modality:video**: 19
 - **size_categories:100K<n<1M**: 19
@@ -182,14 +182,14 @@
 - **api**: 16
 - **gguf**: 15
 - **size_categories:1M<n<10M**: 15
+- **arxiv:2505.09388**: 14
+- **fp8**: 14
 - **license:odc-by**: 14
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
 - **source_datasets:original**: 14
-- **arxiv:2505.09388**: 13
-- **fp8**: 13
+- **size_categories:1K<n<10K**: 13
 - **custom_code**: 12
-- **size_categories:1K<n<10K**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11
 - **format:json**: 11

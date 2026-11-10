@@ -265,6 +265,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.14393v2](http://arxiv.org/abs/2607.14393v2)
 
+## An offline approach to fNIRS-guided reinforcement learning for robot behavior
+- **ID**: arxiv_2607.14393v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.14393v3](http://arxiv.org/abs/2607.14393v3)
+
 ## DriftWorld: Fast World Modeling through Drifting
 - **ID**: arxiv_2607.15065v3
 - **Source**: ArXiv

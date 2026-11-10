@@ -1990,6 +1990,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11211v2](http://arxiv.org/abs/2608.11211v2)
 
+## A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph
+- **ID**: arxiv_2608.11211v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11211v3](http://arxiv.org/abs/2608.11211v3)
+
 ## The edge-based contiguous p-median problem: exact formulations and strengthening inequalities
 - **ID**: arxiv_2608.11230v2
 - **Source**: ArXiv
@@ -2504,6 +2509,11 @@
 - **ID**: arxiv_2608.24979v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24979v2](http://arxiv.org/abs/2608.24979v2)
+
+## Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning
+- **ID**: arxiv_2608.25100v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25100v4](http://arxiv.org/abs/2608.25100v4)
 
 ## BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks
 - **ID**: arxiv_2608.25286v2
@@ -3730,6 +3740,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38147v1](http://arxiv.org/abs/2609.38147v1)
 
+## Alleviating Hallucination in Reasoning Tasks with Training-Free Uncertainty-Guided Steering
+- **ID**: arxiv_2609.38962v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38962v2](http://arxiv.org/abs/2609.38962v2)
+
 ## Belief-Aware Multi-Agent Path Finding under Map Uncertainty
 - **ID**: arxiv_2609.40269v1
 - **Source**: ArXiv
@@ -4620,6 +4635,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35868v1](http://arxiv.org/abs/2610.35868v1)
 
+## LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents
+- **ID**: arxiv_2610.37166v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37166v2](http://arxiv.org/abs/2610.37166v2)
+
 ## TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information
 - **ID**: arxiv_2610.37571v1
 - **Source**: ArXiv
@@ -5059,4 +5079,29 @@
 - **ID**: arxiv_2611.10901v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10901v1](http://arxiv.org/abs/2611.10901v1)
+
+## Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery
+- **ID**: arxiv_2611.12762v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12762v1](http://arxiv.org/abs/2611.12762v1)
+
+## LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion
+- **ID**: arxiv_2611.12775v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12775v1](http://arxiv.org/abs/2611.12775v1)
+
+## Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks
+- **ID**: arxiv_2611.12816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12816v1](http://arxiv.org/abs/2611.12816v1)
+
+## MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning
+- **ID**: arxiv_2611.12825v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12825v1](http://arxiv.org/abs/2611.12825v1)
+
+## Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning
+- **ID**: arxiv_2611.12865v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12865v1](http://arxiv.org/abs/2611.12865v1)
 

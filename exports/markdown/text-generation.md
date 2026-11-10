@@ -1544,6 +1544,7 @@
 - **ID**: hf_Qwen_Qwen3-4B-Instruct-2507-FP8
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507-FP8](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507-FP8)
+- **Tags**: arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Instruct-2507, base_model:quantized:Qwen/Qwen3-4B-Instruct-2507, conversational, deploy:azure, endpoints_compatible, fp8, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-4B-MLX-4bit
 - **ID**: hf_Qwen_Qwen3-4B-MLX-4bit

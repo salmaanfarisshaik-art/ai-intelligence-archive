@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.40309v2",
+  "schema_version": "1.0",
+  "name": "Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.40309v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.40309v2",
+    "updated": "2026-11-09T17:35:03Z",
+    "published": "2026-10-29T15:48:43Z",
+    "title": "Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models",
+    "summary": "Vision-language models (VLMs) exhibit strong zero-shot generalization but remain vulnerable to adversarial attacks. Existing adversarial fine-tuning methods often use pre-trained model guidance to preserve image--text alignment while improving robustness. Our analysis of visual representation drift reveals complementary limitations of two representative forms of guidance. Matching visual features constrains all directions equally, providing broad coverage without semantic emphasis. Matching prediction distributions prioritizes semantically relevant directions, but remains limited by the candidate texts and prediction probabilities. These limitations can hinder preservation of pre-trained image--text relationships and degrade zero-shot performance. We therefore propose Textual Response-Aware Guidance (TRAG), which constrains visual representation drift using the pre-trained text encoder's responses to local variations in input embeddings. TRAG constructs anchor-level constraints from the response directions and magnitudes around semantic anchors, then aggregates them using pre-trained image--anchor relevance, yielding an image-adaptive constraint. Extensive experiments across architectures and tasks demonstrate state-of-the-art clean and robust performance. Further analysis shows that TRAG helps preserve pre-trained image--text relationships.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T17:35:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.40309v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

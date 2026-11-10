@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.09822v2",
+  "schema_version": "1.0",
+  "name": "Discovering formally verified quantum programs with AI",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.09822v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.09822v2",
+    "updated": "2026-11-09T18:55:19Z",
+    "published": "2026-11-06T18:08:06Z",
+    "title": "Discovering formally verified quantum programs with AI",
+    "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieved through many years of expert human collaboration. In mathematics and computer science, large language models have accelerated progress through automated discovery loops. However, quantum algorithms can only be evaluated by classical computers on restricted or small instances. Here we demonstrate automated discovery of quantum programs beyond these regimes including order-of-magnitude improvements on scientific applications. To achieve this, we build a quantum program library in the Lean theorem prover in which Gemini 4 agents synthesize novel programs against formal problem specifications and verify their correctness and cost. Agent teams collaborate, sharing results and knowledge through wikis and discussing ideas at organized conferences. Our results improve on prior baselines for parallel search (up to 2.55x), quantum arithmetic (290x), and simulations relevant to fusion, photochemistry and drug-metabolism by 11x, 8x and 2.5x respectively. Combining human and artificial intelligence at scale, under the rigor of mathematical proof, lets researchers design algorithms that today's classical and quantum computers cannot test, shortening the path to practical quantum computation.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:55:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.09822v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

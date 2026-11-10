@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.12814v1",
+  "schema_version": "1.0",
+  "name": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.12814v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.12814v1",
+    "updated": "2026-11-09T18:19:30Z",
+    "published": "2026-11-09T18:19:30Z",
+    "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+    "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician describing a patient, a caregiver describing a loved one, or a person describing themselves. Across 19 case vignettes and five questions, we collected 35,055 free-text responses, extracted every intervention named with a validated judge, and had 29 models rate the full option lists on a seven-point Likert scale for the same cases. Models largely recommend what they rate well, with recommendation behavior differing by footing, and many models offering clinicians a consultation-style response and lay users hedged, simplified advice. When asked about recommendations for a specific intervention type, models more often named options they themselves rated below zero as initial choices, usually with conditions attached. We will release the instrument, code, and full corpus on publication as a living audit.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:19:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.12814v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

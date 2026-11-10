@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38962v2",
+  "schema_version": "1.0",
+  "name": "Alleviating Hallucination in Reasoning Tasks with Training-Free Uncertainty-Guided Steering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38962v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38962v2",
+    "updated": "2026-11-09T17:57:22Z",
+    "published": "2026-09-30T04:28:49Z",
+    "title": "Alleviating Hallucination in Reasoning Tasks with Training-Free Uncertainty-Guided Steering",
+    "summary": "Recent work on hallucination detection in large language models has shown that, for a fixed pre-trained model and reasoning task, it is possible to estimate the model's confidence in the correctness of its outputs. Such uncertainty estimates have primarily been used to improve truthfulness by detecting or filtering confabulations. In this work, we ask whether these signals can instead be used more proactively to directly improve the accuracy of model-generated answers. We propose USteer, a simple, training-free steering mechanism that adjusts a model's layer-wise activations during inference using the gradient of a confidence measure with respect to the activations. This procedure nudges generation toward outputs with lower uncertainty at inference time, without modifying model parameters or requiring additional supervision. We show that this approach consistently reduces hallucination across a range of reasoning tasks, demonstrating that confidence signals can be leveraged not only for detection, but also for effective inference-time control of model behavior.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T17:57:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38962v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

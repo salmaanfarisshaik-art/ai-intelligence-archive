@@ -65,3 +65,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05612v2](http://arxiv.org/abs/2611.05612v2)
 
+## LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation
+- **ID**: arxiv_2611.12817v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12817v1](http://arxiv.org/abs/2611.12817v1)
+

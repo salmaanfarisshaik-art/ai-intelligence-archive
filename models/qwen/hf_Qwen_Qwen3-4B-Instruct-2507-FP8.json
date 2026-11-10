@@ -1,5 +1,6 @@
 {
   "unique_id": "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
+  "schema_version": "1.0",
   "name": "Qwen/Qwen3-4B-Instruct-2507-FP8",
   "parameters": "Unknown",
   "license": "Unknown",
@@ -8,8 +9,39 @@
   "source_name": "Hugging Face",
   "source_type": "huggingface",
   "category": "text-generation",
-  "schema_version": "1.0",
-  "retrieval_timestamp": "2026-06-14T13:52:09Z",
-  "last_updated": "2026-06-14T13:52:09Z",
-  "raw_payload": {}
+  "raw_payload": {
+    "_id": "6892fb7f7e589749f520da30",
+    "id": "Qwen/Qwen3-4B-Instruct-2507-FP8",
+    "likes": 91,
+    "private": false,
+    "downloads": 1508179,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3",
+      "text-generation",
+      "conversational",
+      "arxiv:2505.09388",
+      "base_model:Qwen/Qwen3-4B-Instruct-2507",
+      "base_model:quantized:Qwen/Qwen3-4B-Instruct-2507",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "fp8",
+      "region:us",
+      "deploy:azure"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2025-08-06T06:51:43.000Z",
+    "modelId": "Qwen/Qwen3-4B-Instruct-2507-FP8"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:23Z",
+  "last_updated": "",
+  "links": {
+    "related_models": [],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
 }

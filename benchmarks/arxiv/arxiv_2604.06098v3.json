@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.06098v3",
+  "schema_version": "1.0",
+  "name": "JUÁ -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.06098v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.06098v3",
+    "updated": "2026-11-09T17:47:38Z",
+    "published": "2026-04-07T17:10:54Z",
+    "title": "JUÁ -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections",
+    "summary": "Legal information retrieval in Portuguese remains difficult to evaluate systematically because available datasets differ widely in document type, query style, and relevance definition. We present JUÁ, a public benchmark for Brazilian legal retrieval designed to support more reproducible and comparable evaluation across heterogeneous legal collections. More broadly, JUÁ is intended not only as a benchmark, but as a continuous evaluation infrastructure for Brazilian legal IR, combining shared protocols, common ranking metrics, fixed splits when applicable, and a public leaderboard. The benchmark covers jurisprudence retrieval as well as broader legislative, regulatory, and question-driven legal search. We evaluate lexical, dense, and BM25-based reranking pipelines, including a domain-adapted Qwen embedding model fine-tuned on JUÁ-aligned supervision. Results show that the benchmark is sufficiently heterogeneous to distinguish retrieval paradigms and reveal substantial cross-dataset trade-offs. Domain adaptation yields its clearest gains on the supervision-aligned JUÁ-Juris subset, while BM25 remains highly competitive on other collections, especially in settings with strong lexical and institutional phrasing cues. Overall, JUÁ provides a practical evaluation framework for studying legal retrieval across multiple Brazilian legal domains under a common benchmark design.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T17:47:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.06098v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

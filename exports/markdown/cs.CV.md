@@ -945,6 +945,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.22875v3](http://arxiv.org/abs/2604.22875v3)
 
+## Resource-Constrained UAV-Based Weed Detection for Site-Specific Management on Edge Devices
+- **ID**: arxiv_2604.23442v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23442v2](http://arxiv.org/abs/2604.23442v2)
+
 ## MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation
 - **ID**: arxiv_2604.23789v3
 - **Source**: ArXiv
@@ -1104,6 +1109,11 @@
 - **ID**: arxiv_2605.26032v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.26032v2](http://arxiv.org/abs/2605.26032v2)
+
+## DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models
+- **ID**: arxiv_2605.26949v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26949v3](http://arxiv.org/abs/2605.26949v3)
 
 ## SalsaAgent: A multimodal embodied language model for interactive dance generation
 - **ID**: arxiv_2605.29219v3
@@ -2274,6 +2284,11 @@
 - **ID**: arxiv_2607.22534v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22534v1](http://arxiv.org/abs/2607.22534v1)
+
+## Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests
+- **ID**: arxiv_2607.22864v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22864v2](http://arxiv.org/abs/2607.22864v2)
 
 ## CameraAnything: Refilming Videos with Arbitrary Camera Control
 - **ID**: arxiv_2607.24591v1
@@ -7380,6 +7395,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37668v1](http://arxiv.org/abs/2610.37668v1)
 
+## Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models
+- **ID**: arxiv_2610.40309v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40309v2](http://arxiv.org/abs/2610.40309v2)
+
+## A Unified Benchmark for Aerial-Enhanced Autonomous Driving: The KITScenes Aerial Dataset
+- **ID**: arxiv_2610.40455v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40455v2](http://arxiv.org/abs/2610.40455v2)
+
 ## CrossWeave: Cross-Modal Scene and Instance Retrieval from Sparse 2D-3D Alignment
 - **ID**: arxiv_2610.40525v1
 - **Source**: ArXiv
@@ -7489,6 +7514,11 @@
 - **ID**: arxiv_2611.00022v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.00022v2](http://arxiv.org/abs/2611.00022v2)
+
+## OCRia-1 Technical Report
+- **ID**: arxiv_2611.00092v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00092v2](http://arxiv.org/abs/2611.00092v2)
 
 ## Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs
 - **ID**: arxiv_2611.00892v2
@@ -7864,4 +7894,54 @@
 - **ID**: arxiv_2611.10940v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10940v1](http://arxiv.org/abs/2611.10940v1)
+
+## Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval
+- **ID**: arxiv_2611.12798v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12798v1](http://arxiv.org/abs/2611.12798v1)
+
+## 2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling
+- **ID**: arxiv_2611.12805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12805v1](http://arxiv.org/abs/2611.12805v1)
+
+## What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching
+- **ID**: arxiv_2611.12852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12852v1](http://arxiv.org/abs/2611.12852v1)
+
+## AI-based characterization of lymphoid structures and the tumor microenvironment reveals lower mature tertiary lymphoid structures, lymph-node follicles, and plasma cells after neoadjuvant therapy in l
+- **ID**: arxiv_2611.12855v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12855v1](http://arxiv.org/abs/2611.12855v1)
+
+## SWAM: Scaling World Action Models with Cross-Modal Alignment
+- **ID**: arxiv_2611.12870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12870v1](http://arxiv.org/abs/2611.12870v1)
+
+## Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks
+- **ID**: arxiv_2611.12875v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12875v1](http://arxiv.org/abs/2611.12875v1)
+
+## Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos
+- **ID**: arxiv_2611.12879v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12879v1](http://arxiv.org/abs/2611.12879v1)
+
+## Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs
+- **ID**: arxiv_2611.12883v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12883v1](http://arxiv.org/abs/2611.12883v1)
+
+## World In-Context Learning for Agentic Robot Manipulation
+- **ID**: arxiv_2611.12885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12885v1](http://arxiv.org/abs/2611.12885v1)
+
+## Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning
+- **ID**: arxiv_2611.12886v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12886v1](http://arxiv.org/abs/2611.12886v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.05037v2",
+  "schema_version": "1.0",
+  "name": "SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.05037v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.05037v2",
+    "updated": "2026-11-09T18:14:18Z",
+    "published": "2026-10-04T08:06:35Z",
+    "title": "SparseCraft: Agentic Hardware-Software Co-Optimization for Sparse Computing",
+    "summary": "Sparse-accelerator design spaces are usually searched against analytical models, so a design is judged by a model's prediction rather than by a measurement of the hardware. SparseCraft is a closed loop on the CHIA framework in which a large language model (LLM) agent co-designs the configuration, memories and sparse-kernel schedule of a Gemmini accelerator. A candidate counts only after it passes a legality check, cycle-accurate simulation, a bit-for-bit comparison of every output and synthesis. Post-synthesis timing analysis checks its clock, and its energy is computed from measured counters, with per-event energies validated against gate-level and SRAM-macro data. We compare the agent with expert Gemmini configurations and with random, greedy and multi-objective TPE search at the agent's budget of 15 evaluations, all measured by the same flow. On a GraphChallenge sparse-DNN layer, the agent's designs reach 159-164$\\times$ the inverse energy-delay-area product of stock Gemmini and 2.07-2.14$\\times$ that of the best expert configuration. Their Pareto hypervolume is 0.5557-0.5704, against at most 0.2806 for search. On a power-law graph and a pruned BERT layer, the agent raises perf/W by 11.45$\\times$ and 4.43$\\times$, and held-out transfer shows that its designs specialise to their workload. The loop is also resilient to faulty designs. When a design fails a check, a repair agent diagnoses the failure from its evidence and fixes it automatically, or declines when the only fix would undo the intended change. In a fault-injection benchmark, it fixed every scorable fault at its first attempt.",
+    "primary_category": "cs.AR"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:14:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.05037v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

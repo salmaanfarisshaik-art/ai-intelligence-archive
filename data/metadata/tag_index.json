@@ -674,6 +674,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -923,6 +924,9 @@
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-4B"
   ],
+  "base_model:Qwen/Qwen3-4B-Instruct-2507": [
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8"
+  ],
   "base_model:Qwen/Qwen3-4B-Thinking-2507": [
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
@@ -1054,6 +1058,9 @@
   ],
   "base_model:quantized:Qwen/Qwen3-14B": [
     "hf_Qwen_Qwen3-14B-AWQ"
+  ],
+  "base_model:quantized:Qwen/Qwen3-4B-Instruct-2507": [
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8"
   ],
   "base_model:quantized:Qwen/Qwen3-8B": [
     "hf_Qwen_Qwen3-8B-AWQ"
@@ -1268,6 +1275,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -1587,6 +1595,7 @@
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
@@ -1829,6 +1838,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -2026,7 +2036,8 @@
     "hf_ds_6826807a875b575a7ab09a99",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_6a517a8032bfea14be5a68aa",
-    "hf_ds_6a96f1b1177b511ec1b92935"
+    "hf_ds_6a96f1b1177b511ec1b92935",
+    "hf_ds_6ae8bd4111b278c45dfbe88c"
   ],
   "format:json": [
     "hf_ds_64980085fa9591cb3dc4d378",
@@ -2121,6 +2132,7 @@
   ],
   "fp8": [
     "hf_MiniMaxAI_MiniMax-M2.7",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
@@ -4519,7 +4531,8 @@
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6ab65a7f909092518dca860f",
-    "hf_ds_6ada2ff08f0f9c17f60ebac9"
+    "hf_ds_6ada2ff08f0f9c17f60ebac9",
+    "hf_ds_6ae8bd4111b278c45dfbe88c"
   ],
   "library:lance": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -4617,7 +4630,8 @@
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6ab65a7f909092518dca860f",
-    "hf_ds_6ada2ff08f0f9c17f60ebac9"
+    "hf_ds_6ada2ff08f0f9c17f60ebac9",
+    "hf_ds_6ae8bd4111b278c45dfbe88c"
   ],
   "library:pandas": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -4747,6 +4761,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -4941,6 +4956,7 @@
     "hf_ds_698aee8a9b778894943e6c5d",
     "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69b3d79d63e7af41d98f1fd5",
+    "hf_ds_69c83627a52ab2757b1a6d90",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
     "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a139a707f615e6fc818bde7",
@@ -4992,6 +5008,7 @@
     "hf_ds_6a80b0577ce7785d1c42af57",
     "hf_ds_6a9b618da26f068ce99f0512",
     "hf_ds_6ad82fcedf69b48f86bb012f",
+    "hf_ds_6adf714965d27a395f029c31",
     "hf_facebook_opt-125m",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
@@ -5219,7 +5236,8 @@
     "hf_ds_6a517a8032bfea14be5a68aa",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6a96f1b1177b511ec1b92935",
-    "hf_ds_6ab65a7f909092518dca860f"
+    "hf_ds_6ab65a7f909092518dca860f",
+    "hf_ds_6ae8bd4111b278c45dfbe88c"
   ],
   "modality:tabular": [
     "hf_ds_621ffdd236468d709f181e3f",
@@ -5760,6 +5778,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Embedding-0.6B",
@@ -5859,6 +5878,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -6052,6 +6072,7 @@
     "hf_ds_69be6056f46b7dff732d8c53",
     "hf_ds_69c2419dda894d8e5757461f",
     "hf_ds_69c3db34480308a6a3cabb37",
+    "hf_ds_69c83627a52ab2757b1a6d90",
     "hf_ds_69cd2a3acc9af6d091c033f0",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69d2b3f8bbf83b1a4bb7eae4",
@@ -6120,6 +6141,8 @@
     "hf_ds_6ad73b2611ffd4dabac49e74",
     "hf_ds_6ad82fcedf69b48f86bb012f",
     "hf_ds_6ada2ff08f0f9c17f60ebac9",
+    "hf_ds_6adf714965d27a395f029c31",
+    "hf_ds_6ae8bd4111b278c45dfbe88c",
     "hf_ds_6ae993485240eb6b7ac68d30",
     "hf_facebook_opt-125m",
     "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
@@ -6245,6 +6268,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -6460,7 +6484,8 @@
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b",
-    "hf_ds_6ab65a7f909092518dca860f"
+    "hf_ds_6ab65a7f909092518dca860f",
+    "hf_ds_6ae8bd4111b278c45dfbe88c"
   ],
   "size_categories:1M<n<10M": [
     "hf_ds_621ffdd236468d709f181e3f",
@@ -7021,6 +7046,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
@@ -7108,6 +7134,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_RadixArk_Kimi-K3-DSpark",
@@ -7202,6 +7229,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",

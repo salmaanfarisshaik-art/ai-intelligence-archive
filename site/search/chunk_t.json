@@ -52,6 +52,13 @@
       "score": 1.0
     }
   ],
+  "t1w": [
+    {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "t2": [
     {
       "entity_id": "arxiv_2610.22364v1",
@@ -201,6 +208,11 @@
       "entity_id": "dataset_medotter_pi_cai",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "t2x": [
@@ -3267,6 +3279,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_aya_collection",
       "match_type": "exact",
       "score": 1.5
@@ -3303,6 +3320,11 @@
     },
     {
       "entity_id": "dataset_deepmind_code_contests",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_dtunkelang_jobs_demo",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3372,6 +3394,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_falcon79epok_symbion_multi_ohlcv",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_fedric95_umbra",
       "match_type": "exact",
       "score": 1.5
@@ -3413,6 +3440,11 @@
     },
     {
       "entity_id": "dataset_glint_research_fable_5_traces",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3857,6 +3889,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_n2d_worldcup_pulse_data",
       "match_type": "exact",
       "score": 1.5
@@ -4038,11 +4075,6 @@
     },
     {
       "entity_id": "dataset_revolutioncrossroads_loc_chronicling_america_1770_1810",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_rogerdehe_mktdata_binance_2026",
       "match_type": "exact",
       "score": 1.5
     },
@@ -4263,6 +4295,11 @@
     },
     {
       "entity_id": "dataset_zekaiwang_trex_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
       "match_type": "exact",
       "score": 1.5
     },
@@ -6621,6 +6658,13 @@
       "entity_id": "rss_https://openai.com/index/disrupting-malicious-uses-of-ai-sneer-review",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "taiyi": [
+    {
+      "entity_id": "arxiv_2611.12762v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "taj": [
@@ -17252,9 +17296,21 @@
   ],
   "tanzania": [
     {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "alpaca_-3573957588904949661",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "tanzanian": [
+    {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 4.0
     }
   ],
   "tao": [
@@ -21194,6 +21250,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_ethz_food101",
       "match_type": "exact",
       "score": 3.0
@@ -21390,6 +21451,11 @@
     },
     {
       "entity_id": "dataset_imageomics_kabr_mini_scene_raw_videos",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
       "match_type": "exact",
       "score": 3.0
     },
@@ -21930,6 +21996,11 @@
     },
     {
       "entity_id": "dataset_ui_mopd_uni_gui_openmobile",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_umtri_matpredict",
       "match_type": "exact",
       "score": 3.0
     },
@@ -23040,6 +23111,11 @@
     },
     {
       "entity_id": "dataset_dexora_dexora_real_world_dataset",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -24475,6 +24551,11 @@
     },
     {
       "entity_id": "dataset_mvp_lab_llava_onevision_1_5_instruct_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mylyu_m4raw_brain",
       "match_type": "exact",
       "score": 1.5
     },
@@ -27488,6 +27569,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.38962v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2610.06695v1",
       "match_type": "exact",
       "score": 2.0
@@ -27528,6 +27614,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.12799v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_adyen_dabstep",
       "match_type": "exact",
       "score": 2.0
@@ -27564,6 +27655,11 @@
     },
     {
       "entity_id": "dataset_camel_ai_seta_env",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -30633,6 +30729,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_umtri_matpredict",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_unimelb_nlp_wikiann",
       "match_type": "exact",
       "score": 1.0
@@ -32492,6 +32593,13 @@
       "score": 1.0
     }
   ],
+  "taxa": [
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "taxable": [
     {
       "entity_id": "alpaca_-2016688393344391577",
@@ -32962,6 +33070,11 @@
       "entity_id": "dataset_allenai_social_i_qa",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "taxonomy": [
@@ -33069,6 +33182,11 @@
       "entity_id": "arxiv_2610.24888v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "model_pfnet_plamo_3_nict_2b_base",
@@ -34692,6 +34810,16 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.12798v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12886v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_nodemind_shadow_o_logits_20b",
       "match_type": "exact",
       "score": 2.0
@@ -35195,6 +35323,11 @@
     },
     {
       "entity_id": "arxiv_2609.04199v1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/closing-ai-guidance-gap-education",
       "match_type": "exact",
       "score": 1.0
     },
@@ -39366,6 +39499,11 @@
     },
     {
       "entity_id": "arxiv_2610.29523v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.00092v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -45332,6 +45470,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huahua123313_lipfd",
       "match_type": "exact",
       "score": 1.0
@@ -46684,6 +46827,11 @@
       "entity_id": "arxiv_2608.27334v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "rss_https://openai.com/index/running-codex-safely",
@@ -51398,6 +51546,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.12760v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_mcg_nju_videochat3_lv116k",
       "match_type": "exact",
       "score": 2.0
@@ -54330,6 +54483,11 @@
     },
     {
       "entity_id": "model_ebircak_gemma_4_31b_it_4bit_w4a16_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ertasai_medertas_v0_1_31b_ls",
       "match_type": "exact",
       "score": 1.5
     },
@@ -58446,6 +58604,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "arxiv_2611.12855v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-3547055213123426573",
       "match_type": "exact",
       "score": 1.0
@@ -60186,6 +60349,11 @@
     },
     {
       "entity_id": "dataset_mueller91_mlaad",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mylyu_m4raw_brain",
       "match_type": "exact",
       "score": 1.0
     },
@@ -62315,6 +62483,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2607.22864v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2607.29624v1",
       "match_type": "exact",
       "score": 2.0
@@ -63474,11 +63647,6 @@
     },
     {
       "entity_id": "dataset_aaronz345_gtsinger",
-      "match_type": "exact",
-      "score": 4.5
-    },
-    {
-      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
       "match_type": "exact",
       "score": 4.5
     },
@@ -64768,6 +64936,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_facebook_wiki_dpr",
       "match_type": "exact",
       "score": 4.0
@@ -65434,6 +65607,11 @@
     },
     {
       "entity_id": "dataset_ai_mo_numinamath_cot",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
       "match_type": "exact",
       "score": 3.0
     },
@@ -72418,6 +72596,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2604.06098v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2605.02815v2",
       "match_type": "exact",
       "score": 2.0
@@ -73498,6 +73681,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 1.5
@@ -73693,6 +73881,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_dtunkelang_jobs_demo",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_dwk_partners_trading_data",
       "match_type": "exact",
       "score": 1.5
@@ -73838,6 +74031,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_falcon79epok_symbion_multi_ohlcv",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_farhanhubble_jfk_archives",
       "match_type": "exact",
       "score": 1.5
@@ -73959,6 +74157,11 @@
     },
     {
       "entity_id": "dataset_gnoixavdta_m3ds",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
       "match_type": "exact",
       "score": 1.5
     },
@@ -74239,6 +74442,11 @@
     },
     {
       "entity_id": "dataset_imageomics_mmla_opc",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
       "match_type": "exact",
       "score": 1.5
     },
@@ -74958,6 +75166,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_n2d_worldcup_pulse_data",
       "match_type": "exact",
       "score": 1.5
@@ -75484,6 +75697,11 @@
     },
     {
       "entity_id": "dataset_sanghyang00_omniasr_molge",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_sanket3dx_medicine_db",
       "match_type": "exact",
       "score": 1.5
     },
@@ -76128,6 +76346,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_zwa73_soultide_audiodata_dataset",
       "match_type": "exact",
       "score": 1.5
@@ -76753,6 +76976,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_mistralai_devstral_small_2_24b_instruct_2512_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -76934,6 +77162,11 @@
     },
     {
       "entity_id": "model_bartowski_thedrummer_cydonia_24b_v4_3_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_thedrummer_magidonia_24b_v4_3_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -77293,6 +77526,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_deep_principle_hydrogen_1_0",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_deepgrove_maple_preview_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -77494,6 +77732,11 @@
     },
     {
       "entity_id": "model_entrick_security_slm_gemma_4_e2b_it_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ertasai_medertas_v0_1_31b_ls",
       "match_type": "exact",
       "score": 1.5
     },
@@ -77794,6 +78037,11 @@
     },
     {
       "entity_id": "model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_huihui_ai_huihui_gpt_oss_20b_mxfp4_abliterated_v2",
       "match_type": "exact",
       "score": 1.5
     },
@@ -78273,6 +78521,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_lenalibon_meta_llama_3_8b_instruct_heretic_mlabonne",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_lessthanthreeai_qwen3_8_27b_humanlike_chat_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -78354,6 +78607,11 @@
     },
     {
       "entity_id": "model_liquidai_lfm2_24b_a2b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_liquidai_lfm2_350m_extract_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -78839,6 +79097,11 @@
     },
     {
       "entity_id": "model_mannix_ita_qwen3_6_27b_a3b_coder_mtp_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_maximilian228_orcarouter_qwen3_8_flash_next_uncensored_nvfp4_gptq_strata",
       "match_type": "exact",
       "score": 1.5
     },
@@ -88582,6 +88845,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.40309v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_forithmus_mr_rate",
       "match_type": "exact",
       "score": 2.0
@@ -89043,6 +89311,11 @@
     },
     {
       "entity_id": "alpaca_8391781592230326003",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_codepawl_abo_glb",
       "match_type": "exact",
       "score": 1.0
     },
@@ -146542,6 +146815,11 @@
       "score": 7.0
     },
     {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
+      "match_type": "exact",
+      "score": 7.0
+    },
+    {
       "entity_id": "dataset_google_civil_comments",
       "match_type": "exact",
       "score": 7.0
@@ -155067,6 +155345,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "dataset_inclusionai_conceptedit_12m",
       "match_type": "exact",
       "score": 6.0
@@ -155208,6 +155491,11 @@
     },
     {
       "entity_id": "dataset_nveagle_locateanything_data",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_nvidia_hiliftaeroml",
       "match_type": "exact",
       "score": 6.0
     },
@@ -180247,6 +180535,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_dacomp_dacomp_de_gold",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_datasocial_tiktok_5_6b_videos",
       "match_type": "exact",
       "score": 4.0
@@ -180318,6 +180611,11 @@
     },
     {
       "entity_id": "dataset_essentialai_essential_web_v1_0",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
       "match_type": "exact",
       "score": 4.0
     },
@@ -180802,6 +181100,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_n2d_worldcup_pulse_data",
       "match_type": "exact",
       "score": 4.0
@@ -180963,6 +181266,11 @@
     },
     {
       "entity_id": "dataset_papluca_language_identification",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
       "match_type": "exact",
       "score": 4.0
     },
@@ -195827,6 +196135,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_cogcomp_trec",
       "match_type": "exact",
       "score": 3.0
@@ -197078,6 +197391,11 @@
     },
     {
       "entity_id": "dataset_ui_mopd_uni_gui_openmobile",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_umtri_matpredict",
       "match_type": "exact",
       "score": 3.0
     },
@@ -218652,6 +218970,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2509.10600v8",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2509.22367v3",
       "match_type": "exact",
       "score": 2.0
@@ -221092,6 +221415,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.40455v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2610.40541v1",
       "match_type": "exact",
       "score": 2.0
@@ -221228,6 +221556,26 @@
     },
     {
       "entity_id": "arxiv_2611.10936v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12750v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12814v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12855v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12879v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -222467,6 +222815,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_zwa73_soultide_audiodata_dataset",
       "match_type": "exact",
       "score": 2.0
@@ -222657,6 +223010,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_6adf714965d27a395f029c31",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "hf_ds_6ae993485240eb6b7ac68d30",
       "match_type": "exact",
       "score": 2.0
@@ -222843,6 +223201,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/closing-ai-guidance-gap-education",
       "match_type": "exact",
       "score": 2.0
     },
@@ -231647,6 +232010,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ehneriinurhi_copyright_video_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_eleutherai_hendrycks_math",
       "match_type": "exact",
       "score": 1.0
@@ -233452,6 +233820,11 @@
     },
     {
       "entity_id": "model_bartowski_thedrummer_cydonia_24b_v4_3_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_bartowski_thedrummer_magidonia_24b_v4_3_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -243573,6 +243946,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ehneriinurhi_copyright_video_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_eidon_ai_tracker_pov",
       "match_type": "exact",
       "score": 1.0
@@ -243629,6 +244007,11 @@
     },
     {
       "entity_id": "dataset_ieasybooks_org_waqfeya_library",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
       "match_type": "exact",
       "score": 1.0
     },
@@ -253803,6 +254186,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_optimalscale_climbmix",
       "match_type": "exact",
       "score": 1.0
@@ -254847,6 +255235,11 @@
     },
     {
       "entity_id": "arxiv_2610.03693v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12855v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -276184,6 +276577,13 @@
       "score": 2.0
     }
   ],
+  "thinkyoung": [
+    {
+      "entity_id": "rss_https://openai.com/index/closing-ai-guidance-gap-education",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "thinly": [
     {
       "entity_id": "alpaca_2093845628383097659",
@@ -295769,6 +296169,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 1.0
@@ -297165,6 +297570,11 @@
     },
     {
       "entity_id": "dataset_nvidia_helpsteer2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_hiliftaeroml",
       "match_type": "exact",
       "score": 1.0
     },
@@ -302492,6 +302902,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_qcri_crisismmd",
       "match_type": "exact",
       "score": 1.0
@@ -307796,6 +308211,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "alpaca_-1093116794192134714",
       "match_type": "exact",
       "score": 1.0
@@ -310379,6 +310799,11 @@
     },
     {
       "entity_id": "arxiv_2604.01151v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2604.01925v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -327170,6 +327595,13 @@
       "score": 1.0
     }
   ],
+  "timeframes": [
+    {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "timeless": [
     {
       "entity_id": "alpaca_-136118421409921931",
@@ -333684,6 +334116,11 @@
     },
     {
       "entity_id": "dataset_chartgalaxy_chartgalaxy",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_dacomp_dacomp_de_gold",
       "match_type": "exact",
       "score": 1.0
     },
@@ -384207,6 +384644,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2509.10600v8",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2510.02999v6",
       "match_type": "exact",
       "score": 2.0
@@ -384263,6 +384705,11 @@
     },
     {
       "entity_id": "arxiv_2512.00939v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2512.01067v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -384723,6 +385170,11 @@
     },
     {
       "entity_id": "arxiv_2607.14393v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2607.14393v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -386747,6 +387199,16 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.12798v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12814v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "automated-django-model-to-view-scaffolding",
       "match_type": "exact",
       "score": 2.0
@@ -386838,6 +387300,11 @@
     },
     {
       "entity_id": "dataset_code_search_net_code_search_net",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_codepawl_abo_glb",
       "match_type": "exact",
       "score": 2.0
     },
@@ -389067,6 +389534,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_nvidia_sage_10k",
       "match_type": "exact",
       "score": 1.5
@@ -389163,6 +389635,11 @@
     },
     {
       "entity_id": "dataset_uild42_qb_audio",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_umtri_matpredict",
       "match_type": "exact",
       "score": 1.5
     },
@@ -405942,6 +406419,16 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ehneriinurhi_copyright_video_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ethz_food101",
       "match_type": "exact",
       "score": 1.0
@@ -406213,6 +406700,11 @@
     },
     {
       "entity_id": "dataset_imageomics_mmla_mpala",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
       "match_type": "exact",
       "score": 1.0
     },
@@ -406673,6 +407165,11 @@
     },
     {
       "entity_id": "dataset_nureasoning_nureasoning",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_hiliftaeroml",
       "match_type": "exact",
       "score": 1.0
     },
@@ -414459,6 +414956,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.12763v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_essentialai_essential_web_v1_0",
       "match_type": "exact",
       "score": 2.0
@@ -421717,6 +422219,11 @@
     },
     {
       "entity_id": "dataset_nvidia_openmathreasoning",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
       "match_type": "exact",
       "score": 1.0
     },
@@ -429008,6 +429515,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-1709232629271625539",
       "match_type": "exact",
       "score": 2.0
@@ -429773,6 +430285,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_codepawl_abo_glb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_community_datasets_quarel",
       "match_type": "exact",
       "score": 1.0
@@ -429809,6 +430326,11 @@
     },
     {
       "entity_id": "dataset_funtion_crowdhuman",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
       "match_type": "exact",
       "score": 1.0
     },
@@ -430066,6 +430588,11 @@
     },
     {
       "entity_id": "dataset_codeparrot_github_code_clean",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
       "match_type": "exact",
       "score": 1.0
     },
@@ -432089,6 +432616,11 @@
     },
     {
       "entity_id": "arxiv_2608.24771v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.25100v4",
       "match_type": "exact",
       "score": 2.0
     },
@@ -435245,6 +435777,11 @@
     },
     {
       "entity_id": "dataset_open_r1_openr1_math_220k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
       "match_type": "exact",
       "score": 1.0
     },
@@ -441124,6 +441661,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ehneriinurhi_copyright_video_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_facebook_anli",
       "match_type": "exact",
       "score": 1.0
@@ -443903,6 +444445,11 @@
     },
     {
       "entity_id": "arxiv_2609.38170v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.38962v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -447505,6 +448052,11 @@
     },
     {
       "entity_id": "alpaca_3808517043350431807",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2512.01067v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -453396,6 +453948,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_huihui_ai_huihui_gpt_oss_20b_mxfp4_abliterated_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -453972,6 +454529,11 @@
     },
     {
       "entity_id": "model_liquidai_lfm2_24b_a2b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_liquidai_lfm2_350m_extract_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -458851,6 +459413,11 @@
     },
     {
       "entity_id": "dataset_openbmb_ultra_fineweb_l3",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_umtri_matpredict",
       "match_type": "exact",
       "score": 1.0
     }
@@ -466805,6 +467372,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_introvoyz041_uspto_mol",
       "match_type": "exact",
       "score": 1.0
@@ -466875,6 +467447,13 @@
       "entity_id": "hf_ds_621ffdd236468d709f18200d",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "treeoflife": [
+    {
+      "entity_id": "dataset_imageomics_treeoflife_10m",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "trees": [
@@ -469451,6 +470030,11 @@
   ],
   "trial": [
     {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "arxiv_2608.12290v1",
       "match_type": "exact",
       "score": 3.0
@@ -469639,6 +470223,11 @@
     },
     {
       "entity_id": "alpaca_5440784501718396623",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_gnucleus_ai_cad_gen_freecad_bench_v3",
       "match_type": "exact",
       "score": 1.0
     },
@@ -470235,6 +470824,11 @@
     },
     {
       "entity_id": "alpaca_9167501425066587794",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_codepawl_abo_glb",
       "match_type": "exact",
       "score": 1.0
     }
@@ -479160,6 +479754,13 @@
       "score": 1.5
     }
   ],
+  "tui9dghp": [
+    {
+      "entity_id": "hf_ds_69c83627a52ab2757b1a6d90",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "tuileries": [
     {
       "entity_id": "alpaca_-5512222042969342316",
@@ -479425,6 +480026,11 @@
     },
     {
       "entity_id": "arxiv_2610.18771v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.12855v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -480106,6 +480712,11 @@
     },
     {
       "entity_id": "arxiv_2508.15774v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2512.01067v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -600455,6 +601066,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_qyang1021_air_bench_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -600486,6 +601102,11 @@
     },
     {
       "entity_id": "dataset_tau_commonsense_qa",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_umtri_matpredict",
       "match_type": "exact",
       "score": 1.0
     },
@@ -604419,6 +605040,11 @@
     },
     {
       "entity_id": "dataset_yuxiangw_voxsafebench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_zongowo111_v2_crypto_ohlcv_data",
       "match_type": "exact",
       "score": 1.0
     },
@@ -608546,6 +609172,13 @@
       "entity_id": "dataset_wikimedia_wikipedia",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "tz": [
+    {
+      "entity_id": "dataset_ethnic_voices_tz_ethnic_voices_tanzania",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "tz1002": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:11:00Z",
+  "generated_at": "2026-11-10T12:07:33Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -84,6 +84,11 @@
     {
       "source_id": "hf_Qwen_Qwen3-4B",
       "target_id": "hf_Qwen_Qwen3-4B-Base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_Qwen_Qwen3-4B-Instruct-2507-FP8",
+      "target_id": "hf_Qwen_Qwen3-4B-Instruct-2507",
       "type": "derived_from"
     },
     {
@@ -1592,6 +1597,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_mistralai_devstral_small_2_24b_instruct_2512_gguf",
+      "target_id": "hf_mistralai_Devstral-Small-2-24B-Instruct-2512",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf",
       "target_id": "hf_mlabonne_Qwen3-8B-abliterated",
       "type": "derived_from"
@@ -1774,6 +1784,11 @@
     {
       "source_id": "model_bartowski_thedrummer_cydonia_24b_v4_3_gguf",
       "target_id": "hf_TheDrummer_Cydonia-24B-v4.3",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_thedrummer_magidonia_24b_v4_3_gguf",
+      "target_id": "hf_TheDrummer_Magidonia-24B-v4.3",
       "type": "derived_from"
     },
     {
@@ -2527,6 +2542,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_deep_principle_hydrogen_1_0",
+      "target_id": "hf_zai-org_GLM-5.3",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_deepcogito_cogito_v1_preview_qwen_32b",
       "target_id": "hf_Qwen_Qwen2.5-32B",
       "type": "derived_from"
@@ -2969,6 +2989,11 @@
     {
       "source_id": "model_entrick_security_slm_gemma_4_e2b_it_gguf",
       "target_id": "hf_unsloth_gemma-4-E2B-it-unsloth-bnb-4bit",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ertasai_medertas_v0_1_31b_ls",
+      "target_id": "hf_google_gemma-4-31B-it",
       "type": "derived_from"
     },
     {
@@ -3429,6 +3454,11 @@
     {
       "source_id": "model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated",
       "target_id": "hf_unsloth_gpt-oss-20b-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_huihui_ai_huihui_gpt_oss_20b_mxfp4_abliterated_v2",
+      "target_id": "hf_huihui-ai_Huihui-gpt-oss-20b-BF16-abliterated-v2",
       "type": "derived_from"
     },
     {
@@ -4154,6 +4184,11 @@
     {
       "source_id": "model_lilarest_gemma_4_31b_it_nvfp4_turbo",
       "target_id": "hf_google_gemma-4-31B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm2_350m_extract_gguf",
+      "target_id": "hf_LiquidAI_LFM2-350M-Extract",
       "type": "derived_from"
     },
     {
@@ -4999,6 +5034,11 @@
     {
       "source_id": "model_marketeam_qwen_marketing",
       "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_maximilian228_orcarouter_qwen3_8_flash_next_uncensored_nvfp4_gptq_strata",
+      "target_id": "hf_orcarouter_Qwen3.8-Flash-Next-Uncensored",
       "type": "derived_from"
     },
     {

@@ -1486,6 +1486,11 @@
 - **URL**: [https://openai.com/index/clip](https://openai.com/index/clip)
 
 ## 
+- **ID**: rss_https://openai.com/index/closing-ai-guidance-gap-education
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/closing-ai-guidance-gap-education](https://openai.com/index/closing-ai-guidance-gap-education)
+
+## 
 - **ID**: rss_https://openai.com/index/cloudflare-cyber
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/cloudflare-cyber](https://openai.com/index/cloudflare-cyber)

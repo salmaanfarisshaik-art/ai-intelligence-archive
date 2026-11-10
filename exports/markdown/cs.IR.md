@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.04593v2](http://arxiv.org/abs/2604.04593v2)
 
+## JUÁ -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections
+- **ID**: arxiv_2604.06098v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.06098v3](http://arxiv.org/abs/2604.06098v3)
+
 ## CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations
 - **ID**: arxiv_2604.14586v3
 - **Source**: ArXiv

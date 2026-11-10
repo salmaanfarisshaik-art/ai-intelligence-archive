@@ -520,3 +520,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08383v1](http://arxiv.org/abs/2611.08383v1)
 
+## DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection
+- **ID**: arxiv_2611.12760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12760v1](http://arxiv.org/abs/2611.12760v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.01067v3",
+  "schema_version": "1.0",
+  "name": "Worse Forces Can Lead to Better Structures: Trajectory-Level Fine-Tuning of Machine Learning Interatomic Potentials",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.01067v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cond-mat.mtrl-sci",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.01067v3",
+    "updated": "2026-11-09T18:25:56Z",
+    "published": "2025-11-30T20:34:37Z",
+    "title": "Worse Forces Can Lead to Better Structures: Trajectory-Level Fine-Tuning of Machine Learning Interatomic Potentials",
+    "summary": "Machine learning interatomic potentials (MLIPs) are commonly trained and evaluated by their ability to reproduce first-principles energies and forces. Practical value, however, is often determined by downstream processes such as structural relaxation. Much of MLIP literature is motivated by the expectation that improving force accuracy will produce correspondingly better downstream behavior. Although this expectation is natural, it may not hold in practice due to model inaccuracies. Here, we demonstrate that force accuracy and relaxation accuracy can be driven in opposite directions. Starting from pretrained MLIPs, we differentiate through relaxation trajectories and optimize the the final structures. This intervention produces increases in force-prediction errors while substantially reducing structural errors. Importantly, this represents a trade-off between two aspects of physical fidelity: the learned forces become less faithful to first-principles forces, while the resulting relaxed structures become more faithful to first-principles predictions. Rather than observing a discrepancy between local quality and downstream performance, we demonstrate that this discrepancy can be induced through optimization. Our findings suggest that MLIPs need not be optimized as approximations of first-principles forces, but can instead learn task-specific vector fields that guide relaxation trajectories toward more accurate final structures. By propagating supervision through complete relaxation trajectories, our framework captures dependencies between successive predictions that are absent when structure--force pairs are treated independently. More broadly, these results demonstrate that conventional force metrics can provide an incomplete assessment of downstream performance and highlights the importance of evaluating scientific machine-learning models within computational workflows.",
+    "primary_category": "cond-mat.mtrl-sci"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:25:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.01067v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -590,6 +590,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00706v3](http://arxiv.org/abs/2604.00706v3)
 
+## ImplicitBBQ: Benchmarking Implicit Bias in Large Language Models through Characteristic Based Cues
+- **ID**: arxiv_2604.01925v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01925v3](http://arxiv.org/abs/2604.01925v3)
+
 ## Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting
 - **ID**: arxiv_2604.02512v2
 - **Source**: ArXiv
@@ -1279,6 +1284,11 @@
 - **ID**: arxiv_2606.24820v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.24820v2](http://arxiv.org/abs/2606.24820v2)
+
+## Staying In Character: Role-Playing Agents with Perspective-Bounded Memory
+- **ID**: arxiv_2606.25632v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.25632v2](http://arxiv.org/abs/2606.25632v2)
 
 ## AI translation of literary texts is "fine", but readers still prefer human translations
 - **ID**: arxiv_2606.26040v2
@@ -5204,4 +5214,39 @@
 - **ID**: arxiv_2611.10936v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10936v1](http://arxiv.org/abs/2611.10936v1)
+
+## The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?
+- **ID**: arxiv_2611.12750v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12750v1](http://arxiv.org/abs/2611.12750v1)
+
+## PORT: Preference Optimization via Robust Token-Level Reweighting
+- **ID**: arxiv_2611.12763v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12763v1](http://arxiv.org/abs/2611.12763v1)
+
+## Large Language Models as a Universal Searcher for Open-World Automated Machine Learning
+- **ID**: arxiv_2611.12791v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12791v1](http://arxiv.org/abs/2611.12791v1)
+
+## How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors
+- **ID**: arxiv_2611.12820v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12820v1](http://arxiv.org/abs/2611.12820v1)
+
+## WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems
+- **ID**: arxiv_2611.12856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12856v1](http://arxiv.org/abs/2611.12856v1)
+
+## Is Persona Generalization Predictable?
+- **ID**: arxiv_2611.12864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12864v1](http://arxiv.org/abs/2611.12864v1)
+
+## HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents
+- **ID**: arxiv_2611.12872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12872v1](http://arxiv.org/abs/2611.12872v1)
 

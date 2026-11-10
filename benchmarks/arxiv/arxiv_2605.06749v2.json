@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.06749v2",
+  "schema_version": "1.0",
+  "name": "A Statistical Framework for Algorithmic Collective Action with Multiple Collectives",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.06749v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ME",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.06749v2",
+    "updated": "2026-11-09T18:42:38Z",
+    "published": "2026-05-07T15:45:53Z",
+    "title": "A Statistical Framework for Algorithmic Collective Action with Multiple Collectives",
+    "summary": "As learning systems increasingly shape everyday decisions, Algorithmic Collective Action (ACA), i.e., users coordinating changes to shared data to steer model behavior, offers a complement to regulator-side policy and corporate model design. Real-world collective actions have traditionally been decentralized and fragmented into multiple collectives, despite sharing overarching objectives, with each collective differing in size, strategy, and actionable goals. However, most of the ACA literature focuses on single collective settings. To address this, we propose the first comprehensive statistical framework for ACA with multiple collectives acting on the same system. In particular, we focus on collective action in classification, studying how multiple collectives can influence a classifier's behavior. We provide quantitative statistical bounds on the success of the collectives, considering the role and the interplay of the collectives' sizes and the alignment of their goals. We make such bounds computable by each collective with only partial knowledge of other collectives' sizes and strategies. Finally, we numerically illustrate our framework on simulations inspired by interventions for climate adaptation in smart cities, demonstrating the usefulness of our bounds.",
+    "primary_category": "stat.ME"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:42:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.06749v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

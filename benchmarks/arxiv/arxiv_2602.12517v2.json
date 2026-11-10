@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.12517v2",
+  "schema_version": "1.0",
+  "name": "Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.12517v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.12517v2",
+    "updated": "2026-11-09T18:56:51Z",
+    "published": "2026-02-13T01:49:37Z",
+    "title": "Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games",
+    "summary": "The rise of Mean Field Games (MFGs) has fostered a growing family of algorithms designed to solve large-scale multi-agent systems. However, the field currently lacks a standardized evaluation protocol, forcing researchers to rely on bespoke, isolated, and often simplistic environments. This fragmentation makes it difficult to assess the robustness, generalization, and failure modes of emerging methods. To address this gap, we propose a comprehensive benchmark suite for MFGs, focusing on the discrete-time, discrete-space, stationary setting. We introduce a taxonomy of problem classes, ranging from no-interaction and monotone games to potential and dynamics-coupled games, and provide prototypical environments for each. Furthermore, we present MF-Garnets, a method for generating random MFG instances to facilitate rigorous statistical testing. We benchmark a variety of learning algorithms across these environments, including a novel population-based approach (MF-PSO). To our knowledge, this is the first benchmark for MFGs.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-10T12:06:21Z",
+  "last_updated": "2026-11-09T18:56:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.12517v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
