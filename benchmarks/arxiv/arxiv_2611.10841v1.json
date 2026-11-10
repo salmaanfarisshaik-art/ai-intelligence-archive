@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.10841v1",
+  "schema_version": "1.0",
+  "name": "A Gamified Framework for Conflict-Driven Design: Discovering Strategies for Collaborative Resilience with Multi-Agent Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.10841v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.10841v1",
+    "updated": "2026-11-07T16:37:45Z",
+    "published": "2026-11-07T16:37:45Z",
+    "title": "A Gamified Framework for Conflict-Driven Design: Discovering Strategies for Collaborative Resilience with Multi-Agent Learning",
+    "summary": "Conflicting stakeholder objectives make it difficult to coordinate investments in urban resilience. We model conflict-driven urban design as a non-zero-sum digital board game in which stakeholder agents allocate scarce resources and balance individual payoffs against shared urban development and resilience objectives. We use multi-agent reinforcement learning (MARL) to train policies and examine their behavior across three settings. On a 4 x 4 board, learned policies reach about 84% of the total return found by a simulated annealing benchmark. On an 8 x 8 board with spatial and resource constraints, trained agents favor projects that improve resilience in self-play. In a 12 x 12 simulation initialized from historical maps of Tatsumi, Tokyo, trained agents achieve a mean total score of 452.1, compared with 357.3 for a random-policy baseline across 10,000 simulation runs. Gains in adaptability, sustainability, flood resistance, and greenery come with reductions in vitality and density. A human-in-the-loop interface supports replay and lets participants take over stakeholder decisions, providing a testbed for exploring these trade-offs in participatory urban planning.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T16:37:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.10841v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

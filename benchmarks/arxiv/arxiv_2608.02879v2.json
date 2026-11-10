@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.02879v2",
+  "schema_version": "1.0",
+  "name": "Sentence-Level Attribution for Black-Box Large Language Model Outputs via Energy-Based Surrogates",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.02879v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.02879v2",
+    "updated": "2026-11-07T19:28:55Z",
+    "published": "2026-08-03T21:01:41Z",
+    "title": "Sentence-Level Attribution for Black-Box Large Language Model Outputs via Energy-Based Surrogates",
+    "summary": "The widespread adoption of proprietary Large Language Models (LLMs) via closed APIs poses an interpretability challenge. While white-box and gray-box (logit-dependent) attribution methods require internal model access, post-hoc attribution under a strictly black-box, text-only generative regime remains largely unexplored. To address this, we propose a model-agnostic, post-hoc attribution interpreter operating at the sentence level. We first train a transformer-based Energy-Based Model (EBM) as a surrogate to score the consistency between prompt and response sentences based on observed LLM generations. To prevent energy collapse and avoid a focus on superficial artifacts, we design contrastive negative samplers that evaluate partial counterfactual dependencies across prompt and response segments. This learned energy landscape then guides the training of a lightweight interpreter network. After model-specific training, the interpreter operates as a standalone tool; it estimates the influence of prompt sentences on a user-specified output sentence without requiring runtime API queries to the target LLM. Comprehensive experiments demonstrate that our EBM surrogate captures nuanced generative dependencies beyond surface-level heuristics, while the interpreter achieves competitive attribution quality with parameter-efficient, $\\mathcal{O}(1)$ inference.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T19:28:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.02879v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

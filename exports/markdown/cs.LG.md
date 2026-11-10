@@ -835,6 +835,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29806v3](http://arxiv.org/abs/2606.29806v3)
 
+## Aligning Language Models with Selective Prediction
+- **ID**: arxiv_2607.03528v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.03528v2](http://arxiv.org/abs/2607.03528v2)
+
 ## Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
 - **ID**: arxiv_2607.03798v4
 - **Source**: ArXiv
@@ -2864,4 +2869,39 @@
 - **ID**: arxiv_2611.09805v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09805v1](http://arxiv.org/abs/2611.09805v1)
+
+## Learning Biological Hierarchies in Single-Cell Foundation Models
+- **ID**: arxiv_2611.10838v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10838v1](http://arxiv.org/abs/2611.10838v1)
+
+## Self-contained Data Cleaning for Unsupervised Anomaly Detection
+- **ID**: arxiv_2611.10856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10856v1](http://arxiv.org/abs/2611.10856v1)
+
+## Structurally Separated DAG Learning with Multi-Scale Normalized Closure
+- **ID**: arxiv_2611.10860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10860v1](http://arxiv.org/abs/2611.10860v1)
+
+## The Surprising Effectiveness of Deleting Weights in LLM Post-Training
+- **ID**: arxiv_2611.10866v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10866v1](http://arxiv.org/abs/2611.10866v1)
+
+## Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts
+- **ID**: arxiv_2611.10895v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10895v1](http://arxiv.org/abs/2611.10895v1)
+
+## CoupledFlow: One-Step Neural Operators for Coupled Multi-Physics PDEs
+- **ID**: arxiv_2611.10945v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10945v1](http://arxiv.org/abs/2611.10945v1)
+
+## Interpretable Cyber-Physical Attack Detection in Smart Grids: A Leakage-Controlled Multi-Testbed Evaluation of Fusion, Robustness, and Observability Limits
+- **ID**: arxiv_2611.10950v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10950v1](http://arxiv.org/abs/2611.10950v1)
 

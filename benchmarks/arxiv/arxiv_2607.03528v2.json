@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.03528v2",
+  "schema_version": "1.0",
+  "name": "Aligning Language Models with Selective Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.03528v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.03528v2",
+    "updated": "2026-11-07T16:37:20Z",
+    "published": "2026-07-03T17:59:02Z",
+    "title": "Aligning Language Models with Selective Prediction",
+    "summary": "Large language models (LLMs) are increasingly deployed as critical decision-making components in high-stakes real-world AI systems, rendering LLM reliability a foremost practical concern. In this paper, we focus on enhancing LLM reliability through selective prediction (SP), a strategy that allows an LLM to only predict for inputs where it is likely to be correct (i.e., coverage) and hence reduce the error rate (i.e., risk) on that portion of inputs---flagging the remaining inputs for future human discretion. In other words, SP improves LLM reliability by balancing the risk-coverage trade-off and enabling seamless human-AI collaboration. To integrate SP into LLMs, we focus on the LLM post-training alignment stage and propose to align LLMs with SP performance metrics, in contrast with existing LLM alignment methods that focus primarily on correctness or calibration metrics. Specifically, we propose a novel alignment framework, Reinforcement Learning for Selection Reward (RLSR), which targets the area under the risk-coverage curve (AURC)---a popular SP performance metric---as its alignment objective. RLSR achieves substantially better risk-coverage trade-off compared to multiple alignment baselines on both in-domain and out-of-domain tasks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T16:37:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.03528v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.10856v1",
+  "schema_version": "1.0",
+  "name": "Self-contained Data Cleaning for Unsupervised Anomaly Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.10856v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.10856v1",
+    "updated": "2026-11-07T17:09:47Z",
+    "published": "2026-11-07T17:09:47Z",
+    "title": "Self-contained Data Cleaning for Unsupervised Anomaly Detection",
+    "summary": "Training datasets for unsupervised anomaly detection are often assumed to be anomaly-free, but in practice, they frequently contain malicious or anomalous contamination. This contamination severely degrades the dependability and security of downstream detection models. While some contamination-robust methods exist, they rarely generalize across different model architectures and typically rely on a priori knowledge of the contamination ratio\\textemdash information that is rarely available in real-world security operations. In this paper, we propose a novel, self-contained preprocessing framework for anomaly detection that identifies and removes training set contamination without relying on known contamination ratios. Our approach performs a dynamic analysis of the cosine similarity between each data point and its reconstruction during the early training stages of an auto-encoder, mapping points into a dynamic space where anomalous regions naturally exhibit lower density. By executing ``hard cleaning''\\textemdash removing all identified anomalous candidates from the training pool\\textemdash we systematically improve data quality. Because this cleaning occurs at the data level, the security and reliability improvements generalize seamlessly across various downstream anomaly detection architectures. Evaluating our framework across 8 distinct models and 10 security-relevant datasets, our approach achieves up to 100\\% contamination reduction, yielding average improvements of 11.2\\% in F1 score and 7.3\\% in classification accuracy.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T17:09:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.10856v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

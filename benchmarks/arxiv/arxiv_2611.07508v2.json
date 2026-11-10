@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.07508v2",
+  "schema_version": "1.0",
+  "name": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.07508v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.07508v2",
+    "updated": "2026-11-07T16:07:39Z",
+    "published": "2026-11-05T06:13:41Z",
+    "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
+    "summary": "AI agents are expanding from personal assistance into professional services delivered to external clients on an individual's behalf. We define a personal external service agent as one authorized and managed on an ongoing basis by an individual. It uses that person's knowledge, experience, and professional methods to accept client work, deliver results, and provide follow-up support. Client feedback, professional reputation, and potential income may give individuals more direct incentives to keep developing and improving agents for external services than for personal assistance. Yet building a safe, reliable external service system independently remains difficult, even with AI-assisted programming. People without AI expertise need platforms that are easy to use and safe to operate, with support for creating, developing, and running their agents. We propose the DelegateEval evaluation framework and experimental design to assess these platforms and guide their development. The framework covers eight dimensions: ease of creation and management, service discovery and matching, delivery quality, expertise inheritance, service continuity, learning and improvement, reliability and governance, and efficiency and value. A complete dataset, executable environment, and unified scoring protocol remain to be developed, and empirical validation across foundation models has yet to be conducted.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T16:07:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.07508v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

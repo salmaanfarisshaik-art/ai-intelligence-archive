@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.00022v2",
+  "schema_version": "1.0",
+  "name": "Diagnosing Prototype Estimation in Few-Shot Class-Incremental Learning: Training-Free Geometry Selection and Unlabeled-Query Prototype Rectification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.00022v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.00022v2",
+    "updated": "2026-11-07T18:54:59Z",
+    "published": "2026-10-01T18:42:05Z",
+    "title": "Diagnosing Prototype Estimation in Few-Shot Class-Incremental Learning: Training-Free Geometry Selection and Unlabeled-Query Prototype Rectification",
+    "summary": "Frozen visual encoders make prototype heads competitive in few-shot class-incremental learning (FSCIL), but it remains unclear how much of the residual head gap is sensitive to noisy novel-class means rather than to the subsequent changes introduced by classifier refitting. On identical features, we construct a retrospective matched counterfactual: first replace each five-shot novel mean with its complete-data counterpart under fixed cosine scoring, then fit a linear probe. Across sixteen strong encoder dataset pairs, mean replacement accounts for the majority of this ordered gap. Shot and classwise diagnostics support a finite-sample mechanism, whereas a weaker base-only encoder does not satisfy the same criterion. This diagnosis motivates ShrinkSel, a support-only selector over prototype radius and covariance shrinkage whose family contains shared LDA as an exact fallback. Across sixteen evaluated pairs, it improves LDA on fifteen by 0.04-1.52 points and selects the exact LDA endpoint on Aircraft. We further introduce Query Prototype Rectification (QPR), a batch-transductive extension that uses gated unlabeled queries to update novel directions while preserving the selected geometry. On CLIP ViT-B/16, QPR adds 1.21-2.03 points; exact query-wise self-exclusion retains the benefit, showing that the gains do not require self-inclusion. The update repairs scarce novel prototypes at a measurable base-class cost and weakens with plentiful supports or very small cohorts. Thus, the evidence available for prototype estimation is a central constraint in frozen-feature FSCIL.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T18:54:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.00022v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

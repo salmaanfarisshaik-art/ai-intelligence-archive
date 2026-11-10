@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26495v3",
+  "schema_version": "1.0",
+  "name": "Video-FLAIR: Not Whether to Reason, But How",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26495v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26495v3",
+    "updated": "2026-11-07T19:26:43Z",
+    "published": "2026-08-27T00:34:49Z",
+    "title": "Video-FLAIR: Not Whether to Reason, But How",
+    "summary": "Multimodal queries can require different types of reasoning. Some can be answered via perceptual reasoning, extracting information directly from the visual signal, while others require compositional reasoning that combines observations or deliberative reasoning that evaluates competing hypotheses. However, many existing methods apply a uniform reasoning strategy across queries, leading to unnecessary computation on simple tasks and insufficient reasoning on complex ones. We introduce Video-FLAIR, a training framework that learns to select the appropriate reasoning mode for each query using reinforcement learning. During training, the model generates responses under all three modes for the same prompt, enabling direct comparison. A composite reward compares these responses to favor the most effective one based on correctness, grounding, and cost, while discouraging unsupported or misaligned deliberation. This yields a supervision signal for learning adaptive reasoning without per-query annotations. Video-FLAIR improves accuracy over the Qwen2.5-VL base model by +5.4 on MathVista, +4.8 on Video-Holmes, and +4.8 on Video-MMMU, while reducing average token usage to 95 compared to 417 for always-thinking baselines.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T19:26:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26495v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

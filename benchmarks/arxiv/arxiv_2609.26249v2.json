@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.26249v2",
+  "schema_version": "1.0",
+  "name": "PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.26249v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.26249v2",
+    "updated": "2026-11-07T19:07:08Z",
+    "published": "2026-08-13T05:12:09Z",
+    "title": "PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models",
+    "summary": "Diffusion language models (dLLMs), such as LLaDA and Dream, have become competitive with autoregressive (AR) LLMs in generation quality while supporting native parallel decoding. A standard acceleration strategy is block-wise decoding, where each forward pass predicts a block of length B and commits high-confidence tokens. Confidence-threshold commitment adapts which tokens are accepted, but a fixed B still constrains the prediction scope. Existing horizon policies use manually chosen sizes, volatility statistics, or candidate-boundary scores. We instead use the model's own per-step confidence: in-window confidence typically follows a context-dependent cliff, providing a direct signal for adapting the look-ahead horizon. In this work, we propose PACE-dLLM, which refits this parametric cliff periodically in closed form, sets the next horizon at a shared confidence anchor, and retains confidence-threshold token commitment. Under a saturated-yield abstraction with iid, policy-independent monotone profiles, the oracle horizon is the smallest attaining maximal per-pass yield and improves the asymptotic forward-pass rate when fixed blocks undershoot it with positive probability. On four reasoning and code benchmarks across two open-source dLLM backbones, PACE-dLLM achieves the best average accuracy among the evaluated decoders on both backbones, with average throughput speedups of 5.23x on LLaDA and 3.06x on Dream (up to 8.52x on LLaDA MATH) over the unaccelerated semi-AR baseline, advancing the quality-throughput Pareto frontier.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T19:07:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.26249v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

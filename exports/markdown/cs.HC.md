@@ -250,6 +250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35757v1](http://arxiv.org/abs/2610.35757v1)
 
+## Incorporating Machine-Others: An Enactive Exploration of Human-LLM Interactions
+- **ID**: arxiv_2610.39869v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.39869v2](http://arxiv.org/abs/2610.39869v2)
+
 ## Micro-Edits: Computational Support for Fine-Scale Edits in Film
 - **ID**: arxiv_2610.40653v1
 - **Source**: ArXiv

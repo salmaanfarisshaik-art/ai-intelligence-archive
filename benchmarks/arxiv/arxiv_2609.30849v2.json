@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30849v2",
+  "schema_version": "1.0",
+  "name": "Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30849v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30849v2",
+    "updated": "2026-11-07T17:40:23Z",
+    "published": "2026-09-25T05:53:13Z",
+    "title": "Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength",
+    "summary": "Prior work has examined the self-consistency of LLM-generated explanations using surface-level perturbation methods. However, the strength of these perturbations is not explicitly measured and controlled. In this work, we propose an LLM-as-a-judge approach to measure perturbation strength in a unified manner across input and CoT perturbations. We then evaluate the self-consistency in explanations generated from various LLMs under controlled strength conditions, ensuring a fair comparison across perturbation types. Experiments show that our proposed LLM-based perturbation strength measure outperforms other embedding- and probability-based approaches and that input perturbations generally affect LLMs more strongly than CoT perturbations. Our work suggests that judgments about a model's self-consistency is fair only within the same perturbation type.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T17:40:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30849v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

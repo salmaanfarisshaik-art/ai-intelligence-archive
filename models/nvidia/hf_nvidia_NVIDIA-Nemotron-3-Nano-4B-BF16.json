@@ -45,14 +45,15 @@
       "base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2",
       "license:other",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "deploy:sagemaker"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
     "createdAt": "2026-03-07T01:23:35.000Z",
     "modelId": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16"
   },
-  "retrieval_timestamp": "2026-11-09T20:24:47Z",
+  "retrieval_timestamp": "2026-11-10T03:09:52Z",
   "last_updated": "",
   "links": {
     "related_models": [],

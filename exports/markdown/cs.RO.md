@@ -1035,6 +1035,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22372v1](http://arxiv.org/abs/2610.22372v1)
 
+## Reason-guided Human Reward Modeling for Preference-based Reinforcement Learning
+- **ID**: arxiv_2610.23550v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23550v2](http://arxiv.org/abs/2610.23550v2)
+
 ## Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy
 - **ID**: arxiv_2610.26848v1
 - **Source**: ArXiv
@@ -1264,4 +1269,9 @@
 - **ID**: arxiv_2611.09892v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09892v1](http://arxiv.org/abs/2611.09892v1)
+
+## Zero-Shot VLA Adaptation with Retrieved Guidance
+- **ID**: arxiv_2611.10894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10894v1](http://arxiv.org/abs/2611.10894v1)
 

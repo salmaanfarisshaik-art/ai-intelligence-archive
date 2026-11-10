@@ -410,3 +410,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09802v1](http://arxiv.org/abs/2611.09802v1)
 
+## Hybrid Source Code Change Impact Analysis
+- **ID**: arxiv_2611.10958v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10958v1](http://arxiv.org/abs/2611.10958v1)
+

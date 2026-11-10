@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.03102v2",
+  "schema_version": "1.0",
+  "name": "WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.03102v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.03102v2",
+    "updated": "2026-11-07T20:09:12Z",
+    "published": "2026-09-02T19:28:24Z",
+    "title": "WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation",
+    "summary": "Deformable linear objects such as wires and cables are difficult to segment because they are thin, highly deformable, and frequently self-occluded, while large-scale instance-level annotations are expensive to obtain in real scenes. Existing resources either focus on cable tracing or semantic segmentation under constrained settings, or generate visually plausible images without physically grounded wire deformation. We present WireSeg-32k, a synthetic dataset for wire instance segmentation with 32,000 RGB images, instance masks, depth maps, and a complementary real-world test set with annotations. To generate this dataset, we develop DeformX, a co-simulation pipeline that couples Cosserat-rod dynamics with photorealistic Isaac Sim rendering, enabling physically plausible, contact-consistent wire shapes, CAD-based wire assets, and diverse visually grounded scenes. As a simple baseline, LoRA fine-tuning SAM3 on WireSeg-32k alone improves real-world mAP@75 by 10.2% over the off-the-shelf model, showing that physically grounded synthetic data can transfer to real wire perception.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T20:09:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.03102v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

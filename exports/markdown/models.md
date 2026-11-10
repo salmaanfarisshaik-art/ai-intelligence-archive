@@ -1348,6 +1348,10 @@
 - **ID**: model_dealignai_nanbeige4_3_33b_uncensored_gguf
 - **Source**: 
 
+## dealignai/Ornith-1.5-122B-UNCENSORED-GGUF
+- **ID**: model_dealignai_ornith_1_5_122b_uncensored_gguf
+- **Source**: 
+
 ## decart-ai/Kimi-K2.7-Code-NVFP4
 - **ID**: model_decart_ai_kimi_k2_7_code_nvfp4
 - **Source**: 
@@ -4302,6 +4306,10 @@
 
 ## naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B
 - **ID**: model_naver_hyperclovax_hyperclovax_seed_vision_instruct_3b
+- **Source**: 
+
+## neopolita/Qwen3.6-11B-A3B-Niwaki-4bit-GGUF
+- **ID**: model_neopolita_qwen3_6_11b_a3b_niwaki_4bit_gguf
 - **Source**: 
 
 ## nerkyor/Qwen3.6-27B-DSV4Pro-Thinking-Distill
@@ -7806,6 +7814,10 @@
 
 ## warshanks/Qwen3-4B-Instruct-2507-AWQ
 - **ID**: model_warshanks_qwen3_4b_instruct_2507_awq
+- **Source**: 
+
+## webAI-Official/TwIL-8B
+- **ID**: model_webai_official_twil_8b
 - **Source**: 
 
 ## webAI-Official/TwIL-LM3

@@ -1585,6 +1585,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02569v1](http://arxiv.org/abs/2608.02569v1)
 
+## Sentence-Level Attribution for Black-Box Large Language Model Outputs via Energy-Based Surrogates
+- **ID**: arxiv_2608.02879v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02879v2](http://arxiv.org/abs/2608.02879v2)
+
 ## When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Diagnostic for Machine Collectives
 - **ID**: arxiv_2608.03722v2
 - **Source**: ArXiv
@@ -2424,6 +2429,11 @@
 - **ID**: arxiv_2608.23565v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23565v1](http://arxiv.org/abs/2608.23565v1)
+
+## Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment
+- **ID**: arxiv_2608.24046v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24046v2](http://arxiv.org/abs/2608.24046v2)
 
 ## Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight
 - **ID**: arxiv_2608.24314v2
@@ -4280,6 +4290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26787v1](http://arxiv.org/abs/2610.26787v1)
 
+## LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences
+- **ID**: arxiv_2610.26787v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26787v2](http://arxiv.org/abs/2610.26787v2)
+
 ## SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models
 - **ID**: arxiv_2610.26793v1
 - **Source**: ArXiv
@@ -4875,6 +4890,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06911v1](http://arxiv.org/abs/2611.06911v1)
 
+## SAVeR$^2$: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards
+- **ID**: arxiv_2611.07482v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.07482v2](http://arxiv.org/abs/2611.07482v2)
+
+## DelegateEval: Evaluating Platforms for Personal External Service Agents
+- **ID**: arxiv_2611.07508v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.07508v2](http://arxiv.org/abs/2611.07508v2)
+
 ## Enhancing Local and Global Structure in Compressed AI Agent Memory
 - **ID**: arxiv_2611.08341v1
 - **Source**: ArXiv
@@ -4984,4 +5009,54 @@
 - **ID**: arxiv_2611.09891v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09891v1](http://arxiv.org/abs/2611.09891v1)
+
+## Multimodal Models Can See, But Can They Think? A Study of Turkish Visual Reasoning
+- **ID**: arxiv_2611.10831v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10831v1](http://arxiv.org/abs/2611.10831v1)
+
+## A Gamified Framework for Conflict-Driven Design: Discovering Strategies for Collaborative Resilience with Multi-Agent Learning
+- **ID**: arxiv_2611.10841v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10841v1](http://arxiv.org/abs/2611.10841v1)
+
+## Factor Rank: A Canonical Algebraic Generalization of Tree Decision Diagrams
+- **ID**: arxiv_2611.10842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10842v1](http://arxiv.org/abs/2611.10842v1)
+
+## What Broke & Why: Practical Lessons from Reinforcement Learning Post-Training
+- **ID**: arxiv_2611.10844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10844v1](http://arxiv.org/abs/2611.10844v1)
+
+## Inference for Reasoning Models: Practical Lessons from Evaluation and Serving
+- **ID**: arxiv_2611.10845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10845v1](http://arxiv.org/abs/2611.10845v1)
+
+## Polynomial Denoisers on the Image Manifold: Volterra Networks for Self-Contained Pixel Diffusion
+- **ID**: arxiv_2611.10857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10857v1](http://arxiv.org/abs/2611.10857v1)
+
+## Keeping LLM Agents on Procedure: Executable Finite-State Control for Long-Horizon Instruction Fidelity
+- **ID**: arxiv_2611.10884v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10884v1](http://arxiv.org/abs/2611.10884v1)
+
+## Approximate Recall, Approximate Forecasts: Recall as a Diagnostic for LLM Forecasting Errors
+- **ID**: arxiv_2611.10891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10891v1](http://arxiv.org/abs/2611.10891v1)
+
+## Complementarity without ground truth?
+- **ID**: arxiv_2611.10893v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10893v1](http://arxiv.org/abs/2611.10893v1)
+
+## How Short Is Too Short? Length-Conditional Calibration and Abstention for Detecting AI-Generated Text
+- **ID**: arxiv_2611.10901v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10901v1](http://arxiv.org/abs/2611.10901v1)
 

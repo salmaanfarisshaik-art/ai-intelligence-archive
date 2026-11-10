@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.10848v1",
+  "schema_version": "1.0",
+  "name": "MultiTurnRoute: A Platform for Building and Evaluating Multi-Turn LLM Routers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.10848v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.10848v1",
+    "updated": "2026-11-07T16:53:08Z",
+    "published": "2026-11-07T16:53:08Z",
+    "title": "MultiTurnRoute: A Platform for Building and Evaluating Multi-Turn LLM Routers",
+    "summary": "In a multi-turn conversation, the choice of language model at one turn can affect which model should answer the next. The selected model's reply shapes the context for the next query, and its cached prompt prefix can reduce the cost of using that model again. We introduce MultiTurnRoute, a platform for building and evaluating multi-turn LLM routers. A shared interface gives built-in and user-defined routers the current query, dialogue history, and an estimate of each model's reusable prefix length. Our routing algorithm, Chain-of-Route (CoR), uses a learned gate over recent and recurrent dialogue history to predict response quality and estimates cost from each model's reusable prefix. MultiTurnRoute Arena ranks routers on recorded conversations and compares session quality and cost in interactive runs where a simulated user responds to each reply. On a benchmark drawn from WildChat and LMSYS-Chat-1M with per-turn quality annotations for five LLMs, CoR reduces the normalized cost required to match the strongest model's quality by up to 20.3% relative to the strongest routing baseline, while matching or improving peak response quality.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T16:53:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.10848v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

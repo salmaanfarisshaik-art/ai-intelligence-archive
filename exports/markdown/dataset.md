@@ -1448,7 +1448,7 @@
 - **ID**: hf_ds_6ae993485240eb6b7ac68d30
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K](https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K)
-- **Tags**: arxiv:2611.06817, egocentric-video, hand-motion, lerobot, modality:video, region:us, robot-learning, robotics, task_categories:robotics
+- **Tags**: arxiv:2611.06817, egocentric-video, hand-motion, lerobot, region:us, robot-learning, robotics, task_categories:robotics
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

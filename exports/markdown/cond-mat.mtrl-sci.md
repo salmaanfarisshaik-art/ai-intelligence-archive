@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.34021v1](http://arxiv.org/abs/2610.34021v1)
 
+## A Geometry-Guided Feature-Space Framework for Interpretable Unsupervised 4D-STEM Analysis of Complex Multiphase Materials
+- **ID**: arxiv_2611.10853v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10853v1](http://arxiv.org/abs/2611.10853v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.10838v1",
+  "schema_version": "1.0",
+  "name": "Learning Biological Hierarchies in Single-Cell Foundation Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.10838v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.10838v1",
+    "updated": "2026-11-07T16:31:51Z",
+    "published": "2026-11-07T16:31:51Z",
+    "title": "Learning Biological Hierarchies in Single-Cell Foundation Models",
+    "summary": "Cell types are organized by taxonomic relationships that define lineages in the so-called cell ontology. However, most existing foundation models typically ignore cell-type lineages encoded in this cell ontology. We introduce a biologically informed foundation model called scOntoFM, which embeds hierarchical cell ontology into representation learning. Using Lowest Common Ancestor (LCA) distances from the ontology graph, our framework pairs efficient offline triplet sampling with hierarchical cell-ontology learning. This approach jointly preserves local neighborhoods and shapes the global embedding geometry to reflect the ontology structure. Across diverse cell- and gene-level benchmarks, the model consistently improves performance, with especially strong gains in zero-shot settings. Our model also balances batch integration with biological structure preservation, providing complementary perspectives to existing embedding evaluation frameworks and supporting scalable biological discovery.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T16:31:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.10838v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

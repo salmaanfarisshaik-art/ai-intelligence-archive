@@ -3550,6 +3550,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24983v1](http://arxiv.org/abs/2609.24983v1)
 
+## PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models
+- **ID**: arxiv_2609.26249v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26249v2](http://arxiv.org/abs/2609.26249v2)
+
 ## TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling
 - **ID**: arxiv_2609.26347v2
 - **Source**: ArXiv
@@ -3704,6 +3709,11 @@
 - **ID**: arxiv_2609.30250v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30250v1](http://arxiv.org/abs/2609.30250v1)
+
+## Enhancing Assessment of Self-Consistency in LLM Explanations using Perturbation Strength
+- **ID**: arxiv_2609.30849v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30849v2](http://arxiv.org/abs/2609.30849v2)
 
 ## Evaluating Cultural Awareness of LLMs for Haitian Creole
 - **ID**: arxiv_2609.31506v1
@@ -5154,4 +5164,44 @@
 - **ID**: arxiv_2611.09868v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09868v1](http://arxiv.org/abs/2611.09868v1)
+
+## Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics
+- **ID**: arxiv_2611.10840v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10840v1](http://arxiv.org/abs/2611.10840v1)
+
+## MultiTurnRoute: A Platform for Building and Evaluating Multi-Turn LLM Routers
+- **ID**: arxiv_2611.10848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10848v1](http://arxiv.org/abs/2611.10848v1)
+
+## KeyASRBench: Measuring Whole-Phrase Keyword Preservation in Real-World ASR
+- **ID**: arxiv_2611.10852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10852v1](http://arxiv.org/abs/2611.10852v1)
+
+## SCorPion: A Strategic, Controllable and Personified Conversational Companion
+- **ID**: arxiv_2611.10906v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10906v1](http://arxiv.org/abs/2611.10906v1)
+
+## Pole or Vector? Encoders Capture Bangla Compound Verbs, but LLMs Read Them Literally
+- **ID**: arxiv_2611.10909v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10909v1](http://arxiv.org/abs/2611.10909v1)
+
+## DeepFinance: Can AI Diligence a $100MM Deal?
+- **ID**: arxiv_2611.10926v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10926v1](http://arxiv.org/abs/2611.10926v1)
+
+## Gendered Misclassification from Surname-Based Race Imputation
+- **ID**: arxiv_2611.10931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10931v1](http://arxiv.org/abs/2611.10931v1)
+
+## Can small transformers learn the language of Coxeter groups?
+- **ID**: arxiv_2611.10936v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10936v1](http://arxiv.org/abs/2611.10936v1)
 

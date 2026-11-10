@@ -3930,6 +3930,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26105v1](http://arxiv.org/abs/2608.26105v1)
 
+## Video-FLAIR: Not Whether to Reason, But How
+- **ID**: arxiv_2608.26495v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26495v3](http://arxiv.org/abs/2608.26495v3)
+
 ## SpatialCrafter: Single Image World Modeling with Generative 3D Proxies
 - **ID**: arxiv_2608.27073v2
 - **Source**: ArXiv
@@ -4234,6 +4239,11 @@
 - **ID**: arxiv_2609.03080v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.03080v3](http://arxiv.org/abs/2609.03080v3)
+
+## WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation
+- **ID**: arxiv_2609.03102v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.03102v2](http://arxiv.org/abs/2609.03102v2)
 
 ## Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving
 - **ID**: arxiv_2609.04070v1
@@ -7240,6 +7250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32978v1](http://arxiv.org/abs/2610.32978v1)
 
+## TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens
+- **ID**: arxiv_2610.33857v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33857v3](http://arxiv.org/abs/2610.33857v3)
+
 ## TurboWAM: Learning What Matters for Fast World Action Models
 - **ID**: arxiv_2610.33941v1
 - **Source**: ArXiv
@@ -7469,6 +7484,11 @@
 - **ID**: arxiv_2610.42152v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42152v1](http://arxiv.org/abs/2610.42152v1)
+
+## Diagnosing Prototype Estimation in Few-Shot Class-Incremental Learning: Training-Free Geometry Selection and Unlabeled-Query Prototype Rectification
+- **ID**: arxiv_2611.00022v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00022v2](http://arxiv.org/abs/2611.00022v2)
 
 ## Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs
 - **ID**: arxiv_2611.00892v2
@@ -7710,6 +7730,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06918v1](http://arxiv.org/abs/2611.06918v1)
 
+## ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation
+- **ID**: arxiv_2611.07658v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.07658v2](http://arxiv.org/abs/2611.07658v2)
+
 ## 4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering
 - **ID**: arxiv_2611.08342v1
 - **Source**: ArXiv
@@ -7804,4 +7829,39 @@
 - **ID**: arxiv_2611.09894v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09894v1](http://arxiv.org/abs/2611.09894v1)
+
+## Fine-resolution land-use segmentation and synthetic image-label augmentation in the Kathmandu Valley
+- **ID**: arxiv_2611.10847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10847v1](http://arxiv.org/abs/2611.10847v1)
+
+## Beyond Bit Matching: Orthogonal Watermarks for Collusion-Resistant Image Fingerprinting
+- **ID**: arxiv_2611.10858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10858v1](http://arxiv.org/abs/2611.10858v1)
+
+## Interactive Person Retrieval with On-the-Fly Visual Feedback
+- **ID**: arxiv_2611.10869v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10869v1](http://arxiv.org/abs/2611.10869v1)
+
+## REDiff-AD: No Training and No Target Masks for Industrial Anomaly Image Generation via Diversity-Driven In-Context MMDiT
+- **ID**: arxiv_2611.10875v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10875v1](http://arxiv.org/abs/2611.10875v1)
+
+## Beyond Real or Fake: A Dual-Channel Authenticity and Reasoning Protocol for Photographic Assessment
+- **ID**: arxiv_2611.10908v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10908v1](http://arxiv.org/abs/2611.10908v1)
+
+## Remembering to Reason: Structured Memory for Scene and Workflow Understanding in Robot-Assisted Surgery
+- **ID**: arxiv_2611.10917v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10917v1](http://arxiv.org/abs/2611.10917v1)
+
+## Semantic Synthesis over Brute-Force Search: LLM-Guided Transformation Design for Efficient Learning
+- **ID**: arxiv_2611.10940v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10940v1](http://arxiv.org/abs/2611.10940v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.10831v1",
+  "schema_version": "1.0",
+  "name": "Multimodal Models Can See, But Can They Think? A Study of Turkish Visual Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.10831v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.10831v1",
+    "updated": "2026-11-07T16:20:39Z",
+    "published": "2026-11-07T16:20:39Z",
+    "title": "Multimodal Models Can See, But Can They Think? A Study of Turkish Visual Reasoning",
+    "summary": "Vision-Language Models have had massive leaps in recent years. Yet, when tested on high-level cognitive tasks like pattern completion, abstract logic, and relational reasoning, they still fall short. This limitation stems from the models' lack of ability to find out underlying rules and maintain constant intermediate steps, rather than merely deciding on the correct option. To research these shortcomings, this study analyzes visual reasoning performance throughout a multilingual evaluation framework encompassing the BİLSEM, MM-IQ, Visual Puzzles, and PuzzleVQA datasets. We evaluate various data mixing strategies and supervised fine-tuning (SFT) methods. We observed that a correct answer does not always mean the reasoning chain is valid. Because of this, we adopt an LLM-as-a-Judge approach to assess the quality of reasoning beyond final answer accuracy. Our experimental results reveal that baseline models often exhibit more stable reasoning compared to fine-tuned counterparts. Most importantly, we observe that SFT can lead to model collapse, manifesting as infinite text loops or empty outputs. The study concludes that current VLMs still struggle with abstract visual reasoning.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-10T03:09:51Z",
+  "last_updated": "2026-11-07T16:20:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.10831v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
