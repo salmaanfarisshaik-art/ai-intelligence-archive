@@ -1037,6 +1037,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bambok_license_plates_700k
+- **Source**: 
+
+## 
 - **ID**: dataset_bangumibase_onepiece
 - **Source**: 
 
@@ -1629,6 +1633,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_coatfusion_coat_fusion_assets_anonymous
+- **Source**: 
+
+## 
 - **ID**: dataset_code_search_net_code_search_net
 - **Source**: 
 
@@ -1646,6 +1654,10 @@
 
 ## 
 - **ID**: dataset_codeparrot_github_code_clean
+- **Source**: 
+
+## 
+- **ID**: dataset_codepawl_abo_glb
 - **Source**: 
 
 ## 
@@ -1782,6 +1794,10 @@
 
 ## 
 - **ID**: dataset_cybergym_iclr26_cybergym
+- **Source**: 
+
+## 
+- **ID**: dataset_dacomp_dacomp_de_gold
 - **Source**: 
 
 ## 
@@ -2209,6 +2225,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ehneriinurhi_copyright_video_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_ehovy_race
 - **Source**: 
 
@@ -2329,6 +2349,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ethnic_voices_tz_ethnic_voices_tanzania
+- **Source**: 
+
+## 
 - **ID**: dataset_ethz_food101
 - **Source**: 
 
@@ -2398,6 +2422,10 @@
 
 ## 
 - **ID**: dataset_facebook_xnli
+- **Source**: 
+
+## 
+- **ID**: dataset_falcon79epok_symbion_multi_ohlcv
 - **Source**: 
 
 ## 
@@ -2842,6 +2870,10 @@
 
 ## 
 - **ID**: dataset_gnoixavdta_m3ds
+- **Source**: 
+
+## 
+- **ID**: dataset_gnucleus_ai_cad_gen_freecad_bench_v3
 - **Source**: 
 
 ## 
@@ -4581,6 +4613,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn14_content_20261027be6e
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn15_content_202604259157
 - **Source**: 
 
@@ -4865,6 +4901,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn18_content_202610176b94
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn19_content_202607060b55
 - **Source**: 
 
@@ -4922,6 +4962,10 @@
 
 ## 
 - **ID**: dataset_icdn20_content_202610042c1c
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn20_content_20261017d5b5
 - **Source**: 
 
 ## 
@@ -5102,6 +5146,10 @@
 
 ## 
 - **ID**: dataset_imageomics_mmla_opc
+- **Source**: 
+
+## 
+- **ID**: dataset_imageomics_treeoflife_10m
 - **Source**: 
 
 ## 
@@ -7053,6 +7101,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mylyu_m4raw_brain
+- **Source**: 
+
+## 
 - **ID**: dataset_mzx_dilutionrisk_data
 - **Source**: 
 
@@ -7394,6 +7446,10 @@
 
 ## 
 - **ID**: dataset_nvidia_helpsteer2
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_hiliftaeroml
 - **Source**: 
 
 ## 
@@ -8038,6 +8094,10 @@
 
 ## 
 - **ID**: dataset_pecky_0_se
+- **Source**: 
+
+## 
+- **ID**: dataset_peetpedro_ultrawhale_dogfood
 - **Source**: 
 
 ## 
@@ -8870,6 +8930,10 @@
 
 ## 
 - **ID**: dataset_sanjay810_mv2_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_sanket3dx_medicine_db
 - **Source**: 
 
 ## 
@@ -9981,6 +10045,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_umtri_matpredict
+- **Source**: 
+
+## 
 - **ID**: dataset_unfazed07_music_avqa
 - **Source**: 
 
@@ -10862,6 +10930,10 @@
 
 ## 
 - **ID**: dataset_zmodelerlover_amd_nr
+- **Source**: 
+
+## 
+- **ID**: dataset_zongowo111_v2_crypto_ohlcv_data
 - **Source**: 
 
 ## 

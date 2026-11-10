@@ -46844,6 +46844,11 @@
   ],
   "caregivers": [
     {
+      "entity_id": "rss_https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "arxiv_2606.19247v1",
       "match_type": "exact",
       "score": 2.0
@@ -59810,11 +59815,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_falcon79epok_symbion_multi_ohlcv",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_fastvideo_wan_syn_77x448x832_600k",
       "match_type": "exact",
       "score": 1.5
@@ -63906,6 +63906,11 @@
     },
     {
       "entity_id": "dataset_stereo_dataset_stereo_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -101502,6 +101507,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/introducing-businesses-chatgpt",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/introducing-chatgpt-agent",
       "match_type": "exact",
       "score": 3.0
@@ -102263,6 +102273,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/heimstaden",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "match_type": "exact",
       "score": 1.0
     },
@@ -120414,6 +120429,11 @@
     },
     {
       "entity_id": "dataset_yijingguo_panocity",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "match_type": "exact",
       "score": 1.0
     },
@@ -185640,6 +185660,11 @@
     },
     {
       "entity_id": "dataset_mueller91_replaydf",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/ai-effect-on-freelance-work",
       "match_type": "exact",
       "score": 1.0
     }
@@ -389640,11 +389665,6 @@
   "curb": [
     {
       "entity_id": "alpaca_1982644316100807607",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_nvidia_physicalai_robotics_locomanipulation_grail",
       "match_type": "exact",
       "score": 1.0
     }

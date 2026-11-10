@@ -696,6 +696,10 @@
 - **ID**: model_bartowski_mistral_small_24b_instruct_2501_gguf
 - **Source**: 
 
+## bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF
+- **ID**: model_bartowski_mistralai_devstral_small_2_24b_instruct_2512_gguf
+- **Source**: 
+
 ## bartowski/mlabonne_Qwen3-8B-abliterated-GGUF
 - **ID**: model_bartowski_mlabonne_qwen3_8b_abliterated_gguf
 - **Source**: 
@@ -842,6 +846,10 @@
 
 ## bartowski/TheDrummer_Cydonia-24B-v4.3-GGUF
 - **ID**: model_bartowski_thedrummer_cydonia_24b_v4_3_gguf
+- **Source**: 
+
+## bartowski/TheDrummer_Magidonia-24B-v4.3-GGUF
+- **ID**: model_bartowski_thedrummer_magidonia_24b_v4_3_gguf
 - **Source**: 
 
 ## bartowski/THUDM_GLM-4-32B-0414-GGUF
@@ -1356,6 +1364,10 @@
 - **ID**: model_decart_ai_kimi_k2_7_code_nvfp4
 - **Source**: 
 
+## deep-principle/Hydrogen-1.0
+- **ID**: model_deep_principle_hydrogen_1_0
+- **Source**: 
+
 ## deepcogito/cogito-v1-preview-qwen-32B
 - **ID**: model_deepcogito_cogito_v1_preview_qwen_32b
 - **Source**: 
@@ -1842,6 +1854,10 @@
 
 ## entrick/Security-SLM-Gemma-4-E2B-it-GGUF
 - **ID**: model_entrick_security_slm_gemma_4_e2b_it_gguf
+- **Source**: 
+
+## ErtasAI/MedErtas-v0.1-31B-LS
+- **ID**: model_ertasai_medertas_v0_1_31b_ls
 - **Source**: 
 
 ## erwanf/gpt2-mini
@@ -2382,6 +2398,10 @@
 
 ## huihui-ai/Huihui-gpt-oss-20b-BF16-abliterated
 - **ID**: model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated
+- **Source**: 
+
+## huihui-ai/Huihui-gpt-oss-20b-mxfp4-abliterated-v2
+- **ID**: model_huihui_ai_huihui_gpt_oss_20b_mxfp4_abliterated_v2
 - **Source**: 
 
 ## huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
@@ -2976,6 +2996,10 @@
 - **ID**: model_legraphista_meta_llama_3_70b_instruct_abliterated_v3_5_imat_gguf
 - **Source**: 
 
+## lenalibon/Meta-Llama-3-8B-Instruct-heretic-mlabonne
+- **ID**: model_lenalibon_meta_llama_3_8b_instruct_heretic_mlabonne
+- **Source**: 
+
 ## LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
 - **ID**: model_lessthanthreeai_qwen3_8_27b_humanlike_chat_gguf
 - **Source**: 
@@ -3050,6 +3074,10 @@
 
 ## LiquidAI/LFM2-24B-A2B
 - **ID**: model_liquidai_lfm2_24b_a2b
+- **Source**: 
+
+## LiquidAI/LFM2-350M-Extract-GGUF
+- **ID**: model_liquidai_lfm2_350m_extract_gguf
 - **Source**: 
 
 ## LiquidAI/LFM2.5-1.2B-Instruct
@@ -3550,6 +3578,10 @@
 
 ## marketeam/Qwen-Marketing
 - **ID**: model_marketeam_qwen_marketing
+- **Source**: 
+
+## Maximilian228/OrcaRouter-Qwen3.8-Flash-Next-Uncensored-NVFP4-GPTQ-Strata
+- **ID**: model_maximilian228_orcarouter_qwen3_8_flash_next_uncensored_nvfp4_gptq_strata
 - **Source**: 
 
 ## Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata
