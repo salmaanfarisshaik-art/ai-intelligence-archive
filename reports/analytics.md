@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92997
+**Total Entities Tracked**: 93005
 
 ## Category Distribution
 
@@ -10,7 +10,7 @@
 - **datasets**: 2739
 - **models**: 2043
 - **cs.CV**: 1589
-- **news**: 1402
+- **news**: 1410
 - **dataset**: 1243
 - **cs.CL**: 1050
 - **cs.AI**: 1021
@@ -105,7 +105,7 @@
 - ****: 31960
 - **ArXiv**: 5208
 - **Hugging Face**: 2025
-- **OpenAI Blog**: 1387
+- **OpenAI Blog**: 1395
 - **HuggingFace Datasets**: 243
 - **GitHub Trending**: 59
 - **BAIR Blog**: 15
@@ -148,8 +148,8 @@
 
 - **region:us**: 336
 - **text-generation**: 94
-- **library:datasets**: 91
-- **library:mlcroissant**: 91
+- **library:datasets**: 92
+- **library:mlcroissant**: 92
 - **modality:text**: 85
 - **language:en**: 80
 - **endpoints_compatible**: 79
@@ -157,14 +157,14 @@
 - **safetensors**: 78
 - **transformers**: 77
 - **conversational**: 75
-- **library:polars**: 65
+- **library:polars**: 66
 - **license:mit**: 57
-- **format:parquet**: 51
+- **format:parquet**: 52
 - **text-generation-inference**: 39
 - **deploy:azure**: 38
+- **library:pandas**: 35
 - **en**: 34
-- **library:pandas**: 34
-- **modality:image**: 34
+- **modality:image**: 33
 - **task_categories:text-generation**: 33
 - **library:dask**: 31
 - **license:other**: 31
@@ -176,7 +176,7 @@
 - **qwen3**: 22
 - **license:cc-by-4.0**: 21
 - **size_categories:10K<n<100K**: 21
-- **modality:video**: 19
+- **modality:video**: 20
 - **size_categories:100K<n<1M**: 19
 - **task_categories:robotics**: 19
 - **api**: 16
