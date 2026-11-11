@@ -4136,6 +4136,11 @@
 - **URL**: [https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
 
 ## 
+- **ID**: rss_https://openai.com/index/jiostar-vijay-seshadri
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/jiostar-vijay-seshadri](https://openai.com/index/jiostar-vijay-seshadri)
+
+## 
 - **ID**: rss_https://openai.com/index/john-deere-justin-rose
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/john-deere-justin-rose](https://openai.com/index/john-deere-justin-rose)

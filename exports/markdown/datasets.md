@@ -529,6 +529,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_andlyu_public_yam_runs
+- **Source**: 
+
+## 
 - **ID**: dataset_andrzejnovak_higgs_4l_measurement_data
 - **Source**: 
 
@@ -542,6 +546,10 @@
 
 ## 
 - **ID**: dataset_anfera236_hhdc
+- **Source**: 
+
+## 
+- **ID**: dataset_angais_pixel_art_atlas_1_4m
 - **Source**: 
 
 ## 
@@ -4053,6 +4061,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn11_content_20261102a1e1
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn12_content_20260425bc6f
 - **Source**: 
 
@@ -4937,6 +4949,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn19_content_20261102d0a9
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn20_content_202607065941
 - **Source**: 
 
@@ -4997,6 +5013,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn21_content_20261102f0b3
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn22_content_202607067fcf
 - **Source**: 
 
@@ -5022,6 +5042,10 @@
 
 ## 
 - **ID**: dataset_icdn22_content_202610010d5c
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn22_content_2026102648a7
 - **Source**: 
 
 ## 
@@ -6050,6 +6074,10 @@
 
 ## 
 - **ID**: dataset_liangshuo0111_ra_bench
+- **Source**: 
+
+## 
+- **ID**: dataset_liangzhi_li_quant_papers_vs_baselines_data
 - **Source**: 
 
 ## 
@@ -7505,6 +7533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nvidia_physicalai_robotics_gr00t_teleop_gr1
+- **Source**: 
+
+## 
 - **ID**: dataset_nvidia_physicalai_robotics_gr00t_teleop_sim
 - **Source**: 
 
@@ -7905,6 +7937,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_openfinmind_stock_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_openfoodfacts_product_database
 - **Source**: 
 
@@ -8122,6 +8158,10 @@
 
 ## 
 - **ID**: dataset_peterlltaylor_tg_aduio
+- **Source**: 
+
+## 
+- **ID**: dataset_pgcodellm_radin_cyber_backups
 - **Source**: 
 
 ## 
@@ -8825,6 +8865,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_saarthiatu_jee_pdfs
+- **Source**: 
+
+## 
 - **ID**: dataset_saberlve_bridgev2
 - **Source**: 
 
@@ -9266,6 +9310,10 @@
 
 ## 
 - **ID**: dataset_slinky21_pumpfun_v2_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_slowguess_iclr_2025_ocr
 - **Source**: 
 
 ## 
@@ -10137,7 +10185,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vicache_content_2026101624e6
+- **Source**: 
+
+## 
 - **ID**: dataset_vid_modeling_videomme
+- **Source**: 
+
+## 
+- **ID**: dataset_vidcache2_content_20261016a466
+- **Source**: 
+
+## 
+- **ID**: dataset_vidcache3_content_20261016edad
 - **Source**: 
 
 ## 
@@ -10701,6 +10761,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yuanbosz_a_share_minute_bars
+- **Source**: 
+
+## 
 - **ID**: dataset_yuantaochen_forehoi
 - **Source**: 
 
@@ -10925,6 +10989,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_zlab_princeton_sweeper_bench_traces
+- **Source**: 
+
+## 
 - **ID**: dataset_zlab_princeton_vero_600k
 - **Source**: 
 
@@ -10946,6 +11014,10 @@
 
 ## 
 - **ID**: dataset_zwa73_soultide_audiodata_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zxai_gsmodel60
 - **Source**: 
 
 ## 

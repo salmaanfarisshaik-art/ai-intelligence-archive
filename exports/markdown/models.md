@@ -544,6 +544,10 @@
 - **ID**: model_bartowski_c4ai_command_r7b_12_2024_gguf
 - **Source**: 
 
+## bartowski/Codestral-22B-v0.1-GGUF
+- **ID**: model_bartowski_codestral_22b_v0_1_gguf
+- **Source**: 
+
 ## bartowski/cognitivecomputations_Dolphin3.0-Mistral-24B-GGUF
 - **ID**: model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf
 - **Source**: 
@@ -610,6 +614,10 @@
 
 ## bartowski/gemma-2-2b-it-GGUF
 - **ID**: model_bartowski_gemma_2_2b_it_gguf
+- **Source**: 
+
+## bartowski/gemma-2-9b-it-GGUF
+- **ID**: model_bartowski_gemma_2_9b_it_gguf
 - **Source**: 
 
 ## bartowski/Hermes-3-Llama-3.1-70B-GGUF
@@ -798,6 +806,10 @@
 
 ## bartowski/Qwen2.5-Coder-7B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_coder_7b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen_Qwen2.5-VL-32B-Instruct-GGUF
+- **ID**: model_bartowski_qwen_qwen2_5_vl_32b_instruct_gguf
 - **Source**: 
 
 ## bartowski/Qwen_Qwen3-0.6B-GGUF
@@ -1594,6 +1606,10 @@
 
 ## Diffuspace/Clover-35B-A3B-Preview-GGUF
 - **ID**: model_diffuspace_clover_35b_a3b_preview_gguf
+- **Source**: 
+
+## dima6312/Flint-40B-A2.5B-abliterated-GGUF
+- **ID**: model_dima6312_flint_40b_a2_5b_abliterated_gguf
 - **Source**: 
 
 ## distilbert/distilgpt2
@@ -4270,6 +4286,10 @@
 
 ## moonshotai/Kimi-K2-Thinking
 - **ID**: model_moonshotai_kimi_k2_thinking
+- **Source**: 
+
+## moonshotai/Kimi-K3.1-Pro
+- **ID**: model_moonshotai_kimi_k3_1_pro
 - **Source**: 
 
 ## moonshotai/Kimi-Linear-48B-A3B-Base

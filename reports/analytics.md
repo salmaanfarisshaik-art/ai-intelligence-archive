@@ -1,16 +1,16 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93061
+**Total Entities Tracked**: 93085
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2739
-- **models**: 2045
+- **datasets**: 2757
+- **models**: 2050
 - **cs.CV**: 1608
-- **news**: 1413
+- **news**: 1414
 - **dataset**: 1244
 - **cs.CL**: 1056
 - **cs.AI**: 1035
@@ -102,10 +102,10 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31962
+- ****: 31985
 - **ArXiv**: 5258
 - **Hugging Face**: 2025
-- **OpenAI Blog**: 1398
+- **OpenAI Blog**: 1399
 - **HuggingFace Datasets**: 244
 - **GitHub Trending**: 59
 - **BAIR Blog**: 15
@@ -148,8 +148,8 @@
 
 - **region:us**: 337
 - **text-generation**: 94
-- **library:datasets**: 91
-- **library:mlcroissant**: 91
+- **library:datasets**: 92
+- **library:mlcroissant**: 92
 - **modality:text**: 85
 - **language:en**: 80
 - **license:apache-2.0**: 80
@@ -164,13 +164,13 @@
 - **library:pandas**: 35
 - **deploy:azure**: 34
 - **en**: 34
+- **modality:image**: 33
 - **task_categories:text-generation**: 33
 - **license:other**: 32
-- **modality:image**: 32
 - **library:dask**: 31
 - **deploy:sagemaker**: 30
 - **eval-results**: 29
-- **size_categories:n<1K**: 26
+- **size_categories:n<1K**: 27
 - **enterprise**: 25
 - **modality:tabular**: 25
 - **qwen3**: 22
