@@ -1456,6 +1456,11 @@
 - **URL**: [https://openai.com/index/chatgpt-plus](https://openai.com/index/chatgpt-plus)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatgpt-plus-for-veterans
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-plus-for-veterans](https://openai.com/index/chatgpt-plus-for-veterans)
+
+## 
 - **ID**: rss_https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations)
@@ -1604,6 +1609,11 @@
 - **ID**: rss_https://openai.com/index/codex-security-now-in-research-preview
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/codex-security-now-in-research-preview](https://openai.com/index/codex-security-now-in-research-preview)
+
+## 
+- **ID**: rss_https://openai.com/index/cogent-security
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/cogent-security](https://openai.com/index/cogent-security)
 
 ## 
 - **ID**: rss_https://openai.com/index/cognition-devin-testing-with-astra
@@ -6114,6 +6124,11 @@
 - **ID**: rss_https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models)
+
+## 
+- **ID**: rss_https://openai.com/index/singapore-airlines-travel-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/singapore-airlines-travel-work](https://openai.com/index/singapore-airlines-travel-work)
 
 ## 
 - **ID**: rss_https://openai.com/index/singular-bank

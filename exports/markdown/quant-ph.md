@@ -75,3 +75,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09822v2](http://arxiv.org/abs/2611.09822v2)
 
+## Beyond the Mean Gap: What Transferred-Angle QAOA Retains on a Superconducting Processor
+- **ID**: arxiv_2611.10529v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.10529v2](http://arxiv.org/abs/2611.10529v2)
+

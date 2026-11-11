@@ -750,6 +750,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.13377v2](http://arxiv.org/abs/2603.13377v2)
 
+## Causal Attribution via Activation Patching
+- **ID**: arxiv_2603.13652v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.13652v3](http://arxiv.org/abs/2603.13652v3)
+
 ## Self-Distillation of Hidden Layers for Self-Supervised Representation Learning
 - **ID**: arxiv_2603.15553v2
 - **Source**: ArXiv
@@ -1100,6 +1105,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.23656v2](http://arxiv.org/abs/2605.23656v2)
 
+## Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL
+- **ID**: arxiv_2605.24001v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.24001v3](http://arxiv.org/abs/2605.24001v3)
+
 ## A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring
 - **ID**: arxiv_2605.26026v2
 - **Source**: ArXiv
@@ -1144,6 +1154,11 @@
 - **ID**: arxiv_2606.02022v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02022v2](http://arxiv.org/abs/2606.02022v2)
+
+## $A^2$: Smaller Self-Supervised ViTs Localize Better than Larger Ones
+- **ID**: arxiv_2606.03148v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.03148v2](http://arxiv.org/abs/2606.03148v2)
 
 ## Low-Frequency Shortcuts in Texture-Driven Visual Learning
 - **ID**: arxiv_2606.03493v2
@@ -1214,6 +1229,11 @@
 - **ID**: arxiv_2606.11381v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.11381v3](http://arxiv.org/abs/2606.11381v3)
+
+## CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy
+- **ID**: arxiv_2606.12635v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.12635v2](http://arxiv.org/abs/2606.12635v2)
 
 ## MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold
 - **ID**: arxiv_2606.13376v2
@@ -1349,6 +1369,11 @@
 - **ID**: arxiv_2606.14700v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14700v1](http://arxiv.org/abs/2606.14700v1)
+
+## RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space
+- **ID**: arxiv_2606.14700v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.14700v2](http://arxiv.org/abs/2606.14700v2)
 
 ## RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers
 - **ID**: arxiv_2606.14701v1
@@ -3094,6 +3119,11 @@
 - **ID**: arxiv_2608.09928v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09928v1](http://arxiv.org/abs/2608.09928v1)
+
+## Multimodal Model Diffing for Feature Discovery and Control
+- **ID**: arxiv_2608.09928v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09928v2](http://arxiv.org/abs/2608.09928v2)
 
 ## Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots
 - **ID**: arxiv_2608.09931v1
@@ -6715,6 +6745,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23856v1](http://arxiv.org/abs/2610.23856v1)
 
+## Generalizable fetal brain biometry via adaptive artificial intelligence
+- **ID**: arxiv_2610.23966v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23966v2](http://arxiv.org/abs/2610.23966v2)
+
 ## Video-Language Entailment for Video Similarity Estimation
 - **ID**: arxiv_2610.24786v1
 - **Source**: ArXiv
@@ -7264,6 +7299,11 @@
 - **ID**: arxiv_2610.32978v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32978v1](http://arxiv.org/abs/2610.32978v1)
+
+## Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval
+- **ID**: arxiv_2610.33484v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33484v3](http://arxiv.org/abs/2610.33484v3)
 
 ## TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens
 - **ID**: arxiv_2610.33857v3
@@ -7944,4 +7984,59 @@
 - **ID**: arxiv_2611.12886v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12886v1](http://arxiv.org/abs/2611.12886v1)
+
+## What Factors Matter for Collection-Level Counting with Human-AI Collaboration?
+- **ID**: arxiv_2611.14380v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14380v1](http://arxiv.org/abs/2611.14380v1)
+
+## OnlyAct: Extracting Action Representations from Foundation Models for World Models
+- **ID**: arxiv_2611.14420v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14420v1](http://arxiv.org/abs/2611.14420v1)
+
+## Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection
+- **ID**: arxiv_2611.14436v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14436v1](http://arxiv.org/abs/2611.14436v1)
+
+## UGG: Unified Generative Geometry Model
+- **ID**: arxiv_2611.14440v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14440v1](http://arxiv.org/abs/2611.14440v1)
+
+## A Lightweight Differentiable Method for Real-Time Skin Rendering and Digitization
+- **ID**: arxiv_2611.14451v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14451v1](http://arxiv.org/abs/2611.14451v1)
+
+## C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference
+- **ID**: arxiv_2611.14469v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14469v1](http://arxiv.org/abs/2611.14469v1)
+
+## BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time
+- **ID**: arxiv_2611.14476v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14476v1](http://arxiv.org/abs/2611.14476v1)
+
+## RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval
+- **ID**: arxiv_2611.14496v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14496v1](http://arxiv.org/abs/2611.14496v1)
+
+## Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion
+- **ID**: arxiv_2611.14498v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14498v1](http://arxiv.org/abs/2611.14498v1)
+
+## Toward Foundation Detection Models via Example-Based Grounding in EM-DETR
+- **ID**: arxiv_2611.14518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14518v1](http://arxiv.org/abs/2611.14518v1)
+
+## Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training
+- **ID**: arxiv_2611.14519v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14519v1](http://arxiv.org/abs/2611.14519v1)
 

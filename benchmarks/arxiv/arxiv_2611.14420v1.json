@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.14420v1",
+  "schema_version": "1.0",
+  "name": "OnlyAct: Extracting Action Representations from Foundation Models for World Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.14420v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.14420v1",
+    "updated": "2026-11-10T17:59:19Z",
+    "published": "2026-11-10T17:59:19Z",
+    "title": "OnlyAct: Extracting Action Representations from Foundation Models for World Models",
+    "summary": "Video world models promise general-purpose interactive simulators, but their training is limited by action supervision: action labels are scarce, fragmented across incompatible specifications, and do not scale with the unlabeled video pretraining corpus. A common workaround jointly trains an action encoder to compress consecutive frames into a latent action and a decoder to reconstruct the next frame from the previous frame and that latent, forcing the latent to capture only new information. This has two limitations: learning the action space from scratch can limit generalization to unseen domains, and the bottleneck trades expressiveness for separation, with tighter settings losing nuance and looser ones risking scene leakage under domain shifts. We argue for a different starting point: rather than learning actions from scratch, we start from a pretrained foundation model (V-JEPA 2), whose embeddings of a frame pair already carry substantial action information after large-scale, diverse video pretraining. The remaining challenge is to extract the action while discarding the scene. We propose a label-free contrastive adaptation framework that pulls together frame pairs sharing the same motion under a different scene and pushes apart pairs from the same scene with different motion, reshaping the geometry of the pretrained space without imposing a reconstruction bottleneck. We introduce a unified evaluation protocol along three axes (action expressiveness, scene invariance, and action-conditioned video generation quality) across robot manipulation, camera navigation, game, and driving benchmarks, most of which are unseen during adaptation. Compared with annotation-free latent-action methods, our representations are substantially more expressive while matching their scene invariance, and they yield world models that transfer demonstrated actions to new scenes more faithfully.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T17:59:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.14420v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

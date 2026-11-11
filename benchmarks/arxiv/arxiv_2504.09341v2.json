@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2504.09341v2",
+  "schema_version": "1.0",
+  "name": "Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2504.09341v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2504.09341v2",
+    "updated": "2026-11-10T18:13:24Z",
+    "published": "2025-04-12T21:04:56Z",
+    "title": "Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation",
+    "summary": "Data annotation is an essential but costly aspect of developing machine learning-based technology, requiring multiple human workers to repeatedly label each data point in a data set. We explore the tradeoff between annotation accuracy and cost by identifying minority reports---worker responses disagreeing with the reference majority-vote label---that may indicate unnecessary redundancy, and can therefore be proactively pruned before they are executed. We develop a theoretical framework for choosing the number of repeated annotations required for a task and pruning policies at a target label quality. We estimate minority-report risk on two computer vision datasets re-annotated through a professional platform, then evaluate a rolling policy on the assignment stream to prune over 35% of repeats while preserving more than 99.9% of reference majority-vote labels.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T18:13:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2504.09341v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

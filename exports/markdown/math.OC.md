@@ -55,3 +55,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08359v1](http://arxiv.org/abs/2611.08359v1)
 
+## Two Communities, One Problem: Branch-and-Bound vs. A* for Resource-Constrained Project Scheduling
+- **ID**: arxiv_2611.14426v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14426v1](http://arxiv.org/abs/2611.14426v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.10529v2",
+  "schema_version": "1.0",
+  "name": "Beyond the Mean Gap: What Transferred-Angle QAOA Retains on a Superconducting Processor",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.10529v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.10529v2",
+    "updated": "2026-11-10T18:42:54Z",
+    "published": "2026-11-07T07:00:23Z",
+    "title": "Beyond the Mean Gap: What Transferred-Angle QAOA Retains on a Superconducting Processor",
+    "summary": "Hardware executions of the quantum approximate optimization algorithm (QAOA) are often validated by comparing the device's mean cost with a simulation, a check that can miss what matters for optimization. Under global depolarization, the mean normalized gap and the floor-corrected probability of every set of bitstrings, the optimum included, retain the same fraction of their noiseless improvement over uniform sampling. We test this prediction with depth-2, transferred-angle QAOA circuits for binary subproblems of an alternating-direction decomposition on the IBM Heron processor \\texttt{ibm\\_marrakesh}, with and without dynamical decoupling and twirling. At 12 qubits, the main-family circuits retained 29\\% to 46\\% of their mean-gap improvement but only 5\\% to 15\\% of their probability of the optimum, lower on at least nine of ten instances per run. Near-optimal bitstrings were lost about as much as the optimum, whereas the avoidance of poor bitstrings was retained best. In the first submission, a device-matched noise model reproduced the pattern but overestimated the retention of the optimum five- to eightfold. On a rugged planted family, the device found the optimum in 62\\% of 768-shot blocks (noiseless: 98\\%), within the range of local heuristics. Validations of optimization circuits should report retention of the optimum and of near-optimal sets.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T18:42:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.10529v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1280,3 +1280,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10894v1](http://arxiv.org/abs/2611.10894v1)
 
+## One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge
+- **ID**: arxiv_2611.14432v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14432v1](http://arxiv.org/abs/2611.14432v1)
+
+## TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks
+- **ID**: arxiv_2611.14470v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14470v1](http://arxiv.org/abs/2611.14470v1)
+

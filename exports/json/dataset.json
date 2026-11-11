@@ -6308,6 +6308,9 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "modality:3d",
+      "modality:image",
+      "modality:tabular",
+      "modality:text",
       "openscad",
       "procedural-3d",
       "region:us",
@@ -7140,7 +7143,9 @@
     "source": "HuggingFace Datasets",
     "tags": [
       "arxiv:2611.06817",
+      "bimanual-manipulation",
       "egocentric-video",
+      "embodied-ai",
       "format:parquet",
       "hand-motion",
       "lerobot",
@@ -7154,9 +7159,9 @@
       "modality:video",
       "region:us",
       "robot-learning",
-      "robotics",
       "size_categories:10M<n<100M",
-      "task_categories:robotics"
+      "task_categories:robotics",
+      "world-action-model"
     ],
     "links": {
       "related_models": [

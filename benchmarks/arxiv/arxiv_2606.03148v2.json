@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.03148v2",
+  "schema_version": "1.0",
+  "name": "$A^2$: Smaller Self-Supervised ViTs Localize Better than Larger Ones",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.03148v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.03148v2",
+    "updated": "2026-11-10T18:42:27Z",
+    "published": "2026-06-02T04:45:02Z",
+    "title": "$A^2$: Smaller Self-Supervised ViTs Localize Better than Larger Ones",
+    "summary": "Robust visual classification often depends on localizing the main foreground objects in an image while ignoring contextual distractors. Surprisingly, we find that the last layer attention maps of smaller self-supervised ViTs localize foreground objects better than those of larger ViTs. However, we still need large ViTs, because they extract richer representations from each patch. To get the best of both worlds, good localization and rich representations, we propose $A^2$, a simple method that leverages this inverse scaling finding by decoupling where to look (a small attention model) from what to extract (a large embedding model): we crop around the attention peaks of a small model and embed the crops with a larger model. $A^2$ uses entirely pretrained features, requires no group labels, and does not require per-dataset attention or backbone training. Across 5 benchmarks, $A^2$ is competitive with backbone-matched loss-level methods like DFR, and outperforms end-to-end attention training under stronger distribution shifts.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T18:42:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.03148v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

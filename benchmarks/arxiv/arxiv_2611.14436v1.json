@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.14436v1",
+  "schema_version": "1.0",
+  "name": "Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.14436v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.14436v1",
+    "updated": "2026-11-10T18:08:35Z",
+    "published": "2026-11-10T18:08:35Z",
+    "title": "Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection",
+    "summary": "Deepfake detectors are commonly evaluated on real/fake classification alone, but real-world applications require explanations of the visual evidence behind each prediction. Joint vision-language models struggle with authenticity assessment, producing \"real\" narratives for manipulated images. To address this, we propose a decoupled predict-then-explain pipeline as our submission to the ACM Multimedia 2026 Explainable Deepfake Detection Challenge, with methods trained and evaluated on the XPlainVerse benchmark. A vision-foundation-model ensemble first classifies the image, then a Qwen3-VL-8B model generates a decision-conditioned explanation of the visual evidence. For fake images, a second Qwen3-VL-8B compresses that text into a short non-expert summary without using the image. We further apply metric-aligned Group Relative Policy Optimization (GRPO) to optimize both explainers against the challenge criteria. Under matched conditions, GRPO raises complex BERTScore-F1 from 0.686 to 0.712 and also improves grounding (entity and evidence F1); our submission ranked first on complex BERTScore-F1 and seventh overall.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T18:08:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.14436v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

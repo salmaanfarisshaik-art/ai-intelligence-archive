@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.13652v3",
+  "schema_version": "1.0",
+  "name": "Causal Attribution via Activation Patching",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.13652v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.13652v3",
+    "updated": "2026-11-10T17:42:00Z",
+    "published": "2026-03-13T23:25:49Z",
+    "title": "Causal Attribution via Activation Patching",
+    "summary": "Attribution methods for Vision Transformers (ViTs) aim to identify image regions that influence model predictions, but producing faithful and well-localized attributions remains challenging. Existing attribution methods face several limitations, with gradient-based, relevance-propagation, and attention-based methods relying on local approximations, while perturbation- or optimization-based methods intervene on inputs, tokens, or surrogates rather than internal patch representations. The key challenge is that class-relevant evidence is formed through interactions between patch tokens across layers; methods that operate only on input changes, attention weights, or backward relevance signals may therefore provide indirect proxies for patch importance rather than directly testing the predictive effect of contextualized patch representations. We propose Causal Attribution via Activation Patching (CAAP), which estimates the contribution of individual image patches to the ViT's prediction by directly intervening on internal activations rather than using learned masks or synthetic perturbation patterns. For each patch, CAAP inserts the corresponding source-image activations into a neutral target context over an intermediate range of layers and uses the resulting target-class score as the attribution signal. The resulting attribution map reflects the causal contribution of patch-associated internal representations on the model's prediction. The causal intervention serves as a principled measure of patch influence by capturing semantic evidence after initial representation formation, while avoiding late-layer global mixing that can reduce spatial specificity. Across multiple ViT backbones and standard metrics, CAAP consistently outperforms existing methods in various settings and produces more faithful and localized attributions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T17:42:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.13652v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

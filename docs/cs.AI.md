@@ -170,6 +170,7 @@
 | [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](http://arxiv.org/abs/2608.12249v1) | ArXiv |  | 1 |
 | [An auditable conditional-strategy framework for open-ended decision-making in complex lung cancer](http://arxiv.org/abs/2609.29381v2) | ArXiv |  | 1 |
 | [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) | ArXiv |  | 1 |
+| [An Energy-Based Perspective on Machine Learning](http://arxiv.org/abs/2611.14383v1) | ArXiv |  | 1 |
 | [An Exact 93-Move Solution to a Nonlocal Crystal-Exchange Puzzle](http://arxiv.org/abs/2610.29493v1) | ArXiv |  | 1 |
 | [An Open Pipeline and Dashboard for Systemic-Risk Evidence under the EU AI Act's Code of Practice](http://arxiv.org/abs/2609.28335v1) | ArXiv |  | 1 |
 | [Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](http://arxiv.org/abs/2608.21332v1) | ArXiv |  | 1 |
@@ -230,6 +231,7 @@
 | [BioPro: Towards Difference-Aware Gender Fairness for Vision-Language Models](http://arxiv.org/abs/2512.00807v2) | ArXiv |  | 1 |
 | [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](http://arxiv.org/abs/2607.19262v1) | ArXiv |  | 1 |
 | [BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design](http://arxiv.org/abs/2611.09825v1) | ArXiv |  | 1 |
+| [Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models](http://arxiv.org/abs/2611.14413v1) | ArXiv |  | 1 |
 | [BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks](http://arxiv.org/abs/2608.25286v2) | ArXiv |  | 1 |
 | [BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems](http://arxiv.org/abs/2610.18780v1) | ArXiv |  | 1 |
 | [Blast Radius](http://arxiv.org/abs/2608.07440v1) | ArXiv |  | 1 |
@@ -277,8 +279,10 @@
 | [CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents](http://arxiv.org/abs/2607.19338v1) | ArXiv |  | 1 |
 | [Cogentic: Multi-Agent Orchestration for Automated Proof Discovery](http://arxiv.org/abs/2609.40324v1) | ArXiv |  | 1 |
 | [Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](http://arxiv.org/abs/2609.19128v1) | ArXiv |  | 1 |
+| [Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models](http://arxiv.org/abs/2611.14382v1) | ArXiv |  | 1 |
 | [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](http://arxiv.org/abs/2606.29495v2) | ArXiv |  | 1 |
 | [Collaborative AI agents for autonomous experimental research with solid-state quantum spins](http://arxiv.org/abs/2610.40589v1) | ArXiv |  | 1 |
+| [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](http://arxiv.org/abs/2611.14493v1) | ArXiv |  | 1 |
 | [Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models](http://arxiv.org/abs/2602.02304v3) | ArXiv |  | 1 |
 | [Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns](http://arxiv.org/abs/2610.40563v1) | ArXiv |  | 1 |
 | [Complementarity without ground truth?](http://arxiv.org/abs/2611.10893v1) | ArXiv |  | 1 |
@@ -295,6 +299,7 @@
 | [Continual Graph Memory and Community Infrastructure for AI-Assisted Mathematical Discovery](http://arxiv.org/abs/2610.02945v2) | ArXiv |  | 1 |
 | [Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples](http://arxiv.org/abs/2611.09746v1) | ArXiv |  | 1 |
 | [ContractScrub: A benchmark for final review of legal contracts](http://arxiv.org/abs/2608.20204v1) | ArXiv |  | 1 |
+| [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1) | ArXiv |  | 1 |
 | [ConvMem: Convolutional Memory for Long-Context Reasoning](http://arxiv.org/abs/2609.10441v1) | ArXiv |  | 1 |
 | [CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs](http://arxiv.org/abs/2608.05107v1) | ArXiv |  | 1 |
 | [CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases](http://arxiv.org/abs/2608.27391v1) | ArXiv |  | 1 |
@@ -377,6 +382,7 @@
 | [Et Tu, Brute? Economic Misalignment in Personal AI Agents](http://arxiv.org/abs/2609.24927v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
 | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](http://arxiv.org/abs/2606.30219v4) | ArXiv |  | 1 |
+| [Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning](http://arxiv.org/abs/2611.14419v1) | ArXiv |  | 1 |
 | [Evaluating Rational Contracting in Natural Language](http://arxiv.org/abs/2608.10475v2) | ArXiv |  | 1 |
 | [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?](http://arxiv.org/abs/2610.22333v1) | ArXiv |  | 1 |
 | [Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions](http://arxiv.org/abs/2609.27749v1) | ArXiv |  | 1 |
@@ -431,6 +437,7 @@
 | [Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents](http://arxiv.org/abs/2610.35767v1) | ArXiv |  | 1 |
 | [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](http://arxiv.org/abs/2609.07925v3) | ArXiv |  | 1 |
 | [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](http://arxiv.org/abs/2609.07925v4) | ArXiv |  | 1 |
+| [From AGI to ASI](http://arxiv.org/abs/2606.12683v3) | ArXiv |  | 1 |
 | [From Comparison to Selection: Enhancing Cross-Scale Generalization of Pointer Networks Trained with Reinforcement Learning for Capacitated Drone Delivery Routing](http://arxiv.org/abs/2610.27936v1) | ArXiv |  | 1 |
 | [From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research](http://arxiv.org/abs/2609.04166v1) | ArXiv |  | 1 |
 | [From Deliberately Constructed Systemic Representations of the World of Activity to Dialogue: A Five-Level Communication Architecture for Strong Language-Based ASI](http://arxiv.org/abs/2610.32869v1) | ArXiv |  | 1 |
@@ -513,6 +520,7 @@
 | [InfoOps Bench: A live information operations safety benchmark](http://arxiv.org/abs/2607.28503v2) | ArXiv |  | 1 |
 | [Inoculation Adapters: Improved Selective Generalization of Capabilities with Fewer Surprising Backdoors](http://arxiv.org/abs/2606.30252v2) | ArXiv |  | 1 |
 | [InstructMesh: Selective Refinement of Generative 3D Models for Fabrication](http://arxiv.org/abs/2608.28534v1) | ArXiv |  | 1 |
+| [Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors](http://arxiv.org/abs/2605.06490v3) | ArXiv |  | 1 |
 | [InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries](http://arxiv.org/abs/2608.20220v1) | ArXiv |  | 1 |
 | [Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems](http://arxiv.org/abs/2605.27628v2) | ArXiv |  | 1 |
 | [Intelligence Primer](http://arxiv.org/abs/2008.07324v6) | ArXiv |  | 1 |
@@ -561,6 +569,7 @@
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
 | [Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training](http://arxiv.org/abs/2610.38851v2) | ArXiv |  | 1 |
+| [Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training](http://arxiv.org/abs/2610.38851v3) | ArXiv |  | 1 |
 | [Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1) | ArXiv |  | 1 |
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
 | [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1) | ArXiv |  | 1 |
@@ -703,6 +712,7 @@
 | [Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers](http://arxiv.org/abs/2608.07436v1) | ArXiv |  | 1 |
 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](http://arxiv.org/abs/2607.20268v1) | ArXiv |  | 1 |
 | [Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In](http://arxiv.org/abs/2610.40588v1) | ArXiv |  | 1 |
+| [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](http://arxiv.org/abs/2611.14418v1) | ArXiv |  | 1 |
 | [Predictor-Guided Latent Space Codon Optimization for Maximizing Protein Expression](http://arxiv.org/abs/2610.03098v2) | ArXiv |  | 1 |
 | [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) | ArXiv |  | 1 |
 | [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1) | ArXiv |  | 1 |
@@ -735,6 +745,7 @@
 | [RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](http://arxiv.org/abs/2605.11151v3) | ArXiv |  | 1 |
 | [Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions](http://arxiv.org/abs/2610.37624v1) | ArXiv |  | 1 |
 | [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics](http://arxiv.org/abs/2610.13889v1) | ArXiv |  | 1 |
+| [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](http://arxiv.org/abs/2611.14487v1) | ArXiv |  | 1 |
 | [Read the Room Before Your Model Generates](http://arxiv.org/abs/2610.18820v1) | ArXiv |  | 1 |
 | [Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum](http://arxiv.org/abs/2603.05614v2) | ArXiv |  | 1 |
 | [Real-Time Detection and Repair of LLM Agent Failures](http://arxiv.org/abs/2608.02464v1) | ArXiv |  | 1 |
@@ -762,6 +773,7 @@
 | [Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs](http://arxiv.org/abs/2607.28573v1) | ArXiv |  | 1 |
 | [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](http://arxiv.org/abs/2609.04172v1) | ArXiv |  | 1 |
 | [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](http://arxiv.org/abs/2606.19327v1) | ArXiv |  | 1 |
+| [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](http://arxiv.org/abs/2611.14492v1) | ArXiv |  | 1 |
 | [Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents](http://arxiv.org/abs/2610.40545v1) | ArXiv |  | 1 |
 | [Retrieval-aligned Tabular Foundation Models Enable Robust Clinical Risk Prediction in Electronic Health Records Under Real-world Constraints](http://arxiv.org/abs/2604.01841v4) | ArXiv |  | 1 |
 | [Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1) | ArXiv |  | 1 |
@@ -871,6 +883,7 @@
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [Subliminal Learning is a LoRA Artifact](http://arxiv.org/abs/2606.00831v2) | ArXiv |  | 1 |
 | [SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory](http://arxiv.org/abs/2611.06445v1) | ArXiv |  | 1 |
+| [SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks](http://arxiv.org/abs/2607.09745v2) | ArXiv |  | 1 |
 | [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
 | [SWE-chat: Coding Agent Interactions From Real Users in the Wild](http://arxiv.org/abs/2604.20779v2) | ArXiv |  | 1 |
@@ -940,6 +953,7 @@
 | [Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security](http://arxiv.org/abs/2608.29596v1) | ArXiv |  | 1 |
 | [Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage](http://arxiv.org/abs/2504.20007v4) | ArXiv |  | 1 |
 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](http://arxiv.org/abs/2606.14672v1) | ArXiv |  | 1 |
+| [Towards end-to-end LLM-based censoring-aware survival analysis](http://arxiv.org/abs/2605.25399v2) | ArXiv |  | 1 |
 | [Towards Expert-level Medical AI for Real-time Video Consultations](http://arxiv.org/abs/2608.09861v1) | ArXiv |  | 1 |
 | [Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability](http://arxiv.org/abs/2608.11238v2) | ArXiv |  | 1 |
 | [Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](http://arxiv.org/abs/2608.25100v4) | ArXiv |  | 1 |

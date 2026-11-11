@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:03:00Z",
+  "generated_at": "2026-11-11T07:42:11Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1125,6 +1125,26 @@
       "source_id": "model_augmxnt_shisa_gamma_7b_v1",
       "target_id": "hf_stabilityai_japanese-stablelm-base-gamma-7b",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_autotrust_autotrust_decider_mini_9b",
+      "target_id": "hf_Qwen_Qwen3.5-9B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_autotrust_autotrust_decider_mini_9b",
+      "target_id": "hf_SargeDev_jev-distill-corpus-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_autotrust_autotrust_decider_pro_27b",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_autotrust_autotrust_decider_pro_27b",
+      "target_id": "hf_SargeDev_jev-distill-corpus-v3",
+      "type": "trained_on"
     },
     {
       "source_id": "model_autotrust_glm_5_3_flash_gguf_dgx_spark",

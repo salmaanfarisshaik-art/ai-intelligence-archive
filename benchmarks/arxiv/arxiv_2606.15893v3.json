@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15893v3",
+  "schema_version": "1.0",
+  "name": "BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15893v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15893v3",
+    "updated": "2026-11-10T17:43:32Z",
+    "published": "2026-06-14T16:25:59Z",
+    "title": "BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation",
+    "summary": "Hallucinations remain a major obstacle to deploying large language models (LLMs) in knowledge-intensive settings, where generated responses must be faithfully grounded in provided evidence. Reinforcement learning (RL) is a promising direction for hallucination mitigation, but response-level faithfulness rewards suffer from a granularity mismatch: localized hallucinations can cause supported content to receive spurious penalties. Although recent work introduces fine-grained feedback such as claim-level verification and token-level rewards, unbalanced credit assignment can still induce length, verbosity, or optimization-noise biases. We propose BALTO, a Balanced Token-level Policy Optimization framework for hallucination mitigation. BALTO extracts checkable factual claims, verifies them against the reference context, and projects claim-level judgments to token-level labels. A balanced token-level credit assignment mechanism is introduced into the framework. This design redistributes probability mass from unsupported content toward faithful content, rather than suppressing the entire response. We systematically analyze the limitations of response-level rewards from a theoretical standpoint, and prove BALTO's advantages in training stability and optimization efficiency for hallucination mitigation. Experiments on ConFiQA, RAGTruth, and FinLLM-Eval show that BALTO achieves the highest faithfulness across all six model--benchmark settings and consistently outperforms existing post-training baselines in Q-Score, demonstrating a stronger faithfulness--informativeness trade-off. The code is released at https://github.com/NingLi670/BALTO.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T17:43:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15893v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

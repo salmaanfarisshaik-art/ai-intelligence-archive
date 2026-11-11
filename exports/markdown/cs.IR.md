@@ -265,3 +265,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05319v1](http://arxiv.org/abs/2611.05319v1)
 
+## FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking
+- **ID**: arxiv_2611.14477v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14477v1](http://arxiv.org/abs/2611.14477v1)
+

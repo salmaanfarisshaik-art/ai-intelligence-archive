@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.14380v1",
+  "schema_version": "1.0",
+  "name": "What Factors Matter for Collection-Level Counting with Human-AI Collaboration?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.14380v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.14380v1",
+    "updated": "2026-11-10T17:36:27Z",
+    "published": "2026-11-10T17:36:27Z",
+    "title": "What Factors Matter for Collection-Level Counting with Human-AI Collaboration?",
+    "summary": "Many scientific and policy decisions require estimating the total number of target objects across a large image collection. Exhaustive human labeling is often infeasible, while raw model predictions can be biased, especially under domain shift. Recent human-AI estimation methods combine imperfect model predictions with limited human verification to obtain reliable collection-level estimates. However, existing work provides little guidance on how practitioners should choose among models, estimators, and adaptation strategies for a new deployment. We study these choices within a common human-in-the-loop counting framework across 12 tasks spanning biomedical microscopy, ground-level and aerial wildlife surveys, and overhead imagery of urban structures. Our results show that modern multimodal models provide a strong, training-free starting point for many tasks, while fine-tuned detectors become more advantageous at larger labeling budgets and across repeated deployments. Estimation efficiency improves further when model predictions are used to prioritize which units humans label, rather than sampling uniformly. We also find that each model's ranking quality can be estimated with a small pilot set, yielding practical guidance for selecting strategies on new counting tasks. In a field deployment on aerial pronghorn surveys, a task-specific adaptation of these methods meets the survey's $\\pm 5\\%$ tolerance after reviewing a median of only $3.2\\%$ of collected images.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T17:36:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.14380v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.33484v3",
+  "schema_version": "1.0",
+  "name": "Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.33484v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.33484v3",
+    "updated": "2026-11-10T17:39:13Z",
+    "published": "2026-10-24T06:20:11Z",
+    "title": "Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval",
+    "summary": "Text-to-3D solid retrieval faces a fundamental representation gap: while natural language describes intrinsic shapes, Boundary Representation (B-rep) entangles precise geometry with arbitrary variations in pose, scale, and boundary encoding conventions. Existing methods either discretize B-reps at the cost of analytic precision, or learn features from topological graphs without explicit invariance guarantees. We propose **SpectraBRep** (*Spectral Geometry for Text-to-B-rep Retrieval*), a framework based on geometric invariance and spectral descriptors that mathematically eliminates representation ambiguities prior to cross-modal alignment. Formalizing translation, rotation, reflection, uniform scaling, and contour re-indexing via group actions, we exploit the planar-profile-and-extrusion structure of engineering solids to construct a unified spectral descriptor across cross-sectional regions, contour boundaries, and extrusion depths. On public benchmarks, our method achieves state-of-the-art recall performance across all evaluation metrics.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T17:39:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.33484v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

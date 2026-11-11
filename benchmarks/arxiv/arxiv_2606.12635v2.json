@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.12635v2",
+  "schema_version": "1.0",
+  "name": "CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.12635v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.12635v2",
+    "updated": "2026-11-10T17:46:23Z",
+    "published": "2026-06-10T19:54:23Z",
+    "title": "CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy",
+    "summary": "Reflectance confocal microscopy (RCM) provides noninvasive, cellular-resolution \"optical biopsies\" of human skin in vivo by acquiring en-face images at successive depths, forming a sparse z-stack. Due to optical limitations, these stacks are anisotropic 3D volumes with lateral resolution (0.5 $μ$m) $\\sim$6 times higher compared to axial resolution, which is defined by the optical sectioning (3 $μ$m), limiting the interpretation of tissue. Our goal is to provide continuous-depth visualization by interpolating intermediate sections and making the 3D volume isotropic. Such a representation permits arbitrary-direction sectioning, including histopathology-like cross-sectional examination, without requiring per-patient optimization. To that end, we introduce the first RCM-specific novel-view synthesis (NVS) approach, CD-RCM, a feedforward model that predicts realistic, unseen depths from sparsely sampled RCM stacks. Classical neural rendering methods focus on reconstruction from surface-level multi-view observations. In contrast to surface-level camera views, RCM can acquire optically sectioned en-face images of tissue beyond the surface up to 200 $μ$m. However, during visualization of the RCM stacks, observations of the shallower sections (towards the surface) obscure the deeper ones. This unique axial imaging geometry and layer-dependent anatomical organization motivated our development of a tailored architectural and training framework that explicitly accounts for RCM's depth-resolved, occlusive imaging physics. Experiments demonstrate that CD-RCM achieves high-fidelity novel-view synthesis with sub-second inference time.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T17:46:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.12635v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

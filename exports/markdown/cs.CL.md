@@ -1120,6 +1120,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.15517v2](http://arxiv.org/abs/2606.15517v2)
 
+## BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation
+- **ID**: arxiv_2606.15893v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15893v3](http://arxiv.org/abs/2606.15893v3)
+
 ## IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset
 - **ID**: arxiv_2606.16910v1
 - **Source**: ArXiv
@@ -4140,6 +4145,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.11765v2](http://arxiv.org/abs/2610.11765v2)
 
+## Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses
+- **ID**: arxiv_2610.11790v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.11790v2](http://arxiv.org/abs/2610.11790v2)
+
 ## Language Models as AI Research World Models
 - **ID**: arxiv_2610.12235v2
 - **Source**: ArXiv
@@ -5249,4 +5259,24 @@
 - **ID**: arxiv_2611.12872v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12872v1](http://arxiv.org/abs/2611.12872v1)
+
+## Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models
+- **ID**: arxiv_2611.14387v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14387v1](http://arxiv.org/abs/2611.14387v1)
+
+## When does text encoding matter for language modeling?
+- **ID**: arxiv_2611.14459v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14459v1](http://arxiv.org/abs/2611.14459v1)
+
+## Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation
+- **ID**: arxiv_2611.14480v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14480v1](http://arxiv.org/abs/2611.14480v1)
+
+## Mechanistic Interpretability Needs a Logic of Inference
+- **ID**: arxiv_2611.14483v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14483v1](http://arxiv.org/abs/2611.14483v1)
 

@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.06407v2](http://arxiv.org/abs/2504.06407v2)
 
+## Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation
+- **ID**: arxiv_2504.09341v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.09341v2](http://arxiv.org/abs/2504.09341v2)
+
 ## An Automated Pipeline for Few-Shot Bird Call Classification: A Case Study with the Tooth-Billed Pigeon
 - **ID**: arxiv_2504.16276v3
 - **Source**: ArXiv
@@ -2929,4 +2934,24 @@
 - **ID**: arxiv_2611.12884v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12884v1](http://arxiv.org/abs/2611.12884v1)
+
+## REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding
+- **ID**: arxiv_2611.14399v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14399v1](http://arxiv.org/abs/2611.14399v1)
+
+## Causal Concept Explanations for Deep Neural Models
+- **ID**: arxiv_2611.14407v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14407v1](http://arxiv.org/abs/2611.14407v1)
+
+## Quantifying the Sampling Frequency Invariance of Time-Series Foundation Models for Sensor Data Applications
+- **ID**: arxiv_2611.14425v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14425v1](http://arxiv.org/abs/2611.14425v1)
+
+## AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models
+- **ID**: arxiv_2611.14515v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14515v1](http://arxiv.org/abs/2611.14515v1)
 

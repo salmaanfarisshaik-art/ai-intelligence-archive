@@ -440,6 +440,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06223v5](http://arxiv.org/abs/2605.06223v5)
 
+## Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors
+- **ID**: arxiv_2605.06490v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06490v3](http://arxiv.org/abs/2605.06490v3)
+
 ## When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
 - **ID**: arxiv_2605.06772v2
 - **Source**: ArXiv
@@ -499,6 +504,11 @@
 - **ID**: arxiv_2605.20173v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20173v2](http://arxiv.org/abs/2605.20173v2)
+
+## Towards end-to-end LLM-based censoring-aware survival analysis
+- **ID**: arxiv_2605.25399v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.25399v2](http://arxiv.org/abs/2605.25399v2)
 
 ## MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
 - **ID**: arxiv_2605.26114v3
@@ -599,6 +609,11 @@
 - **ID**: arxiv_2606.12618v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.12618v2](http://arxiv.org/abs/2606.12618v2)
+
+## From AGI to ASI
+- **ID**: arxiv_2606.12683v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.12683v3](http://arxiv.org/abs/2606.12683v3)
 
 ## A Three-Layer Framework for AI in Scientific Discovery
 - **ID**: arxiv_2606.13566v1
@@ -994,6 +1009,11 @@
 - **ID**: arxiv_2607.09709v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09709v2](http://arxiv.org/abs/2607.09709v2)
+
+## SupplyNetPy: An Open-Source Python Library for High-Fidelity Modeling and Simulation of Arbitrary Supply Chain and Inventory Networks
+- **ID**: arxiv_2607.09745v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09745v2](http://arxiv.org/abs/2607.09745v2)
 
 ## Verification of Adaptive Agentic Controllers through Finite Rule Revision
 - **ID**: arxiv_2607.09770v2
@@ -4670,6 +4690,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.38851v2](http://arxiv.org/abs/2610.38851v2)
 
+## Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training
+- **ID**: arxiv_2610.38851v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.38851v3](http://arxiv.org/abs/2610.38851v3)
+
 ## Efficient Scalable Oversight via Rewinding
 - **ID**: arxiv_2610.40535v1
 - **Source**: ArXiv
@@ -5104,4 +5129,49 @@
 - **ID**: arxiv_2611.12865v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12865v1](http://arxiv.org/abs/2611.12865v1)
+
+## Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models
+- **ID**: arxiv_2611.14382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14382v1](http://arxiv.org/abs/2611.14382v1)
+
+## An Energy-Based Perspective on Machine Learning
+- **ID**: arxiv_2611.14383v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14383v1](http://arxiv.org/abs/2611.14383v1)
+
+## Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models
+- **ID**: arxiv_2611.14413v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14413v1](http://arxiv.org/abs/2611.14413v1)
+
+## Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model
+- **ID**: arxiv_2611.14418v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14418v1](http://arxiv.org/abs/2611.14418v1)
+
+## Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning
+- **ID**: arxiv_2611.14419v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14419v1](http://arxiv.org/abs/2611.14419v1)
+
+## Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game
+- **ID**: arxiv_2611.14487v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14487v1](http://arxiv.org/abs/2611.14487v1)
+
+## ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows
+- **ID**: arxiv_2611.14492v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14492v1](http://arxiv.org/abs/2611.14492v1)
+
+## Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents
+- **ID**: arxiv_2611.14493v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14493v1](http://arxiv.org/abs/2611.14493v1)
+
+## Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations
+- **ID**: arxiv_2611.14514v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14514v1](http://arxiv.org/abs/2611.14514v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.11790v2",
+  "schema_version": "1.0",
+  "name": "Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.11790v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.11790v2",
+    "updated": "2026-11-10T18:31:15Z",
+    "published": "2026-10-08T12:03:45Z",
+    "title": "Easy to anticipate, hard to compute: boundary dependence finds the computed outputs that entropy patching misses",
+    "summary": "Byte-level language models such as the Byte Latent Transformer (BLT) group bytes into patches and run their large global model once per patch. BLT starts a patch where a small model's next-byte entropy is high. We show that under tight patch budgets this rule has a blind spot: positions whose type the preceding text fixes but whose value must be computed, such as the number after \"= \" in a worked math solution. A nearly certain digit keeps the next byte's entropy near or below log2(10) = 3.32 bits, about BLT-1B's threshold for a 10% budget. In Meta's BLT-1B with patch starts on 10% of bytes, the entropy rule puts a patch start at 16% of the computed results in GSM8K solutions and gets 19.0% of them exactly right given the true preceding text; a boundary after each \"=\" at the same patch count gets 51.8%, and entropy combined with a label-free boundary-dependence signal gets 67.1% (default layout at 26% of bytes: 76.8%). The gap survives adapting BLT-1B to the budget with low-rank adapters (32.9% vs 72.7%, three runs per rule). In byte models trained from scratch at a 10% budget on a 1.9 GB math corpus, it is not detectable at 1M parameters, appears on final answers at 12M and on both targets at 50M, as training data grow too: at 50M boundary dependence gets 35.9% of computed results against 13.9% for entropy and 78.9% of final answers against 59.0% (3 seeds each), although final answers mostly copy the solution's last number and entropy starts a patch at every one. In BLT-1B the blind spot narrows at larger budgets (entropy covers about 90% of the values right after \"= \" at 20% of bytes) and in the same solutions rewritten as prose, where a patch start at each value still pays. Boundary dependence, the change in the model's own loss when a patch start is removed or added, measured per two-byte context on text in the same format, finds these positions without labels.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-11T07:41:16Z",
+  "last_updated": "2026-11-10T18:31:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.11790v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

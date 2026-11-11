@@ -1250,7 +1250,7 @@
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
-- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
+- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:tabular, modality:text, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
@@ -1466,7 +1466,7 @@
 - **ID**: hf_ds_6ae993485240eb6b7ac68d30
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K](https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K)
-- **Tags**: arxiv:2611.06817, egocentric-video, format:parquet, hand-motion, lerobot, library:datasets, library:lerobot, library:mlcroissant, library:pandas, library:polars, modality:tabular, modality:text, modality:video, region:us, robot-learning, robotics, size_categories:10M<n<100M, task_categories:robotics
+- **Tags**: arxiv:2611.06817, bimanual-manipulation, egocentric-video, embodied-ai, format:parquet, hand-motion, lerobot, library:datasets, library:lerobot, library:mlcroissant, library:pandas, library:polars, modality:tabular, modality:text, modality:video, region:us, robot-learning, size_categories:10M<n<100M, task_categories:robotics, world-action-model
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model
