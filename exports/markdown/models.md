@@ -444,6 +444,14 @@
 - **ID**: model_augmxnt_shisa_gamma_7b_v1
 - **Source**: 
 
+## autotrust/AutoTrust-Decider-Mini-9B
+- **ID**: model_autotrust_autotrust_decider_mini_9b
+- **Source**: 
+
+## autotrust/AutoTrust-Decider-Pro-27B
+- **ID**: model_autotrust_autotrust_decider_pro_27b
+- **Source**: 
+
 ## autotrust/GLM-5.3-Flash-GGUF-DGX-Spark
 - **ID**: model_autotrust_glm_5_3_flash_gguf_dgx_spark
 - **Source**: 

@@ -581,13 +581,8 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:imagefolder",
-      "library:datasets",
-      "library:mlcroissant",
       "license:cc-by-nc-sa-4.0",
-      "modality:image",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -4781,11 +4776,10 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:parquet",
+      "format:json",
       "library:dask",
       "library:datasets",
       "library:mlcroissant",
-      "library:polars",
       "license:apache-2.0",
       "modality:text",
       "region:us",
@@ -6308,9 +6302,6 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "modality:3d",
-      "modality:image",
-      "modality:tabular",
-      "modality:text",
       "openscad",
       "procedural-3d",
       "region:us",
@@ -6941,6 +6932,29 @@
     "local_path": "datasets/xiaomimimo/hf_ds_6ab65a7f909092518dca860f.json"
   },
   {
+    "id": "hf_ds_6abe7b0d6fa702d077c7dadf",
+    "title": "andrzejnovak/higgs-4l-measurement-data",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "benchmark",
+      "high-energy-physics",
+      "license:other",
+      "physics",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/andrzejnovak"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/andrzejnovak/higgs-4l-measurement-data",
+    "local_path": "datasets/andrzejnovak/hf_ds_6abe7b0d6fa702d077c7dadf.json"
+  },
+  {
     "id": "hf_ds_6ac0e3e0aadad5e0492a39f0",
     "title": "roisincrtai/ptb-xl-1.0.3",
     "category": "dataset",
@@ -7154,6 +7168,7 @@
       "library:mlcroissant",
       "library:pandas",
       "library:polars",
+      "license:apache-2.0",
       "modality:tabular",
       "modality:text",
       "modality:video",

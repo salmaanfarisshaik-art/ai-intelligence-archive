@@ -1816,12 +1816,12 @@
     {
       "entity_id": "hf_ds_6ae993485240eb6b7ac68d30",
       "match_type": "exact",
-      "score": 4.0
+      "score": 5.0
     },
     {
       "entity_id": "dataset_dagroup_pku_open_humanwam_50k",
       "match_type": "exact",
-      "score": 2.0
+      "score": 3.0
     },
     {
       "entity_id": "model_ma7ee7_qwen3_8_4b_distilled_gguf",
@@ -4106,6 +4106,13 @@
       "score": 1.0
     }
   ],
+  "581": [
+    {
+      "entity_id": "dataset_yuanbosz_a_share_minute_bars",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "5811": [
     {
       "entity_id": "alpaca_8094285466806750933",
@@ -4272,6 +4279,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_openfinmind_stock_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_wliafe_recon1m",
       "match_type": "exact",
       "score": 1.0
@@ -4396,6 +4408,11 @@
     },
     {
       "entity_id": "model_bartowski_qwen2_5_coder_1_5b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_dima6312_flint_40b_a2_5b_abliterated_gguf",
       "match_type": "exact",
       "score": 5.0
     },

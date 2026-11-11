@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:42:11Z",
+  "generated_at": "2026-11-11T15:52:54Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1237,6 +1237,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_codestral_22b_v0_1_gguf",
+      "target_id": "hf_mistralai_Codestral-22B-v0.1",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
       "target_id": "hf_AI-MO_NuminaMath-CoT",
       "type": "trained_on"
@@ -1497,6 +1502,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_gemma_2_9b_it_gguf",
+      "target_id": "hf_google_gemma-2-9b-it",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_hermes_3_llama_3_1_70b_gguf",
       "target_id": "hf_NousResearch_Hermes-3-Llama-3.1-70B",
       "type": "derived_from"
@@ -1734,6 +1744,11 @@
     {
       "source_id": "model_bartowski_qwen2_5_coder_7b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen_qwen2_5_vl_32b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-VL-32B-Instruct",
       "type": "derived_from"
     },
     {
@@ -2615,6 +2630,21 @@
       "source_id": "model_diffuspace_clover_35b_a3b_preview_gguf",
       "target_id": "hf_Diffuspace_Clover-35B-A3B-Preview",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_dima6312_flint_40b_a2_5b_abliterated_gguf",
+      "target_id": "hf_dima6312_Flint-40B-A2.5B-abliterated",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dima6312_flint_40b_a2_5b_abliterated_gguf",
+      "target_id": "hf_mlabonne_harmful_behaviors",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_dima6312_flint_40b_a2_5b_abliterated_gguf",
+      "target_id": "hf_mlabonne_harmless_alpaca",
+      "type": "trained_on"
     },
     {
       "source_id": "model_distilbert_distilgpt2",

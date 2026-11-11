@@ -1101,6 +1101,18 @@
       "score": 4.5
     }
   ],
+  "qlib": [
+    {
+      "entity_id": "dataset_openfinmind_stock_dataset",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_liangzhi_li_quant_papers_vs_baselines_data",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "qlora": [
     {
       "entity_id": "model_farbodtavakkoli_otel_2_0_llm_31b_it_qlora",
@@ -1208,6 +1220,11 @@
   "qp": [
     {
       "entity_id": "dataset_divotion_vsrqa_database",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_liangzhi_li_quant_papers_vs_baselines_data",
       "match_type": "exact",
       "score": 1.0
     }
@@ -4085,6 +4102,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_angais_pixel_art_atlas_1_4m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_anon_data_7k4m_review_data_b",
       "match_type": "exact",
       "score": 1.0
@@ -4814,6 +4836,11 @@
     },
     {
       "entity_id": "arxiv_2610.30113v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_liangzhi_li_quant_papers_vs_baselines_data",
       "match_type": "exact",
       "score": 2.0
     },
@@ -6971,6 +6998,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_codestral_22b_v0_1_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -7047,6 +7079,11 @@
     },
     {
       "entity_id": "model_bartowski_gemma_2_2b_it_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_gemma_2_9b_it_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -7257,6 +7294,11 @@
     },
     {
       "entity_id": "model_bartowski_qwen2_5_coder_7b_instruct_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_qwen_qwen2_5_vl_32b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -7642,6 +7684,11 @@
     },
     {
       "entity_id": "model_diffuspace_clover_35b_a3b_preview_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dima6312_flint_40b_a2_5b_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -22727,6 +22774,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_bartowski_qwen_qwen2_5_vl_32b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_bartowski_qwen_qwen3_0_6b_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -26737,6 +26789,11 @@
     },
     {
       "entity_id": "model_bartowski_qwen2_5_coder_7b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_bartowski_qwen_qwen2_5_vl_32b_instruct_gguf",
       "match_type": "exact",
       "score": 5.0
     },

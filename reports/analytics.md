@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93058
+**Total Entities Tracked**: 93061
 
 ## Category Distribution
 
@@ -8,10 +8,10 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2739
-- **models**: 2043
+- **models**: 2045
 - **cs.CV**: 1608
 - **news**: 1413
-- **dataset**: 1243
+- **dataset**: 1244
 - **cs.CL**: 1056
 - **cs.AI**: 1035
 - **text-generation**: 1017
@@ -102,11 +102,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31960
+- ****: 31962
 - **ArXiv**: 5258
 - **Hugging Face**: 2025
 - **OpenAI Blog**: 1398
-- **HuggingFace Datasets**: 243
+- **HuggingFace Datasets**: 244
 - **GitHub Trending**: 59
 - **BAIR Blog**: 15
 - **Backend**: 10
@@ -146,33 +146,33 @@
 
 ## Top Tags
 
-- **region:us**: 336
+- **region:us**: 337
 - **text-generation**: 94
-- **library:datasets**: 92
-- **library:mlcroissant**: 92
-- **modality:text**: 86
+- **library:datasets**: 91
+- **library:mlcroissant**: 91
+- **modality:text**: 85
 - **language:en**: 80
+- **license:apache-2.0**: 80
 - **endpoints_compatible**: 79
-- **license:apache-2.0**: 79
 - **safetensors**: 78
 - **transformers**: 77
 - **conversational**: 75
-- **library:polars**: 66
+- **library:polars**: 65
 - **license:mit**: 57
-- **format:parquet**: 52
+- **format:parquet**: 51
 - **text-generation-inference**: 39
-- **deploy:azure**: 38
 - **library:pandas**: 35
+- **deploy:azure**: 34
 - **en**: 34
-- **modality:image**: 34
 - **task_categories:text-generation**: 33
+- **license:other**: 32
+- **modality:image**: 32
 - **library:dask**: 31
-- **license:other**: 31
 - **deploy:sagemaker**: 30
 - **eval-results**: 29
-- **size_categories:n<1K**: 27
-- **modality:tabular**: 26
+- **size_categories:n<1K**: 26
 - **enterprise**: 25
+- **modality:tabular**: 25
 - **qwen3**: 22
 - **license:cc-by-4.0**: 21
 - **size_categories:10K<n<100K**: 21
@@ -190,9 +190,9 @@
 - **source_datasets:original**: 14
 - **size_categories:1K<n<10K**: 13
 - **custom_code**: 12
+- **format:json**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11
-- **format:json**: 11
 - **language:zh**: 11
 - **size_categories:100M<n<1B**: 11
 - **modality:audio**: 10

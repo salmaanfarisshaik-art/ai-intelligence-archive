@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bee164afe94041d8c3d7dd1203725c41163fc3f4",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRoboTwin 2.0 — 3D (RGB + Depth)\n\t\n\nBimanual manipulation data from the RoboTwin 2.0 simulator, in LeRobot v2.1 format, with per-camera ground-truth depth alongside RGB.\n\n\t\n\t\t\n\n\n\n\n\t\t\nTasks\n50\n\n\nEpisodes\n27,500 (550 per task, contiguous)\n\n\nFrames\n6,183,813\n\n\nRobot\nALOHA-style bimanual, 14-DoF\n\n\nControl rate\n50 Hz\n\n\nCameras\n3 (cam_high, cam_left_wrist, cam_right_wrist)\n\n\nResolution\n240 × 320\n\n\nLanguage instructions\n1,039,891 unique corpus-wide; 100 entries per episode\n\n\nTotal size… See the full description on the dataset page: https://huggingface.co/datasets/flex-pi/robotwin_3d.",
-  "downloads": 58828,
+  "downloads": 55308,
   "tags": [
     "task_categories:robotics",
     "size_categories:1M<n<10M",

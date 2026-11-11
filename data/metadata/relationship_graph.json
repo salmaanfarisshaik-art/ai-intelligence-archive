@@ -149256,6 +149256,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6abe7b0d6fa702d077c7dadf",
+      "label": "andrzejnovak/higgs-4l-measurement-data",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_6ac0e3e0aadad5e0492a39f0",
       "label": "roisincrtai/ptb-xl-1.0.3",
       "category": "dataset"
@@ -157443,6 +157448,16 @@
     {
       "id": "model_augmxnt_shisa_gamma_7b_v1",
       "label": "augmxnt/shisa-gamma-7b-v1",
+      "category": "models"
+    },
+    {
+      "id": "model_autotrust_autotrust_decider_mini_9b",
+      "label": "autotrust/AutoTrust-Decider-Mini-9B",
+      "category": "models"
+    },
+    {
+      "id": "model_autotrust_autotrust_decider_pro_27b",
+      "label": "autotrust/AutoTrust-Decider-Pro-27B",
       "category": "models"
     },
     {
@@ -492515,6 +492530,11 @@
     {
       "source": "hf_ds_6ab65a7f909092518dca860f",
       "target": "datasets/XiaomiMiMo",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6abe7b0d6fa702d077c7dadf",
+      "target": "datasets/andrzejnovak",
       "relationship": "related_models"
     },
     {

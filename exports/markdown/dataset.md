@@ -92,7 +92,7 @@
 - **ID**: hf_ds_621ffdd236468d709f1835cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images)
-- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image, region:us, size_categories:n<1K
+- **Tags**: license:cc-by-nc-sa-4.0, region:us
 
 ## huggingface-course/documentation-images
 - **ID**: hf_ds_621ffdd236468d709f1835d5
@@ -908,7 +908,7 @@
 - **ID**: hf_ds_69920596d401600ba4b9a839
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/shash42/forecast-news](https://huggingface.co/datasets/shash42/forecast-news)
-- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:10M<n<100M
+- **Tags**: format:json, library:dask, library:datasets, library:mlcroissant, license:apache-2.0, modality:text, region:us, size_categories:10M<n<100M
 
 ## GEAR-Dreams/DreamZero-DROID-Data
 - **ID**: hf_ds_699243aa8be5bf8321adfd86
@@ -1250,7 +1250,7 @@
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
-- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:tabular, modality:text, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
+- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
@@ -1402,6 +1402,12 @@
 - **URL**: [https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)
 - **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:document, modality:image, modality:text, region:us, size_categories:1K<n<10K
 
+## andrzejnovak/higgs-4l-measurement-data
+- **ID**: hf_ds_6abe7b0d6fa702d077c7dadf
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/andrzejnovak/higgs-4l-measurement-data](https://huggingface.co/datasets/andrzejnovak/higgs-4l-measurement-data)
+- **Tags**: benchmark, high-energy-physics, license:other, physics, region:us
+
 ## roisincrtai/ptb-xl-1.0.3
 - **ID**: hf_ds_6ac0e3e0aadad5e0492a39f0
 - **Source**: HuggingFace Datasets
@@ -1466,7 +1472,7 @@
 - **ID**: hf_ds_6ae993485240eb6b7ac68d30
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K](https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K)
-- **Tags**: arxiv:2611.06817, bimanual-manipulation, egocentric-video, embodied-ai, format:parquet, hand-motion, lerobot, library:datasets, library:lerobot, library:mlcroissant, library:pandas, library:polars, modality:tabular, modality:text, modality:video, region:us, robot-learning, size_categories:10M<n<100M, task_categories:robotics, world-action-model
+- **Tags**: arxiv:2611.06817, bimanual-manipulation, egocentric-video, embodied-ai, format:parquet, hand-motion, lerobot, library:datasets, library:lerobot, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:tabular, modality:text, modality:video, region:us, robot-learning, size_categories:10M<n<100M, task_categories:robotics, world-action-model
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

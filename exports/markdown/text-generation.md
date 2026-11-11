@@ -197,7 +197,7 @@
 - **ID**: hf_EleutherAI_pythia-160m
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/EleutherAI/pythia-160m](https://huggingface.co/EleutherAI/pythia-160m)
-- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/pile, deploy:azure, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/pile, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## EleutherAI/pythia-160m-deduped
 - **ID**: hf_EleutherAI_pythia-160m-deduped
@@ -319,7 +319,7 @@
 - **ID**: hf_HuggingFaceTB_SmolLM2-135M
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/HuggingFaceTB/SmolLM2-135M](https://huggingface.co/HuggingFaceTB/SmolLM2-135M)
-- **Tags**: arxiv:2502.02737, deploy:azure, en, endpoints_compatible, eval-results, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2502.02737, en, endpoints_compatible, eval-results, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## HuggingFaceTB/SmolLM2-135M-Instruct
 - **ID**: hf_HuggingFaceTB_SmolLM2-135M-Instruct
@@ -2627,7 +2627,7 @@
 - **ID**: hf_facebook_opt-125m
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/facebook/opt-125m](https://huggingface.co/facebook/opt-125m)
-- **Tags**: arxiv:2005.14165, arxiv:2205.01068, deploy:azure, en, jax, license:other, opt, pytorch, region:us, text-generation, text-generation-inference, tf, transformers
+- **Tags**: arxiv:2005.14165, arxiv:2205.01068, en, jax, license:other, opt, pytorch, region:us, text-generation, text-generation-inference, tf, transformers
 
 ## facebook/opt-2.7b
 - **ID**: hf_facebook_opt-2.7b
@@ -4078,7 +4078,7 @@
 - **ID**: hf_openai-community_gpt2
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
-- **Tags**: deploy:azure, doi:10.57967/hf/0039, en, endpoints_compatible, exbert, gpt2, jax, license:mit, onnx, pytorch, region:us, rust, safetensors, text-generation, text-generation-inference, tf, tflite, transformers
+- **Tags**: doi:10.57967/hf/0039, en, endpoints_compatible, exbert, gpt2, jax, license:mit, onnx, pytorch, region:us, rust, safetensors, text-generation, text-generation-inference, tf, tflite, transformers
 
 ## openai-community/gpt2-large
 - **ID**: hf_openai-community_gpt2-large

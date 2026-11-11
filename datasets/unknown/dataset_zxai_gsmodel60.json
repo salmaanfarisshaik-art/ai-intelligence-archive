@@ -1,0 +1,27 @@
+{
+  "_id": "6aaac8c446f574fd3762ba33",
+  "id": "zxAi/GSModel60",
+  "author": "zxAi",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-16T23:36:14.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "e6407400f768fc7c0d8f8d1b2ed112739b38e9dc",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tGSModel60\n\t\n\nGSModel60 is the fixed 60-class Gaussian-splat point-cloud classification\ndataset used by GAPrompt++. It contains 13,847 PLY files and preserves the\npaper's original train/test split.\n\n\t\n\t\t\n\t\n\t\n\t\tSplits\n\t\n\n\n\t\n\t\t\nSplit\nSamples\n\n\n\t\t\ntrain\n7,757\n\n\ntest\n6,090\n\n\ntotal\n13,847\n\n\n\t\n\ntrain.json and test.json are part of the dataset definition and must not be\nregenerated. metadata/*.jsonl contains labels, model IDs, relative paths,\nsource groups, file sizes, and available source… See the full description on the dataset page: https://huggingface.co/datasets/zxAi/GSModel60.",
+  "downloads": 38424,
+  "tags": [
+    "task_categories:other",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "modality:3d",
+    "region:us",
+    "point-cloud",
+    "point-cloud-classification",
+    "3d"
+  ],
+  "createdAt": "2026-09-16T16:50:12.000Z",
+  "key": "",
+  "unique_id": "dataset_zxai_gsmodel60",
+  "schema_version": "1.0"
+}

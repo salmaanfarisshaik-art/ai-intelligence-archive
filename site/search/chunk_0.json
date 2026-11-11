@@ -2907,6 +2907,13 @@
       "score": 1.5
     }
   ],
+  "008": [
+    {
+      "entity_id": "dataset_openfinmind_stock_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "00816": [
     {
       "entity_id": "model_thuml_sundial_base_128m",
@@ -4272,6 +4279,11 @@
     },
     {
       "entity_id": "dataset_shash42_forecast_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69920596d401600ba4b9a839",
       "match_type": "exact",
       "score": 1.0
     }
@@ -8365,11 +8377,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "hf_ds_69920596d401600ba4b9a839",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "hf_ds_6993525c8be5bf8321bcc775",
       "match_type": "exact",
       "score": 1.0
@@ -9281,6 +9288,13 @@
       "score": 1.5
     }
   ],
+  "06949": [
+    {
+      "entity_id": "dataset_nvidia_physicalai_robotics_gr00t_teleop_gr1",
+      "match_type": "exact",
+      "score": 2.5
+    }
+  ],
   "06950": [
     {
       "entity_id": "dataset_liuhuanjim013_kinetics400",
@@ -9546,11 +9560,6 @@
     },
     {
       "entity_id": "hf_ds_65c7e3da4451e58b8ded6212",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "hf_ds_69920596d401600ba4b9a839",
       "match_type": "exact",
       "score": 1.0
     }
@@ -10699,6 +10708,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_69920596d401600ba4b9a839",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_openchat_openchat_3_5_1210",
       "match_type": "exact",
       "score": 1.5
@@ -10790,11 +10804,6 @@
     },
     {
       "entity_id": "dataset_ucsc_vlaa_gpt_image_edit_1_5m",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "hf_ds_69920596d401600ba4b9a839",
       "match_type": "exact",
       "score": 1.0
     },
@@ -11226,13 +11235,6 @@
       "score": 2.5
     }
   ],
-  "086": [
-    {
-      "entity_id": "hf_ds_69920596d401600ba4b9a839",
-      "match_type": "exact",
-      "score": 1.0
-    }
-  ],
   "08625": [
     {
       "entity_id": "dataset_voxel51_regsegrs",
@@ -11498,6 +11500,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_liangzhi_li_quant_papers_vs_baselines_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_llava_onevision_data",
       "match_type": "exact",
       "score": 1.0
@@ -11548,12 +11555,29 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_69920596d401600ba4b9a839",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_69c3db34480308a6a3cabb37",
       "match_type": "exact",
       "score": 1.0
     },
     {
       "entity_id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "090": [
+    {
+      "entity_id": "dataset_openfinmind_stock_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_zxai_gsmodel60",
       "match_type": "exact",
       "score": 1.0
     }

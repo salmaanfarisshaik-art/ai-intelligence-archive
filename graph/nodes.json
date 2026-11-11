@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T07:41:30.425956+00:00",
+  "generated_at": "2026-11-11T15:51:59.225052+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -149260,6 +149260,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6abe7b0d6fa702d077c7dadf",
+      "label": "andrzejnovak/higgs-4l-measurement-data"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6ac0e3e0aadad5e0492a39f0",
       "label": "roisincrtai/ptb-xl-1.0.3"
     },
@@ -157447,6 +157452,16 @@
       "category": "models",
       "id": "model_augmxnt_shisa_gamma_7b_v1",
       "label": "augmxnt/shisa-gamma-7b-v1"
+    },
+    {
+      "category": "models",
+      "id": "model_autotrust_autotrust_decider_mini_9b",
+      "label": "autotrust/AutoTrust-Decider-Mini-9B"
+    },
+    {
+      "category": "models",
+      "id": "model_autotrust_autotrust_decider_pro_27b",
+      "label": "autotrust/AutoTrust-Decider-Pro-27B"
     },
     {
       "category": "models",
@@ -465295,5 +465310,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 93058
+  "total_nodes": 93061
 }

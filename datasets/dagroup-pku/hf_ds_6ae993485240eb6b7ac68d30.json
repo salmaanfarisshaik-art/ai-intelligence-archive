@@ -2,8 +2,8 @@
   "unique_id": "hf_ds_6ae993485240eb6b7ac68d30",
   "schema_version": "1.0",
   "name": "DAGroup-PKU/Open-HumanWAM-50K",
-  "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM\n\t\n\nAn Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models\nReport · Code · Project page · Models · HF Paper · Citation\n\n\n\nOpen-HumanWAM overview: scaling human and robot experience for embodied foundation models.\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM-50K\n\t\n\n50,000 hours of egocentric human manipulation video, with hand-motion and\nnatural-language annotations, for scaling robot learning.\nStatus: Upload complete · 26.67 TB, 694,310 payload files… See the full description on the dataset page: https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K.",
-  "size": "920323",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM\n\t\n\nAn Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models\nReport · Code · Project page · Models · HF Paper · Citation\n\n\n\nOpen-HumanWAM overview: scaling human and robot experience for embodied foundation models.\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM-50K\n\t\n\n50,000 hours of egocentric human manipulation video with hand-motion and\nnatural-language annotations for robot learning.\nOpen-HumanWAM-50K is the human-data corpus accompanying\nOpen-HumanWAM: An… See the full description on the dataset page: https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K.",
+  "size": "1015003",
   "source_url": "https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -14,14 +14,15 @@
     "author": "DAGroup-PKU",
     "disabled": false,
     "gated": "auto",
-    "lastModified": "2026-11-11T07:31:58.000Z",
+    "lastModified": "2026-11-11T12:36:44.000Z",
     "likes": 20,
     "private": false,
-    "sha": "1a25b5c4158060a3c390381e957b3b805dc86116",
-    "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM\n\t\n\nAn Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models\nReport · Code · Project page · Models · HF Paper · Citation\n\n\n\nOpen-HumanWAM overview: scaling human and robot experience for embodied foundation models.\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM-50K\n\t\n\n50,000 hours of egocentric human manipulation video, with hand-motion and\nnatural-language annotations, for scaling robot learning.\nStatus: Upload complete · 26.67 TB, 694,310 payload files… See the full description on the dataset page: https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K.",
-    "downloads": 920323,
+    "sha": "9da483ca2e22fcd936e9f92da91806cf4de7a899",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM\n\t\n\nAn Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models\nReport · Code · Project page · Models · HF Paper · Citation\n\n\n\nOpen-HumanWAM overview: scaling human and robot experience for embodied foundation models.\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-HumanWAM-50K\n\t\n\n50,000 hours of egocentric human manipulation video with hand-motion and\nnatural-language annotations for robot learning.\nOpen-HumanWAM-50K is the human-data corpus accompanying\nOpen-HumanWAM: An… See the full description on the dataset page: https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K.",
+    "downloads": 1015003,
     "tags": [
       "task_categories:robotics",
+      "license:apache-2.0",
       "size_categories:10M<n<100M",
       "format:parquet",
       "modality:tabular",
@@ -45,8 +46,8 @@
     "createdAt": "2026-11-03T07:54:48.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-11T07:41:22.767894+00:00",
-  "last_updated": "2026-11-11T07:31:58.000Z",
+  "retrieval_timestamp": "2026-11-11T15:51:48.784285+00:00",
+  "last_updated": "2026-11-11T12:36:44.000Z",
   "links": {
     "related_models": [
       "datasets/DAGroup-PKU"
