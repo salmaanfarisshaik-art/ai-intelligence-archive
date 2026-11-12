@@ -716,6 +716,10 @@
 - **ID**: model_bartowski_mistralai_devstral_small_2_24b_instruct_2512_gguf
 - **Source**: 
 
+## bartowski/mlabonne_Qwen3-14B-abliterated-GGUF
+- **ID**: model_bartowski_mlabonne_qwen3_14b_abliterated_gguf
+- **Source**: 
+
 ## bartowski/mlabonne_Qwen3-8B-abliterated-GGUF
 - **ID**: model_bartowski_mlabonne_qwen3_8b_abliterated_gguf
 - **Source**: 
@@ -5268,6 +5272,10 @@
 - **ID**: model_peasantsmith_glm_5_3_flash_maya_m_derisked_iq2_s_gguf
 - **Source**: 
 
+## peculiar-ragdoll/Sharp-MiniCPM5-2B-GGUF
+- **ID**: model_peculiar_ragdoll_sharp_minicpm5_2b_gguf
+- **Source**: 
+
 ## peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF
 - **ID**: model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf
 - **Source**: 
@@ -6506,6 +6514,10 @@
 
 ## sakamakismile/Qwen3.8-27B-MTP-NVFP4
 - **ID**: model_sakamakismile_qwen3_8_27b_mtp_nvfp4
+- **Source**: 
+
+## Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF
+- **ID**: model_sakura721_deepseek_v4_pro_qwen3_5_9b_uncensored_heretic_gguf
 - **Source**: 
 
 ## Salesforce/codegen2-16B_P
@@ -8012,8 +8024,20 @@
 - **ID**: model_yujiepan_llama_2_tiny_random
 - **Source**: 
 
+## yujiepan/mistral-tiny-random
+- **ID**: model_yujiepan_mistral_tiny_random
+- **Source**: 
+
+## yujiepan/mixtral-8xtiny-random
+- **ID**: model_yujiepan_mixtral_8xtiny_random
+- **Source**: 
+
 ## yujiepan/qwen2.5-tiny-random
 - **ID**: model_yujiepan_qwen2_5_tiny_random
+- **Source**: 
+
+## yujiepan/qwen3-moe-tiny-random
+- **ID**: model_yujiepan_qwen3_moe_tiny_random
 - **Source**: 
 
 ## yujiepan/qwen3-tiny-random

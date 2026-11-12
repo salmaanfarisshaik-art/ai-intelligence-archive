@@ -177,6 +177,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_agibot_world_agibotworldchallenge_2026
+- **Source**: 
+
+## 
 - **ID**: dataset_agkphysics_audioset
 - **Source**: 
 
@@ -297,6 +301,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_alanasky_xa1
+- **Source**: 
+
+## 
 - **ID**: dataset_alayalab_wildworld
 - **Source**: 
 
@@ -330,6 +338,10 @@
 
 ## 
 - **ID**: dataset_alexmkwizu_gaussian_training_datasets
+- **Source**: 
+
+## 
+- **ID**: dataset_alexxhchen_comap_data
 - **Source**: 
 
 ## 
@@ -1601,6 +1613,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_climate_analytics_lab_jax_gcm_data
+- **Source**: 
+
+## 
 - **ID**: dataset_clinc_clinc_oos
 - **Source**: 
 
@@ -1802,6 +1818,10 @@
 
 ## 
 - **ID**: dataset_cybergym_iclr26_cybergym
+- **Source**: 
+
+## 
+- **ID**: dataset_cybermax_tools_open_domain_ranks
 - **Source**: 
 
 ## 
@@ -2777,6 +2797,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gendle_hermes_data
+- **Source**: 
+
+## 
 - **ID**: dataset_general_level_general_bench_openset
 - **Source**: 
 
@@ -2918,6 +2942,10 @@
 
 ## 
 - **ID**: dataset_google_ifeval
+- **Source**: 
+
+## 
+- **ID**: dataset_google_physical_engineerings_last_exam
 - **Source**: 
 
 ## 
@@ -3682,6 +3710,10 @@
 
 ## 
 - **ID**: dataset_i_deepsearch_observation_masking_eval_logs
+- **Source**: 
+
+## 
+- **ID**: dataset_ialoverspaghetti_locaiainhtml
 - **Source**: 
 
 ## 
@@ -4813,6 +4845,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn15_content_202611035b80
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn18_content_20260603ed94
 - **Source**: 
 
@@ -5013,6 +5049,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn21_content_202610146d3e
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn21_content_20261102f0b3
 - **Source**: 
 
@@ -5042,6 +5082,10 @@
 
 ## 
 - **ID**: dataset_icdn22_content_202610010d5c
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn22_content_202610149116
 - **Source**: 
 
 ## 
@@ -6969,6 +7013,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mll_lab_embodied_exam_data
+- **Source**: 
+
+## 
 - **ID**: dataset_mm_eval_vlmevalkit
 - **Source**: 
 
@@ -6982,6 +7030,10 @@
 
 ## 
 - **ID**: dataset_mmmu_mmmu
+- **Source**: 
+
+## 
+- **ID**: dataset_mmmu_mmmu_pro
 - **Source**: 
 
 ## 
@@ -7170,6 +7222,10 @@
 
 ## 
 - **ID**: dataset_nasa_impact_wxc_bench
+- **Source**: 
+
+## 
+- **ID**: dataset_nateraw_imagenet_sketch_data
 - **Source**: 
 
 ## 
@@ -7645,6 +7701,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_okbro1234_camelyon16
+- **Source**: 
+
+## 
 - **ID**: dataset_oleehyo_latex_formulas_80m
 - **Source**: 
 
@@ -7782,6 +7842,10 @@
 
 ## 
 - **ID**: dataset_onfdata_content_20261016ce89
+- **Source**: 
+
+## 
+- **ID**: dataset_onfdata_content_202611030aea
 - **Source**: 
 
 ## 
@@ -9645,6 +9709,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tacverse_tacverse
+- **Source**: 
+
+## 
 - **ID**: dataset_taejoon89_openpath_corpus
 - **Source**: 
 
@@ -10189,6 +10257,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vicache_content_2026110387f2
+- **Source**: 
+
+## 
 - **ID**: dataset_vid_modeling_videomme
 - **Source**: 
 
@@ -10197,7 +10269,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vidcache2_content_20261103503a
+- **Source**: 
+
+## 
 - **ID**: dataset_vidcache3_content_20261016edad
+- **Source**: 
+
+## 
+- **ID**: dataset_vidcache3_content_202611036c3f
 - **Source**: 
 
 ## 
@@ -10250,6 +10330,10 @@
 
 ## 
 - **ID**: dataset_voviktyl_replicamultiagent
+- **Source**: 
+
+## 
+- **ID**: dataset_voxel51_curated_mnist
 - **Source**: 
 
 ## 
@@ -10814,6 +10898,10 @@
 
 ## 
 - **ID**: dataset_yxi8_uspto_mol_mirror
+- **Source**: 
+
+## 
+- **ID**: dataset_yxjia_gwas_meta_finemapping_data
 - **Source**: 
 
 ## 

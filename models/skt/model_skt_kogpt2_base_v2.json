@@ -14,7 +14,8 @@
     "license:cc-by-nc-sa-4.0",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

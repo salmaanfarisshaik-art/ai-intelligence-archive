@@ -956,6 +956,11 @@
 - **URL**: [https://openai.com/index/amp-beyond-coding](https://openai.com/index/amp-beyond-coding)
 
 ## 
+- **ID**: rss_https://openai.com/index/amplitude
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/amplitude](https://openai.com/index/amplitude)
+
+## 
 - **ID**: rss_https://openai.com/index/an-alien-mind
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/an-alien-mind](https://openai.com/index/an-alien-mind)

@@ -37,7 +37,7 @@ hf_EleutherAI_gpt-neo-2.7B,EleutherAI/gpt-neo-2.7B,text-generation,Hugging Face,
 hf_EleutherAI_gpt-neox-20b,EleutherAI/gpt-neox-20b,text-generation,Hugging Face,,https://huggingface.co/EleutherAI/gpt-neox-20b
 hf_EleutherAI_pythia-1.4b,EleutherAI/pythia-1.4b,text-generation,Hugging Face,,https://huggingface.co/EleutherAI/pythia-1.4b
 hf_EleutherAI_pythia-14m,EleutherAI/pythia-14m,text-generation,Hugging Face,,https://huggingface.co/EleutherAI/pythia-14m
-hf_EleutherAI_pythia-160m,EleutherAI/pythia-160m,text-generation,Hugging Face,arxiv:2101.00027|arxiv:2201.07311|arxiv:2304.01373|causal-lm|dataset:EleutherAI/pile|en|endpoints_compatible|gpt_neox|license:apache-2.0|pythia|pytorch|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/EleutherAI/pythia-160m
+hf_EleutherAI_pythia-160m,EleutherAI/pythia-160m,text-generation,Hugging Face,arxiv:2101.00027|arxiv:2201.07311|arxiv:2304.01373|causal-lm|dataset:EleutherAI/pile|deploy:azure|en|endpoints_compatible|gpt_neox|license:apache-2.0|pythia|pytorch|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/EleutherAI/pythia-160m
 hf_EleutherAI_pythia-160m-deduped,EleutherAI/pythia-160m-deduped,text-generation,Hugging Face,,https://huggingface.co/EleutherAI/pythia-160m-deduped
 hf_EleutherAI_pythia-1b,EleutherAI/pythia-1b,text-generation,Hugging Face,,https://huggingface.co/EleutherAI/pythia-1b
 hf_EleutherAI_pythia-2.8b,EleutherAI/pythia-2.8b,text-generation,Hugging Face,,https://huggingface.co/EleutherAI/pythia-2.8b
@@ -61,7 +61,7 @@ hf_HuggingFaceTB_SmolLM-1.7B,HuggingFaceTB/SmolLM-1.7B,text-generation,Hugging F
 hf_HuggingFaceTB_SmolLM-135M,HuggingFaceTB/SmolLM-135M,text-generation,Hugging Face,,https://huggingface.co/HuggingFaceTB/SmolLM-135M
 hf_HuggingFaceTB_SmolLM2-1.7B,HuggingFaceTB/SmolLM2-1.7B,text-generation,Hugging Face,,https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B
 hf_HuggingFaceTB_SmolLM2-1.7B-Instruct,HuggingFaceTB/SmolLM2-1.7B-Instruct,text-generation,Hugging Face,,https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct
-hf_HuggingFaceTB_SmolLM2-135M,HuggingFaceTB/SmolLM2-135M,text-generation,Hugging Face,arxiv:2502.02737|en|endpoints_compatible|eval-results|license:apache-2.0|llama|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/HuggingFaceTB/SmolLM2-135M
+hf_HuggingFaceTB_SmolLM2-135M,HuggingFaceTB/SmolLM2-135M,text-generation,Hugging Face,arxiv:2502.02737|deploy:azure|en|endpoints_compatible|eval-results|license:apache-2.0|llama|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/HuggingFaceTB/SmolLM2-135M
 hf_HuggingFaceTB_SmolLM2-135M-Instruct,HuggingFaceTB/SmolLM2-135M-Instruct,text-generation,Hugging Face,arxiv:2502.02737|base_model:HuggingFaceTB/SmolLM2-135M|base_model:quantized:HuggingFaceTB/SmolLM2-135M|conversational|en|endpoints_compatible|license:apache-2.0|llama|onnx|region:us|safetensors|tensorboard|text-generation|text-generation-inference|transformers|transformers.js,https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct
 hf_HuggingFaceTB_SmolLM2-360M,HuggingFaceTB/SmolLM2-360M,text-generation,Hugging Face,,https://huggingface.co/HuggingFaceTB/SmolLM2-360M
 hf_HuggingFaceTB_SmolLM2-360M-Instruct,HuggingFaceTB/SmolLM2-360M-Instruct,text-generation,Hugging Face,,https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct
@@ -515,7 +515,7 @@ hf_echarlaix_tiny-random-PhiForCausalLM,echarlaix/tiny-random-PhiForCausalLM,tex
 hf_erwanf_gpt2-mini,erwanf/gpt2-mini,text-generation,Hugging Face,,https://huggingface.co/erwanf/gpt2-mini
 hf_facebook_incoder-1B,facebook/incoder-1B,text-generation,Hugging Face,,https://huggingface.co/facebook/incoder-1B
 hf_facebook_opt-1.3b,facebook/opt-1.3b,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-1.3b
-hf_facebook_opt-125m,facebook/opt-125m,text-generation,Hugging Face,arxiv:2005.14165|arxiv:2205.01068|en|jax|license:other|opt|pytorch|region:us|text-generation|text-generation-inference|tf|transformers,https://huggingface.co/facebook/opt-125m
+hf_facebook_opt-125m,facebook/opt-125m,text-generation,Hugging Face,arxiv:2005.14165|arxiv:2205.01068|deploy:azure|en|jax|license:other|opt|pytorch|region:us|text-generation|text-generation-inference|tf|transformers,https://huggingface.co/facebook/opt-125m
 hf_facebook_opt-2.7b,facebook/opt-2.7b,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-2.7b
 hf_facebook_opt-350m,facebook/opt-350m,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-350m
 hf_facebook_opt-6.7b,facebook/opt-6.7b,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-6.7b
@@ -801,7 +801,7 @@ hf_nvidia_Qwen3.6-35B-A3B-NVFP4,nvidia/Qwen3.6-35B-A3B-NVFP4,text-generation,Hug
 hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4,nvidia/diffusiongemma-26B-A4B-it-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4
 hf_nytopop_Qwen3-8B.w8a8,nytopop/Qwen3-8B.w8a8,text-generation,Hugging Face,,https://huggingface.co/nytopop/Qwen3-8B.w8a8
 hf_omni-research_Tarsier-7b,omni-research/Tarsier-7b,text-generation,Hugging Face,,https://huggingface.co/omni-research/Tarsier-7b
-hf_openai-community_gpt2,openai-community/gpt2,text-generation,Hugging Face,doi:10.57967/hf/0039|en|endpoints_compatible|exbert|gpt2|jax|license:mit|onnx|pytorch|region:us|rust|safetensors|text-generation|text-generation-inference|tf|tflite|transformers,https://huggingface.co/openai-community/gpt2
+hf_openai-community_gpt2,openai-community/gpt2,text-generation,Hugging Face,deploy:azure|doi:10.57967/hf/0039|en|endpoints_compatible|exbert|gpt2|jax|license:mit|onnx|pytorch|region:us|rust|safetensors|text-generation|text-generation-inference|tf|tflite|transformers,https://huggingface.co/openai-community/gpt2
 hf_openai-community_gpt2-large,openai-community/gpt2-large,text-generation,Hugging Face,arxiv:1910.09700|deploy:azure|en|endpoints_compatible|gpt2|jax|license:mit|onnx|pytorch|region:us|rust|safetensors|text-generation|text-generation-inference|tf|transformers,https://huggingface.co/openai-community/gpt2-large
 hf_openai-community_gpt2-medium,openai-community/gpt2-medium,text-generation,Hugging Face,,https://huggingface.co/openai-community/gpt2-medium
 hf_openai-community_gpt2-xl,openai-community/gpt2-xl,text-generation,Hugging Face,,https://huggingface.co/openai-community/gpt2-xl
