@@ -148,8 +148,8 @@
 
 - **region:us**: 337
 - **text-generation**: 94
-- **library:datasets**: 92
-- **library:mlcroissant**: 92
+- **library:datasets**: 91
+- **library:mlcroissant**: 91
 - **modality:text**: 85
 - **language:en**: 80
 - **license:apache-2.0**: 80
@@ -170,13 +170,13 @@
 - **library:dask**: 31
 - **deploy:sagemaker**: 30
 - **eval-results**: 29
-- **size_categories:n<1K**: 27
+- **size_categories:n<1K**: 26
 - **enterprise**: 25
 - **modality:tabular**: 25
 - **qwen3**: 22
 - **license:cc-by-4.0**: 21
 - **size_categories:10K<n<100K**: 21
-- **modality:video**: 20
+- **modality:video**: 19
 - **size_categories:100K<n<1M**: 19
 - **task_categories:robotics**: 19
 - **api**: 16

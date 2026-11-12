@@ -1454,7 +1454,7 @@
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
-- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## miniiohinkimsavol/copyright-detection-videos
 - **ID**: hf_ds_6adf714965d27a395f029c31
