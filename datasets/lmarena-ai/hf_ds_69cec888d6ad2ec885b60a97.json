@@ -1,0 +1,48 @@
+{
+  "unique_id": "hf_ds_69cec888d6ad2ec885b60a97",
+  "schema_version": "1.0",
+  "name": "lmarena-ai/leaderboard-dataset",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tArena Leaderboard Dataset\n\t\n\nHistorical snapshots of the Arena leaderboard.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load all historical text style control data\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"full\")\n\n# Load the current text style control leaderboard\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"latest\")\n\n# Filter to overall category\nds =… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset.",
+  "size": "315281",
+  "source_url": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "69cec888d6ad2ec885b60a97",
+    "id": "lmarena-ai/leaderboard-dataset",
+    "author": "lmarena-ai",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-11-12T04:02:13.000Z",
+    "likes": 47,
+    "private": false,
+    "sha": "e69cdc26eb7af798d9628215ce45ce353e66d26a",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tArena Leaderboard Dataset\n\t\n\nHistorical snapshots of the Arena leaderboard.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load all historical text style control data\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"full\")\n\n# Load the current text style control leaderboard\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"latest\")\n\n# Filter to overall category\nds =… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset.",
+    "downloads": 315281,
+    "tags": [
+      "license:cc-by-4.0",
+      "size_categories:1M<n<10M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "createdAt": "2026-04-02T19:50:32.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-11-12T12:11:19.135573+00:00",
+  "last_updated": "2026-11-12T04:02:13.000Z",
+  "links": {
+    "related_models": [
+      "datasets/lmarena-ai"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

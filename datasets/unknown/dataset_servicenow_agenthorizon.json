@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c9fcd9fd857657cb86ae2b3cc35ea2271889bec1",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tAgentHorizon\n\t\n\nAgentHorizon is a benchmark for evaluating LLM judges of computer-use agents. Each item is a recorded trajectory of a GUI agent attempting a long-horizon desktop task (often 100 to 300+ steps), paired with a ground-truth label that says whether the agent actually completed the task. A judge reads the trajectory (instruction, action sequence, and screenshots) and predicts success or failure.\n\n\t\n\t\t\n\t\n\t\n\t\tRepository contents\n\t\n\n\n\t\n\t\t\nPath\nWhat it is… See the full description on the dataset page: https://huggingface.co/datasets/ServiceNow/AgentHorizon.",
-  "downloads": 82003,
+  "downloads": 82530,
   "tags": [
     "size_categories:100K<n<1M",
     "format:imagefolder",

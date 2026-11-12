@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-11-12T03:36:29.495692+00:00
-**Warnings:** 5503
+**Generated:** 2026-11-12T12:11:28.422566+00:00
+**Warnings:** 5505
 **Errors:** 331
 
 ## Issues
@@ -5749,6 +5749,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ksolovev
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/eddmpython
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tars-robotics
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/lmarena-ai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Williamsanderson
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/willi19
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/PsiBotAI
@@ -5784,6 +5785,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ahnaftaz
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/SKPark1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XiaomiMiMo
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Sharpa-Robotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/andrzejnovak
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/lerobot
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/DAGroup-PKU

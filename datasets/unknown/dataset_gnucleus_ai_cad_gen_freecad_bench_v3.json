@@ -9,7 +9,7 @@
   "private": false,
   "sha": "cfc22c8284e0a4881e063b6340f92ced963b1ded",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tParametric CAD Bench v3: agent runs\n\t\n\nThe scored trials behind the 13 systems on the Parametric CAD Bench v3\nleaderboard: one final trial per system and task, 1,300 in total. The tasks\nare published as runnable Harbor tasks at\ngnucleus-ai/cad-bench@sha256:8a786725d3648a76282fc5868df06da3d5e00d603f283573a53430803465d78a.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\ndata/cad-bench-v3-runs.parquet: one row per trial.\n\nruns/<agent>/<model>/<task_id>/: the trial's files.\nresult.json, config.json, trial.log… See the full description on the dataset page: https://huggingface.co/datasets/gnucleus-ai/cad-gen-freecad-bench-v3.",
-  "downloads": 45150,
+  "downloads": 51220,
   "tags": [
     "license:apache-2.0",
     "size_categories:1K<n<10K",

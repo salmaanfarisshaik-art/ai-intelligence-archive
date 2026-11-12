@@ -1,0 +1,30 @@
+{
+  "_id": "6ad2dc0d2b4bd6a951eff42b",
+  "id": "MLL-Lab/embodied-exam-data",
+  "author": "MLL-Lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-11-12T11:14:53.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "524b30a803e5929aa2ba4874b45afeb7c08047df",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tEmbodied First Exam: media\n\t\n\nThis repository holds the pictures, videos and agent runs behind the Embodied First Exam, a benchmark for code agents in robotics. Each question in the exam is a frozen simulation scene with a goal written for a person, and the answer is a program, which is marked by replaying it in a fresh simulator.\nLeaderboard data (every counted attempt of the ranked agents, with a link to its full run): leaderboard/.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout… See the full description on the dataset page: https://huggingface.co/datasets/MLL-Lab/embodied-exam-data.",
+  "downloads": 38569,
+  "tags": [
+    "license:other",
+    "size_categories:100K<n<1M",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "robotics",
+    "embodied-ai",
+    "code-agents",
+    "simulation"
+  ],
+  "createdAt": "2026-10-17T02:23:09.000Z",
+  "key": "",
+  "unique_id": "dataset_mll_lab_embodied_exam_data",
+  "schema_version": "1.0"
+}

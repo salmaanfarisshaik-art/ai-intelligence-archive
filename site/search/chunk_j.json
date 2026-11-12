@@ -931,6 +931,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_sakura721_deepseek_v4_pro_qwen3_5_9b_uncensored_heretic_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1",
       "match_type": "exact",
       "score": 1.5
@@ -4635,6 +4640,11 @@
   ],
   "jax": [
     {
+      "entity_id": "dataset_climate_analytics_lab_jax_gcm_data",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "model_afmck_testing_llama_tiny",
       "match_type": "exact",
       "score": 1.5
@@ -5018,6 +5028,13 @@
   "jcheng31": [
     {
       "entity_id": "alpaca_-95708792686721949",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jcm": [
+    {
+      "entity_id": "dataset_climate_analytics_lab_jax_gcm_data",
       "match_type": "exact",
       "score": 1.0
     }
@@ -6381,6 +6398,13 @@
     },
     {
       "entity_id": "dataset_maxwell_jia_aime_2024",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jiachenlei": [
+    {
+      "entity_id": "dataset_jiachenlei_imagenet",
       "match_type": "exact",
       "score": 1.0
     }
@@ -16328,6 +16352,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_jiachenlei_imagenet",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ntsrigaud_hagrid_subset",
       "match_type": "exact",
       "score": 1.0
@@ -17129,11 +17158,6 @@
     },
     {
       "entity_id": "dataset_aigvdbench_aigvdbench",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
       "match_type": "exact",
       "score": 1.5
     },

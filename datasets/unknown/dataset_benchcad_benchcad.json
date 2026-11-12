@@ -9,7 +9,7 @@
   "private": false,
   "sha": "5919f578ab09ec283603a082fab07c7639ab56eb",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tBenchCAD\n\t\n\nThree-config dataset for CAD evaluation:\n\nedit-bench — held-out CAD edit benchmark.\ncode_gen — 17,900 synthetic CadQuery samples (compact 12-column variant)\ncovering 106 mechanical part families. Each row contains the GT CadQuery code\nplus 5 normalized renders.\nQA — CAD question-answering benchmark.\n\n\n\t\n\t\t\n\t\n\t\n\t\tcode_gen schema (12 columns)\n\t\n\n\n\t\n\t\t\nColumn\nType\nDescription\n\n\n\t\t\nstem\nstring\nunique sample identifier\n\n\nfamily\nstring\nmechanical part family (106 distinct)… See the full description on the dataset page: https://huggingface.co/datasets/BenchCAD/BenchCAD.",
-  "downloads": 87401,
+  "downloads": 96480,
   "tags": [
     "task_categories:image-to-text",
     "task_categories:text-generation",

@@ -1042,6 +1042,12 @@
 - **URL**: [https://huggingface.co/datasets/ayuo/hd_tmp](https://huggingface.co/datasets/ayuo/hd_tmp)
 - **Tags**: region:us
 
+## lmarena-ai/leaderboard-dataset
+- **ID**: hf_ds_69cec888d6ad2ec885b60a97
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset](https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset)
+- **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, modality:tabular, modality:text, region:us, size_categories:1M<n<10M
+
 ## Williamsanderson/MedQA-Darija-MultiLingual
 - **ID**: hf_ds_69cf1925c61c6c0fbb866b5d
 - **Source**: HuggingFace Datasets
@@ -1402,6 +1408,12 @@
 - **URL**: [https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)
 - **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:document, modality:image, modality:text, region:us, size_categories:1K<n<10K
 
+## Sharpa-Robotics/SharpaDex-v1.0
+- **ID**: hf_ds_6aba2c7aa8842e5c1f6e6ca4
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0](https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0)
+- **Tags**: bimanual-manipulation, dexterous-manipulation, imitation-learning, language-conditioned-robotics, lerobot, library:datasets, library:lerobot, library:mlcroissant, license:cc-by-nc-4.0, modality:video, region:us, robotics, size_categories:100K<n<1M, tactile-sensing, visuomotor-learning
+
 ## andrzejnovak/higgs-4l-measurement-data
 - **ID**: hf_ds_6abe7b0d6fa702d077c7dadf
 - **Source**: HuggingFace Datasets
@@ -1454,7 +1466,7 @@
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
-- **Tags**: region:us
+- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
 
 ## miniiohinkimsavol/copyright-detection-videos
 - **ID**: hf_ds_6adf714965d27a395f029c31

@@ -301,6 +301,11 @@
 - **URL**: [https://openai.com/business/customer-stories/blue-j](https://openai.com/business/customer-stories/blue-j)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/holidays-extras-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/holidays-extras-codex](https://openai.com/business/customer-stories/holidays-extras-codex)
+
+## 
 - **ID**: rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/enabling-a-data-driven-workforce-webinar](https://openai.com/business/enabling-a-data-driven-workforce-webinar)
@@ -1494,6 +1499,11 @@
 - **ID**: rss_https://openai.com/index/child-safety-adopting-sbd-principles
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/child-safety-adopting-sbd-principles](https://openai.com/index/child-safety-adopting-sbd-principles)
+
+## 
+- **ID**: rss_https://openai.com/index/children-first-declaration
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/children-first-declaration](https://openai.com/index/children-first-declaration)
 
 ## 
 - **ID**: rss_https://openai.com/index/chime-vineet-mehra

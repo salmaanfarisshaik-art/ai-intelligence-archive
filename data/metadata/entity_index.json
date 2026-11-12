@@ -340053,6 +340053,34 @@
     "local_path": "datasets/ayuo/hf_ds_69cd2a3acc9af6d091c033f0.json"
   },
   {
+    "id": "hf_ds_69cec888d6ad2ec885b60a97",
+    "title": "lmarena-ai/leaderboard-dataset",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:cc-by-4.0",
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/lmarena-ai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset",
+    "local_path": "datasets/lmarena-ai/hf_ds_69cec888d6ad2ec885b60a97.json"
+  },
+  {
     "id": "hf_ds_69cf1925c61c6c0fbb866b5d",
     "title": "Williamsanderson/MedQA-Darija-MultiLingual",
     "category": "dataset",
@@ -341598,6 +341626,39 @@
     "local_path": "datasets/xiaomimimo/hf_ds_6ab65a7f909092518dca860f.json"
   },
   {
+    "id": "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+    "title": "Sharpa-Robotics/SharpaDex-v1.0",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "bimanual-manipulation",
+      "dexterous-manipulation",
+      "imitation-learning",
+      "language-conditioned-robotics",
+      "lerobot",
+      "library:datasets",
+      "library:lerobot",
+      "library:mlcroissant",
+      "license:cc-by-nc-4.0",
+      "modality:video",
+      "region:us",
+      "robotics",
+      "size_categories:100K<n<1M",
+      "tactile-sensing",
+      "visuomotor-learning"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/Sharpa-Robotics"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/Sharpa-Robotics/SharpaDex-v1.0",
+    "local_path": "datasets/sharpa-robotics/hf_ds_6aba2c7aa8842e5c1f6e6ca4.json"
+  },
+  {
     "id": "hf_ds_6abe7b0d6fa702d077c7dadf",
     "title": "andrzejnovak/higgs-4l-measurement-data",
     "category": "dataset",
@@ -341761,7 +341822,11 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "region:us"
+      "library:datasets",
+      "library:mlcroissant",
+      "modality:video",
+      "region:us",
+      "size_categories:n<1K"
     ],
     "links": {
       "related_models": [],
@@ -651652,6 +651717,21 @@
     "local_path": "prompts/openai-blog/rss_https___openai.com_business_customer-stories_blue-j.json"
   },
   {
+    "id": "rss_https://openai.com/business/customer-stories/holidays-extras-codex",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_business_customer-stories_holidays-extras-codex.json"
+  },
+  {
     "id": "rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar",
     "title": "",
     "category": "news",
@@ -655235,6 +655315,21 @@
     },
     "source_url": "https://openai.com/index/child-safety-adopting-sbd-principles",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_child-safety-adopting-sbd-principles.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/children-first-declaration",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/children-first-declaration",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_children-first-declaration.json"
   },
   {
     "id": "rss_https://openai.com/index/chime-vineet-mehra",

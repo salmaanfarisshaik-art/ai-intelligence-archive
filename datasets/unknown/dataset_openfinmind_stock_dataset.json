@@ -9,7 +9,7 @@
   "private": false,
   "sha": "51f2e1ea9c53fa9a8c47412724ff18559440521d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tstock_dataset\n\t\n\n中文 | English\n\n\t\n\t\t\n\t\n\t\n\t\t中文\n\t\n\n本数据集以未压缩的原始文件保存两类股票数据，保留原有目录结构和文件内容，可以直接按目录下载使用。\n\n\t\n\t\t\n目录\n内容\n文件数\n原始字节数\n\n\n\t\t\nqlib/cn_data/\nA 股原生 Qlib provider，含 CSI300、CSI500、CSI1000 历史股票池定义\n61,008\n707,180,289\n\n\nqlib/us_data/\n美股原生 Qlib provider，含 SP500 股票池及基准\n3,744\n59,236,967\n\n\nqlib/hk_data/\n港股原生 Qlib provider，含 HSI90 股票池及 HKHSI 基准\n1,604\n15,714,170\n\n\nA股分钟/2000-2024/\n2000—2024 年 A 股 1、5、15、30、60 分钟 CSV 行情\n309,495\n216,090,239,948\n\n\n合计\n\n375,851\n216,872,371,374\n\n\n\t\n\n数据文件合计约 201.98… See the full description on the dataset page: https://huggingface.co/datasets/OpenFinMind/stock_dataset.",
-  "downloads": 294175,
+  "downloads": 294192,
   "tags": [
     "language:zh",
     "language:en",

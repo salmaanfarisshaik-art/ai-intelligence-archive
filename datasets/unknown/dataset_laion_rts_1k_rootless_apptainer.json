@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6dbb24eedc0d7ffe5431e1b052b0de8e19eaf6fe",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRTS-1K: offline rootless Apptainer release\n\t\n\nThis derived release contains 984 tasks from Recursive Task Synthesis. RTS-1K is the stable project label; the exact size is 984. The tasks are the strict passing subset of a frozen 1,000-task validation cohort. The 16 failures are preserved in manifests/validation-exclusions.jsonl and were not modified or replaced.\nAll included tasks passed three reference-oracle attempts and three nop negative-control attempts under offline, rootless… See the full description on the dataset page: https://huggingface.co/datasets/laion/rts-1k-rootless-apptainer.",
-  "downloads": 43275,
+  "downloads": 43508,
   "tags": [
     "task_categories:reinforcement-learning",
     "language:en",

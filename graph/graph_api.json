@@ -27052,6 +27052,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_69cec888d6ad2ec885b60a97",
+      "target": "datasets/lmarena-ai"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_69cf1925c61c6c0fbb866b5d",
       "target": "datasets/Williamsanderson"
     },
@@ -27224,6 +27229,11 @@
       "relationship": "related_models",
       "source": "hf_ds_6ab65a7f909092518dca860f",
       "target": "datasets/XiaomiMiMo"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+      "target": "datasets/Sharpa-Robotics"
     },
     {
       "relationship": "related_models",
@@ -27516,7 +27526,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-12T03:36:27.744593+00:00",
+  "generated_at": "2026-11-12T12:11:26.866790+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -176567,6 +176577,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_69cec888d6ad2ec885b60a97",
+      "label": "lmarena-ai/leaderboard-dataset"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69cf1925c61c6c0fbb866b5d",
       "label": "Williamsanderson/MedQA-Darija-MultiLingual"
     },
@@ -176864,6 +176879,11 @@
       "category": "dataset",
       "id": "hf_ds_6ab65a7f909092518dca860f",
       "label": "XiaomiMiMo/MiMo-V2.6-RL-oss"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+      "label": "Sharpa-Robotics/SharpaDex-v1.0"
     },
     {
       "category": "dataset",
@@ -331067,6 +331087,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/business/customer-stories/holidays-extras-codex",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar",
       "label": ""
     },
@@ -332258,6 +332283,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/child-safety-adopting-sbd-principles",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/children-first-declaration",
       "label": ""
     },
     {
@@ -492947,6 +492977,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5503,
-  "total_nodes": 93085
+  "total_edges": 5505,
+  "total_nodes": 93089
 }
