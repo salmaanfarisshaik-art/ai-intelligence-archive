@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93120
+**Total Entities Tracked**: 93170
 
 ## Category Distribution
 
@@ -9,23 +9,23 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2779
 - **models**: 2056
-- **cs.CV**: 1608
+- **cs.CV**: 1625
 - **news**: 1419
 - **dataset**: 1246
-- **cs.CL**: 1056
-- **cs.AI**: 1035
+- **cs.CL**: 1066
+- **cs.AI**: 1045
 - **text-generation**: 1017
-- **cs.LG**: 591
-- **cs.RO**: 258
+- **cs.LG**: 598
+- **cs.RO**: 259
 - **cs.CR**: 105
 - **cs.SE**: 83
 - **tool**: 59
 - **cs.HC**: 55
 - **cs.IR**: 54
 - **cs.SD**: 48
-- **cs.CY**: 36
+- **cs.CY**: 37
 - **cs.MA**: 26
-- **eess.IV**: 22
+- **eess.IV**: 23
 - **eess.AS**: 20
 - **stat.ML**: 17
 - **cs.GT**: 16
@@ -35,6 +35,7 @@
 - **cs.DC**: 13
 - **math.OC**: 12
 - **cs.AR**: 11
+- **cs.GR**: 11
 - **cs.NI**: 11
 - **Backend**: 10
 - **Database**: 10
@@ -43,12 +44,11 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.GR**: 10
 - **cs.IT**: 10
 - **cs.MM**: 9
 - **cs.NE**: 9
+- **stat.ME**: 9
 - **cond-mat.mtrl-sci**: 8
-- **stat.ME**: 8
 - **cs.LO**: 7
 - **eess.SY**: 7
 - **IDE Rule**: 6
@@ -68,6 +68,7 @@
 - **physics.med-ph**: 3
 - **q-bio.QM**: 3
 - **cs.CC**: 2
+- **cs.DS**: 2
 - **cs.SI**: 2
 - **physics.flu-dyn**: 2
 - **q-fin.PM**: 2
@@ -79,7 +80,6 @@
 - **astro-ph.SR**: 1
 - **cond-mat.soft**: 1
 - **cs.DM**: 1
-- **cs.DS**: 1
 - **cs.OS**: 1
 - **cs.PF**: 1
 - **cs.SC**: 1
@@ -103,7 +103,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 32013
-- **ArXiv**: 5258
+- **ArXiv**: 5308
 - **Hugging Face**: 2025
 - **OpenAI Blog**: 1404
 - **HuggingFace Datasets**: 246

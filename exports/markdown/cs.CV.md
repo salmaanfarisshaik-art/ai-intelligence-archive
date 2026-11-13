@@ -300,6 +300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.07996v4](http://arxiv.org/abs/2509.07996v4)
 
+## MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging
+- **ID**: arxiv_2509.16806v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.16806v5](http://arxiv.org/abs/2509.16806v5)
+
 ## Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
 - **ID**: arxiv_2509.18912v2
 - **Source**: ArXiv
@@ -560,6 +565,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.08024v2](http://arxiv.org/abs/2601.08024v2)
 
+## GRCF: Group-wise Ranking and Calibration Framework for Multimodal Sentiment Analysis
+- **ID**: arxiv_2601.09606v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.09606v2](http://arxiv.org/abs/2601.09606v2)
+
 ## Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP
 - **ID**: arxiv_2601.09859v2
 - **Source**: ArXiv
@@ -589,6 +599,11 @@
 - **ID**: arxiv_2601.21948v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21948v2](http://arxiv.org/abs/2601.21948v2)
+
+## VMonarch: Efficient Video Diffusion Transformers with Structured Attention
+- **ID**: arxiv_2601.22275v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.22275v2](http://arxiv.org/abs/2601.22275v2)
 
 ## LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
 - **ID**: arxiv_2602.00462v5
@@ -8039,4 +8054,74 @@
 - **ID**: arxiv_2611.14519v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14519v1](http://arxiv.org/abs/2611.14519v1)
+
+## SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery
+- **ID**: arxiv_2611.17172v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17172v1](http://arxiv.org/abs/2611.17172v1)
+
+## Validation-Guided Prompt Selection for Differential Morphing Attack Detection
+- **ID**: arxiv_2611.17176v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17176v1](http://arxiv.org/abs/2611.17176v1)
+
+## Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes
+- **ID**: arxiv_2611.17190v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17190v1](http://arxiv.org/abs/2611.17190v1)
+
+## eDMD: Endpoint Distribution Matching for Few-Step Diffusion Distillation
+- **ID**: arxiv_2611.17194v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17194v1](http://arxiv.org/abs/2611.17194v1)
+
+## MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI
+- **ID**: arxiv_2611.17199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17199v1](http://arxiv.org/abs/2611.17199v1)
+
+## Objects as Addresses: Instance Binding in Vision Transformer Attention
+- **ID**: arxiv_2611.17240v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17240v1](http://arxiv.org/abs/2611.17240v1)
+
+## Consistent Video-to-Video Translation via Explicit Correspondences
+- **ID**: arxiv_2611.17298v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17298v1](http://arxiv.org/abs/2611.17298v1)
+
+## FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification
+- **ID**: arxiv_2611.17302v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17302v1](http://arxiv.org/abs/2611.17302v1)
+
+## Spatial Foundry: A Multimodal Dataset for Spatial Intelligence
+- **ID**: arxiv_2611.17318v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17318v1](http://arxiv.org/abs/2611.17318v1)
+
+## BrickFlow: Connectivity-Guided Brick Reconstruction
+- **ID**: arxiv_2611.17321v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17321v1](http://arxiv.org/abs/2611.17321v1)
+
+## K2V: Generative Keyframing For Physically Plausible Video Generation
+- **ID**: arxiv_2611.17324v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17324v1](http://arxiv.org/abs/2611.17324v1)
+
+## TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models
+- **ID**: arxiv_2611.17331v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17331v1](http://arxiv.org/abs/2611.17331v1)
+
+## Unbundling Multimodal Vision Encoding
+- **ID**: arxiv_2611.17334v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17334v1](http://arxiv.org/abs/2611.17334v1)
+
+## Back to Pixels: Lifting Latent Video Diffusion into Pixel Space
+- **ID**: arxiv_2611.17336v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17336v1](http://arxiv.org/abs/2611.17336v1)
 

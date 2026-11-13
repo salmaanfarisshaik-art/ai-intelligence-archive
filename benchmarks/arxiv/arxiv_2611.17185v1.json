@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.17185v1",
+  "schema_version": "1.0",
+  "name": "Neural Render Proxies for Interactive and Differentiable Lighting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.17185v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.17185v1",
+    "updated": "2026-11-12T17:52:44Z",
+    "published": "2026-11-12T17:52:44Z",
+    "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+    "summary": "Within the CG animation production pipeline, the challenges artists tackle in Lighting can be immense. Even minor adjustments require re-rendering massive scenes with slow offline renderers; global illumination has to be sampled and complex shaders have to be evaluated, leading to iteration times of minutes to hours per frame. To accelerate this process, we introduce a novel neural render proxy (NRP) that enables differentiable relighting of static scenes with fixed camera and materials at interactive rates. Our main insight is the decoupling of traditional rendering into path sampling and emission computation. From a single, light-agnostic render pass, we collect light transport data in the form of path samples. This enables rapidly sampling lighting conditions on the fly, and training a scene-specific lightweight neural network that learns how light is transported from any scene location to any image pixel. This approach is compatible with non-differentiable production renderers, induces minimal memory requirements during inference, and scales only with resolution and the number of light sources and parameters, but independently of scene and appearance complexity. Our evaluation demonstrates interactive frame rates for relighting (~30-60 Hz) while closely approximating the visual fidelity of ground-truth path tracing. In addition, the differentiable NRP enables fast, gradient-based inverse workflows, allowing artists to efficiently solve for lighting parameters from intuitive image-space edits or generative targets.",
+    "primary_category": "cs.GR"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T17:52:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.17185v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

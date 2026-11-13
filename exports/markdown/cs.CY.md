@@ -180,3 +180,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12814v1](http://arxiv.org/abs/2611.12814v1)
 
+## Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline
+- **ID**: arxiv_2611.17220v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17220v1](http://arxiv.org/abs/2611.17220v1)
+

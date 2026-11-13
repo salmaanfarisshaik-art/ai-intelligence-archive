@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31607v1](http://arxiv.org/abs/2609.31607v1)
 
+## When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems
+- **ID**: arxiv_2611.17239v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17239v1](http://arxiv.org/abs/2611.17239v1)
+

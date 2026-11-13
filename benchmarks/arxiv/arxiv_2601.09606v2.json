@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.09606v2",
+  "schema_version": "1.0",
+  "name": "GRCF: Group-wise Ranking and Calibration Framework for Multimodal Sentiment Analysis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.09606v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.09606v2",
+    "updated": "2026-11-12T18:05:18Z",
+    "published": "2026-01-14T16:26:44Z",
+    "title": "GRCF: Group-wise Ranking and Calibration Framework for Multimodal Sentiment Analysis",
+    "summary": "Most multimodal sentiment analysis algorithms focus on point-wise regression. While straightforward, it uses absolute values to represent subjective sentiment and overlooks the ordinal nature of sentiment, resulting in unstable predictions and poor correlation. Inspired by the way humans perceive sentiment, pair-wise ordinal learning frameworks emerged to address this gap, capturing relative order by learning from comparisons. However, they have two limitations: First, they assign uniform importance to all pairs, failing to adaptively focus on hard-to-rank samples. Second, they employ static ranking margins, which fail to reflect the varying semantic distances between sentiment groups. To address this, we propose a Group-wise Ranking and Calibration Framework (GRCF) that introduces the Adaptive Error-weighting and Dynamic Margin mechanism, which resolves these limitations by simultaneously preserving the relative ordinal structure and ensuring absolute score calibration. Specifically, Stage 1 introduces a Group-aware Ranking Loss to build a fine-grained ordinal structure by assigning higher optimization priority to confusable pairs. Stage 2 then employs an MAE-driven objective to align the prediction magnitudes. To validate its generalizability, we extend GRCF to classification tasks, including Multimodal Humor and Sarcasm Detection. It achieves state-of-the-art performance on regression datasets while also showing strong generalizability in classification tasks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:05:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.09606v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.17240v1",
+  "schema_version": "1.0",
+  "name": "Objects as Addresses: Instance Binding in Vision Transformer Attention",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.17240v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.17240v1",
+    "updated": "2026-11-12T18:27:11Z",
+    "published": "2026-11-12T18:27:11Z",
+    "title": "Objects as Addresses: Instance Binding in Vision Transformer Attention",
+    "summary": "Humans naturally parse visual scenes into coherent individual objects rather than scattered features, a capability cognitive science calls object binding. While recent work shows that pretrained Vision Transformers (ViTs) intrinsically acquire this ability, how native self-attention computations mechanistically keep object instances separate remains unresolved. By studying this across eight pretrained ViTs, we found that instance separation is expressed more strongly in attention routing than in token content: selected query-key relations distinguish individual objects more reliably than value similarity or residual representations. Inside heads, patches belonging to one individual tend to read from a common image region, which we term their attention address. Visually distinct parts of one person share an address, whereas identical duplicated instances receive separate, movable addresses. These shared destinations arise in part because query interactions with the spatial structure of keys direct attention toward consistent regions for one object and elsewhere for another. In DINOv2 and most other backbones we tested, editing this query component at the selected head redirects its attention address toward another individual. Grouping patches by this query component separates same-category instances, reaching .615 FG-ARI versus .289 for the same clustering of final-layer features, which tend to merge them.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:27:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.17240v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.17280v1",
+  "schema_version": "1.0",
+  "name": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.17280v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.17280v1",
+    "updated": "2026-11-12T18:51:05Z",
+    "published": "2026-11-12T18:51:05Z",
+    "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+    "summary": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes that into innocuous-looking model-generated content. The user may then unknowingly transmit that information by sharing the generated artifact, say as an email, social-media post, or message, through ordinary communication channels. An adversary monitoring these channels can discover this information. We demonstrate this threat by training two open-weight models to infer gender and age-group labels from conversational cues and encode their predictions using invisible characters or word choices. These results show that user-shared model outputs can become a covert channel for personal inferences, even when the model itself has no direct means of contacting an adversary.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:51:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.17280v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

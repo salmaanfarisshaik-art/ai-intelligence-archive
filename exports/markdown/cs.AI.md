@@ -540,6 +540,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29563v2](http://arxiv.org/abs/2605.29563v2)
 
+## From XXLTraffic to EvoXXLTraffic: Scaling Traffic Forecasting to Sensor-Evolving Networks
+- **ID**: arxiv_2605.29768v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29768v3](http://arxiv.org/abs/2605.29768v3)
+
 ## When Should Models Change Their Minds? Contextual Belief Management in Large Language Models
 - **ID**: arxiv_2605.30219v2
 - **Source**: ArXiv
@@ -564,6 +569,11 @@
 - **ID**: arxiv_2606.00831v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.00831v2](http://arxiv.org/abs/2606.00831v2)
+
+## LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks
+- **ID**: arxiv_2606.03303v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.03303v3](http://arxiv.org/abs/2606.03303v3)
 
 ## Agents' Last Exam
 - **ID**: arxiv_2606.05405v4
@@ -5174,4 +5184,44 @@
 - **ID**: arxiv_2611.14514v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14514v1](http://arxiv.org/abs/2611.14514v1)
+
+## Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents
+- **ID**: arxiv_2611.17167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17167v1](http://arxiv.org/abs/2611.17167v1)
+
+## Cortex-FL: Agent-Mediated Collaboration for Federated Learning
+- **ID**: arxiv_2611.17186v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17186v1](http://arxiv.org/abs/2611.17186v1)
+
+## Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models
+- **ID**: arxiv_2611.17235v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17235v1](http://arxiv.org/abs/2611.17235v1)
+
+## Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery
+- **ID**: arxiv_2611.17241v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17241v1](http://arxiv.org/abs/2611.17241v1)
+
+## LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds
+- **ID**: arxiv_2611.17267v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17267v1](http://arxiv.org/abs/2611.17267v1)
+
+## Classical Energies Learn to Reason 1,000x Faster than Looped Models
+- **ID**: arxiv_2611.17309v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17309v1](http://arxiv.org/abs/2611.17309v1)
+
+## CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation
+- **ID**: arxiv_2611.17316v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17316v1](http://arxiv.org/abs/2611.17316v1)
+
+## AgentSSL: Can MLE Agents Leverage Unlabeled Data?
+- **ID**: arxiv_2611.17323v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17323v1](http://arxiv.org/abs/2611.17323v1)
 

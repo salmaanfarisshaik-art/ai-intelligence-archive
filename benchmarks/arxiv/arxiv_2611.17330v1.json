@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.17330v1",
+  "schema_version": "1.0",
+  "name": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.17330v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.17330v1",
+    "updated": "2026-11-12T18:59:49Z",
+    "published": "2026-11-12T18:59:49Z",
+    "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+    "summary": "Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execution outcomes in 3D environments, existing methods often struggle to predict accurate navigation waypoints from language instructions. To solve this, we introduce the Prototypical Visual Imagination framework, shortened as ProtoVis-Nav, which forces the model to imagine an outcome-associated local visual representation for the intended next UAV movement. Specifically, we predict feature prototypes and use their linear combination to estimate the visual feature of the target region. In this manner, the VLN model first imagines the local visual representation of the next intended location, and then uses predicted prototypes as context for generating the final action, promoting alignment between visual context and waypoint outputs. Extensive experiments demonstrate the effectiveness of the ProtoVis-Nav framework and show substantial improvements over existing baselines.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:59:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.17330v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

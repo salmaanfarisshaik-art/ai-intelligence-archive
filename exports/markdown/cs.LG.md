@@ -270,6 +270,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
 
+## Understanding and Learning Prediction Targets in Diffusion Models
+- **ID**: arxiv_2601.21419v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.21419v3](http://arxiv.org/abs/2601.21419v3)
+
 ## Deep Time-series Forecasting Needs Kernelized Moment Balancing
 - **ID**: arxiv_2602.00717v2
 - **Source**: ArXiv
@@ -489,6 +494,11 @@
 - **ID**: arxiv_2605.01240v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.01240v3](http://arxiv.org/abs/2605.01240v3)
+
+## AI Alignment via Incentives and Correction
+- **ID**: arxiv_2605.01643v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01643v4](http://arxiv.org/abs/2605.01643v4)
 
 ## Probe-Geometry Alignment: Erasing the Cross-Sequence Memorization Signature Below Chance
 - **ID**: arxiv_2605.01699v4
@@ -2954,4 +2964,29 @@
 - **ID**: arxiv_2611.14515v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14515v1](http://arxiv.org/abs/2611.14515v1)
+
+## Maximizing Capacity Utilization of LoRA Adapters for Mitigating the Learning-Forgetting Trade-off
+- **ID**: arxiv_2611.17191v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17191v1](http://arxiv.org/abs/2611.17191v1)
+
+## Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal $\sqrt S$ and $\sqrt K$ Dependencies in Tabular and Linear AMDPs
+- **ID**: arxiv_2611.17214v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17214v1](http://arxiv.org/abs/2611.17214v1)
+
+## Negative-Only Policy Optimization for One-Sided Verifiable Rewards
+- **ID**: arxiv_2611.17287v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17287v1](http://arxiv.org/abs/2611.17287v1)
+
+## Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon
+- **ID**: arxiv_2611.17294v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17294v1](http://arxiv.org/abs/2611.17294v1)
+
+## Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces
+- **ID**: arxiv_2611.17314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17314v1](http://arxiv.org/abs/2611.17314v1)
 

@@ -1290,3 +1290,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14470v1](http://arxiv.org/abs/2611.14470v1)
 
+## ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation
+- **ID**: arxiv_2611.17330v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17330v1](http://arxiv.org/abs/2611.17330v1)
+

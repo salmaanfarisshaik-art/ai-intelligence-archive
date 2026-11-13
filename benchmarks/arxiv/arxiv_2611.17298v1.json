@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.17298v1",
+  "schema_version": "1.0",
+  "name": "Consistent Video-to-Video Translation via Explicit Correspondences",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.17298v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.17298v1",
+    "updated": "2026-11-12T18:55:09Z",
+    "published": "2026-11-12T18:55:09Z",
+    "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+    "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach grounded in a simple observation. Video-to-video translation provides an explicit cross-frame reference: the regions that match in the input video should match in the output video too. Concretely, we compute patch-level correspondences in the input, guiding retrieval of previously generated outputs in the corresponding regions, and condition the model on these patches through correspondence cross-attention. Our experiments demonstrate that vid2vid-long consistently improves long-range temporal consistency across recent video models while preserving generation quality and real-time performance.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:55:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.17298v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

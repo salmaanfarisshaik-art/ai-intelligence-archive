@@ -330,6 +330,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.24149v2](http://arxiv.org/abs/2512.24149v2)
 
+## The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models
+- **ID**: arxiv_2601.00797v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.00797v2](http://arxiv.org/abs/2601.00797v2)
+
 ## Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models
 - **ID**: arxiv_2601.03079v5
 - **Source**: ArXiv
@@ -859,6 +864,11 @@
 - **ID**: arxiv_2605.23954v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.23954v2](http://arxiv.org/abs/2605.23954v2)
+
+## Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap
+- **ID**: arxiv_2605.24432v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.24432v2](http://arxiv.org/abs/2605.24432v2)
 
 ## ROC Analysis for Evaluating Translation Quality Estimation Systems
 - **ID**: arxiv_2605.24721v2
@@ -1895,6 +1905,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00932v6](http://arxiv.org/abs/2608.00932v6)
 
+## Gaokerena: A Small Persian Medical Language Model Family
+- **ID**: arxiv_2608.00932v8
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00932v8](http://arxiv.org/abs/2608.00932v8)
+
 ## Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation
 - **ID**: arxiv_2608.01666v3
 - **Source**: ArXiv
@@ -2224,6 +2239,11 @@
 - **ID**: arxiv_2608.11200v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11200v1](http://arxiv.org/abs/2608.11200v1)
+
+## Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models
+- **ID**: arxiv_2608.11426v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11426v3](http://arxiv.org/abs/2608.11426v3)
 
 ## CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models
 - **ID**: arxiv_2608.11534v2
@@ -3965,6 +3985,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02206v1](http://arxiv.org/abs/2610.02206v1)
 
+## Large Language Continuous Diffusion Models
+- **ID**: arxiv_2610.02665v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02665v2](http://arxiv.org/abs/2610.02665v2)
+
 ## Predicting Steering Vectors and Adapter Weights for Few-Shot Author-Style Transfer
 - **ID**: arxiv_2610.03163v1
 - **Source**: ArXiv
@@ -5279,4 +5304,29 @@
 - **ID**: arxiv_2611.14483v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14483v1](http://arxiv.org/abs/2611.14483v1)
+
+## Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing
+- **ID**: arxiv_2611.17169v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17169v1](http://arxiv.org/abs/2611.17169v1)
+
+## Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs
+- **ID**: arxiv_2611.17280v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17280v1](http://arxiv.org/abs/2611.17280v1)
+
+## Goal Encoding in LLMs
+- **ID**: arxiv_2611.17297v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17297v1](http://arxiv.org/abs/2611.17297v1)
+
+## Learning When Diffusion Language Models Should Regenerate
+- **ID**: arxiv_2611.17320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17320v1](http://arxiv.org/abs/2611.17320v1)
+
+## ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research
+- **ID**: arxiv_2611.17332v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17332v1](http://arxiv.org/abs/2611.17332v1)
 

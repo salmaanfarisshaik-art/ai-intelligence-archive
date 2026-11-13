@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11426v3",
+  "schema_version": "1.0",
+  "name": "Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.11426v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11426v3",
+    "updated": "2026-11-12T17:44:50Z",
+    "published": "2026-08-11T20:47:06Z",
+    "title": "Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models",
+    "summary": "The lack of diversity in LM content is widely attributed to the alignment process, but how and where exactly in the pipeline this collapse begins is unknown. We argue that output homogeneity is likely learned during the pretraining phase, and only revealed or magnified during the alignment process. Specifically, we find that semantic convergence is observed from the first alignment stage--the instruction-tuning phase (SFT)--suggesting that homogeneity might already exist in the pre-alignment model. To investigate this, we conduct controlled SFT experiments examining how training data influences output convergence on specific input/output pairs. We find that convergence can be revealed and amplified, but not introduced by the SFT data, supporting its role as a catalyst rather than a cause. To further test whether homogeneity originates before alignment, we measure convergence in base models. We find that instruct-like collapse can be induced through prompting alone, even without alignment. Taken together, our results suggest that semantic convergence may arise naturally from the objectives underlying LM training, making it difficult to mitigate through post-alignment interventions alone.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T17:44:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11426v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

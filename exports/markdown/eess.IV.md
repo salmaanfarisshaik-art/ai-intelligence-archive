@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35842v1](http://arxiv.org/abs/2610.35842v1)
 
+## Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems
+- **ID**: arxiv_2611.05843v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05843v2](http://arxiv.org/abs/2611.05843v2)
+
 ## TOP: Transmission-Oriented Remote Sensing Pansharpening
 - **ID**: arxiv_2611.06430v1
 - **Source**: ArXiv

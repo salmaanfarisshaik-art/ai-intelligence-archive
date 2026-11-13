@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.16806v5",
+  "schema_version": "1.0",
+  "name": "MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.16806v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.16806v5",
+    "updated": "2026-11-12T18:27:15Z",
+    "published": "2025-09-20T20:52:26Z",
+    "title": "MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging",
+    "summary": "Multi-modal three-dimensional (3D) medical imaging data, derived from ultrasound, magnetic resonance imaging (MRI), and computed tomography (CT), provide a widely adopted approach for non-invasive anatomical visualization. However, accurate modeling depends on surface reconstruction and frame-to-frame interpolation, where traditional methods often struggle with image noise and incomplete information between sparse frames. To address these challenges, we present \\our{}, a novel framework based on Gaussian Splatting (GS) designed for high-fidelity 3D anatomical reconstruction. Uniquely, \\our{} employs a multi-task architecture that simultaneously performs frame interpolation and segmentation using a unified geometric representation. By coupling these tasks, the model leverages dense signals from image synthesis to regularize the geometry, enabling high-quality surface extraction even from a limited number of input frames. Specifically, medical data are modeled as Folded-Gaussians with dual color attributes, supported by an In-Between Frame Regularization (IBFR) mechanism. Experimental results demonstrate that \\our{} achieves higher metric scores than implicit neural representations and improves interpolation quality. Repository: https://github.com/gmum/MedGS",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:27:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.16806v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

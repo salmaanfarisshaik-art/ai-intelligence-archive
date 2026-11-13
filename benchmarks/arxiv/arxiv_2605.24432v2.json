@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.24432v2",
+  "schema_version": "1.0",
+  "name": "Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.24432v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.24432v2",
+    "updated": "2026-11-12T18:59:29Z",
+    "published": "2026-05-23T06:58:52Z",
+    "title": "Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
+    "summary": "Large Language Model (LLM) interactions are typically underspecified, with users clarifying all necessary details across multiple conversational turns. Yet recent work shows that LLMs perform far worse in this multi-turn setting than in a single turn with the same information available at once, a phenomenon termed \"Lost-in-Conversation.\" However, bridging this gap effectively remains an open problem. Here we introduce Found in Conversation (FiC), a training framework where a model teaches itself to find and recover its single-turn competence given underspecified multi-turn prompts. We develop View-Asymmetric Self-Distillation, which distills across two views of the same task information (a single-turn view for the teacher and a multi-turn view for the student), transferring strong single-turn behavior into weak multi-turn behavior. This requires no stronger external teacher, which is unavailable as even frontier LLMs exhibit this gap. Across model families (Llama, Qwen, Phi, and OLMo) and sizes (3B-14B), FiC attains 92-100% of single-turn performance, yielding more efficient and helpful multi-turn conversations with single-turn capabilities largely intact.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-13T09:05:55Z",
+  "last_updated": "2026-11-12T18:59:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.24432v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
