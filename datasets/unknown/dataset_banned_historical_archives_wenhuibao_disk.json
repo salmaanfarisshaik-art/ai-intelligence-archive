@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7d3fdf08df4aa71ac19d74b4346de5af18b3402e",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t文汇报光盘1938-1999\n\t\n\n光盘收录了1938年-1999年所有文章共计1231692篇。13张光盘中包括扫描的图像和文本数据, setup.iso为安装程序（内含文本数据库），1-12文件夹为原来1-12号光碟。html.7z为爬虫爬取的文章html页面的压缩包。\n\n\t\n\t\t\n\t\n\t\n\t\t光盘使用说明\n\t\n\n安装程序需要在windows98 简体中文版中打开\n进入系统后，插入setup.iso，安装时根据提示插入1-5号光盘；其他光盘在读取插图时使用。\n(建议使用VirtualBox虚拟机)\n\n\t\n\t\t\n\t\n\t\n\t\t启动爬虫\n\t\n\n\n安装ie6\n在安装目录的html/cgi-bin/oneart.htm的\"\"后插入\n\n\n<SCRIPT language=JavaScript>\nvar a =function() {\n    if (document.readyState !=\"complete\") return;\n    var x = new ActiveXObject(\"Microsoft.XMLHTTP\");\n    var content… See the full description on the dataset page: https://huggingface.co/datasets/banned-historical-archives/wenhuibao_disk.",
-  "downloads": 40450,
+  "downloads": 40452,
   "tags": [
     "region:us"
   ],

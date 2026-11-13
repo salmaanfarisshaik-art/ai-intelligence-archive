@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6aa045cc996c486aa60bb3a85bafc377e1e5c6f6",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMatPredict\n\t\n\nMatPredict is a synthetic dataset for material-centric scene understanding. It supports two main tasks:\n\nInverse rendering: predict material properties such as albedo, roughness, and metallic maps from RGB images.\nMaterial segmentation: predict material regions or material classes from RGB images.\n\nThe dataset contains rendered object variants with paired RGB images, material property maps, segmentation labels, camera transforms, and metadata.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset page: https://huggingface.co/datasets/UMTRI/MatPredict.",
-  "downloads": 50119,
+  "downloads": 54338,
   "tags": [
     "task_categories:image-to-image",
     "task_categories:image-segmentation",

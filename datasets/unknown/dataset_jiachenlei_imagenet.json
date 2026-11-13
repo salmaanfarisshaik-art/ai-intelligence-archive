@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8cda0993f1eb64e5b0243f9df85b94c535cb2aac",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\n\n\nThis dataset contains raw ImageNet training images in JPEG format. \nIf you are using it for image generation training and need to report FID score, it's highly recommended to center-crop them into 256/512 and save in PNG format.\nYou could refer to the codes in this github repo for pre-processing the dataset and evaluating the FID score.\n\n\t\n\t\t\n\t\n\t\n\t\tProper Usage/Citation/License\n\t\n\nPlease refer to the offical repo, which contains parquet files instead of raw images\nAll… See the full description on the dataset page: https://huggingface.co/datasets/jiachenlei/imagenet.",
-  "downloads": 49958,
+  "downloads": 51193,
   "tags": [
     "region:us"
   ],

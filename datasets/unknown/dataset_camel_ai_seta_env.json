@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3c3bc8975b05826bf41769bd6b2da76ad1b6dd42",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSETA-Env\n\t\n\n\n \nSETA-Env is an open-source verifiable RL terminal environment dataset for community training and evaluation.\nThis release contains two top-level subsets:\n\nSETA_Synth: synthesized tasks\nSETA_Evolve: evolved variants of terminal-agent tasks\n\nThe current release contains 4567 environments:\n\nSETA_Synth: 3255\nSETA_Evolve: 1312\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat Is Included\n\t\n\nEach task is packaged as a self-contained Harbor-style task directory with the files needed to run the task, build… See the full description on the dataset page: https://huggingface.co/datasets/camel-ai/SETA-Env.",
-  "downloads": 261320,
+  "downloads": 261944,
   "tags": [
     "task_categories:reinforcement-learning",
     "language:en",

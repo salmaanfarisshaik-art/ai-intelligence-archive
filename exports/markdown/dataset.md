@@ -1198,6 +1198,12 @@
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
 - **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, modality:text, region:us, size_categories:1M<n<10M
 
+## MINT-SJTU/RW-RL-Dataset
+- **ID**: hf_ds_6a2109cc17dad4ca26c80eb7
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/MINT-SJTU/RW-RL-Dataset](https://huggingface.co/datasets/MINT-SJTU/RW-RL-Dataset)
+- **Tags**: arxiv:2610.13345, embodied-ai, human-intervention, language:en, modality:video, multimodal, real-world-robotics, region:us, reinforcement-learning, robotics, size_categories:100K<n<1M, teleoperation
+
 ## RoboDojo-Benchmark/RoboDojo
 - **ID**: hf_ds_6a252aa1e7f978cbccbe94ed
 - **Source**: HuggingFace Datasets
@@ -1485,6 +1491,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K](https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K)
 - **Tags**: arxiv:2611.06817, bimanual-manipulation, egocentric-video, embodied-ai, format:parquet, hand-motion, lerobot, library:datasets, library:lerobot, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:tabular, modality:text, modality:video, region:us, robot-learning, size_categories:10M<n<100M, task_categories:robotics, world-action-model
+
+## IaLoverSpaghetti/LocaIAinHTML
+- **ID**: hf_ds_6af4258a4d4515274af21b61
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/IaLoverSpaghetti/LocaIAinHTML](https://huggingface.co/datasets/IaLoverSpaghetti/LocaIAinHTML)
+- **Tags**: region:us
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

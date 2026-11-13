@@ -9,7 +9,7 @@
   "private": false,
   "sha": "24672f939864c678d9bf164c24968a74dfb0c46c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tv2-crypto-ohlcv-data\n\t\n\nCryptocurrency OHLCV data from Binance API.\nGenerated: 2025-12-30 07:53:47\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Info\n\t\n\n\nTotal Files: 46\nTotal Data Points: 4,819,964\nTotal Size: 110.57 MB\nSymbols: 23 cryptocurrencies\nTimeframes: 15m, 1h\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport pandas as pd\nfrom huggingface_hub import hf_hub_download\n\npath = hf_hub_download(\n    \"zongowo111/v2-crypto-ohlcv-data\",\n    \"klines/BTCUSDT/BTC_15m.parquet\",\n    repo_type=\"dataset\"\n)\ndf = pd.read_parquet(path)… See the full description on the dataset page: https://huggingface.co/datasets/zongowo111/v2-crypto-ohlcv-data.",
-  "downloads": 43940,
+  "downloads": 45393,
   "tags": [
     "license:mit",
     "size_categories:1M<n<10M",

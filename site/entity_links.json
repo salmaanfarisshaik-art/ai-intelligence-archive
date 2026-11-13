@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:07:18Z",
+  "generated_at": "2026-11-13T17:31:31Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -7787,6 +7787,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_prism_ml_ternary_bonsai_2_27b_gguf_dev",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
       "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
@@ -7809,6 +7814,16 @@
     {
       "source_id": "model_prismor_prompt_guard_1_5b",
       "target_id": "hf_xTRam1_safe-guard-prompt-injection",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_prithivmlmods_axion_1_0_35b_gguf",
+      "target_id": "hf_Axion1-0_Axion-1.0-35B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_prithivmlmods_axion_1_0_35b_gguf",
+      "target_id": "hf_Axion1-0_axion-training-data",
       "type": "trained_on"
     },
     {

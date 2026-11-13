@@ -4372,6 +4372,10 @@
 - **ID**: model_naver_hyperclovax_hyperclovax_seed_vision_instruct_3b
 - **Source**: 
 
+## ncfrey/ChemGPT-19M
+- **ID**: model_ncfrey_chemgpt_19m
+- **Source**: 
+
 ## neopolita/Qwen3.6-11B-A3B-Niwaki-4bit-GGUF
 - **ID**: model_neopolita_qwen3_6_11b_a3b_niwaki_4bit_gguf
 - **Source**: 
@@ -8014,6 +8018,10 @@
 
 ## yuhuili/EAGLE-LLaMA3-Instruct-8B
 - **ID**: model_yuhuili_eagle_llama3_instruct_8b
+- **Source**: 
+
+## yujiepan/gpt-oss-tiny-random
+- **ID**: model_yujiepan_gpt_oss_tiny_random
 - **Source**: 
 
 ## yujiepan/kimi-linear-tiny-random

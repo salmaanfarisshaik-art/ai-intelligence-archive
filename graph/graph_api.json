@@ -27382,6 +27382,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6a2109cc17dad4ca26c80eb7",
+      "target": "datasets/MINT-SJTU"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
       "target": "datasets/tencent"
     },
@@ -27781,7 +27786,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-13T09:06:12.585184+00:00",
+  "generated_at": "2026-11-13T17:30:36.197051+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -177322,6 +177327,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a2109cc17dad4ca26c80eb7",
+      "label": "MINT-SJTU/RW-RL-Dataset"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a252aa1e7f978cbccbe94ed",
       "label": "RoboDojo-Benchmark/RoboDojo"
     },
@@ -177559,6 +177569,11 @@
       "category": "dataset",
       "id": "hf_ds_6ae993485240eb6b7ac68d30",
       "label": "DAGroup-PKU/Open-HumanWAM-50K"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6af4258a4d4515274af21b61",
+      "label": "IaLoverSpaghetti/LocaIAinHTML"
     },
     {
       "category": "dataset",
@@ -190607,6 +190622,11 @@
     },
     {
       "category": "models",
+      "id": "model_ncfrey_chemgpt_19m",
+      "label": "ncfrey/ChemGPT-19M"
+    },
+    {
+      "category": "models",
       "id": "model_neopolita_qwen3_6_11b_a3b_niwaki_4bit_gguf",
       "label": "neopolita/Qwen3.6-11B-A3B-Niwaki-4bit-GGUF"
     },
@@ -195159,6 +195179,11 @@
       "category": "models",
       "id": "model_yuhuili_eagle_llama3_instruct_8b",
       "label": "yuhuili/EAGLE-LLaMA3-Instruct-8B"
+    },
+    {
+      "category": "models",
+      "id": "model_yujiepan_gpt_oss_tiny_random",
+      "label": "yujiepan/gpt-oss-tiny-random"
     },
     {
       "category": "models",
@@ -335133,6 +335158,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/introducing-chatgpt-team",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/introducing-chatgpt-wallet",
       "label": ""
     },
     {
@@ -493637,6 +493667,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5556,
-  "total_nodes": 93170
+  "total_edges": 5557,
+  "total_nodes": 93175
 }

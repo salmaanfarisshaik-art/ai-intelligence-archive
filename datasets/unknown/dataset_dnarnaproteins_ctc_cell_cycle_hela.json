@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d87ad23cbdcb0aa1ae4caefa0ab53a6e108c3ab1",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tCTC Cell Cycle Dataset\n\t\n\nCell Tracking Challenge (CTC) live-cell microscopy with derived cell cycle state\nlabels for 3-class temporal classification.\n\n\t\n\t\t\n\t\n\t\n\t\tWhat's actually hosted\n\t\n\nThe repo name says hela for historical reasons. Currently hosted: Fluo-N2DH-GOWT1\n(GFP-tagged Oct4 in mouse embryonic stem cells), which is what the milestone baseline\ntrained on. HeLa data may be added later under a hela/ prefix.\n\n\t\n\t\t\nSequence\nFrames\nUsed as\n\n\n\t\t\n01/\n92\ntraining\n\n\n02/\n92… See the full description on the dataset page: https://huggingface.co/datasets/DnaRnaProteins/ctc-cell-cycle-hela.",
-  "downloads": 48482,
+  "downloads": 50984,
   "tags": [
     "task_categories:video-classification",
     "license:cc-by-4.0",
