@@ -5444,6 +5444,10 @@
 - **ID**: model_prism_ml_ternary_bonsai_2_27b_gguf
 - **Source**: 
 
+## prism-ml/Ternary-Bonsai-2-27B-gguf-dev
+- **ID**: model_prism_ml_ternary_bonsai_2_27b_gguf_dev
+- **Source**: 
+
 ## prism-ml/Ternary-Bonsai-2-27B-mlx-2bit
 - **ID**: model_prism_ml_ternary_bonsai_2_27b_mlx_2bit
 - **Source**: 
@@ -5454,6 +5458,10 @@
 
 ## prismor/prompt-guard-1.5b
 - **ID**: model_prismor_prompt_guard_1_5b
+- **Source**: 
+
+## prithivMLmods/Axion-1.0-35B-GGUF
+- **ID**: model_prithivmlmods_axion_1_0_35b_gguf
 - **Source**: 
 
 ## prithivMLmods/Qwen-Image-2.1-PE-T2I-GGUF

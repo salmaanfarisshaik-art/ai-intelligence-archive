@@ -4,10 +4,10 @@
   "author": "andlyu",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-11-13T10:46:24.000Z",
+  "lastModified": "2026-11-13T20:27:23.000Z",
   "likes": 2,
   "private": false,
-  "sha": "9bcedf7466f8dcd788ec307d9b282f5d18b4c871",
+  "sha": "b918763512ad09024ad4c054d6015bf28b47c33b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPublic-YAM-runs\n\t\n\nPhysical bimanual YAM episodes recorded by the BluPe operator station.\nEach run adds an episode to this repository. Failed, interrupted, stopped and\ntimed-out runs are retained and labeled; these are not all successful demonstrations.\nA model saying done is not independently verified task success.\n\n\t\n\t\t\n\t\n\t\n\t\tLoading\n\t\n\nfrom datasets import load_dataset\nruns = load_dataset(\"andlyu/Public-YAM-runs\", split=\"train\")\nusable = runs.filter(lambda row:… See the full description on the dataset page: https://huggingface.co/datasets/andlyu/Public-YAM-runs.",
   "downloads": 40351,
   "tags": [

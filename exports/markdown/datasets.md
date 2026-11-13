@@ -401,6 +401,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_hellaswag
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_madlad_400
 - **Source**: 
 
@@ -742,6 +746,10 @@
 
 ## 
 - **ID**: dataset_arlingtoncl2_dogspeak_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_arman_03_mvda_data
 - **Source**: 
 
 ## 
@@ -1865,6 +1873,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_danielrosehill_english_hebrew_codeswitching_sentences
+- **Source**: 
+
+## 
+- **ID**: dataset_danielrosehill_read_aloud_voice_sentences
+- **Source**: 
+
+## 
 - **ID**: dataset_daniilakk_cheboksary_public_transport_gps_daily
 - **Source**: 
 
@@ -2250,6 +2266,10 @@
 
 ## 
 - **ID**: dataset_egosteer_egosteer_realworld
+- **Source**: 
+
+## 
+- **ID**: dataset_ehabnegm_100_hour_egyptian_dataset_single_speaker
 - **Source**: 
 
 ## 
@@ -4953,6 +4973,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn18_content_20261026030e
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn19_content_202607060b55
 - **Source**: 
 
@@ -5018,6 +5042,10 @@
 
 ## 
 - **ID**: dataset_icdn20_content_20261017d5b5
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn20_content_202611046ab8
 - **Source**: 
 
 ## 
@@ -5650,6 +5678,10 @@
 
 ## 
 - **ID**: dataset_johnsmith414718_crypto_market_datasets
+- **Source**: 
+
+## 
+- **ID**: dataset_jonathan_roberts1_zerobench
 - **Source**: 
 
 ## 
@@ -7058,6 +7090,10 @@
 
 ## 
 - **ID**: dataset_moravskyi_public_drones
+- **Source**: 
+
+## 
+- **ID**: dataset_morris0401_year_guessr_dataset
 - **Source**: 
 
 ## 
@@ -8997,6 +9033,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_same899_imgedit
+- **Source**: 
+
+## 
 - **ID**: dataset_sameerdeshpande17_surgbench_nips25
 - **Source**: 
 
@@ -10846,6 +10886,10 @@
 
 ## 
 - **ID**: dataset_yuanbosz_a_share_minute_bars
+- **Source**: 
+
+## 
+- **ID**: dataset_yuanm1135_dsert_roll
 - **Source**: 
 
 ## 
