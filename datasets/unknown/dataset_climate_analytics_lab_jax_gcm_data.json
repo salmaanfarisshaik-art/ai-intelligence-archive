@@ -4,10 +4,10 @@
   "author": "climate-analytics-lab",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-11-12T02:48:40.000Z",
+  "lastModified": "2026-11-12T23:00:03.000Z",
   "likes": 0,
   "private": false,
-  "sha": "d1b5e09ec5936efe0f4c4c7925fc3cda5d7ec75c",
+  "sha": "6c46242bee7de3816060a7a7a0cc0db58161dd00",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tjax-gcm boundary conditions and emissions\n\t\n\nInput data for jax-gcm\n(jcm), a fully differentiable atmospheric GCM in JAX. Two tiers:\n\n\t\n\t\t\n\t\n\t\n\t\tproducts/ — grid-independent source products\n\t\n\n\n\t\n\t\t\nstore\ncontents\nsource\n\n\n\t\t\nceds_anthro.zarr\nanthropogenic SO2/BC/OC/NH3 flux, sector-summed, 0.5°, monthly 1850–2023 + PI (1850–59) / PD (2005–14) climatologies\nCEDS-CMIP-2025-04-18 (input4MIPs CMIP7)\n\n\nbb4cmip7.zarr\nopen-burning SO2/BC/OC/NH3 flux, 0.25°, monthly 1850–2023 + PI/PD… See the full description on the dataset page: https://huggingface.co/datasets/climate-analytics-lab/jax-gcm-data.",
   "downloads": 38669,
   "tags": [

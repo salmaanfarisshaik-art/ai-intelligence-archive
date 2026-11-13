@@ -296,9 +296,19 @@
 - **URL**: [https://openai.com/business/customer-stories/ada](https://openai.com/business/customer-stories/ada)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/amplitude
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/amplitude](https://openai.com/business/customer-stories/amplitude)
+
+## 
 - **ID**: rss_https://openai.com/business/customer-stories/blue-j
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/customer-stories/blue-j](https://openai.com/business/customer-stories/blue-j)
+
+## 
+- **ID**: rss_https://openai.com/business/customer-stories/gondola
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/gondola](https://openai.com/business/customer-stories/gondola)
 
 ## 
 - **ID**: rss_https://openai.com/business/customer-stories/holidays-extras-codex

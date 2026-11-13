@@ -1,9 +1,10 @@
 # Change Summary
 
-**Total Changes:** 126
+**Total Changes:** 108
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_amplitude.json
+- prompts/openai-blog/rss_https___openai.com_business_customer-stories_amplitude.json
+- prompts/openai-blog/rss_https___openai.com_business_customer-stories_gondola.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -20,56 +21,37 @@
 - datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json
 - datasets/57xj5shr/hf_ds_69c83627a52ab2757b1a6d90.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/gradio/hf_ds_691cad435bb68b24ef7ba828.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
+- datasets/evaleval/hf_ds_698c9e10c98ef9ef0a6f27b3.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
 - datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json
-- datasets/wei82/hf_ds_6a2ec08ae425e2822f53fef3.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
-- datasets/xlangai/hf_ds_6835d7e81900f053ee3c7c9e.json
+- datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
+- datasets/salesforce/hf_ds_621ffdd236468d709f18200d.json
+- datasets/sunblaze-ucb/hf_ds_68251f06823e816aeea2d9dc.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
 - exports/csv/news.csv
-- exports/csv/text-generation.csv
 - exports/json/all_entities.json
 - exports/json/dataset.json
-- exports/json/datasets.json
-- exports/json/models.json
 - exports/json/news.json
-- exports/json/text-generation.json
 - exports/markdown/dataset.md
-- exports/markdown/datasets.md
-- exports/markdown/models.md
 - exports/markdown/news.md
-- exports/markdown/text-generation.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4.1-Flash.json
-- models/eleutherai/hf_EleutherAI_pythia-160m.json
-- models/facebook/hf_facebook_opt-125m.json
-- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M.json
 - models/ista-daslab/hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
-- models/nvidia/hf_nvidia_Gemma-4-26B-A4B-NVFP4.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai-community/hf_openai-community_gpt2.json
-- models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
+- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
-- models/qwen/hf_Qwen_Qwen3-4B.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/qwen/hf_Qwen_Qwen3-Coder-30B-A3B-Instruct.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/ukisai/hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
