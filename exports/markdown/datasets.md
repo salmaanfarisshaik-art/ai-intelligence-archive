@@ -1565,6 +1565,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_chienyu704_mowe_hindcast_6h
+- **Source**: 
+
+## 
 - **ID**: dataset_chilled_multiarith
 - **Source**: 
 
@@ -1602,6 +1606,10 @@
 
 ## 
 - **ID**: dataset_chuhaojie_meld
+- **Source**: 
+
+## 
+- **ID**: dataset_chunyi99_animallift
 - **Source**: 
 
 ## 
@@ -1781,6 +1789,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_cosmicbboy_critical_dream_scene_images_mighty_nein_v2
+- **Source**: 
+
+## 
 - **ID**: dataset_cot_leaderboard_cot_eval_traces_2_0
 - **Source**: 
 
@@ -1898,6 +1910,10 @@
 
 ## 
 - **ID**: dataset_dario_shit2_abc_130k
+- **Source**: 
+
+## 
+- **ID**: dataset_data_is_better_together_open_image_preferences_v1
 - **Source**: 
 
 ## 
@@ -2705,6 +2721,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_francisring_misalign100
+- **Source**: 
+
+## 
 - **ID**: dataset_frankielp_2dgaussian_lang_dataset
 - **Source**: 
 
@@ -3217,6 +3237,18 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hebrish_hebrish_tts_voice_recordings
+- **Source**: 
+
+## 
+- **ID**: dataset_hebrish_jewish_religious_terminology_sentences
+- **Source**: 
+
+## 
+- **ID**: dataset_hebrish_noisy_condition_sentences
+- **Source**: 
+
+## 
 - **ID**: dataset_heesup_vlm_plant_sim
 - **Source**: 
 
@@ -3254,6 +3286,10 @@
 
 ## 
 - **ID**: dataset_heshamdahy_stanford_products_images
+- **Source**: 
+
+## 
+- **ID**: dataset_hexuan21_memorytax_res_gpt_5_6_luna
 - **Source**: 
 
 ## 
@@ -8437,6 +8473,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_polydata5_polymarket_updown_5m_ws
+- **Source**: 
+
+## 
 - **ID**: dataset_polymathic_ai_shear_flow
 - **Source**: 
 
@@ -8446,6 +8486,10 @@
 
 ## 
 - **ID**: dataset_ppak10_amt_flow_3d
+- **Source**: 
+
+## 
+- **ID**: dataset_prachii18088_audiodeepfakedataset
 - **Source**: 
 
 ## 
@@ -8689,6 +8733,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ran0_jiezi
+- **Source**: 
+
+## 
 - **ID**: dataset_raphaelliu_pusav0_5_training
 - **Source**: 
 
@@ -8714,6 +8762,10 @@
 
 ## 
 - **ID**: dataset_realmanrobot_realsource_world
+- **Source**: 
+
+## 
+- **ID**: dataset_rebulex_indexes
 - **Source**: 
 
 ## 
@@ -9881,6 +9933,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tgmr_one_pass_ingestion
+- **Source**: 
+
+## 
 - **ID**: dataset_thanhnew2001_vietsuperspeech
 - **Source**: 
 
@@ -10345,6 +10401,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_visionhdstream_data_vision_02
+- **Source**: 
+
+## 
+- **ID**: dataset_vityavitalich_persona_jailbreaks_data
+- **Source**: 
+
+## 
 - **ID**: dataset_vlabench_vlabench_primitive_pretrain_lerobot
 - **Source**: 
 
@@ -10450,6 +10514,10 @@
 
 ## 
 - **ID**: dataset_wamaraga_nisamina_garifuna_cab_tts
+- **Source**: 
+
+## 
+- **ID**: dataset_wan288972153_dataset_all_new1
 - **Source**: 
 
 ## 
@@ -10881,6 +10949,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yshh525_rho_internalize_v1_20261021
+- **Source**: 
+
+## 
 - **ID**: dataset_ytzi_the_stack_dedup_python_filtered
 - **Source**: 
 
@@ -10898,6 +10970,10 @@
 
 ## 
 - **ID**: dataset_yuanty_robotwin2_0_fastwam
+- **Source**: 
+
+## 
+- **ID**: dataset_yufan_user_profile_dataset
 - **Source**: 
 
 ## 
@@ -11118,6 +11194,10 @@
 
 ## 
 - **ID**: dataset_zjs555888_dogspeak_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zkniu_voxcanvas
 - **Source**: 
 
 ## 

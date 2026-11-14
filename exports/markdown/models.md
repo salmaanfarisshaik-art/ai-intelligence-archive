@@ -864,6 +864,10 @@
 - **ID**: model_bartowski_smollm2_1_7b_instruct_gguf
 - **Source**: 
 
+## bartowski/Spark-X2.6-4B-GGUF
+- **ID**: model_bartowski_spark_x2_6_4b_gguf
+- **Source**: 
+
 ## bartowski/TheDrummer_Cydonia-24B-v4.2.0-GGUF
 - **ID**: model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf
 - **Source**: 
@@ -1718,6 +1722,10 @@
 
 ## Edge0/Audio8-ASR-Infinite
 - **ID**: model_edge0_audio8_asr_infinite
+- **Source**: 
+
+## Edge0/Edge0-145B-NVFP4
+- **ID**: model_edge0_edge0_145b_nvfp4
 - **Source**: 
 
 ## Edge0/Edge0-35B-A3B-preview
@@ -2652,6 +2660,10 @@
 - **ID**: model_incoai_glm_5_3_flash_dflash2
 - **Source**: 
 
+## incoai/Qwen3.6-35B-A3B-DFlash2
+- **ID**: model_incoai_qwen3_6_35b_a3b_dflash2
+- **Source**: 
+
 ## incoai/Qwen3.8-27B-DFlash2
 - **ID**: model_incoai_qwen3_8_27b_dflash2
 - **Source**: 
@@ -3102,6 +3114,10 @@
 
 ## LiquidAI/LFM2-24B-A2B
 - **ID**: model_liquidai_lfm2_24b_a2b
+- **Source**: 
+
+## LiquidAI/LFM2-2.6B-GGUF
+- **ID**: model_liquidai_lfm2_2_6b_gguf
 - **Source**: 
 
 ## LiquidAI/LFM2-350M-Extract-GGUF
