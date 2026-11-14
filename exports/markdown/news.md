@@ -316,6 +316,11 @@
 - **URL**: [https://openai.com/business/customer-stories/holidays-extras-codex](https://openai.com/business/customer-stories/holidays-extras-codex)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/shield
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/shield](https://openai.com/business/customer-stories/shield)
+
+## 
 - **ID**: rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/enabling-a-data-driven-workforce-webinar](https://openai.com/business/enabling-a-data-driven-workforce-webinar)

@@ -14,10 +14,10 @@
     "author": "3dcodeverse",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-11-13T23:07:54.000Z",
-    "likes": 59,
+    "lastModified": "2026-11-14T04:48:15.000Z",
+    "likes": 60,
     "private": false,
-    "sha": "a115a379b34d8afc276dd2940eca2f4b5e2f070e",
+    "sha": "e6a60fc74ff6598db938dadc1a524fd3c4b67051",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t3DCodeVerse-2M\n\t\n\nA large-scale corpus of standalone, executable 3D code — Blender Python, CadQuery, GLSL, Three.js, OpenSCAD and URDF — released with the paper\n3DCodeVerse: Exploring 3D Worlds as Code.\n📄 Paper · 🤗 Paper page · 🌐 Project page · 💻 Code · 🧩 Collection\nEach program is packaged with the files it needs to run in its declared environment, plus rendered views,\ncaptions (instruction / detailed description / construction procedure) and, where available, meshes and… See the full description on the dataset page: https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m.",
     "downloads": 1569506,
     "tags": [
@@ -27,6 +27,9 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "size_categories:1M<n<10M",
+      "modality:image",
+      "modality:tabular",
+      "modality:text",
       "modality:3d",
       "arxiv:2610.22341",
       "region:us",
@@ -43,8 +46,8 @@
     "createdAt": "2026-06-28T03:30:41.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-13T23:15:46.188659+00:00",
-  "last_updated": "2026-11-13T23:07:54.000Z",
+  "retrieval_timestamp": "2026-11-14T05:00:21.751847+00:00",
+  "last_updated": "2026-11-14T04:48:15.000Z",
   "links": {
     "related_models": [
       "datasets/3dcodeverse"
