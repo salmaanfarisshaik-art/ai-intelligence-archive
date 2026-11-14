@@ -694,6 +694,12 @@
 - **URL**: [https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio](https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio)
 - **Tags**: doi:10.57967/hf/5889, language:en, license:cc-by-nc-4.0, medical, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition
 
+## YiboZhang2001/TexVerse
+- **ID**: hf_ds_6860e1f20ec2862c77415b90
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/YiboZhang2001/TexVerse](https://huggingface.co/datasets/YiboZhang2001/TexVerse)
+- **Tags**: 3D, arxiv:2508.10868, language:en, license:odc-by, region:us
+
 ## helenqu/GenPairs
 - **ID**: hf_ds_686743434bec712618e60217
 - **Source**: HuggingFace Datasets
@@ -759,6 +765,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample)
 - **Tags**: arxiv:2506.04178, format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:1K<n<10K
+
+## lioooox/T2I-CoReBench-Images
+- **ID**: hf_ds_68beb76057ea4f948c293200
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/lioooox/T2I-CoReBench-Images](https://huggingface.co/datasets/lioooox/T2I-CoReBench-Images)
+- **Tags**: Autoregressive Models, Benchmark, Closed-Source Models, Diffusion Models, Evaluation, arxiv:2509.03516, format:webdataset, language:en, library:datasets, library:mlcroissant, library:webdataset, license:apache-2.0, modality:image, modality:text, region:us, size_categories:10K<n<100K, task_categories:text-to-image
 
 ## mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M
 - **ID**: hf_ds_68c6d459d95ef41da81c9b41
@@ -890,7 +902,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, format:parquet, leaderboards, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1262,7 +1274,7 @@
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
-- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:tabular, modality:text, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
+- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb

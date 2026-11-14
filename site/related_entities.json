@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:01:24Z",
+  "generated_at": "2026-11-14T11:59:59Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -585,7 +585,8 @@
       "model_lsx_uniwue_llammlein_1b_prerelease"
     ],
     "hf_LiquidAI_LFM2-2.6B": [
-      "model_aratako_miotts_2_6b"
+      "model_aratako_miotts_2_6b",
+      "model_liquidai_lfm2_2_6b_gguf"
     ],
     "hf_LiquidAI_LFM2-2.6B-Transcript": [
       "model_devquasar_liquidai_lfm2_2_6b_transcript_gguf"
@@ -1431,6 +1432,7 @@
       "model_edge0_edge0_35b_a3b_preview",
       "model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4",
       "model_flywheel_ai_automotive",
+      "model_incoai_qwen3_6_35b_a3b_dflash2",
       "model_jimbothigpen_qwen3_6_35b_a3b_gguf",
       "model_lord_h4d3zs_qwen3_8_distill_35b_a3b_coder_abliterated",
       "model_mannix_ita_qwen3_6_27b_a3b_coder_mtp_gguf",
@@ -1486,6 +1488,7 @@
       "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_uncensored_gguf",
+      "model_edge0_edge0_145b_nvfp4",
       "model_incoai_qwen3_8_flash_next_dflash2",
       "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf",
       "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
@@ -1663,6 +1666,7 @@
       "model_xhtoken_spark_x2_5_4b"
     ],
     "hf_XHToken_Spark-X2.6-4B": [
+      "model_bartowski_spark_x2_6_4b_gguf",
       "model_sc117_spark_x2_6_4b_abliterated_fit_gguf",
       "model_xhtoken_spark_x2_6_4b_gguf"
     ],
@@ -4808,6 +4812,9 @@
     "model_bartowski_smollm2_1_7b_instruct_gguf": [
       "hf_HuggingFaceTB_SmolLM2-1.7B-Instruct"
     ],
+    "model_bartowski_spark_x2_6_4b_gguf": [
+      "hf_XHToken_Spark-X2.6-4B"
+    ],
     "model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf": [
       "hf_TheDrummer_Cydonia-24B-v4.2.0"
     ],
@@ -5257,6 +5264,9 @@
     ],
     "model_ebircak_gemma_4_31b_it_4bit_w4a16_awq": [
       "hf_google_gemma-4-31B-it"
+    ],
+    "model_edge0_edge0_145b_nvfp4": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
     ],
     "model_edge0_edge0_35b_a3b_preview": [
       "hf_Qwen_Qwen3.6-35B-A3B"
@@ -5734,6 +5744,9 @@
     "model_incoai_glm_5_3_flash_dflash2": [
       "hf_zai-org_GLM-5.3-Flash"
     ],
+    "model_incoai_qwen3_6_35b_a3b_dflash2": [
+      "hf_Qwen_Qwen3.6-35B-A3B"
+    ],
     "model_incoai_qwen3_8_27b_dflash2": [
       "hf_Qwen_Qwen3.8-27B"
     ],
@@ -5986,6 +5999,9 @@
     ],
     "model_lilarest_gemma_4_31b_it_nvfp4_turbo": [
       "hf_google_gemma-4-31B-it"
+    ],
+    "model_liquidai_lfm2_2_6b_gguf": [
+      "hf_LiquidAI_LFM2-2.6B"
     ],
     "model_liquidai_lfm2_350m_extract_gguf": [
       "hf_LiquidAI_LFM2-350M-Extract"

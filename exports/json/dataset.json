@@ -3884,6 +3884,29 @@
     "local_path": "datasets/aline-gassenn/hf_ds_6859a511dbd17c5bad610ad2.json"
   },
   {
+    "id": "hf_ds_6860e1f20ec2862c77415b90",
+    "title": "YiboZhang2001/TexVerse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3D",
+      "arxiv:2508.10868",
+      "language:en",
+      "license:odc-by",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/YiboZhang2001"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/YiboZhang2001/TexVerse",
+    "local_path": "datasets/yibozhang2001/hf_ds_6860e1f20ec2862c77415b90.json"
+  },
+  {
     "id": "hf_ds_686743434bec712618e60217",
     "title": "helenqu/GenPairs",
     "category": "dataset",
@@ -4210,6 +4233,41 @@
     },
     "source_url": "https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample",
     "local_path": "datasets/ryanmarten/hf_ds_68b39036631546df1cfe0cba.json"
+  },
+  {
+    "id": "hf_ds_68beb76057ea4f948c293200",
+    "title": "lioooox/T2I-CoReBench-Images",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "Autoregressive Models",
+      "Benchmark",
+      "Closed-Source Models",
+      "Diffusion Models",
+      "Evaluation",
+      "arxiv:2509.03516",
+      "format:webdataset",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:webdataset",
+      "license:apache-2.0",
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "task_categories:text-to-image"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/lioooox"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/lioooox/T2I-CoReBench-Images",
+    "local_path": "datasets/lioooox/hf_ds_68beb76057ea4f948c293200.json"
   },
   {
     "id": "hf_ds_68c6d459d95ef41da81c9b41",
@@ -4714,19 +4772,13 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
-      "format:parquet",
       "leaderboards",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:pandas",
-      "library:polars",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -6365,9 +6417,6 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "modality:3d",
-      "modality:image",
-      "modality:tabular",
-      "modality:text",
       "openscad",
       "procedural-3d",
       "region:us",

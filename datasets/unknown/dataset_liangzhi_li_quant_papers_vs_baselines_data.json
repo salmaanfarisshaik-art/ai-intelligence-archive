@@ -9,7 +9,7 @@
   "private": false,
   "sha": "79458172fb5190d72ab539e658e428c6810772f7",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tquant-papers-vs-baselines: full server archive (data, code, results, logs)\n\t\n\nPrivate archive of the rented GPU server's project tree /root/work/qp (= /home/claude on the server),\nmade 2026-10-09 22:43 UTC before the server was returned. Paths mirror the server:\n\n\t\n\t\t\nrepo prefix\nserver path\nnotes\n\n\n\t\t\nr3_data/\nr3/data/\nround-3 datasets; cn/qlib_data.tar, us/qlib_data.tar are the qlib binary providers (tar of 60k+ small files; tar xf in place)\n\n\nr3_results/\nr3/results/\nregistries… See the full description on the dataset page: https://huggingface.co/datasets/Liangzhi-Li/quant-papers-vs-baselines-data.",
-  "downloads": 45839,
+  "downloads": 51057,
   "tags": [
     "license:other",
     "region:us"

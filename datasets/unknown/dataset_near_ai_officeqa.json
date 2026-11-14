@@ -9,7 +9,7 @@
   "private": false,
   "sha": "43c23e600713e4c31574aa9f027e98f799322f06",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tOfficeQA manifest (nearai-bench packaging)\n\t\n\nHarness-ready question manifest for\ndatabricks/officeqa — document-grounded\nQA over U.S. Treasury Bulletins (1939–2025). 246 items in full,\n8 in smoke (a 4-easy/4-hard subset for pipeline checks).\nfrom datasets import load_dataset\nds = load_dataset(\"NEAR-AI/officeqa\", split=\"full\")\n\n\n\t\n\t\t\n\t\n\t\n\t\t⚠️ This is the manifest only — documents are NOT included\n\t\n\nUnlike our pinchbench and\nclawbench exports, the\nsource corpus is not bundled here.… See the full description on the dataset page: https://huggingface.co/datasets/NEAR-AI/officeqa.",
-  "downloads": 49855,
+  "downloads": 49973,
   "tags": [
     "task_categories:question-answering",
     "language:en",

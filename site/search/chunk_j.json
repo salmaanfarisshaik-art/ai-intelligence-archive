@@ -551,6 +551,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_liquidai_lfm2_2_6b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_liquidai_lfm2_350m_extract_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -1901,6 +1906,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_vityavitalich_persona_jailbreaks_data",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "arxiv_2606.11425v2",
       "match_type": "exact",
       "score": 2.0
@@ -2000,6 +2010,11 @@
     }
   ],
   "jailbreaks": [
+    {
+      "entity_id": "dataset_vityavitalich_persona_jailbreaks_data",
+      "match_type": "exact",
+      "score": 6.0
+    },
     {
       "entity_id": "dataset_jailbreakbench_jbb_behaviors",
       "match_type": "exact",
@@ -6248,6 +6263,11 @@
   ],
   "jewish": [
     {
+      "entity_id": "dataset_hebrish_jewish_religious_terminology_sentences",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "alpaca_-3371664962479674500",
       "match_type": "exact",
       "score": 1.0
@@ -6604,6 +6624,13 @@
       "entity_id": "dataset_jieyuz2_wrench",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "jiezi": [
+    {
+      "entity_id": "dataset_ran0_jiezi",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "jigokudani": [
@@ -17179,6 +17206,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_adyen_dabstep",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_aigvdbench_aigvdbench",
       "match_type": "exact",
       "score": 1.5
@@ -17635,6 +17667,11 @@
     },
     {
       "entity_id": "dataset_pku_alignment_beavertails",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_polydata5_polymarket_updown_5m_ws",
       "match_type": "exact",
       "score": 1.5
     },
@@ -18401,6 +18438,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_hexuan21_memorytax_res_gpt_5_6_luna",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_hkustaudio_audio_flan_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -18632,6 +18674,11 @@
   "judge": [
     {
       "entity_id": "alpaca_565509588811621503",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_hexuan21_memorytax_res_gpt_5_6_luna",
       "match_type": "exact",
       "score": 3.0
     },
@@ -21032,6 +21079,13 @@
     },
     {
       "entity_id": "arxiv_2608.09887v1",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "junlin": [
+    {
+      "entity_id": "dataset_chunyi99_animallift",
       "match_type": "exact",
       "score": 1.0
     }

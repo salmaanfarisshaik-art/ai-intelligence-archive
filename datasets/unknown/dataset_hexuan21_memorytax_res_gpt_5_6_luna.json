@@ -1,0 +1,26 @@
+{
+  "_id": "6ad3eedeb5a5d3139a968666",
+  "id": "hexuan21/MemoryTax-Res-GPT-5-6-luna",
+  "author": "hexuan21",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-27T02:12:03.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "a5988f107d6b506a20a20bff7fe93765666546b9",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tMemoryTax-Res-GPT-5-6-luna\n\t\n\n      \n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\nMemoryTax-Res-GPT-5-6-luna/\n├── res_{system}_{bench}_luna/          # one memory system on one benchmark\n│   ├── qa_res/                         # per-question answers (with retrieved memory ids)\n│   ├── judge_res/judge.jsonl           # per-question judge verdicts\n│   ├── cost/                           # per-corpus token / call cost, by memory operation\n│   └── memories.tar.gz                 # memory store built by… See the full description on the dataset page: https://huggingface.co/datasets/hexuan21/MemoryTax-Res-GPT-5-6-luna.",
+  "downloads": 71971,
+  "tags": [
+    "language:en",
+    "license:cc-by-4.0",
+    "arxiv:2610.34073",
+    "region:us",
+    "agent-memory",
+    "llm-agents",
+    "rag"
+  ],
+  "createdAt": "2026-10-17T21:55:42.000Z",
+  "key": "",
+  "unique_id": "dataset_hexuan21_memorytax_res_gpt_5_6_luna",
+  "schema_version": "1.0"
+}

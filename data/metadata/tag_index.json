@@ -21,7 +21,8 @@
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "3D": [
-    "hf_ds_68370197476641ade2a81199"
+    "hf_ds_68370197476641ade2a81199",
+    "hf_ds_6860e1f20ec2862c77415b90"
   ],
   "3D semantic segmentation": [
     "hf_ds_66293ead0326d8c0fc899ac0"
@@ -69,6 +70,12 @@
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_6a139a707f615e6fc818bde7"
   ],
+  "Autoregressive Models": [
+    "hf_ds_68beb76057ea4f948c293200"
+  ],
+  "Benchmark": [
+    "hf_ds_68beb76057ea4f948c293200"
+  ],
   "CARLA": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
@@ -78,8 +85,17 @@
   "Classification": [
     "hf_ds_68370197476641ade2a81199"
   ],
+  "Closed-Source Models": [
+    "hf_ds_68beb76057ea4f948c293200"
+  ],
+  "Diffusion Models": [
+    "hf_ds_68beb76057ea4f948c293200"
+  ],
   "Embodied-AI": [
     "hf_ds_68822a776cf08537cb6be0af"
+  ],
+  "Evaluation": [
+    "hf_ds_68beb76057ea4f948c293200"
   ],
   "FP4": [
     "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
@@ -705,6 +721,9 @@
   "arxiv:2508.06471": [
     "hf_zai-org_GLM-4.7-Flash"
   ],
+  "arxiv:2508.10868": [
+    "hf_ds_6860e1f20ec2862c77415b90"
+  ],
   "arxiv:2508.10925": [
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
@@ -714,6 +733,9 @@
   ],
   "arxiv:2509.02359": [
     "hf_ds_68affd4c9e92d6d7ab470166"
+  ],
+  "arxiv:2509.03516": [
+    "hf_ds_68beb76057ea4f948c293200"
   ],
   "arxiv:2509.23661": [
     "hf_ds_68c6d459d95ef41da81c9b41",
@@ -2106,7 +2128,6 @@
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
@@ -2129,6 +2150,7 @@
   ],
   "format:webdataset": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_6931046ceb0ce6e2002af81b"
   ],
   "forum": [
@@ -2942,10 +2964,12 @@
     "hf_ds_6826807a875b575a7ab09a99",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
+    "hf_ds_6860e1f20ec2862c77415b90",
     "hf_ds_686743434bec712618e60217",
     "hf_ds_68822a776cf08537cb6be0af",
     "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_68b209361fda17d2b03263e4",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
@@ -4520,12 +4544,12 @@
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -4624,12 +4648,12 @@
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -4687,7 +4711,6 @@
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_68251f06823e816aeea2d9dc",
     "hf_ds_68b39036631546df1cfe0cba",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
@@ -4749,7 +4772,6 @@
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69a64e75c02ff4af5432f62a",
     "hf_ds_69bd10117ce15b06bbea0357",
@@ -4770,6 +4792,7 @@
   ],
   "library:webdataset": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
@@ -4825,6 +4848,7 @@
     "hf_ds_67da25756b2007f151daeca0",
     "hf_ds_6835d7e81900f053ee3c7c9e",
     "hf_ds_68affd4c9e92d6d7ab470166",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6937cb3e145e00d96aa5338c",
@@ -5015,6 +5039,7 @@
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_6851cac31458ae6b02f8e8e7",
+    "hf_ds_6860e1f20ec2862c77415b90",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_699250f08be5bf8321aeb29e",
@@ -5259,6 +5284,7 @@
     "hf_ds_68822a776cf08537cb6be0af",
     "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_68affd4c9e92d6d7ab470166",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69b0d60653fc22f5d5d3c07f",
@@ -5299,7 +5325,6 @@
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a34c6065edc6bacb0b36213",
-    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a702b9b89beb4ee925c3e28",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6ae993485240eb6b7ac68d30"
@@ -5358,10 +5383,10 @@
     "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -6064,6 +6089,7 @@
     "hf_ds_6850196ad602532f84eb625b",
     "hf_ds_6851cac31458ae6b02f8e8e7",
     "hf_ds_6859a511dbd17c5bad610ad2",
+    "hf_ds_6860e1f20ec2862c77415b90",
     "hf_ds_686743434bec712618e60217",
     "hf_ds_68699f43b939abc945dbaaf8",
     "hf_ds_688209a61f4d0375592760e0",
@@ -6075,6 +6101,7 @@
     "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_68d19889ef48faaef08b8710",
     "hf_ds_68e91443c366e5879388a4d4",
@@ -6499,7 +6526,9 @@
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_68179ef58e267618d9e7bc61",
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_698aee8a9b778894943e6c5d",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69dae1cf769d72f81f71c82c",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
     "hf_ds_6a580014dab1978b184dc4a0",
@@ -6538,7 +6567,6 @@
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_68251f06823e816aeea2d9dc",
     "hf_ds_68b39036631546df1cfe0cba",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b",
@@ -6949,6 +6977,7 @@
     "hf_ds_6a409561222ffbb14f69924c"
   ],
   "task_categories:text-to-image": [
+    "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "task_categories:text-to-speech": [
