@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:42:22Z",
+  "generated_at": "2026-11-15T08:50:38Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -4062,6 +4062,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_katanemo_arch_router_1_5b",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_kblueleaf_tipo_500m",
       "target_id": "hf_CaptionEmporium_coyo-hd-11m-llavanext",
       "type": "trained_on"
@@ -4469,6 +4474,11 @@
     {
       "source_id": "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
       "target_id": "hf_openai_gpt-oss-120b",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_kat_dev_mlx_8bit",
+      "target_id": "hf_Kwaipilot_KAT-Dev",
       "type": "derived_from"
     },
     {
@@ -10354,6 +10364,11 @@
     {
       "source_id": "model_unsloth_qwen2_5_coder_1_5b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_qwen2_5_coder_3b_instruct",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-3B-Instruct",
       "type": "derived_from"
     },
     {

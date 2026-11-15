@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:42:22Z",
+  "generated_at": "2026-11-15T08:50:38Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -575,6 +575,9 @@
       "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "model_cyankiwi_kat_coder_v2_5_dev_awq_int4"
     ],
+    "hf_Kwaipilot_KAT-Dev": [
+      "model_lmstudio_community_kat_dev_mlx_8bit"
+    ],
     "hf_LDJnr_Capybara": [
       "model_openchat_openchat_3_5_1210"
     ],
@@ -872,6 +875,7 @@
       "model_jackkozmo29_depguard_jev_style_1_5b",
       "model_jackkozmo29_mailguard_jev_style_1_5b",
       "model_jackkozmo29_sevclassifier_jev_style_1_5b",
+      "model_katanemo_arch_router_1_5b",
       "model_litert_community_qwen2_5_1_5b_instruct",
       "model_maziyarpanahi_qwen2_5_1_5b_instruct_gguf",
       "model_prismor_prompt_guard_1_5b",
@@ -1019,7 +1023,8 @@
     ],
     "hf_Qwen_Qwen2.5-Coder-3B-Instruct": [
       "model_qwen_qwen2_5_coder_3b_instruct_awq",
-      "model_qwen_qwen2_5_coder_3b_instruct_gguf"
+      "model_qwen_qwen2_5_coder_3b_instruct_gguf",
+      "model_unsloth_qwen2_5_coder_3b_instruct"
     ],
     "hf_Qwen_Qwen2.5-Coder-7B": [
       "model_mlx_community_qwen2_5_coder_7b_instruct_4bit",
@@ -5905,6 +5910,9 @@
     "model_junhowie_qwen3_14b_gptq_int4": [
       "hf_Qwen_Qwen3-14B"
     ],
+    "model_katanemo_arch_router_1_5b": [
+      "hf_Qwen_Qwen2.5-1.5B-Instruct"
+    ],
     "model_kblueleaf_tipo_500m": [
       "hf_CaptionEmporium_coyo-hd-11m-llavanext",
       "hf_KBlueLeaf_danbooru2023-metadata-database",
@@ -6124,6 +6132,9 @@
     ],
     "model_lmstudio_community_gpt_oss_120b_mlx_8bit": [
       "hf_openai_gpt-oss-120b"
+    ],
+    "model_lmstudio_community_kat_dev_mlx_8bit": [
+      "hf_Kwaipilot_KAT-Dev"
     ],
     "model_lmstudio_community_lfm2_24b_a2b_mlx_4bit": [
       "hf_LiquidAI_LFM2-24B-A2B"
@@ -8739,6 +8750,9 @@
     ],
     "model_unsloth_qwen2_5_coder_1_5b_instruct": [
       "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct"
+    ],
+    "model_unsloth_qwen2_5_coder_3b_instruct": [
+      "hf_Qwen_Qwen2.5-Coder-3B-Instruct"
     ],
     "model_unsloth_qwen2_5_coder_7b_instruct": [
       "hf_Qwen_Qwen2.5-Coder-7B-Instruct"

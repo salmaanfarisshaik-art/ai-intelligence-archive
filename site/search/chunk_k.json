@@ -1781,6 +1781,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_lmstudio_community_kat_dev_mlx_8bit",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_kwaipilot_kat_coder_v2_5_dev",
       "match_type": "exact",
       "score": 2.0
@@ -1839,6 +1844,13 @@
       "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "katanemo": [
+    {
+      "entity_id": "model_katanemo_arch_router_1_5b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "kate": [
@@ -1938,6 +1950,16 @@
   "katuni4ka": [
     {
       "entity_id": "hf_katuni4ka_tiny-random-phi3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_katuni4ka_tiny_random_deepseek_v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_katuni4ka_tiny_random_olmo_hf",
       "match_type": "exact",
       "score": 2.0
     },
@@ -24129,6 +24151,11 @@
     },
     {
       "entity_id": "model_cyankiwi_kat_coder_v2_5_dev_awq_int4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_lmstudio_community_kat_dev_mlx_8bit",
       "match_type": "exact",
       "score": 3.0
     },
