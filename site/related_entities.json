@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:50:38Z",
+  "generated_at": "2026-11-15T16:05:38Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -23,9 +23,17 @@
     "hf_0bserverx_RVN-Qwen3.8-Flash-Next-Abliterated-Uncensored": [
       "model_jimmy31chen_rvn_qwen3_8_flash_next_abliterated_uncensored_iq3_s_strata"
     ],
+    "hf_AEON-7_Gemma-4-12B-it-AEON-Abliterated-K4-BF16": [
+      "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_fp8",
+      "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4",
+      "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4_fp8"
+    ],
     "hf_AEON-7_Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16": [
       "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_nvfp4",
       "model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf"
+    ],
+    "hf_AEON-7_Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4": [
+      "model_aeon_7_aeon_dflash_qwen3_6_35b_a3b"
     ],
     "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16": [
       "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
@@ -175,6 +183,10 @@
     ],
     "hf_DavidAU_Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF": [
       "model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf"
+    ],
+    "hf_DavidAU_gemma-4-31B-it-The-DECKARD-HERETIC-UNCENSORED-Thinking": [
+      "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4",
+      "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4_svdquant"
     ],
     "hf_Diffuspace_Clover-35B-A3B-Preview": [
       "model_diffuspace_clover_35b_a3b_preview_gguf"
@@ -457,6 +469,9 @@
       "model_ifm_k2_horizon_7b_gguf",
       "model_ifm_k2_horizon_mova_36b_a4b_gguf"
     ],
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF": [
+      "model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_coder_gguf"
+    ],
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF": [
       "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
       "model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_iq2_xxs_gguf",
@@ -551,6 +566,9 @@
     "hf_JetBrains_Mellum2.1-12B-A2.5B-Thinking": [
       "model_jetbrains_mellum2_1_12b_a2_5b_thinking_gguf"
     ],
+    "hf_Jiunsong_supergemma4-26b-abliterated-multimodal": [
+      "model_aeon_7_supergemma4_26b_abliterated_multimodal_nvfp4"
+    ],
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored": [
       "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
       "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf"
@@ -573,7 +591,11 @@
     ],
     "hf_Kwaipilot_KAT-Coder-V2.5-Dev": [
       "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
-      "model_cyankiwi_kat_coder_v2_5_dev_awq_int4"
+      "model_cyankiwi_kat_coder_v2_5_dev_awq_int4",
+      "model_mlx_community_kat_coder_v2_5_dev_optiq_4bit",
+      "model_myric_kat_coder_v2_5_dev_mtp_apex_gguf",
+      "model_phillylabs_kat_coder_v2_5_dev_35b_a3b_abliterated_uncensored_philadelphia_class",
+      "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16"
     ],
     "hf_Kwaipilot_KAT-Dev": [
       "model_lmstudio_community_kat_dev_mlx_8bit"
@@ -1453,6 +1475,7 @@
       "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
       "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
+      "model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16",
       "model_atomicchat_qwen3_8_27b_gguf",
       "model_autotrust_autotrust_decider_pro_27b",
       "model_autotrust_jev_27b",
@@ -1494,6 +1517,7 @@
       "model_atomicchat_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_uncensored_gguf",
       "model_edge0_edge0_145b_nvfp4",
+      "model_edge0_edge0_145b_q3k",
       "model_incoai_qwen3_8_flash_next_dflash2",
       "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf",
       "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
@@ -1621,7 +1645,8 @@
       "model_tokenrhythm_neohorse_1_4b_gguf"
     ],
     "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored": [
-      "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4"
+      "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
+      "model_aeon_7_gemma_4_e4b_it_uncensored_nvfp4"
     ],
     "hf_TrevorJS_gemma-4-E2B-it-uncensored": [
       "model_trevorjs_gemma_4_e2b_it_uncensored_gguf"
@@ -2091,7 +2116,6 @@
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
     "hf_deepreinforce-ai_Ornith-1.0-35B": [
-      "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16",
       "model_cyankiwi_ornith_1_0_35b_awq_fp8",
       "model_protolabsai_ornith_1_0_35b_fp8",
       "model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf",
@@ -2432,6 +2456,7 @@
       "model_sneedjak_adelic_gemma_4_12b_gguf"
     ],
     "hf_google_gemma-4-12B-it": [
+      "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_bf16",
       "model_obliteratus_gemma_4_12b_obliterated",
       "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf",
       "model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2",
@@ -3025,6 +3050,9 @@
     ],
     "hf_moonshotai_Kimi-K3": [
       "model_inferact_kimi_k3_dspark"
+    ],
+    "hf_moonshotai_Kimi-K3.1-Pro": [
+      "model_local_inference_lab_kimi_k3_1_pro_exl3_2bit"
     ],
     "hf_moonshotai_Kimi-Linear-48B-A3B-Instruct": [
       "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
@@ -3711,6 +3739,9 @@
     "hf_org2ai_Wald-4B": [
       "model_org2ai_wald_4b_gguf"
     ],
+    "hf_ornith-ai_Ornith-1.0-35B": [
+      "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16"
+    ],
     "hf_ornith-ai_Ornith-1.0-9B": [
       "model_cyankiwi_ornith_1_0_9b_awq_int4",
       "model_unsloth_ornith_1_0_9b_gguf"
@@ -3926,6 +3957,9 @@
       "model_blinkdl_rwkv_4_pile_7b",
       "model_blinkdl_rwkv_4_raven",
       "model_eleutherai_pythia_1b"
+    ],
+    "hf_theblackcat102_evol-codealpaca-v1": [
+      "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16"
     ],
     "hf_theoldmandthesea_17k_business_book": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -4229,6 +4263,9 @@
     "model_abenzerps_spark_x2_5_4b_gguf": [
       "hf_XHToken_Spark-X2.5-4B"
     ],
+    "model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_coder_gguf": [
+      "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF"
+    ],
     "model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_iq2_xxs_gguf": [
       "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
     ],
@@ -4236,11 +4273,35 @@
       "hf_ealvaradob_phishing-dataset",
       "hf_meta-llama_Llama-Guard-3-1B"
     ],
+    "model_aeon_7_aeon_dflash_qwen3_6_35b_a3b": [
+      "hf_AEON-7_Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4"
+    ],
+    "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_bf16": [
+      "hf_google_gemma-4-12B-it"
+    ],
+    "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_fp8": [
+      "hf_AEON-7_Gemma-4-12B-it-AEON-Abliterated-K4-BF16"
+    ],
+    "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4": [
+      "hf_AEON-7_Gemma-4-12B-it-AEON-Abliterated-K4-BF16"
+    ],
+    "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4_fp8": [
+      "hf_AEON-7_Gemma-4-12B-it-AEON-Abliterated-K4-BF16"
+    ],
     "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4": [
       "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored"
     ],
+    "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4": [
+      "hf_DavidAU_gemma-4-31B-it-The-DECKARD-HERETIC-UNCENSORED-Thinking"
+    ],
+    "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4_svdquant": [
+      "hf_DavidAU_gemma-4-31B-it-The-DECKARD-HERETIC-UNCENSORED-Thinking"
+    ],
+    "model_aeon_7_gemma_4_e4b_it_uncensored_nvfp4": [
+      "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored"
+    ],
     "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16": [
-      "hf_deepreinforce-ai_Ornith-1.0-35B"
+      "hf_ornith-ai_Ornith-1.0-35B"
     ],
     "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_nvfp4": [
       "hf_AEON-7_Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16"
@@ -4256,6 +4317,12 @@
     ],
     "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4": [
       "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
+    ],
+    "model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16": [
+      "hf_Qwen_Qwen3.8-27B"
+    ],
+    "model_aeon_7_supergemma4_26b_abliterated_multimodal_nvfp4": [
+      "hf_Jiunsong_supergemma4-26b-abliterated-multimodal"
     ],
     "model_agentionai_qwen3_8_flash_next_ap_gguf": [
       "hf_Qwen_Qwen3.8-Flash-Next"
@@ -5271,6 +5338,9 @@
       "hf_google_gemma-4-31B-it"
     ],
     "model_edge0_edge0_145b_nvfp4": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
+    "model_edge0_edge0_145b_q3k": [
       "hf_Qwen_Qwen3.8-Flash-Next"
     ],
     "model_edge0_edge0_35b_a3b_preview": [
@@ -6347,6 +6417,9 @@
     "model_lmstudio_community_seed_oss_36b_instruct_mlx_8bit": [
       "hf_ByteDance-Seed_Seed-OSS-36B-Instruct"
     ],
+    "model_local_inference_lab_kimi_k3_1_pro_exl3_2bit": [
+      "hf_moonshotai_Kimi-K3.1-Pro"
+    ],
     "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf": [
       "hf_logic65_Qwen3.8-Whittle-MoE-27B-A17.8B"
     ],
@@ -6639,6 +6712,9 @@
     "model_mlx_community_gpt_oss_20b_mxfp4_q8": [
       "hf_openai_gpt-oss-20b"
     ],
+    "model_mlx_community_kat_coder_v2_5_dev_optiq_4bit": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
+    ],
     "model_mlx_community_kimi_k2_5": [
       "hf_moonshotai_Kimi-K2.5"
     ],
@@ -6778,6 +6854,9 @@
     ],
     "model_muxodious_gpt_oss_20b_richarderkhov_heresy": [
       "hf_openai_gpt-oss-20b"
+    ],
+    "model_myric_kat_coder_v2_5_dev_mtp_apex_gguf": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
     ],
     "model_myric_laguna_s_2_1_apex_gguf": [
       "hf_poolside_Laguna-S-2.1"
@@ -7418,6 +7497,9 @@
     ],
     "model_phalacloud_glm_5_2_w4afp8": [
       "hf_zai-org_GLM-5.2-FP8"
+    ],
+    "model_phillylabs_kat_coder_v2_5_dev_35b_a3b_abliterated_uncensored_philadelphia_class": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
     ],
     "model_pipecat_ai_phonellm_alpha_1": [
       "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16"
@@ -8418,6 +8500,10 @@
     ],
     "model_tsinghuac3i_llama_3_8b_ultramedical": [
       "hf_TsinghuaC3I_UltraMedical"
+    ],
+    "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev",
+      "hf_theblackcat102_evol-codealpaca-v1"
     ],
     "model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf": [
       "hf_DavidAU_Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF"

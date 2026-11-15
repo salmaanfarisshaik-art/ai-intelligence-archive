@@ -135,6 +135,13 @@
       "score": 1.0
     }
   ],
+  "q3k": [
+    {
+      "entity_id": "model_edge0_edge0_145b_q3k",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "q4": [
     {
       "entity_id": "model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell",
@@ -228,6 +235,16 @@
     },
     {
       "entity_id": "model_cyphertroopers_cph_community_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_final_bench_pocket_26b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_final_bench_pocket_35b_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -745,6 +762,11 @@
     },
     {
       "entity_id": "dataset_hexuan21_memorytax_res_gpt_5_6_luna",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hexuan21_memorytax_res_other",
       "match_type": "exact",
       "score": 1.0
     },
@@ -5568,12 +5590,37 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
     {
-      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
+      "entity_id": "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4_svdquant",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_e4b_it_uncensored_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_supergemma4_26b_abliterated_multimodal_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5698,6 +5745,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq",
       "match_type": "exact",
       "score": 1.5
@@ -5790,7 +5842,37 @@
       "score": 3.5
     },
     {
+      "entity_id": "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_fp8",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4_fp8",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4_svdquant",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_aeon_7_gemma_4_e4b_it_uncensored_nvfp4",
       "match_type": "exact",
       "score": 3.0
     },
@@ -5800,7 +5882,7 @@
       "score": 3.0
     },
     {
-      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
+      "entity_id": "model_aeon_7_supergemma4_26b_abliterated_multimodal_nvfp4",
       "match_type": "exact",
       "score": 3.0
     },
@@ -5976,6 +6058,11 @@
     },
     {
       "entity_id": "model_final_bench_pocket_35b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_final_bench_pocket_darwin_180b_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -6460,6 +6547,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_myric_kat_coder_v2_5_dev_mtp_apex_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_myric_laguna_s_2_1_apex_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -6661,6 +6753,11 @@
     },
     {
       "entity_id": "model_phalacloud_glm_5_2_w4afp8",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_phillylabs_kat_coder_v2_5_dev_35b_a3b_abliterated_uncensored_philadelphia_class",
       "match_type": "exact",
       "score": 3.0
     },
@@ -6910,12 +7007,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_coder_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_iq2_xxs_gguf",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "model_aeon_7_gemma_4_e4b_deckard_heretic_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
       "match_type": "exact",
       "score": 1.5
     },
@@ -7760,6 +7867,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_edge0_edge0_145b_q3k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -7801,11 +7913,6 @@
     },
     {
       "entity_id": "model_final_bench_pocket_26b_gguf",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "model_final_bench_pocket_darwin_180b_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -8440,6 +8547,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_local_inference_lab_kimi_k3_1_pro_exl3_2bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -8541,6 +8653,11 @@
     },
     {
       "entity_id": "model_mlx_community_gpt_oss_20b_mxfp4_q8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_mlx_community_kat_coder_v2_5_dev_optiq_4bit",
       "match_type": "exact",
       "score": 1.5
     },
@@ -9761,6 +9878,11 @@
     },
     {
       "entity_id": "model_trevorjs_gemma_4_e2b_it_uncensored_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15616,6 +15738,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_fineenvs_data_agent_harbor_train",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_fineenvs_smoldataenvs_harbor_train",
       "match_type": "exact",
       "score": 1.0
@@ -15627,6 +15754,11 @@
     },
     {
       "entity_id": "dataset_google_research_datasets_paws",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hexuan21_memorytax_res_other",
       "match_type": "exact",
       "score": 1.0
     },
@@ -23418,6 +23550,16 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
+      "entity_id": "model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "model_alennnndy_qwen3_6_27b_awq_4bit",
       "match_type": "exact",
       "score": 4.5
@@ -23728,11 +23870,6 @@
       "score": 3.0
     },
     {
-      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "model_agentionai_qwen3_8_flash_next_ap_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -24014,6 +24151,11 @@
     },
     {
       "entity_id": "model_edge0_edge0_145b_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_edge0_edge0_145b_q3k",
       "match_type": "exact",
       "score": 3.0
     },
@@ -26093,11 +26235,6 @@
       "score": 2.0
     },
     {
-      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "model_ansulev_darwin_9b_neg",
       "match_type": "exact",
       "score": 1.5
@@ -28061,7 +28198,12 @@
       "score": 12.5
     },
     {
-      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
+      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
+      "match_type": "exact",
+      "score": 11.0
+    },
+    {
+      "entity_id": "model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16",
       "match_type": "exact",
       "score": 11.0
     },
@@ -28071,7 +28213,7 @@
       "score": 11.0
     },
     {
-      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
+      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
       "match_type": "exact",
       "score": 9.5
     },
@@ -28482,6 +28624,11 @@
     },
     {
       "entity_id": "model_0bserverx_qwen3_8_27b_heretic_gsq_rco_gguf",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "model_aeon_7_aeon_dflash_qwen3_6_35b_a3b",
       "match_type": "exact",
       "score": 6.5
     },
@@ -29891,6 +30038,11 @@
       "score": 4.5
     },
     {
+      "entity_id": "model_phillylabs_kat_coder_v2_5_dev_35b_a3b_abliterated_uncensored_philadelphia_class",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "model_prefeitura_rio_rio_3_0_open_mini",
       "match_type": "exact",
       "score": 4.5
@@ -30177,6 +30329,11 @@
     },
     {
       "entity_id": "model_edge0_edge0_145b_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_edge0_edge0_145b_q3k",
       "match_type": "exact",
       "score": 3.0
     },
@@ -31381,7 +31538,17 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_mlx_community_kat_coder_v2_5_dev_optiq_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_mongodb_voyage_4_nano",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_myric_kat_coder_v2_5_dev_mtp_apex_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -31617,6 +31784,11 @@
     },
     {
       "entity_id": "model_trl_internal_testing_tiny_qwen3moeforcausallm",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16",
       "match_type": "exact",
       "score": 1.5
     },

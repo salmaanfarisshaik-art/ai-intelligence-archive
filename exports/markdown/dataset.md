@@ -1264,6 +1264,12 @@
 - **URL**: [https://huggingface.co/datasets/Syn4D/Syn4D](https://huggingface.co/datasets/Syn4D/Syn4D)
 - **Tags**: arxiv:2605.05207, license:cc-by-4.0, region:us
 
+## TGMR/one_pass_ingestion
+- **ID**: hf_ds_6a3ce2355d3bf07542dbe5e9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/TGMR/one_pass_ingestion](https://huggingface.co/datasets/TGMR/one_pass_ingestion)
+- **Tags**: region:us
+
 ## ilabai/3dcodeverse
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets

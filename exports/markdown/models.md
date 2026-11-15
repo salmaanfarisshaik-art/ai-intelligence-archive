@@ -2920,6 +2920,18 @@
 - **ID**: model_kakaocorp_kanana_nano_2_1b_embedding
 - **Source**: 
 
+## katanemo/Arch-Router-1.5B
+- **ID**: model_katanemo_arch_router_1_5b
+- **Source**: 
+
+## katuni4ka/tiny-random-deepseek-v3
+- **ID**: model_katuni4ka_tiny_random_deepseek_v3
+- **Source**: 
+
+## katuni4ka/tiny-random-olmo-hf
+- **ID**: model_katuni4ka_tiny_random_olmo_hf
+- **Source**: 
+
 ## katuni4ka/tiny-random-phi3
 - **ID**: model_katuni4ka_tiny_random_phi3
 - **Source**: 
@@ -3338,6 +3350,10 @@
 
 ## lmstudio-community/gpt-oss-120b-MLX-8bit
 - **ID**: model_lmstudio_community_gpt_oss_120b_mlx_8bit
+- **Source**: 
+
+## lmstudio-community/KAT-Dev-MLX-8bit
+- **ID**: model_lmstudio_community_kat_dev_mlx_8bit
 - **Source**: 
 
 ## lmstudio-community/LFM2-24B-A2B-MLX-4bit
@@ -7658,6 +7674,10 @@
 
 ## unsloth/Qwen2.5-Coder-1.5B-Instruct
 - **ID**: model_unsloth_qwen2_5_coder_1_5b_instruct
+- **Source**: 
+
+## unsloth/Qwen2.5-Coder-3B-Instruct
+- **ID**: model_unsloth_qwen2_5_coder_3b_instruct
 - **Source**: 
 
 ## unsloth/Qwen2.5-Coder-7B-Instruct

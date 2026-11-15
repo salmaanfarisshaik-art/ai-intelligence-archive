@@ -426,6 +426,11 @@
       "entity_id": "dataset_uoft_cs_cifar100",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_wayrise_robocoin",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "6000": [
@@ -436,6 +441,11 @@
     },
     {
       "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp_xs",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16",
       "match_type": "exact",
       "score": 1.5
     },
@@ -771,6 +781,11 @@
     },
     {
       "entity_id": "arxiv_2609.32810v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
       "match_type": "exact",
       "score": 1.0
     }
@@ -1550,6 +1565,13 @@
   "647": [
     {
       "entity_id": "dataset_yinhuankuang_rl_game_traces_rise_of_the_tomb_raider",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "648": [
+    {
+      "entity_id": "dataset_pleias_synth",
       "match_type": "exact",
       "score": 1.0
     }
@@ -2562,6 +2584,11 @@
   "698": [
     {
       "entity_id": "dataset_aise_tudelft_mosaic_refactoring",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_pleias_synth",
       "match_type": "exact",
       "score": 1.0
     }

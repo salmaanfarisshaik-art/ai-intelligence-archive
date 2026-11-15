@@ -27796,7 +27796,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-15T08:49:59.564107+00:00",
+  "generated_at": "2026-11-15T16:04:44.996158+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -177547,6 +177547,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a3ce2355d3bf07542dbe5e9",
+      "label": "TGMR/one_pass_ingestion"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
       "label": "ilabai/3dcodeverse"
     },
@@ -188982,6 +188987,21 @@
     },
     {
       "category": "models",
+      "id": "model_katanemo_arch_router_1_5b",
+      "label": "katanemo/Arch-Router-1.5B"
+    },
+    {
+      "category": "models",
+      "id": "model_katuni4ka_tiny_random_deepseek_v3",
+      "label": "katuni4ka/tiny-random-deepseek-v3"
+    },
+    {
+      "category": "models",
+      "id": "model_katuni4ka_tiny_random_olmo_hf",
+      "label": "katuni4ka/tiny-random-olmo-hf"
+    },
+    {
+      "category": "models",
       "id": "model_katuni4ka_tiny_random_phi3",
       "label": "katuni4ka/tiny-random-phi3"
     },
@@ -189504,6 +189524,11 @@
       "category": "models",
       "id": "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
       "label": "lmstudio-community/gpt-oss-120b-MLX-8bit"
+    },
+    {
+      "category": "models",
+      "id": "model_lmstudio_community_kat_dev_mlx_8bit",
+      "label": "lmstudio-community/KAT-Dev-MLX-8bit"
     },
     {
       "category": "models",
@@ -194904,6 +194929,11 @@
       "category": "models",
       "id": "model_unsloth_qwen2_5_coder_1_5b_instruct",
       "label": "unsloth/Qwen2.5-Coder-1.5B-Instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_qwen2_5_coder_3b_instruct",
+      "label": "unsloth/Qwen2.5-Coder-3B-Instruct"
     },
     {
       "category": "models",
@@ -493878,5 +493908,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 5559,
-  "total_nodes": 93215
+  "total_nodes": 93221
 }

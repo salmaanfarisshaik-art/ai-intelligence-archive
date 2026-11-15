@@ -342421,6 +342421,23 @@
     "local_path": "datasets/syn4d/hf_ds_6a382f6fa519cd301493b37b.json"
   },
   {
+    "id": "hf_ds_6a3ce2355d3bf07542dbe5e9",
+    "title": "TGMR/one_pass_ingestion",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/TGMR/one_pass_ingestion",
+    "local_path": "datasets/tgmr/hf_ds_6a3ce2355d3bf07542dbe5e9.json"
+  },
+  {
     "id": "hf_ds_6a409561222ffbb14f69924c",
     "title": "ilabai/3dcodeverse",
     "category": "dataset",
@@ -366961,6 +366978,36 @@
     "local_path": "models/kakaocorp/model_kakaocorp_kanana_nano_2_1b_embedding.json"
   },
   {
+    "id": "model_katanemo_arch_router_1_5b",
+    "title": "katanemo/Arch-Router-1.5B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/katanemo/model_katanemo_arch_router_1_5b.json"
+  },
+  {
+    "id": "model_katuni4ka_tiny_random_deepseek_v3",
+    "title": "katuni4ka/tiny-random-deepseek-v3",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/katuni4ka/model_katuni4ka_tiny_random_deepseek_v3.json"
+  },
+  {
+    "id": "model_katuni4ka_tiny_random_olmo_hf",
+    "title": "katuni4ka/tiny-random-olmo-hf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/katuni4ka/model_katuni4ka_tiny_random_olmo_hf.json"
+  },
+  {
     "id": "model_katuni4ka_tiny_random_phi3",
     "title": "katuni4ka/tiny-random-phi3",
     "category": "models",
@@ -368009,6 +368056,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/lmstudio-community/model_lmstudio_community_gpt_oss_120b_mlx_8bit.json"
+  },
+  {
+    "id": "model_lmstudio_community_kat_dev_mlx_8bit",
+    "title": "lmstudio-community/KAT-Dev-MLX-8bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/lmstudio-community/model_lmstudio_community_kat_dev_mlx_8bit.json"
   },
   {
     "id": "model_lmstudio_community_lfm2_24b_a2b_mlx_4bit",
@@ -378809,6 +378866,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/unsloth/model_unsloth_qwen2_5_coder_1_5b_instruct.json"
+  },
+  {
+    "id": "model_unsloth_qwen2_5_coder_3b_instruct",
+    "title": "unsloth/Qwen2.5-Coder-3B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/unsloth/model_unsloth_qwen2_5_coder_3b_instruct.json"
   },
   {
     "id": "model_unsloth_qwen2_5_coder_7b_instruct",

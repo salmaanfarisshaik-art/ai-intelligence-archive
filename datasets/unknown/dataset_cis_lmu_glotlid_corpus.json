@@ -1,0 +1,23 @@
+{
+  "_id": "669e934f7b4a4e59af0332a4",
+  "id": "cis-lmu/glotlid-corpus",
+  "author": "cis-lmu",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-14T21:17:58.000Z",
+  "likes": 20,
+  "private": false,
+  "sha": "a212f9ec9360af7a45d4c81782ed1d600721ccae",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tGlotLID Corpus\n\t\n\nThis is the corpus used to train the open GlotLID model, a language identification model capable of classifying ~2000 labels.\nThe list of raw texts supported in this repository is openly available here: https://github.com/cisnlp/GlotLID/blob/main/sources.md\n\n\t\n\t\t\n\t\n\t\n\t\tDownload\n\t\n\nThe recommended way to download the data is via git clone:\ngit clone https://huggingface.co/datasets/cis-lmu/glotlid-corpus\n\nUse a Hugging Face access token as the Git… See the full description on the dataset page: https://huggingface.co/datasets/cis-lmu/glotlid-corpus.",
+  "downloads": 40301,
+  "tags": [
+    "multilinguality:multilingual",
+    "license:other",
+    "arxiv:2310.16248",
+    "region:us"
+  ],
+  "createdAt": "2024-07-22T17:13:51.000Z",
+  "key": "",
+  "unique_id": "dataset_cis_lmu_glotlid_corpus",
+  "schema_version": "1.0"
+}
