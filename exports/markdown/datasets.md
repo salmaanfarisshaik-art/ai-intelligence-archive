@@ -533,6 +533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_anamnesis_data_clinical_trials_history
+- **Source**: 
+
+## 
 - **ID**: dataset_anandmayank_quest_partnetmobility_sapien
 - **Source**: 
 
@@ -1077,6 +1081,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_banned_historical_archives_cankaoxiaoxi
+- **Source**: 
+
+## 
 - **ID**: dataset_banned_historical_archives_low_priority
 - **Source**: 
 
@@ -1461,6 +1469,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_carvendxu_sketchgraphs_full
+- **Source**: 
+
+## 
 - **ID**: dataset_castorini_prebuilt_indexes_beir
 - **Source**: 
 
@@ -1626,6 +1638,10 @@
 
 ## 
 - **ID**: dataset_cis_lmu_glot500
+- **Source**: 
+
+## 
+- **ID**: dataset_cis_lmu_glotlid_corpus
 - **Source**: 
 
 ## 
@@ -2589,6 +2605,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fineenvs_data_agent_harbor_train
+- **Source**: 
+
+## 
 - **ID**: dataset_fineenvs_hf_ml_tasksmith
 - **Source**: 
 
@@ -2902,6 +2922,10 @@
 
 ## 
 - **ID**: dataset_ggml_org_ci
+- **Source**: 
+
+## 
+- **ID**: dataset_giangndm_audio_en_s2s
 - **Source**: 
 
 ## 
@@ -3293,6 +3317,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hexuan21_memorytax_res_other
+- **Source**: 
+
+## 
 - **ID**: dataset_hf_audio_open_asr_leaderboard
 - **Source**: 
 
@@ -3494,6 +3522,10 @@
 
 ## 
 - **ID**: dataset_hostip51_js
+- **Source**: 
+
+## 
+- **ID**: dataset_hostip51_srs
 - **Source**: 
 
 ## 
@@ -5154,6 +5186,10 @@
 
 ## 
 - **ID**: dataset_icdn22_content_2026102648a7
+- **Source**: 
+
+## 
+- **ID**: dataset_icemetodo_buckethf2
 - **Source**: 
 
 ## 
@@ -6977,6 +7013,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ml_resources_tsinghua_topic_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_mlabonne_harmful_behaviors
 - **Source**: 
 
@@ -8453,6 +8493,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pleias_synth
+- **Source**: 
+
+## 
 - **ID**: dataset_pleumpreeti_driving_behavior_classification
 - **Source**: 
 
@@ -8826,6 +8870,10 @@
 
 ## 
 - **ID**: dataset_rexx_new_computer_use_large
+- **Source**: 
+
+## 
+- **ID**: dataset_reyansh38771_2f47334b_1811_46b0_a5f5_c146144df386
 - **Source**: 
 
 ## 
@@ -10485,6 +10533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_voxel51_soccernet_v3
+- **Source**: 
+
+## 
 - **ID**: dataset_voxel51_stanford_dogs_imbalanced
 - **Source**: 
 
@@ -10538,6 +10590,10 @@
 
 ## 
 - **ID**: dataset_wanyuezhang_mulset
+- **Source**: 
+
+## 
+- **ID**: dataset_wayrise_robocoin
 - **Source**: 
 
 ## 
@@ -11118,6 +11174,10 @@
 
 ## 
 - **ID**: dataset_zgcagi_zgcm_1_data
+- **Source**: 
+
+## 
+- **ID**: dataset_zh19990906_hagrid_subset
 - **Source**: 
 
 ## 

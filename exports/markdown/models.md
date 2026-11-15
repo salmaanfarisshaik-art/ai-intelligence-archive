@@ -40,6 +40,10 @@
 - **ID**: model_abenzerps_spark_x2_5_4b_gguf
 - **Source**: 
 
+## Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-Coder-GGUF
+- **ID**: model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_coder_gguf
+- **Source**: 
+
 ## Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-IQ2_XXS-GGUF
 - **ID**: model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_iq2_xxs_gguf
 - **Source**: 
@@ -52,12 +56,44 @@
 - **ID**: model_acuteshrewdsecurity_llama_phishsense_1b
 - **Source**: 
 
+## AEON-7/AEON-DFlash-Qwen3.6-35B-A3B
+- **ID**: model_aeon_7_aeon_dflash_qwen3_6_35b_a3b
+- **Source**: 
+
+## AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-BF16
+- **ID**: model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_bf16
+- **Source**: 
+
+## AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-FP8
+- **ID**: model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_fp8
+- **Source**: 
+
+## AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-NVFP4
+- **ID**: model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4
+- **Source**: 
+
+## AEON-7/Gemma-4-12B-it-AEON-Abliterated-K4-NVFP4-FP8
+- **ID**: model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_nvfp4_fp8
+- **Source**: 
+
 ## AEON-7/Gemma-4-26B-A4B-it-Uncensored-NVFP4
 - **ID**: model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4
 - **Source**: 
 
+## AEON-7/Gemma-4-31B-it-DECKARD-HERETIC-Uncensored-NVFP4
+- **ID**: model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4
+- **Source**: 
+
+## AEON-7/Gemma-4-31B-it-DECKARD-HERETIC-Uncensored-NVFP4-SVDQuant
+- **ID**: model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4_svdquant
+- **Source**: 
+
 ## AEON-7/Gemma-4-E4B-DECKARD-HERETIC-NVFP4
 - **ID**: model_aeon_7_gemma_4_e4b_deckard_heretic_nvfp4
+- **Source**: 
+
+## AEON-7/Gemma-4-E4B-it-Uncensored-NVFP4
+- **ID**: model_aeon_7_gemma_4_e4b_it_uncensored_nvfp4
 - **Source**: 
 
 ## AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16
@@ -82,6 +118,14 @@
 
 ## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4
+- **Source**: 
+
+## AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16
+- **ID**: model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16
+- **Source**: 
+
+## AEON-7/supergemma4-26b-abliterated-multimodal-nvfp4
+- **ID**: model_aeon_7_supergemma4_26b_abliterated_multimodal_nvfp4
 - **Source**: 
 
 ## afmck/testing-llama-tiny
@@ -1728,6 +1772,10 @@
 - **ID**: model_edge0_edge0_145b_nvfp4
 - **Source**: 
 
+## Edge0/Edge0-145B-q3k
+- **ID**: model_edge0_edge0_145b_q3k
+- **Source**: 
+
 ## Edge0/Edge0-35B-A3B-preview
 - **ID**: model_edge0_edge0_35b_a3b_preview
 - **Source**: 
@@ -3280,6 +3328,10 @@
 - **ID**: model_llm_jp_llm_jp_4_33b_thinking_gguf
 - **Source**: 
 
+## llm-jp/llm-jp-4-8b-instruct
+- **ID**: model_llm_jp_llm_jp_4_8b_instruct
+- **Source**: 
+
 ## llm-jp/llm-jp-4-8b-thinking
 - **ID**: model_llm_jp_llm_jp_4_8b_thinking
 - **Source**: 
@@ -3562,6 +3614,10 @@
 
 ## LnL-AI/TinyLlama-1.1B-Chat-v1.0-GPTQ-4bit
 - **ID**: model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit
+- **Source**: 
+
+## local-inference-lab/Kimi-K3.1-Pro-EXL3-2bit
+- **ID**: model_local_inference_lab_kimi_k3_1_pro_exl3_2bit
 - **Source**: 
 
 ## locuslab/tofu_ft_phi-1.5
@@ -4204,6 +4260,10 @@
 - **ID**: model_mlx_community_gpt_oss_20b_mxfp4_q8
 - **Source**: 
 
+## mlx-community/KAT-Coder-V2.5-Dev-OptiQ-4bit
+- **ID**: model_mlx_community_kat_coder_v2_5_dev_optiq_4bit
+- **Source**: 
+
 ## mlx-community/Kimi-K2.5
 - **ID**: model_mlx_community_kimi_k2_5
 - **Source**: 
@@ -4370,6 +4430,10 @@
 
 ## MuXodious/gpt-oss-20b-RichardErkhov-heresy
 - **ID**: model_muxodious_gpt_oss_20b_richarderkhov_heresy
+- **Source**: 
+
+## Myric/KAT-Coder-V2.5-Dev-MTP-APEX-GGUF
+- **ID**: model_myric_kat_coder_v2_5_dev_mtp_apex_gguf
 - **Source**: 
 
 ## Myric/Laguna-S-2.1-APEX-GGUF
@@ -5372,6 +5436,10 @@
 - **ID**: model_phalacloud_glm_5_2_w4afp8
 - **Source**: 
 
+## PhillyLabs/KAT-Coder-V2.5-Dev-35B-A3B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS
+- **ID**: model_phillylabs_kat_coder_v2_5_dev_35b_a3b_abliterated_uncensored_philadelphia_class
+- **Source**: 
+
 ## pipecat-ai/phonellm-alpha-1
 - **ID**: model_pipecat_ai_phonellm_alpha_1
 - **Source**: 
@@ -6294,6 +6362,10 @@
 
 ## RecursiveSI/flint
 - **ID**: model_recursivesi_flint
+- **Source**: 
+
+## RecursiveSI/flint-int4
+- **ID**: model_recursivesi_flint_int4
 - **Source**: 
 
 ## RecursiveSI/flint-int4-gguf
@@ -7234,6 +7306,10 @@
 
 ## TsinghuaC3I/Llama-3-8B-UltraMedical
 - **ID**: model_tsinghuac3i_llama_3_8b_ultramedical
+- **Source**: 
+
+## Ttimms/KAT-Coder-V2.5-Dev-REAP-50-NVFP4A16
+- **ID**: model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16
 - **Source**: 
 
 ## Ttimofeyka/MistralRP-Noromaid-NSFW-Mistral-7B-GGUF
