@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "3dcodeverse/3dcodeverse-2m",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t3DCodeVerse-2M\n\t\n\nA large-scale corpus of standalone, executable 3D code — Blender Python, CadQuery, GLSL, Three.js, OpenSCAD and URDF — released with the paper\n3DCodeVerse: Exploring 3D Worlds as Code.\n📄 Paper · 🤗 Paper page · 🌐 Project page · 💻 Code · 🧩 Collection\nEach program is packaged with the files it needs to run in its declared environment, plus rendered views,\ncaptions (instruction / detailed description / construction procedure) and, where available, meshes and… See the full description on the dataset page: https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m.",
-  "size": "1580382",
+  "size": "1586264",
   "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -14,12 +14,12 @@
     "author": "3dcodeverse",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-11-16T08:59:52.000Z",
-    "likes": 62,
+    "lastModified": "2026-11-16T10:09:15.000Z",
+    "likes": 63,
     "private": false,
-    "sha": "3ee36ad5178b9911ce2de1df45a03230cb13b5d3",
+    "sha": "1d3935d94760922ef7a55f4a1a3e19a3b90ec702",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t3DCodeVerse-2M\n\t\n\nA large-scale corpus of standalone, executable 3D code — Blender Python, CadQuery, GLSL, Three.js, OpenSCAD and URDF — released with the paper\n3DCodeVerse: Exploring 3D Worlds as Code.\n📄 Paper · 🤗 Paper page · 🌐 Project page · 💻 Code · 🧩 Collection\nEach program is packaged with the files it needs to run in its declared environment, plus rendered views,\ncaptions (instruction / detailed description / construction procedure) and, where available, meshes and… See the full description on the dataset page: https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m.",
-    "downloads": 1580382,
+    "downloads": 1586264,
     "tags": [
       "task_categories:text-to-3d",
       "task_categories:image-to-3d",
@@ -27,6 +27,7 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "size_categories:1M<n<10M",
+      "modality:image",
       "modality:3d",
       "arxiv:2610.22341",
       "region:us",
@@ -43,8 +44,8 @@
     "createdAt": "2026-06-28T03:30:41.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-16T09:00:29.211109+00:00",
-  "last_updated": "2026-11-16T08:59:52.000Z",
+  "retrieval_timestamp": "2026-11-16T19:30:02.034902+00:00",
+  "last_updated": "2026-11-16T10:09:15.000Z",
   "links": {
     "related_models": [
       "datasets/3dcodeverse"

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a5988f107d6b506a20a20bff7fe93765666546b9",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMemoryTax-Res-GPT-5-6-luna\n\t\n\n      \n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\nMemoryTax-Res-GPT-5-6-luna/\n├── res_{system}_{bench}_luna/          # one memory system on one benchmark\n│   ├── qa_res/                         # per-question answers (with retrieved memory ids)\n│   ├── judge_res/judge.jsonl           # per-question judge verdicts\n│   ├── cost/                           # per-corpus token / call cost, by memory operation\n│   └── memories.tar.gz                 # memory store built by… See the full description on the dataset page: https://huggingface.co/datasets/hexuan21/MemoryTax-Res-GPT-5-6-luna.",
-  "downloads": 86153,
+  "downloads": 86172,
   "tags": [
     "language:en",
     "license:cc-by-4.0",

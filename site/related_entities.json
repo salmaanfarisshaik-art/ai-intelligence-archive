@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:01:21Z",
+  "generated_at": "2026-11-16T19:30:55Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -38,7 +38,9 @@
     "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16": [
       "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
       "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp_xs",
-      "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4"
+      "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4",
+      "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_text_nvfp4_mtp",
+      "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_text_nvfp4_mtp_xs"
     ],
     "hf_AEON-7_Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16": [
       "model_sakamakismile_qwen3_8_27b_aeon_ultimate_uncensored_nvfp4",
@@ -592,9 +594,12 @@
     "hf_Kwaipilot_KAT-Coder-V2.5-Dev": [
       "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "model_cyankiwi_kat_coder_v2_5_dev_awq_int4",
+      "model_leaderboardmodel1_kat_coder_v2_5_dev_autoround_w4a16_tuning",
       "model_mlx_community_kat_coder_v2_5_dev_optiq_4bit",
       "model_myric_kat_coder_v2_5_dev_mtp_apex_gguf",
       "model_phillylabs_kat_coder_v2_5_dev_35b_a3b_abliterated_uncensored_philadelphia_class",
+      "model_sahilchachra_kat_coder_v2_5_dev_nvfp4a16",
+      "model_sahilchachra_kat_coder_v2_5_dev_w4a16",
       "model_ttimms_kat_coder_v2_5_dev_reap_50_nvfp4a16"
     ],
     "hf_Kwaipilot_KAT-Dev": [
@@ -3194,6 +3199,9 @@
       "hf_nvidia_nemotron-post-training-v3",
       "hf_nvidia_nemotron-pre-training-datasets"
     ],
+    "hf_nvidia_NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16": [
+      "model_openyourmind_openyourmind_nvidia_nemotron_3_ultra_550b_a55b_abliterated_uncensored_nvfp4"
+    ],
     "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF": [
       "model_nvidia_nvidia_nemotron_3_5_bolt_74b_a9b_24gb_lilicorr_gguf"
     ],
@@ -4155,6 +4163,7 @@
       "model_quanttrio_glm_4_7_awq"
     ],
     "hf_zai-org_GLM-4.7-Flash": [
+      "model_axteam_glm_4_7_flash_gguf",
       "model_cyankiwi_glm_4_7_flash_awq_4bit",
       "model_gadflyii_glm_4_7_flash_nvfp4",
       "model_lmstudio_community_glm_4_7_flash_mlx_6bit",
@@ -4316,6 +4325,12 @@
       "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
     ],
     "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4": [
+      "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
+    ],
+    "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_text_nvfp4_mtp": [
+      "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
+    ],
+    "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_text_nvfp4_mtp_xs": [
       "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
     ],
     "model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16": [
@@ -4592,6 +4607,9 @@
     ],
     "model_avitotech_avibe": [
       "hf_Qwen_Qwen3-8B"
+    ],
+    "model_axteam_glm_4_7_flash_gguf": [
+      "hf_zai-org_GLM-4.7-Flash"
     ],
     "model_azukivc_qwen3_8_27b_uncensored_gguf": [
       "hf_Qwen_Qwen3.8-27B"
@@ -6048,6 +6066,9 @@
     "model_latam_gpt_llama_3_1_70b_latamgpt_sft_1_0": [
       "hf_meta-llama_Llama-3.1-70B"
     ],
+    "model_leaderboardmodel1_kat_coder_v2_5_dev_autoround_w4a16_tuning": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
+    ],
     "model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16": [
       "hf_z-lab_Qwen3.6-27B-DFlash"
     ],
@@ -7395,6 +7416,9 @@
     "model_openvino_qwen2_5_coder_7b_instruct_int8_ov": [
       "hf_Qwen_Qwen2.5-Coder-7B-Instruct"
     ],
+    "model_openyourmind_openyourmind_nvidia_nemotron_3_ultra_550b_a55b_abliterated_uncensored_nvfp4": [
+      "hf_nvidia_NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16"
+    ],
     "model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4": [
       "hf_Qwen_Qwen3.5-122B-A10B"
     ],
@@ -8161,6 +8185,12 @@
     ],
     "model_sahilchachra_gemma_4_12b_coder_fable5_composer2_5_awq": [
       "hf_interpolators_gemma-4-12B-coder-fable5-composer2.5-v1-bf16"
+    ],
+    "model_sahilchachra_kat_coder_v2_5_dev_nvfp4a16": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
+    ],
+    "model_sahilchachra_kat_coder_v2_5_dev_w4a16": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
     ],
     "model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4": [
       "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated"

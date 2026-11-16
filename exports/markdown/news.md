@@ -791,6 +791,11 @@
 - **URL**: [https://openai.com/index/advancing-ai-safety-through-state-and-federal-action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)
 
 ## 
+- **ID**: rss_https://openai.com/index/advancing-computer-use-for-healthcare-teams
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/advancing-computer-use-for-healthcare-teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
+
+## 
 - **ID**: rss_https://openai.com/index/advancing-computer-use-with-ironclad
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/advancing-computer-use-with-ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
@@ -2549,6 +2554,11 @@
 - **ID**: rss_https://openai.com/index/expanding-ai-access-us-government
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/expanding-ai-access-us-government](https://openai.com/index/expanding-ai-access-us-government)
+
+## 
+- **ID**: rss_https://openai.com/index/expanding-chatgpt-for-academic-researchers
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/expanding-chatgpt-for-academic-researchers](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
 
 ## 
 - **ID**: rss_https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide
@@ -4421,6 +4431,11 @@
 - **URL**: [https://openai.com/index/lseg](https://openai.com/index/lseg)
 
 ## 
+- **ID**: rss_https://openai.com/index/lvmh-media-division-partnership
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/lvmh-media-division-partnership](https://openai.com/index/lvmh-media-division-partnership)
+
+## 
 - **ID**: rss_https://openai.com/index/ly-corporation
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/ly-corporation](https://openai.com/index/ly-corporation)
@@ -4579,6 +4594,11 @@
 - **ID**: rss_https://openai.com/index/more-on-dota-2
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/more-on-dota-2](https://openai.com/index/more-on-dota-2)
+
+## 
+- **ID**: rss_https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
 
 ## 
 - **ID**: rss_https://openai.com/index/more-ways-to-work-with-your-team
@@ -5471,6 +5491,11 @@
 - **URL**: [https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
 
 ## 
+- **ID**: rss_https://openai.com/index/our-first-phase-of-embedded-assessments
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/our-first-phase-of-embedded-assessments](https://openai.com/index/our-first-phase-of-embedded-assessments)
+
+## 
 - **ID**: rss_https://openai.com/index/our-new-blog-for-science
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/our-new-blog-for-science](https://openai.com/index/our-new-blog-for-science)
@@ -6086,6 +6111,11 @@
 - **URL**: [https://openai.com/index/schoolai](https://openai.com/index/schoolai)
 
 ## 
+- **ID**: rss_https://openai.com/index/science-at-the-frontier
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/science-at-the-frontier](https://openai.com/index/science-at-the-frontier)
+
+## 
 - **ID**: rss_https://openai.com/index/scientific-computing-agentic-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/scientific-computing-agentic-ai](https://openai.com/index/scientific-computing-agentic-ai)
@@ -6391,6 +6421,11 @@
 - **URL**: [https://openai.com/index/strengthening-democratic-oversight-in-national-security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
 
 ## 
+- **ID**: rss_https://openai.com/index/strengthening-online-child-safety
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/strengthening-online-child-safety](https://openai.com/index/strengthening-online-child-safety)
+
+## 
 - **ID**: rss_https://openai.com/index/strengthening-safety-with-external-testing
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/strengthening-safety-with-external-testing](https://openai.com/index/strengthening-safety-with-external-testing)
@@ -6629,6 +6664,11 @@
 - **ID**: rss_https://openai.com/index/the-international-2018-results
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/the-international-2018-results](https://openai.com/index/the-international-2018-results)
+
+## 
+- **ID**: rss_https://openai.com/index/the-kings-trust-and-openai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/the-kings-trust-and-openai](https://openai.com/index/the-kings-trust-and-openai)
 
 ## 
 - **ID**: rss_https://openai.com/index/the-met-museum

@@ -1,0 +1,26 @@
+{
+  "_id": "6a5a8cc454b1ed0731056354",
+  "id": "RoboArena/DataDump_07-17-2026",
+  "author": "RoboArena",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-17T20:33:40.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "7931db81f3f6a48a3245427f7213a4c461f92ccc",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tRoboArena Dataset Snapshot — 2026-07-17\n\t\n\nThis dataset contains autonomous policy rollouts, task-success\nscores, policy-preference annotations, and related metadata collected by the\nRoboArena benchmark from its inception through July 17, 2026.\n\n\t\n\t\t\n\t\n\t\n\t\tSnapshot statistics\n\t\n\n\nEvaluation sessions: 3,883\nPolicy episodes: 10,783\nMP4 videos: 27,148\nNPZ proprioception/action files: 10,783\nSession metadata files: 3,883\n\n\n\t\n\t\t\n\t\n\t\n\t\tData layout\n\t\n\n.\n├── README.md\n├──… See the full description on the dataset page: https://huggingface.co/datasets/RoboArena/DataDump_07-17-2026.",
+  "downloads": 37827,
+  "tags": [
+    "license:mit",
+    "modality:video",
+    "arxiv:2506.18123",
+    "region:us",
+    "robotics",
+    "robot-learning",
+    "preference-data"
+  ],
+  "createdAt": "2026-07-17T20:12:52.000Z",
+  "key": "",
+  "unique_id": "dataset_roboarena_datadump_07_17_2026",
+  "schema_version": "1.0"
+}
