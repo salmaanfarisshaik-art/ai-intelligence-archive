@@ -670,6 +670,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.14128v3](http://arxiv.org/abs/2604.14128v3)
 
+## Generating Concept Lexicalizations via Dictionary-Based Cross-Lingual Sense Projection
+- **ID**: arxiv_2604.14397v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.14397v3](http://arxiv.org/abs/2604.14397v3)
+
 ## Reasoning Models Know What's Important, and Encode It in Their Activations
 - **ID**: arxiv_2604.18307v2
 - **Source**: ArXiv
@@ -5329,4 +5334,29 @@
 - **ID**: arxiv_2611.17332v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17332v1](http://arxiv.org/abs/2611.17332v1)
+
+## ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research
+- **ID**: arxiv_2611.17332v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17332v2](http://arxiv.org/abs/2611.17332v2)
+
+## LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect
+- **ID**: arxiv_2611.18412v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18412v1](http://arxiv.org/abs/2611.18412v1)
+
+## Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation
+- **ID**: arxiv_2611.18471v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18471v1](http://arxiv.org/abs/2611.18471v1)
+
+## Interactive Program Induction with Language Model Priors
+- **ID**: arxiv_2611.18485v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18485v1](http://arxiv.org/abs/2611.18485v1)
+
+## Agentic induction of common data elements and information extraction from sarcoma case report abstracts
+- **ID**: arxiv_2611.18506v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18506v1](http://arxiv.org/abs/2611.18506v1)
 

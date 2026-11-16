@@ -85,3 +85,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26797v1](http://arxiv.org/abs/2610.26797v1)
 
+## Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond
+- **ID**: arxiv_2611.18542v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18542v1](http://arxiv.org/abs/2611.18542v1)
+

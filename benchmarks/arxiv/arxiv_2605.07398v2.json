@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.07398v2",
+  "schema_version": "1.0",
+  "name": "Exposing and Mitigating Temporal Attack in Deepfake Video Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.07398v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.07398v2",
+    "updated": "2026-11-13T18:41:47Z",
+    "published": "2026-05-08T07:53:57Z",
+    "title": "Exposing and Mitigating Temporal Attack in Deepfake Video Detection",
+    "summary": "While spatiotemporal deepfake detectors achieve high AUC, our experiments reveal their susceptibility to evasion attacks. These models tend to overfit on fragile temporal spectrum cues, rather than learning robust semantic causality. To mitigate this vulnerability, we propose SpInShield, a temporal spectral-invariant defense framework explicitly designed to decouple semantic motion from manipulatable spectral artifacts. We propose a learnable spectral adversary that dynamically synthesizes severe spectral deformations, simulating extreme attack scenarios. By employing a shortcut suppression optimization strategy, SpInShield compels the encoder to extract reliable forensic cues while purging unstable spectral statistics from the latent space. Experiments show that SpInShield obtains competitive performance on widely used datasets and outperforms the strongest baseline by 21.30 percentage points in AUC under simulated amplitude spectral attacks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-16T09:00:22Z",
+  "last_updated": "2026-11-13T18:41:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.07398v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

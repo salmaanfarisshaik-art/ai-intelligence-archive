@@ -55,3 +55,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06829v1](http://arxiv.org/abs/2611.06829v1)
 
+## EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation
+- **ID**: arxiv_2611.18524v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18524v1](http://arxiv.org/abs/2611.18524v1)
+
+## WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators
+- **ID**: arxiv_2611.18527v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18527v1](http://arxiv.org/abs/2611.18527v1)
+

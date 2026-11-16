@@ -2845,6 +2845,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04141v1](http://arxiv.org/abs/2609.04141v1)
 
+## Efficient Test-Time Adaptation through Human-Agent Interaction
+- **ID**: arxiv_2609.04141v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04141v2](http://arxiv.org/abs/2609.04141v2)
+
 ## Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments
 - **ID**: arxiv_2609.04148v1
 - **Source**: ArXiv
@@ -5185,6 +5190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14514v1](http://arxiv.org/abs/2611.14514v1)
 
+## Benchmarking AI risk behaviors
+- **ID**: arxiv_2611.16318v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.16318v2](http://arxiv.org/abs/2611.16318v2)
+
 ## Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents
 - **ID**: arxiv_2611.17167v1
 - **Source**: ArXiv
@@ -5224,4 +5234,49 @@
 - **ID**: arxiv_2611.17323v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17323v1](http://arxiv.org/abs/2611.17323v1)
+
+## LECAT: Measuring LLM Category Learning from Pretraining Data
+- **ID**: arxiv_2611.18419v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18419v1](http://arxiv.org/abs/2611.18419v1)
+
+## Towards Explainable Sleep Stage Classification using Single-Channel Electroencephalogram
+- **ID**: arxiv_2611.18434v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18434v1](http://arxiv.org/abs/2611.18434v1)
+
+## When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support
+- **ID**: arxiv_2611.18458v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18458v1](http://arxiv.org/abs/2611.18458v1)
+
+## Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG
+- **ID**: arxiv_2611.18464v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18464v1](http://arxiv.org/abs/2611.18464v1)
+
+## ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models
+- **ID**: arxiv_2611.18494v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18494v1](http://arxiv.org/abs/2611.18494v1)
+
+## Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination
+- **ID**: arxiv_2611.18514v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18514v1](http://arxiv.org/abs/2611.18514v1)
+
+## Alignment by Socialization: Learning Tradeoffs Under Selection
+- **ID**: arxiv_2611.18531v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18531v1](http://arxiv.org/abs/2611.18531v1)
+
+## ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL
+- **ID**: arxiv_2611.18533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18533v1](http://arxiv.org/abs/2611.18533v1)
+
+## Imitation Bootstrapped Multi-Agent Reinforcement Learning
+- **ID**: arxiv_2611.18543v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18543v1](http://arxiv.org/abs/2611.18543v1)
 

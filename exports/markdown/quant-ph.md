@@ -80,3 +80,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10529v2](http://arxiv.org/abs/2611.10529v2)
 
+## Agentic AI for Discovering Fault-Tolerant Quantum Circuits
+- **ID**: arxiv_2611.18504v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18504v1](http://arxiv.org/abs/2611.18504v1)
+

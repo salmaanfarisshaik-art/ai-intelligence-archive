@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.18549v1",
+  "schema_version": "1.0",
+  "name": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.18549v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.18549v1",
+    "updated": "2026-11-13T18:55:25Z",
+    "published": "2026-11-13T18:55:25Z",
+    "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+    "summary": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detailers, cascaded stages, or U-Net-style skip connections. We systematically examine video patch embeddings, register tokens, and adaptive layer normalization to identify design choices that balance generation quality and computational efficiency. The resulting JVT design achieves generation quality competitive with latent diffusion baselines in both class-conditioned and unconditional settings. The pixel-space formulation of JVT also naturally supports joint generation of pixel-aligned modalities. We demonstrate this capability through camera-conditioned RGB-disparity generation, which improves camera following relative to RGB-only baselines and yields explicit scene geometry without an additional reconstruction model at inference. These results highlight the potential of simple DiT-style Transformers for pixel-space video diffusion, and we hope our findings offer useful insights and practical guidance for future research.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-16T09:00:22Z",
+  "last_updated": "2026-11-13T18:55:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.18549v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

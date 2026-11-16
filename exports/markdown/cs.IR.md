@@ -270,3 +270,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14477v1](http://arxiv.org/abs/2611.14477v1)
 
+## MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading
+- **ID**: arxiv_2611.18513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18513v1](http://arxiv.org/abs/2611.18513v1)
+

@@ -1295,3 +1295,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17330v1](http://arxiv.org/abs/2611.17330v1)
 
+## From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration
+- **ID**: arxiv_2611.18484v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18484v1](http://arxiv.org/abs/2611.18484v1)
+

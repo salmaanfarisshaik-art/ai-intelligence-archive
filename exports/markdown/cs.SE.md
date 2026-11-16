@@ -275,6 +275,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04167v1](http://arxiv.org/abs/2609.04167v1)
 
+## From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance
+- **ID**: arxiv_2609.06383v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.06383v2](http://arxiv.org/abs/2609.06383v2)
+
 ## Retrofitting Code Using LLMs to Support Exceptional Behavior
 - **ID**: arxiv_2609.10397v1
 - **Source**: ArXiv

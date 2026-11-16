@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.06185v3](http://arxiv.org/abs/2504.06185v3)
 
+## Evaluating the Generalizability and Explainability of Firn Image Classification with Topological Features
+- **ID**: arxiv_2504.16150v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.16150v2](http://arxiv.org/abs/2504.16150v2)
+
 ## The Linear Geometry of Interpretable Tokens: Jailbreaking Attacks and Defenses for Unlearned Diffusion Models
 - **ID**: arxiv_2504.21307v3
 - **Source**: ArXiv
@@ -565,6 +570,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.08024v2](http://arxiv.org/abs/2601.08024v2)
 
+## ISLA: Ensemble learning and domain adaptation for generalizable acute ischemic stroke lesion segmentation in diffusion MRI with clinical validation
+- **ID**: arxiv_2601.08732v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.08732v2](http://arxiv.org/abs/2601.08732v2)
+
 ## GRCF: Group-wise Ranking and Calibration Framework for Multimodal Sentiment Analysis
 - **ID**: arxiv_2601.09606v2
 - **Source**: ArXiv
@@ -584,6 +594,11 @@
 - **ID**: arxiv_2601.13707v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.13707v3](http://arxiv.org/abs/2601.13707v3)
+
+## Tracing 3D Anatomy in 2D Strokes: Can Projection-Derived Masks Replace 3D Segmentation for Cervical Spine Fracture Recognition?
+- **ID**: arxiv_2601.15235v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.15235v5](http://arxiv.org/abs/2601.15235v5)
 
 ## Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction
 - **ID**: arxiv_2601.20720v2
@@ -1049,6 +1064,11 @@
 - **ID**: arxiv_2605.06192v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06192v2](http://arxiv.org/abs/2605.06192v2)
+
+## Exposing and Mitigating Temporal Attack in Deepfake Video Detection
+- **ID**: arxiv_2605.07398v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07398v2](http://arxiv.org/abs/2605.07398v2)
 
 ## OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos
 - **ID**: arxiv_2605.07695v2
@@ -7575,6 +7595,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.00092v2](http://arxiv.org/abs/2611.00092v2)
 
+## A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks
+- **ID**: arxiv_2611.00482v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00482v3](http://arxiv.org/abs/2611.00482v3)
+
 ## Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs
 - **ID**: arxiv_2611.00892v2
 - **Source**: ArXiv
@@ -7619,6 +7644,11 @@
 - **ID**: arxiv_2611.03646v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03646v1](http://arxiv.org/abs/2611.03646v1)
+
+## TAQ-MOTR: Tracking-Aware Detection Query Formation for End-to-End Multiple Object Tracking
+- **ID**: arxiv_2611.05205v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05205v2](http://arxiv.org/abs/2611.05205v2)
 
 ## PLANTEUR: A Crop-Type Segmentation Benchmark for Tropical Regions
 - **ID**: arxiv_2611.05223v1
@@ -7864,6 +7894,11 @@
 - **ID**: arxiv_2611.08486v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08486v1](http://arxiv.org/abs/2611.08486v1)
+
+## Evaluating Anterior Cruciate Ligament Risk of Injury Using a Graph Convolutional Autoencoder
+- **ID**: arxiv_2611.09724v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09724v2](http://arxiv.org/abs/2611.09724v2)
 
 ## Zero-Shot Benchmarking of Unified Multimodal Models for Shallow-Water UAV Image Distortion Assessment and Restoration
 - **ID**: arxiv_2611.09740v1
@@ -8124,4 +8159,54 @@
 - **ID**: arxiv_2611.17336v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17336v1](http://arxiv.org/abs/2611.17336v1)
+
+## CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning
+- **ID**: arxiv_2611.18417v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18417v1](http://arxiv.org/abs/2611.18417v1)
+
+## Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift
+- **ID**: arxiv_2611.18429v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18429v1](http://arxiv.org/abs/2611.18429v1)
+
+## Toward On-Device Markerless 6DoF Tracking of a Physical Manipulative on a Mixed-Reality Headset: A Preliminary Study
+- **ID**: arxiv_2611.18438v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18438v1](http://arxiv.org/abs/2611.18438v1)
+
+## MMFlash: Faster Speculative Decoding for Vision-Language Models
+- **ID**: arxiv_2611.18482v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18482v1](http://arxiv.org/abs/2611.18482v1)
+
+## StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval
+- **ID**: arxiv_2611.18516v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18516v1](http://arxiv.org/abs/2611.18516v1)
+
+## Box-conditional Hypothesis Testing for Out-of-Distribution Object Detection
+- **ID**: arxiv_2611.18519v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18519v1](http://arxiv.org/abs/2611.18519v1)
+
+## Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction
+- **ID**: arxiv_2611.18530v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18530v1](http://arxiv.org/abs/2611.18530v1)
+
+## JVT: Just Video Transformer makes pixel-space video diffusion simple
+- **ID**: arxiv_2611.18549v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18549v1](http://arxiv.org/abs/2611.18549v1)
+
+## Restoring Diversity in Distilled Image and Video Generators by Probing Activations
+- **ID**: arxiv_2611.18550v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18550v1](http://arxiv.org/abs/2611.18550v1)
+
+## BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations
+- **ID**: arxiv_2611.18559v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18559v1](http://arxiv.org/abs/2611.18559v1)
 

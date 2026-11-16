@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.14397v3",
+  "schema_version": "1.0",
+  "name": "Generating Concept Lexicalizations via Dictionary-Based Cross-Lingual Sense Projection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.14397v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.14397v3",
+    "updated": "2026-11-13T18:49:40Z",
+    "published": "2026-04-15T20:27:26Z",
+    "title": "Generating Concept Lexicalizations via Dictionary-Based Cross-Lingual Sense Projection",
+    "summary": "We study the task of automatically expanding WordNet-style lexical resources to new languages through sense generation. We generate senses by associating target-language lemmas with existing lexical concepts via semantic projection. Given a sense-tagged English corpus and its translation, our method projects the annotated synsets onto aligned target-language tokens and assigns the corresponding lemmas to those synsets. To generate alignments and ensure their quality, we augment a pretrained base aligner with a bilingual dictionary, which is also used to filter incorrect sense projections. We evaluate the method on multiple languages, comparing it to prior methods, as well as dictionary-based and large language model baselines. Results show that the proposed project-and-filter strategy improves precision while remaining interpretable and resource- efficient. We release our code, documentation, and generated sense inventories at https://github.com/UAlberta-NLP/ExpandNet.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-16T09:00:22Z",
+  "last_updated": "2026-11-13T18:49:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.14397v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

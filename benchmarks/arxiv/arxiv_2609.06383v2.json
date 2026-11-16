@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.06383v2",
+  "schema_version": "1.0",
+  "name": "From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.06383v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.06383v2",
+    "updated": "2026-11-13T18:55:37Z",
+    "published": "2026-09-06T04:45:37Z",
+    "title": "From Reading Code to Reading Spec: A Verified Layer for LLM-Driven Codebase Maintenance",
+    "summary": "The rapid growth of LLM-generated code increases software complexity and the maintenance burden on engineers. While LLMs offer a potential automated alternative, this structural complexity hinders their ability to manage codebases directly. We introduce the Provable Representation Of Original Functionality (PROOF), which manages codebases indirectly via structured specifications. To enable full-lifecycle codebase management strictly through these specifications, PROOF abstracts codebase topology into a hierarchical natural-language representation. To establish absolute trust, the system proves semantic equivalence by reconstructing source code exclusively from this specification. This verified foundation drives maintenance requests, executing code modifications while synchronously updating itself to prevent semantic drift. Experiments on real-world repositories confirm the effectiveness of these specifications.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-11-16T09:00:22Z",
+  "last_updated": "2026-11-13T18:55:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.06383v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

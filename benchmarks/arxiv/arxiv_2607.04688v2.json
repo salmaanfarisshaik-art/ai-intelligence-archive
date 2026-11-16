@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.04688v2",
+  "schema_version": "1.0",
+  "name": "URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.04688v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.04688v2",
+    "updated": "2026-11-13T18:36:28Z",
+    "published": "2026-07-06T05:32:09Z",
+    "title": "URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment",
+    "summary": "Synthesis planning aiming to find pathways of reactions for a target molecule is one of the most important and challenging tasks in drug discovery. Recent progress has produced both specialized deep-learning retrosynthesis systems and general-purpose large language models, but objective comparison remains difficult due to the lack of flexible, chemically interpretable benchmarking protocols. In the current study, we are introducing the URSA (Utilitarian RetroSynthesis Assessment) evaluation framework that provides the opportunity to benchmark the synthetic routes not only from a formal perspective, such as convergence to commercially available starting materials, but also from a chemical plausibility perspective, mimicking the way expert chemists evaluate the reactions and routes. The study covers a comprehensive evaluation of both conventional end-to-end retrosynthesis solutions and LLMs for the synthesis planning task on a set of novel, diverse target molecules with undisclosed synthetic routes, which represent realistic tasks in the daily drug design routine. Although LLMs can support high-level strategic planning and even achieve SOTA performance in the OOD set, the Pareto frontier for estimated run cost and chemically plausible route solvability consists entirely of specialized retrosynthesis planners.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-16T09:00:22Z",
+  "last_updated": "2026-11-13T18:36:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.04688v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

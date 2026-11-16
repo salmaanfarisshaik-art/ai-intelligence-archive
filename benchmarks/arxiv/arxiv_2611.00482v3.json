@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.00482v3",
+  "schema_version": "1.0",
+  "name": "A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.00482v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.00482v3",
+    "updated": "2026-11-13T18:22:04Z",
+    "published": "2026-10-31T00:14:11Z",
+    "title": "A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks",
+    "summary": "Many vision benchmarks align a prediction to the ground truth before scoring it. If the alignment minimises the error, an input-free template scores the truth's distance from everything the alignment can reach, so the ground truth alone fixes how well a template can score, before any model runs. Camera pose is our central case. The absolute trajectory error (ATE), the standard camera-motion measure, aligns camera positions by a similarity transform. On the common Sintel protocol, an image-free constant-velocity line has a lower mean ATE than 10 of 11 recent models and 85 of 110 published methods, and on Lightspeed than 5 of 9 models and 10 of 11 published methods. The straightness of the true paths separates these two from TUM, ScanNet, DyCheck and ADT, where every model beats the line. A residual signal-to-noise criterion with the alignment's first-order refit predicts when straightening a prediction lowers ATE in all but one of 4010 model-clip evaluations, including all 504 on three benchmarks registered in advance. The alignment also ignores where cameras look: rotating a trajectory by 30 degrees against its orientations leaves ATE unchanged yet worsens the static-point reprojection of every model on Sintel, TUM and ScanNet. Fitting the alignment's rotation to the predicted orientations gives pose-anchored ATE (PA-ATE), a one-function change at about ATE's cost (37 vs. 34 microseconds per clip). It is never below ATE, ranks every image-free reference below every model on Sintel, tracks the reprojection error under controlled rotation and straightening, largely preserves the models' order, and exposes Lightspeed ground-truth orientations that the images contradict. Beyond poses, templates beat some published methods on KITTI video depth, SSP-3D body shape and NoW faces, and in video depth this distance sets KITTI apart from Sintel and Bonn.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-16T09:00:22Z",
+  "last_updated": "2026-11-13T18:22:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.00482v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

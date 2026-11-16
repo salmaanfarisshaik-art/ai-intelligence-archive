@@ -130,3 +130,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06914v1](http://arxiv.org/abs/2611.06914v1)
 
+## TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents
+- **ID**: arxiv_2611.18493v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18493v1](http://arxiv.org/abs/2611.18493v1)
+

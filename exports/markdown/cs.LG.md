@@ -855,6 +855,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29806v3](http://arxiv.org/abs/2606.29806v3)
 
+## QVal: Evaluating Dense Supervision Signals for Long-Horizon LLM Agents
+- **ID**: arxiv_2606.32034v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.32034v2](http://arxiv.org/abs/2606.32034v2)
+
 ## Aligning Language Models with Selective Prediction
 - **ID**: arxiv_2607.03528v2
 - **Source**: ArXiv
@@ -869,6 +874,11 @@
 - **ID**: arxiv_2607.03798v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.03798v4](http://arxiv.org/abs/2607.03798v4)
+
+## URSA: Chemistry-Aware Benchmark for Utilitarian Retrosynthesis Assessment
+- **ID**: arxiv_2607.04688v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.04688v2](http://arxiv.org/abs/2607.04688v2)
 
 ## What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates
 - **ID**: arxiv_2607.05381v2
@@ -2045,6 +2055,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.34409v2](http://arxiv.org/abs/2609.34409v2)
 
+## From Data to Program: Fast & Direct Generative Program Inference from Empirical Data
+- **ID**: arxiv_2609.35348v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35348v2](http://arxiv.org/abs/2609.35348v2)
+
 ## Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?
 - **ID**: arxiv_2609.35686v1
 - **Source**: ArXiv
@@ -2114,6 +2129,11 @@
 - **ID**: arxiv_2609.38166v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38166v1](http://arxiv.org/abs/2609.38166v1)
+
+## Parameterization method of reservoir properties for ensemble-based data assimilation using intermediate latent space of StyleGAN
+- **ID**: arxiv_2609.39626v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.39626v2](http://arxiv.org/abs/2609.39626v2)
 
 ## PhantomEnvironments: Training LLM Agents in Fictional Worlds
 - **ID**: arxiv_2609.40221v1
@@ -2965,6 +2985,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14515v1](http://arxiv.org/abs/2611.14515v1)
 
+## CastWorld: Benchmarking Context-Aware Agentic Time Series Forecasting Beyond Predictive Accuracy
+- **ID**: arxiv_2611.15262v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.15262v2](http://arxiv.org/abs/2611.15262v2)
+
 ## Maximizing Capacity Utilization of LoRA Adapters for Mitigating the Learning-Forgetting Trade-off
 - **ID**: arxiv_2611.17191v1
 - **Source**: ArXiv
@@ -2989,4 +3014,14 @@
 - **ID**: arxiv_2611.17314v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17314v1](http://arxiv.org/abs/2611.17314v1)
+
+## Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles
+- **ID**: arxiv_2611.18453v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18453v1](http://arxiv.org/abs/2611.18453v1)
+
+## WeightBench: Evaluating Language Models as Weight-Space Programmers
+- **ID**: arxiv_2611.18553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18553v1](http://arxiv.org/abs/2611.18553v1)
 

@@ -185,3 +185,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17220v1](http://arxiv.org/abs/2611.17220v1)
 
+## Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements
+- **ID**: arxiv_2611.18439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18439v1](http://arxiv.org/abs/2611.18439v1)
+
