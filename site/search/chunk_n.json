@@ -6703,11 +6703,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_aletheiaaing_data_quality",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_allenai_olmo_mix_1124",
       "match_type": "exact",
       "score": 1.0
@@ -40226,6 +40221,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/our-new-blog-for-science",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/response-to-nyt-data-demands",
       "match_type": "exact",
       "score": 3.0
@@ -54401,6 +54401,11 @@
       "score": 1.2
     },
     {
+      "entity_id": "rss_https://openai.com/index/our-new-blog-for-science",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
       "entity_id": "rss_https://openai.com/index/our-principles",
       "match_type": "exact",
       "score": 1.2
@@ -55262,6 +55267,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/step-toward-defining-the-standard-model",
       "match_type": "exact",
       "score": 1.2
     },
@@ -67640,11 +67650,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_aletheiaaing_data_quality",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_allenai_dolma3_5_pool",
       "match_type": "exact",
       "score": 1.0
@@ -71562,6 +71567,13 @@
       "entity_id": "arxiv_2510.06919v2",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "nonperturbative": [
+    {
+      "entity_id": "rss_https://openai.com/index/step-toward-defining-the-standard-model",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "nonprofit": [

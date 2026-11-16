@@ -1,9 +1,10 @@
 # Change Summary
 
-**Total Changes:** 105
+**Total Changes:** 98
 
 ## Added
-None
+- prompts/openai-blog/rss_https___openai.com_index_our-new-blog-for-science.json
+- prompts/openai-blog/rss_https___openai.com_index_step-toward-defining-the-standard-model.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -13,44 +14,36 @@ None
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
 - datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json
 - datasets/57xj5shr/hf_ds_69c83627a52ab2757b1a6d90.json
-- datasets/dagroup-pku/hf_ds_6ae993485240eb6b7ac68d30.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
-- datasets/lerobot/hf_ds_6acca32f6fa844eabec4e77b.json
+- datasets/ccoffee20/hf_ds_69b6276dd5de8ef6a41f39e6.json
 - datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
 - datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json
 - datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
-- datasets/salesforce/hf_ds_621ffdd236468d709f18200d.json
-- datasets/tropos-labs/hf_ds_66f8ee950d2109c10ec04b30.json
+- datasets/visionhdstream/hf_ds_6ada2ff08f0f9c17f60ebac9.json
 - exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
+- exports/csv/dataset.csv
+- exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
+- exports/json/dataset.json
+- exports/json/news.json
+- exports/markdown/dataset.md
+- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
 - models/ista-daslab/hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
-- models/openai/hf_openai_gpt-oss-120b.json
-- models/openai/hf_openai_gpt-oss-20b.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/openai-community/hf_openai-community_gpt2.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
-- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/qwen/hf_Qwen_Qwen3-Coder-30B-A3B-Instruct.json
 - models/ukisai/hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF.json
-- models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -60,7 +53,6 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
 - site/index.json
 - site/search_index.json
 - site/timeline.json

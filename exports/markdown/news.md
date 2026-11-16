@@ -5471,6 +5471,11 @@
 - **URL**: [https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
 
 ## 
+- **ID**: rss_https://openai.com/index/our-new-blog-for-science
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/our-new-blog-for-science](https://openai.com/index/our-new-blog-for-science)
+
+## 
 - **ID**: rss_https://openai.com/index/our-principles
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/our-principles](https://openai.com/index/our-principles)
@@ -6344,6 +6349,11 @@
 - **ID**: rss_https://openai.com/index/statement-on-openai-nonprofit-and-pbc
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/statement-on-openai-nonprofit-and-pbc](https://openai.com/index/statement-on-openai-nonprofit-and-pbc)
+
+## 
+- **ID**: rss_https://openai.com/index/step-toward-defining-the-standard-model
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/step-toward-defining-the-standard-model](https://openai.com/index/step-toward-defining-the-standard-model)
 
 ## 
 - **ID**: rss_https://openai.com/index/steuerrecht
