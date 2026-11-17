@@ -15,7 +15,9 @@
     "base_model:zai-org/GLM-5.3-Flash",
     "base_model:quantized:zai-org/GLM-5.3-Flash",
     "license:mit",
-    "region:us"
+    "endpoints_compatible",
+    "region:us",
+    "feature-extraction"
   ],
   "pipeline_tag": "text-generation",
   "createdAt": "2026-10-07T07:25:49.000Z",

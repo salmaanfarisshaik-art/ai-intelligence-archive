@@ -8244,6 +8244,10 @@
 - **ID**: model_z_lab_qwen3_5_27b_dflash
 - **Source**: 
 
+## z-lab/Qwen3.5-4B-DFlash
+- **ID**: model_z_lab_qwen3_5_4b_dflash
+- **Source**: 
+
 ## z-lab/Qwen3.6-27B-DFlash
 - **ID**: model_z_lab_qwen3_6_27b_dflash
 - **Source**: 

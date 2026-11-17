@@ -1,0 +1,23 @@
+{
+  "_id": "6a4865c5534648dc27ac519d",
+  "id": "manus4oHER/cia-declassified-reading-room",
+  "author": "manus4oHER",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-13T02:13:32.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "42ac4ab298a4f2b4510743b3d3dcb0cc9ff6d76e",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tCIA Declassified Reading Room HF Library\n\t\n\nTarget account: manus4oHER\nThis project is a streaming pipeline for building a Hugging Face dataset mirror\nof public CIA declassified Reading Room / CREST records without staging the\nfull corpus on this laptop.\nThe laptop stores only scripts, small manifests, and logs. Bulk crawling should\nrun in Hugging Face Jobs, one bounded page range per job. Each job uploads its\nown shard and then exits.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Shape… See the full description on the dataset page: https://huggingface.co/datasets/manus4oHER/cia-declassified-reading-room.",
+  "downloads": 142350,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "modality:document",
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2026-07-04T01:45:41.000Z",
+  "key": "",
+  "unique_id": "dataset_manus4oher_cia_declassified_reading_room",
+  "schema_version": "1.0"
+}

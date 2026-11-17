@@ -1,0 +1,28 @@
+{
+  "_id": "6887b3b4162c17ba816479c7",
+  "id": "nvidia/OpenScienceReasoning-2",
+  "author": "nvidia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-07-31T00:04:42.000Z",
+  "likes": 58,
+  "private": false,
+  "sha": "174b02c9cdf231f220765b2a1d5ece4550921894",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nOpenScienceReasoning-2 is a multi-domain synthetic dataset designed to improve general-purpose reasoning in large language models (LLMs). The dataset contains multiple-choice and open-ended question-answer pairs with detailed reasoning traces and spans across diverse scientific domains, including STEM, law, economics, and humanities. OpenScience aims to boost accuracy on advanced benchmarks such as GPQA-Diamond, MMLU-Pro and HLE via supervised finetuning or… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/OpenScienceReasoning-2.",
+  "downloads": 37998,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2025-07-28T17:30:28.000Z",
+  "key": "",
+  "unique_id": "dataset_nvidia_opensciencereasoning_2",
+  "schema_version": "1.0"
+}

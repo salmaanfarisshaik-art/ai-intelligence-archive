@@ -1,0 +1,29 @@
+{
+  "_id": "6a3685af126105f6d49f8fc8",
+  "id": "enalis/LeafBenchV2",
+  "author": "enalis",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2026-10-31T09:07:53.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "1cfc4cea248c82ed4a937bc829c59c8a7e88fd0b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tLeafBench 2.0\n\t\n\nLeafBench 2.0 is a visual question answering (VQA) benchmark for evaluating fine-grained plant disease understanding in vision-language models (VLMs). Derived directly from LeafNet 2.0, the benchmark consists of multiple-choice questions spanning 9 complementary plant pathology tasks, designed to assess disease understanding beyond coarse category recognition.\nLeafBench 2.0 was evaluated across 16 VLMs including 7 CLIP-based models, 7 generative VLMs, and 2… See the full description on the dataset page: https://huggingface.co/datasets/enalis/LeafBenchV2.",
+  "downloads": 38224,
+  "tags": [
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "format:csv",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-06-20T12:21:03.000Z",
+  "key": "",
+  "unique_id": "dataset_enalis_leafbenchv2",
+  "schema_version": "1.0"
+}

@@ -82,6 +82,9 @@
   "CV": [
     "hf_ds_66674f5483de542b724d771e"
   ],
+  "CVPR2025": [
+    "hf_ds_6a622c79b2821966cdd3c17a"
+  ],
   "Classification": [
     "hf_ds_68370197476641ade2a81199"
   ],
@@ -115,6 +118,9 @@
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_6acca32f6fa844eabec4e77b"
+  ],
+  "M3-VOS": [
+    "hf_ds_6a622c79b2821966cdd3c17a"
   ],
   "MLAAD": [
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
@@ -642,8 +648,14 @@
   "arxiv:2412.02595": [
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
+  "arxiv:2412.13803": [
+    "hf_ds_6a622c79b2821966cdd3c17a"
+  ],
   "arxiv:2412.14042": [
     "hf_ds_67d6a013de70b91cc5a7a8f6"
+  ],
+  "arxiv:2501.03936": [
+    "hf_ds_670f9e9fe97bd0eec84c3118"
   ],
   "arxiv:2501.04962": [
     "hf_ds_67866986e864fd4dee936901"
@@ -1275,7 +1287,8 @@
   ],
   "computer-vision": [
     "hf_ds_6785649a41a64e1582b8bb05",
-    "hf_ds_68affd4c9e92d6d7ab470166"
+    "hf_ds_68affd4c9e92d6d7ab470166",
+    "hf_ds_6a622c79b2821966cdd3c17a"
   ],
   "concept-vectors": [
     "hf_ds_6a000179f854441c31227673"
@@ -1721,6 +1734,9 @@
     "dockerfile-multi-stage-builder",
     "optimized-dockerfile-multi-stage-builder"
   ],
+  "document": [
+    "hf_ds_670f9e9fe97bd0eec84c3118"
+  ],
   "documentation": [
     "hf_ds_636a1b69f2f9ec4289c4c19e"
   ],
@@ -1918,6 +1934,7 @@
     "hf_openai_gpt-oss-20b",
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
@@ -2035,7 +2052,8 @@
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Embedding-8B",
-    "hf_RadixArk_Kimi-K3-DSpark"
+    "hf_RadixArk_Kimi-K3-DSpark",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "finance": [
     "hf_ds_69c2419dda894d8e5757461f"
@@ -2126,6 +2144,7 @@
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_66f27f215dfdba5747322656",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_68101f6210b86ba322aabec8",
@@ -3011,6 +3030,7 @@
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a5466cdd7c4631ab9b28b80",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc",
@@ -4396,6 +4416,7 @@
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6aed4ceaf1e7b1fa855ce572"
   ],
@@ -4543,6 +4564,7 @@
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_66f27f215dfdba5747322656",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_679255cc5a8e868cbe62569f",
@@ -4648,6 +4670,7 @@
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_66f27f215dfdba5747322656",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_679255cc5a8e868cbe62569f",
@@ -4723,6 +4746,7 @@
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66674f5483de542b724d771e",
     "hf_ds_66bb76014dbf7716986c7f86",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
@@ -4778,6 +4802,7 @@
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_66f27f215dfdba5747322656",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_680f523123b95edd6987db29",
@@ -4878,6 +4903,7 @@
     "hf_ds_6a252aa1e7f978cbccbe94ed",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a44a4c981d12be393e7749d",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6ae993485240eb6b7ac68d30",
@@ -5278,6 +5304,7 @@
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
   ],
   "modality:document": [
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_683195b70ed0a5b1919c6f22",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
@@ -5318,6 +5345,7 @@
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6ab65a7f909092518dca860f",
@@ -5390,6 +5418,7 @@
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_66f27f215dfdba5747322656",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_675d7e29e24babdf1842d270",
@@ -5463,6 +5492,7 @@
     "hf_ds_6a2109cc17dad4ca26c80eb7",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a580014dab1978b184dc4a0",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
@@ -5711,10 +5741,14 @@
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
   "pdf": [
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
   ],
   "phi3_v": [
     "hf_microsoft_Phi-3.5-vision-instruct"
+  ],
+  "physical": [
+    "hf_ds_6a622c79b2821966cdd3c17a"
   ],
   "physics": [
     "hf_ds_692ecca11aad0a1d75ac057c",
@@ -5738,6 +5772,12 @@
   "postgres": [
     "optimized-postgresql-schema-optimizer",
     "postgresql-schema-optimizer"
+  ],
+  "powerpoint": [
+    "hf_ds_670f9e9fe97bd0eec84c3118"
+  ],
+  "ppt": [
+    "hf_ds_670f9e9fe97bd0eec84c3118"
   ],
   "pre-training": [
     "hf_ds_6a153f136ea5882878c26693"
@@ -6071,6 +6111,7 @@
     "hf_ds_66f27f215dfdba5747322656",
     "hf_ds_66f8ee950d2109c10ec04b30",
     "hf_ds_6700058973753b82f145eb1d",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_673751cfb7d352f8c1f5564b",
@@ -6222,6 +6263,7 @@
     "hf_ds_6a580014dab1978b184dc4a0",
     "hf_ds_6a60568ac2d6c31b7f81bdc8",
     "hf_ds_6a615c95fb10b1093e0ea9ed",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a67b67edd8543ddc375d370",
     "hf_ds_6a67d0a568d9afa362507f38",
     "hf_ds_6a68b4c932acc2b78df25e32",
@@ -6466,6 +6508,9 @@
   "seedance-2": [
     "hf_ds_69f638c8ebff1de2d6753093"
   ],
+  "segmentation": [
+    "hf_ds_6a622c79b2821966cdd3c17a"
+  ],
   "sentence-similarity": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -6552,6 +6597,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66674f5483de542b724d771e",
+    "hf_ds_670f9e9fe97bd0eec84c3118",
     "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_680f523123b95edd6987db29",
@@ -6645,6 +6691,7 @@
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
     "hf_ds_6a60568ac2d6c31b7f81bdc8",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a702b9b89beb4ee925c3e28",
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6ada2ff08f0f9c17f60ebac9"
@@ -7031,6 +7078,7 @@
     "hf_ds_6a34c6065edc6bacb0b36213"
   ],
   "task_categories:video-classification": [
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
@@ -7460,6 +7508,7 @@
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],

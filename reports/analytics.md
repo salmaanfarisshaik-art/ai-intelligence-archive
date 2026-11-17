@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93439
+**Total Entities Tracked**: 93448
 
 ## Category Distribution
 
@@ -8,10 +8,10 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2836
-- **models**: 2095
+- **models**: 2096
 - **cs.CV**: 1669
-- **news**: 1434
-- **dataset**: 1253
+- **news**: 1439
+- **dataset**: 1255
 - **cs.CL**: 1084
 - **cs.AI**: 1077
 - **text-generation**: 1018
@@ -19,7 +19,7 @@
 - **cs.RO**: 263
 - **cs.CR**: 114
 - **cs.SE**: 88
-- **tool**: 59
+- **tool**: 60
 - **cs.HC**: 55
 - **cs.IR**: 55
 - **cs.SD**: 50
@@ -103,12 +103,12 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 32109
+- ****: 32110
 - **ArXiv**: 5458
 - **Hugging Face**: 2026
-- **OpenAI Blog**: 1419
-- **HuggingFace Datasets**: 253
-- **GitHub Trending**: 59
+- **OpenAI Blog**: 1424
+- **HuggingFace Datasets**: 255
+- **GitHub Trending**: 60
 - **BAIR Blog**: 15
 - **Backend**: 10
 - **Database**: 10
@@ -147,37 +147,37 @@
 
 ## Top Tags
 
-- **region:us**: 347
-- **library:datasets**: 95
-- **library:mlcroissant**: 95
+- **region:us**: 349
+- **library:datasets**: 96
+- **library:mlcroissant**: 96
 - **text-generation**: 95
-- **modality:text**: 87
-- **language:en**: 84
-- **license:apache-2.0**: 82
-- **endpoints_compatible**: 79
+- **modality:text**: 88
+- **language:en**: 85
+- **license:apache-2.0**: 83
+- **endpoints_compatible**: 80
 - **safetensors**: 78
 - **transformers**: 77
 - **conversational**: 75
-- **library:polars**: 66
+- **library:polars**: 67
 - **license:mit**: 58
-- **format:parquet**: 52
+- **format:parquet**: 53
 - **text-generation-inference**: 39
 - **deploy:azure**: 38
-- **library:pandas**: 36
-- **modality:image**: 35
+- **library:pandas**: 37
+- **modality:image**: 36
 - **en**: 34
 - **task_categories:text-generation**: 33
 - **license:other**: 32
 - **library:dask**: 31
 - **deploy:sagemaker**: 30
 - **eval-results**: 29
-- **size_categories:n<1K**: 27
+- **size_categories:n<1K**: 28
 - **modality:tabular**: 26
 - **enterprise**: 25
+- **modality:video**: 23
+- **size_categories:10K<n<100K**: 23
 - **license:cc-by-4.0**: 22
-- **modality:video**: 22
 - **qwen3**: 22
-- **size_categories:10K<n<100K**: 22
 - **size_categories:100K<n<1M**: 21
 - **task_categories:robotics**: 19
 - **api**: 16
@@ -189,10 +189,10 @@
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
 - **source_datasets:original**: 14
+- **language:zh**: 13
 - **size_categories:1K<n<10K**: 13
 - **custom_code**: 12
 - **format:json**: 12
-- **language:zh**: 12
 - **robotics**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11

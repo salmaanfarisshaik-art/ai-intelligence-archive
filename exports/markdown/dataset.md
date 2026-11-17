@@ -430,6 +430,12 @@
 - **URL**: [https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data](https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data)
 - **Tags**: arxiv:2507.11412, decoder, encoder, foundation-model, language-modeling, language:en, license:mit, pretraining, region:us, task_categories:fill-mask, task_categories:text-classification, task_categories:text-generation, transformer
 
+## Forceless/Zenodo10K
+- **ID**: hf_ds_670f9e9fe97bd0eec84c3118
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Forceless/Zenodo10K](https://huggingface.co/datasets/Forceless/Zenodo10K)
+- **Tags**: arxiv:2501.03936, document, format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:document, modality:text, pdf, powerpoint, ppt, region:us, size_categories:10K<n<100K
+
 ## SwayStar123/preprocessed_commoncatalog-cc-by
 - **ID**: hf_ds_67134260dda81cf20b75342e
 - **Source**: HuggingFace Datasets
@@ -1341,6 +1347,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
 - **Tags**: arxiv:2402.19173, code, language:code, language_creators:crowdsourced, language_creators:expert-generated, license:odc-by, multilinguality:multilingual, region:us, size_categories:100M<n<1B, task_categories:text-generation
+
+## zdbfv/M3_VOS
+- **ID**: hf_ds_6a622c79b2821966cdd3c17a
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/zdbfv/M3_VOS](https://huggingface.co/datasets/zdbfv/M3_VOS)
+- **Tags**: CVPR2025, M3-VOS, arxiv:2412.13803, computer-vision, language:en, language:zh, license:apache-2.0, modality:image, modality:video, physical, region:us, segmentation, size_categories:n<1K, task_categories:video-classification, video
 
 ## gfdg34fsd/sh
 - **ID**: hf_ds_6a67b67edd8543ddc375d370

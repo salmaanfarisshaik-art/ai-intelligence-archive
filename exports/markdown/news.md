@@ -281,6 +281,11 @@
 - **URL**: [https://openai.com/academy/writing](https://openai.com/academy/writing)
 
 ## 
+- **ID**: rss_https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence](https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence)
+
+## 
 - **ID**: rss_https://openai.com/ads/customers/evernote
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/ads/customers/evernote](https://openai.com/ads/customers/evernote)
@@ -289,6 +294,11 @@
 - **ID**: rss_https://openai.com/ads/customers/flipsnack
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/ads/customers/flipsnack](https://openai.com/ads/customers/flipsnack)
+
+## 
+- **ID**: rss_https://openai.com/ads/customers/vistaprint
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/ads/customers/vistaprint](https://openai.com/ads/customers/vistaprint)
 
 ## 
 - **ID**: rss_https://openai.com/business/customer-stories/ada
@@ -1069,6 +1079,11 @@
 - **ID**: rss_https://openai.com/index/astra-for-law
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/astra-for-law](https://openai.com/index/astra-for-law)
+
+## 
+- **ID**: rss_https://openai.com/index/astra-law-6-2
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/astra-law-6-2](https://openai.com/index/astra-law-6-2)
 
 ## 
 - **ID**: rss_https://openai.com/index/asu
@@ -3836,6 +3851,11 @@
 - **URL**: [https://openai.com/index/introducing-gpt-6-1-terra](https://openai.com/index/introducing-gpt-6-1-terra)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-gpt-6-2-astra-sol
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-gpt-6-2-astra-sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-gpt-6-cyber
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-gpt-6-cyber](https://openai.com/index/introducing-gpt-6-cyber)
@@ -3939,6 +3959,11 @@
 - **ID**: rss_https://openai.com/index/introducing-openai-dublin
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-openai-dublin](https://openai.com/index/introducing-openai-dublin)
+
+## 
+- **ID**: rss_https://openai.com/index/introducing-openai-for-chile
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-openai-for-chile](https://openai.com/index/introducing-openai-for-chile)
 
 ## 
 - **ID**: rss_https://openai.com/index/introducing-openai-for-nonprofits

@@ -4199,7 +4199,7 @@
 - **ID**: hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF](https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF)
-- **Tags**: base_model:quantized:zai-org/GLM-5.3-Flash, base_model:zai-org/GLM-5.3-Flash, gguf, glm, imatrix, license:mit, mixture-of-experts, project-maya, region:us, text-generation, vision
+- **Tags**: base_model:quantized:zai-org/GLM-5.3-Flash, base_model:zai-org/GLM-5.3-Flash, endpoints_compatible, feature-extraction, gguf, glm, imatrix, license:mit, mixture-of-experts, project-maya, region:us, text-generation, vision
 
 ## peft-internal-testing/opt-125m
 - **ID**: hf_peft-internal-testing_opt-125m

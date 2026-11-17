@@ -331843,6 +331843,21 @@
     "local_path": "tools/github-trending/gh_1141782198.json"
   },
   {
+    "id": "gh_1153130349",
+    "title": "t3code",
+    "category": "tool",
+    "source": "GitHub Trending",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://github.com/pingdotgg/t3code",
+    "local_path": "tools/github-trending/gh_1153130349.json"
+  },
+  {
     "id": "gh_1162099055",
     "title": "taste-skill",
     "category": "tool",
@@ -341476,6 +341491,38 @@
     "local_path": "datasets/jhu-clsp/hf_ds_6700058973753b82f145eb1d.json"
   },
   {
+    "id": "hf_ds_670f9e9fe97bd0eec84c3118",
+    "title": "Forceless/Zenodo10K",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2501.03936",
+      "document",
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "modality:document",
+      "modality:text",
+      "pdf",
+      "powerpoint",
+      "ppt",
+      "region:us",
+      "size_categories:10K<n<100K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/Forceless"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/Forceless/Zenodo10K",
+    "local_path": "datasets/forceless/hf_ds_670f9e9fe97bd0eec84c3118.json"
+  },
+  {
     "id": "hf_ds_67134260dda81cf20b75342e",
     "title": "SwayStar123/preprocessed_commoncatalog-cc-by",
     "category": "dataset",
@@ -345565,6 +345612,39 @@
     },
     "source_url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "local_path": "datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json"
+  },
+  {
+    "id": "hf_ds_6a622c79b2821966cdd3c17a",
+    "title": "zdbfv/M3_VOS",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "CVPR2025",
+      "M3-VOS",
+      "arxiv:2412.13803",
+      "computer-vision",
+      "language:en",
+      "language:zh",
+      "license:apache-2.0",
+      "modality:image",
+      "modality:video",
+      "physical",
+      "region:us",
+      "segmentation",
+      "size_categories:n<1K",
+      "task_categories:video-classification",
+      "video"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/zdbfv"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/zdbfv/M3_VOS",
+    "local_path": "datasets/zdbfv/hf_ds_6a622c79b2821966cdd3c17a.json"
   },
   {
     "id": "hf_ds_6a67b67edd8543ddc375d370",
@@ -360154,6 +360234,8 @@
     "tags": [
       "base_model:quantized:zai-org/GLM-5.3-Flash",
       "base_model:zai-org/GLM-5.3-Flash",
+      "endpoints_compatible",
+      "feature-extraction",
       "gguf",
       "glm",
       "imatrix",
@@ -383169,6 +383251,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/z-lab/model_z_lab_qwen3_5_27b_dflash.json"
+  },
+  {
+    "id": "model_z_lab_qwen3_5_4b_dflash",
+    "title": "z-lab/Qwen3.5-4B-DFlash",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/z-lab/model_z_lab_qwen3_5_4b_dflash.json"
   },
   {
     "id": "model_z_lab_qwen3_6_27b_dflash",
@@ -656498,6 +656590,21 @@
     "local_path": "prompts/openai-blog/rss_https___openai.com_academy_writing.json"
   },
   {
+    "id": "rss_https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_ads_blog_chatgpt-ads-increases-its-market-presence.json"
+  },
+  {
     "id": "rss_https://openai.com/ads/customers/evernote",
     "title": "",
     "category": "news",
@@ -656526,6 +656633,21 @@
     },
     "source_url": "https://openai.com/ads/customers/flipsnack",
     "local_path": "prompts/openai-blog/rss_https___openai.com_ads_customers_flipsnack.json"
+  },
+  {
+    "id": "rss_https://openai.com/ads/customers/vistaprint",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/ads/customers/vistaprint",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_ads_customers_vistaprint.json"
   },
   {
     "id": "rss_https://openai.com/business/customer-stories/ada",
@@ -658866,6 +658988,21 @@
     },
     "source_url": "https://openai.com/index/astra-for-law",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_astra-for-law.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/astra-law-6-2",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/astra-law-6-2",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_astra-law-6-2.json"
   },
   {
     "id": "rss_https://openai.com/index/asu",
@@ -667163,6 +667300,21 @@
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_introducing-gpt-6-1-terra.json"
   },
   {
+    "id": "rss_https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_introducing-gpt-6-2-astra-sol.json"
+  },
+  {
     "id": "rss_https://openai.com/index/introducing-gpt-6-cyber",
     "title": "",
     "category": "news",
@@ -667476,6 +667628,21 @@
     },
     "source_url": "https://openai.com/index/introducing-openai-dublin",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_introducing-openai-dublin.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-openai-for-chile",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/introducing-openai-for-chile",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_introducing-openai-for-chile.json"
   },
   {
     "id": "rss_https://openai.com/index/introducing-openai-for-nonprofits",

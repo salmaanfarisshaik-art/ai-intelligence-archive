@@ -27752,6 +27752,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_670f9e9fe97bd0eec84c3118",
+      "target": "datasets/Forceless"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_675d7e29e24babdf1842d270",
       "target": "datasets/m-a-p"
     },
@@ -28227,6 +28232,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6a622c79b2821966cdd3c17a",
+      "target": "datasets/zdbfv"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6a68e4ea0c35d2a3ed8c033e",
       "target": "datasets/ACERobotics"
     },
@@ -28561,7 +28571,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-17T11:29:29.468371+00:00",
+  "generated_at": "2026-11-17T20:28:57.913758+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -175262,6 +175272,11 @@
     },
     {
       "category": "tool",
+      "id": "gh_1153130349",
+      "label": "t3code"
+    },
+    {
+      "category": "tool",
       "id": "gh_1162099055",
       "label": "taste-skill"
     },
@@ -178497,6 +178512,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_670f9e9fe97bd0eec84c3118",
+      "label": "Forceless/Zenodo10K"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_67134260dda81cf20b75342e",
       "label": "SwayStar123/preprocessed_commoncatalog-cc-by"
     },
@@ -179254,6 +179274,11 @@
       "category": "dataset",
       "id": "hf_ds_6a615c95fb10b1093e0ea9ed",
       "label": "HuggingFaceCode/stack-v3-train"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a622c79b2821966cdd3c17a",
+      "label": "zdbfv/M3_VOS"
     },
     {
       "category": "dataset",
@@ -197299,6 +197324,11 @@
       "category": "models",
       "id": "model_z_lab_qwen3_5_27b_dflash",
       "label": "z-lab/Qwen3.5-27B-DFlash"
+    },
+    {
+      "category": "models",
+      "id": "model_z_lab_qwen3_5_4b_dflash",
+      "label": "z-lab/Qwen3.5-4B-DFlash"
     },
     {
       "category": "models",
@@ -333762,12 +333792,22 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/ads/customers/evernote",
       "label": ""
     },
     {
       "category": "news",
       "id": "rss_https://openai.com/ads/customers/flipsnack",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/ads/customers/vistaprint",
       "label": ""
     },
     {
@@ -334548,6 +334588,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/astra-for-law",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/astra-law-6-2",
       "label": ""
     },
     {
@@ -337317,6 +337362,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/index/introducing-gpt-6-cyber",
       "label": ""
     },
@@ -337418,6 +337468,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/introducing-openai-dublin",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/introducing-openai-for-chile",
       "label": ""
     },
     {
@@ -495762,6 +495817,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5712,
-  "total_nodes": 93439
+  "total_edges": 5714,
+  "total_nodes": 93448
 }

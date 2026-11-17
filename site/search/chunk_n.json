@@ -6713,6 +6713,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_arabalika_us_rent_history",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_bluuebunny_arxiv_metadata_by_year",
       "match_type": "exact",
       "score": 1.0
@@ -7556,6 +7561,11 @@
     },
     {
       "entity_id": "dataset_nuprl_multipl_e",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_sandflow_sand3d_articraft",
       "match_type": "exact",
       "score": 1.0
     },
@@ -17711,6 +17721,11 @@
     },
     {
       "entity_id": "dataset_acerobotics_ace_data_0",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_bitrobot_robomocap",
       "match_type": "exact",
       "score": 4.0
     },
@@ -32390,6 +32405,13 @@
       "score": 1.0
     }
   ],
+  "netflow": [
+    {
+      "entity_id": "gh_10744183",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "netherlands": [
     {
       "entity_id": "alpaca_-3561930404175927122",
@@ -36659,6 +36681,11 @@
     },
     {
       "entity_id": "dataset_jieyuz2_wrench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_transferable_samplers_many_peptides_md",
       "match_type": "exact",
       "score": 1.0
     },
@@ -46468,6 +46495,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ibm_granite_chartnet",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_icml_2026_agent_repro_challenge",
       "match_type": "exact",
       "score": 1.0
@@ -49368,12 +49400,22 @@
       "score": 1.2
     },
     {
+      "entity_id": "rss_https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
       "entity_id": "rss_https://openai.com/ads/customers/evernote",
       "match_type": "exact",
       "score": 1.2
     },
     {
       "entity_id": "rss_https://openai.com/ads/customers/flipsnack",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "rss_https://openai.com/ads/customers/vistaprint",
       "match_type": "exact",
       "score": 1.2
     },
@@ -50149,6 +50191,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/astra-for-law",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/astra-law-6-2",
       "match_type": "exact",
       "score": 1.2
     },
@@ -52878,6 +52925,11 @@
       "score": 1.2
     },
     {
+      "entity_id": "rss_https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
       "entity_id": "rss_https://openai.com/index/introducing-gpt-6-cyber",
       "match_type": "exact",
       "score": 1.2
@@ -52979,6 +53031,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/introducing-openai-dublin",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/introducing-openai-for-chile",
       "match_type": "exact",
       "score": 1.2
     },
@@ -63117,6 +63174,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_ibm_granite_chartnet",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_jobs_git_hplt2_0_cleaned",
       "match_type": "exact",
       "score": 1.5
@@ -72675,6 +72737,11 @@
       "entity_id": "alpaca_7301792060778721269",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_transferable_samplers_many_peptides_md",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "normally": [
@@ -79779,6 +79846,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_codepawl_simready_glb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_complexdatalab_openfake",
       "match_type": "exact",
       "score": 1.0
@@ -79895,6 +79967,11 @@
     },
     {
       "entity_id": "dataset_google_research_datasets_natural_questions",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_greennode_greenocr_dataset",
       "match_type": "exact",
       "score": 1.0
     },
@@ -80160,11 +80237,6 @@
     },
     {
       "entity_id": "dataset_swe_gym_swe_gym_raw",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_transferable_samplers_many_peptides_md",
       "match_type": "exact",
       "score": 1.0
     },
@@ -80631,11 +80703,6 @@
       "score": 2.0
     },
     {
-      "entity_id": "dataset_transferable_samplers_many_peptides_md",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
       "entity_id": "dataset_voxel51_food101",
       "match_type": "exact",
       "score": 2.0
@@ -80932,6 +80999,11 @@
     },
     {
       "entity_id": "dataset_swe_bench_swe_smith",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_transferable_samplers_many_peptides_md",
       "match_type": "exact",
       "score": 1.0
     },
@@ -81492,6 +81564,11 @@
     },
     {
       "entity_id": "dataset_tiagozip_bilibili",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tiagozip_bluesky",
       "match_type": "exact",
       "score": 1.0
     },
@@ -85124,6 +85201,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_tiagozip_bluesky",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/",
       "match_type": "exact",
       "score": 1.0
@@ -85271,11 +85353,6 @@
     },
     {
       "entity_id": "alpaca_7683340250229199550",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
-      "entity_id": "dataset_transferable_samplers_many_peptides_md",
       "match_type": "exact",
       "score": 2.0
     },
@@ -86275,6 +86352,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_transferable_samplers_many_peptides_md",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_yuanbosz_a_share_minute_bars",
       "match_type": "exact",
       "score": 1.0
@@ -86301,6 +86383,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/ai-and-efficiency",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/astra-law-6-2",
       "match_type": "exact",
       "score": 1.0
     },
@@ -86755,6 +86842,11 @@
       "entity_id": "alpaca_2034930190683844867",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "gh_10744183",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "npo": [
@@ -86867,11 +86959,6 @@
     },
     {
       "entity_id": "dataset_roboarena_datadump_07_17_2026",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_transferable_samplers_many_peptides_md",
       "match_type": "exact",
       "score": 1.0
     },
@@ -97603,6 +97690,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "dataset_codepawl_simready_glb",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "dataset_nvidia_physicalai_simready_warehouse_01",
       "match_type": "exact",
       "score": 4.5
@@ -98519,6 +98611,11 @@
     },
     {
       "entity_id": "dataset_nvidia_openh_rf",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_opensciencereasoning_2",
       "match_type": "exact",
       "score": 1.0
     },

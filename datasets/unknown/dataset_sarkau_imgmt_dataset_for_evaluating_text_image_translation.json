@@ -1,0 +1,32 @@
+{
+  "_id": "6aa3d52014ecfaf87824da41",
+  "id": "sarkau/ImgMT-Dataset-For-Evaluating-Text-Image-Translation",
+  "author": "sarkau",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-11-04T09:45:21.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "ecd4c7e2d2b3431ec9ce7d4d229997137567f6ad",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for ImgMT: Wikipedia-based Dataset For Evaluating Text-in-Image Translation\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nThe ImgMT dataset is a multilingual multimodal benchmark consisting of infographics, maps, scientific diagrams, and educational illustrations collected from Wikimedia Commons. In this dataset, visually identical vector graphics differ exclusively in the language of the embedded textual labels. Bounding boxes and localized texts appearing at equivalent spatial… See the full description on the dataset page: https://huggingface.co/datasets/sarkau/ImgMT-Dataset-For-Evaluating-Text-Image-Translation.",
+  "downloads": 38092,
+  "tags": [
+    "task_categories:image-text-to-text",
+    "task_categories:image-text-to-image",
+    "task_categories:translation",
+    "license:cc-by-sa-4.0",
+    "size_categories:10K<n<100K",
+    "format:imagefolder",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "image",
+    "text"
+  ],
+  "createdAt": "2026-09-11T10:17:04.000Z",
+  "key": "",
+  "unique_id": "dataset_sarkau_imgmt_dataset_for_evaluating_text_image_translation",
+  "schema_version": "1.0"
+}

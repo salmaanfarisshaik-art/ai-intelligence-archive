@@ -2619,6 +2619,38 @@
     "local_path": "datasets/jhu-clsp/hf_ds_6700058973753b82f145eb1d.json"
   },
   {
+    "id": "hf_ds_670f9e9fe97bd0eec84c3118",
+    "title": "Forceless/Zenodo10K",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2501.03936",
+      "document",
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "modality:document",
+      "modality:text",
+      "pdf",
+      "powerpoint",
+      "ppt",
+      "region:us",
+      "size_categories:10K<n<100K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/Forceless"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/Forceless/Zenodo10K",
+    "local_path": "datasets/forceless/hf_ds_670f9e9fe97bd0eec84c3118.json"
+  },
+  {
     "id": "hf_ds_67134260dda81cf20b75342e",
     "title": "SwayStar123/preprocessed_commoncatalog-cc-by",
     "category": "dataset",
@@ -6708,6 +6740,39 @@
     },
     "source_url": "https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train",
     "local_path": "datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json"
+  },
+  {
+    "id": "hf_ds_6a622c79b2821966cdd3c17a",
+    "title": "zdbfv/M3_VOS",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "CVPR2025",
+      "M3-VOS",
+      "arxiv:2412.13803",
+      "computer-vision",
+      "language:en",
+      "language:zh",
+      "license:apache-2.0",
+      "modality:image",
+      "modality:video",
+      "physical",
+      "region:us",
+      "segmentation",
+      "size_categories:n<1K",
+      "task_categories:video-classification",
+      "video"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/zdbfv"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/zdbfv/M3_VOS",
+    "local_path": "datasets/zdbfv/hf_ds_6a622c79b2821966cdd3c17a.json"
   },
   {
     "id": "hf_ds_6a67b67edd8543ddc375d370",

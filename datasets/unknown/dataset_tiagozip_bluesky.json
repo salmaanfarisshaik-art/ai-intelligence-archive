@@ -1,0 +1,33 @@
+{
+  "_id": "6abaac5019b8e5e9de904b5b",
+  "id": "tiagozip/bluesky",
+  "author": "tiagozip",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2026-11-12T11:26:42.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "dfcde2ed39298862e87c9cc7eb09601bea3840c8",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tBluesky scrape\n\t\n\nhundreds of millions of public posts from almost 6 million Bluesky accounts since November 2022, read from the firehose and updated monthly.\nfrom datasets import load_dataset\n\nposts = load_dataset(\"tiagozip/bluesky\", \"posts\", split=\"train\", streaming=True)\nprofiles = load_dataset(\"tiagozip/bluesky\", \"profiles\", split=\"train\")\n\n\n\t\n\t\t\n\t\n\t\n\t\tformat\n\t\n\n\n\t\n\t\t\nconfig\nrows\nnotes\n\n\n\t\t\nposts\n550M+\none file per month, data/posts/YYYY-MM.parquet\n\n\nfollows\n490M+\nfollow and… See the full description on the dataset page: https://huggingface.co/datasets/tiagozip/bluesky.",
+  "downloads": 40277,
+  "tags": [
+    "task_categories:text-classification",
+    "license:other",
+    "size_categories:1B<n<10B",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "social-media",
+    "bluesky",
+    "atproto"
+  ],
+  "createdAt": "2026-09-28T18:05:04.000Z",
+  "key": "",
+  "unique_id": "dataset_tiagozip_bluesky",
+  "schema_version": "1.0"
+}
