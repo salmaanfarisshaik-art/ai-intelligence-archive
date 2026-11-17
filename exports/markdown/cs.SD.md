@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.10774v4](http://arxiv.org/abs/2510.10774v4)
 
+## Diffusion-based Surrogate Model for Time-varying Underwater Acoustic Channels
+- **ID**: arxiv_2511.18078v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.18078v3](http://arxiv.org/abs/2511.18078v3)
+
 ## Same Words, Different Judgments: How Preferences Vary Across Modalities
 - **ID**: arxiv_2602.22710v3
 - **Source**: ArXiv

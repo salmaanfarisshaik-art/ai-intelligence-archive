@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.32110v2",
+  "schema_version": "1.0",
+  "name": "Who Verifies the Tools? How Warped Formatters Mislead Agents and Their Verifiers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.32110v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.32110v2",
+    "updated": "2026-11-14T04:26:51Z",
+    "published": "2026-10-23T03:22:12Z",
+    "title": "Who Verifies the Tools? How Warped Formatters Mislead Agents and Their Verifiers",
+    "summary": "Agents and verifiers often rely on the text a tool prints, and that text can misrepresent what the tool did. We saw such misrepresentations in a production RAG research system used by the Pilsudski Institute in New York, where tool output formatters misled an agent into giving wrong or incomplete information to users. Each tool did its job correctly, but its output omitted search limits, result caps, or identifier namespaces. Within this same production system, we studied whether faulty formatters mislead agents and verifiers and how much repaired wording helps. We fed tool results to agents using two formatter versions: one with key omissions and one with all missing details clearly stated. That difference alone changed what the agents claimed and what the verifiers accepted. Unsupported agent claims dropped substantially for three of the four failure types. In one test, verifiers went from accepting incorrect answers 90 out of 90 times to rejecting them 90 out of 90 times. A control showed the verifiers could catch the errors once they were given the missing facts and asked to judge correctness. We include the audit prompt we used with Codex and Claude Code in an exploratory demonstration, written with prior knowledge of our own system's defects. When pointed at an old version of our own system, it rediscovered the defects that were still live and surfaced twelve more we had not catalogued. When pointed at OpenClaw and Hermes, two of the best-known open-source agentic systems, it found warped formatters in both. We opened PRs to fix both, and the OpenClaw fix has already been merged. Practitioners can run the same prompt on their own systems today.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T04:26:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.32110v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

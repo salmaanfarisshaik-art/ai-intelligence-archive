@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19155v1",
+  "schema_version": "1.0",
+  "name": "Personalized Language Models for One-to-Many Private Communications",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19155v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19155v1",
+    "updated": "2026-11-14T04:46:05Z",
+    "published": "2026-11-14T04:46:05Z",
+    "title": "Personalized Language Models for One-to-Many Private Communications",
+    "summary": "We study relationship-specific continual reply prediction for one-to-many private communication: a system predicts an author's reply to a recurring contact and updates its personalization state when the actual reply becomes available. We propose TRACE (Temporal Relationship-Aware Communication Evolution), which uses author-level lexical habits, contact-specific wording, and temporal expression estimates to guide a frozen language model, with a feedback-driven policy controlling revision. On 216 test emails from eight Enron users, all four main TRACE configurations achieve higher mean BLEU, ROUGE-L, and BERTScore and lower mean Reply Style MSE than Base LLM and Base RAG. Component ablations show mixed effects and do not establish statistically reliable improvements in Reply Style MSE after multiple-comparison correction. More accurate state forecasts and larger revision budgets do not consistently improve reply-level metrics. These exploratory findings expose the challenge of turning evolving relationship-specific expression estimates into useful generation guidance.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T04:46:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19155v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

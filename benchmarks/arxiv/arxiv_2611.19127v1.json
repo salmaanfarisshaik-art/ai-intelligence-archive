@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19127v1",
+  "schema_version": "1.0",
+  "name": "Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19127v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19127v1",
+    "updated": "2026-11-14T03:28:05Z",
+    "published": "2026-11-14T03:28:05Z",
+    "title": "Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers",
+    "summary": "Masked diffusion models (MDMs) have emerged as a promising paradigm for language modeling, enabling parallel token generation with competitive performance. Yet standard MDMs suffer from two fundamental limitations: (1) inability to revise tokens, and (2) sparse training signal. We revisit hollow transformers, which address both limitations by predicting each token from its surrounding context, independently of the input at that position. We introduce the Leave-One-Out Transformer (LOOT), a more efficient and expressive architecture that advances hollow transformers through two complementary advances. First, we redesign the merging mechanism to enable frequent interaction between left and right contexts, substantially improving predictive performance over prior hollow transformers. Second, we derive a lower-variance estimator of the MDM NELBO that supervises all tokens and improves validation perplexity. Together, these advances yield a competitive standalone diffusion language model capable of effective self-correction during inference. On LM1B, LOOT matches the strongest dense-supervision MDM baseline in validation perplexity. On OpenWebText, LOOT achieves higher MAUVE and better generation quality-diversity tradeoffs than prior remasking methods, using $8\\times$ fewer forward evaluations and $3.5\\times$ fewer inference FLOPs.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T03:28:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19127v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

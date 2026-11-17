@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.00954v2",
+  "schema_version": "1.0",
+  "name": "COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.00954v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.00954v2",
+    "updated": "2026-11-14T06:49:38Z",
+    "published": "2026-05-31T02:10:34Z",
+    "title": "COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation",
+    "summary": "Achieving high-fidelity object-level control in Diffusion Transformers remains a significant challenge despite the introduction of structural priors like depth and Canny maps. Current object-level conditional generation methods frequently suffer from visual artifacts and struggle to maintain precise control over objects within small localized regions. To address these limitations, we propose Cascaded Object-Level Latent Refinement (COLLAR), a training-free framework that progressively optimizes object-level features via the Field-of-View (FoV) expansion. First, we propose the Cross-Scale Semantic Alignment (CSSA) module to address spatial-semantic gaps by injecting object-level features into extended-FoV branches via attention mechanisms. To further optimize these features, the Cyclic Feature Injection (CFI) module introduces a reciprocal background feedback mechanism. It leverages a frequency-based adaptive strategy to selectively update the global backbone with context-aligned local information. Finally, the extended-FoV branch serves as a hub for integrating context-aligned object-level features into the global generation process. Experiments on COCO-MIG and COCO-POS demonstrate competitive performance across spatial fidelity, semantic alignment, and image quality, with COLLAR achieving the strongest spatial alignment under Canny conditioning and the lowest FID on COCO-MIG under depth conditioning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T06:49:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.00954v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.16947v2](http://arxiv.org/abs/2508.16947v2)
 
+## AgriChrono: A Longitudinal Dataset and Benchmark for Novel-View Synthesis of Field-Grown Crops
+- **ID**: arxiv_2508.18694v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.18694v4](http://arxiv.org/abs/2508.18694v4)
+
 ## Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks
 - **ID**: arxiv_2509.19696v4
 - **Source**: ArXiv

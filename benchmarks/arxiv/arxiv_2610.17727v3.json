@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.17727v3",
+  "schema_version": "1.0",
+  "name": "SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.17727v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.17727v3",
+    "updated": "2026-11-14T06:30:14Z",
+    "published": "2026-10-13T05:03:43Z",
+    "title": "SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models",
+    "summary": "Agent skills turn natural-language instructions into actions, creating a security challenge: legitimate automation and malicious behaviour can look deceptively similar. A practical screen must catch nearly every attack while keeping the review load manageable. We present SkillScreen, a compact decision model trained to score skill maliciousness directly from SKILL$.$md in a single forward pass. On MaliciousSkillBench, SkillScreen flags 20-25% of benign skills at 99% recall on unseen attack families, substantially fewer than the word-level classifier and prompted LLM judges tested. Under the same training protocol, it also generalizes better than a fully fine-tuned encoder to unseen sources. Yet unfamiliar benign sources sharply increase false positives, showing that recognizing new attacks does not ensure reliable screening of new skill collections. Our results demonstrate the value of task-trained decision models for high-recall skill screening. Project page: https://jerroldh.github.io/SkillScreen-webpage/",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T06:30:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.17727v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

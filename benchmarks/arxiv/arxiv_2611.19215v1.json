@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19215v1",
+  "schema_version": "1.0",
+  "name": "Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19215v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19215v1",
+    "updated": "2026-11-14T07:14:23Z",
+    "published": "2026-11-14T07:14:23Z",
+    "title": "Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory",
+    "summary": "Text-to-video (T2V) generation models can produce systematically unfair demographic outcomes when prompts leave protected attributes unspecified. For example, prompts describing nurses without specifying gender may disproportionately generate videos depicting female nurses. Mitigating unfairness in T2V generation is particularly challenging: training-based methods that modify model internals require architecture-specific access and risk disrupting temporal consistency, while sampling-based methods often incur costly pre-deployment video generation. We present the first conditional online approachability formulation of attribute-level fairness for T2V generation. Building on this formulation, we introduce Mem2Fair, a plug-and-play framework that maintains concept-conditioned Fair Memory. Using generated videos at inference time as feedback, Mem2Fair selects prompt-level attribute interventions based on the deviation from each concept's prescribed fairness target, without training or separate pre-deployment sampling. Experiments demonstrate that Mem2Fair consistently improves fairness over the unmodified generator and existing baselines across multiple demographic attributes, prompt settings, and target distributions, while maintaining comparable prompt-video alignment and video quality. We further demonstrate its effectiveness on commercial black-box T2V models.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T07:14:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19215v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

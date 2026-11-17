@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19146v1",
+  "schema_version": "1.0",
+  "name": "Puzzle: One Pass Is Not Enough for Open-Vocabulary Remote Sensing Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19146v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19146v1",
+    "updated": "2026-11-14T04:08:06Z",
+    "published": "2026-11-14T04:08:06Z",
+    "title": "Puzzle: One Pass Is Not Enough for Open-Vocabulary Remote Sensing Segmentation",
+    "summary": "Open-vocabulary remote sensing image segmentation (OVRSIS) enables the segmentation of unseen classes without additional annotation or retraining. By analyzing the predictions of existing OVRSIS methods, we find that many misclassified patches coexist with visually similar, correctly classified patches of the same class within the same image. Unfortunately, most of these methods stop after a single inference rather than using their predictions to guide further inference. Motivated by this observation, we propose \\textbf{Puzzle}, a plug-and-play iterative re-inference framework that combines prediction history with a visual-similarity prior to progressively refine patch-level attention. Puzzle employs a lightweight history-conditioned controller to regulate each patch's contribution as an information source and its reliance on visually similar patches, while an adaptive stopping rule determines when to stop. It keeps the segmentation model frozen and reuses the same controller across different models and datasets without retraining. Extensive experiments demonstrate consistent performance improvements across diverse OVRSIS models and datasets, highlighting the strong transferability of Puzzle. Moreover, Puzzle can further improve the performance of SOTA methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T04:08:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19146v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

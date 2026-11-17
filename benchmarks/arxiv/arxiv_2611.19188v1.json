@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19188v1",
+  "schema_version": "1.0",
+  "name": "Calibrating the Uncertainty of Self-Supervised Monocular Depth without Labels",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19188v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19188v1",
+    "updated": "2026-11-14T06:10:19Z",
+    "published": "2026-11-14T06:10:19Z",
+    "title": "Calibrating the Uncertainty of Self-Supervised Monocular Depth without Labels",
+    "summary": "Self-supervised monocular depth networks can predict a per-pixel uncertainty, which is mainly evaluated by how well it ranks pixels according to their error. Such metrics are insensitive to the magnitude of the uncertainty, so an uncertainty half as large as the actual error obtains the same score. In this paper, we investigate whether the predicted uncertainty is as large as the depth error, both on average (scale) and across confident and uncertain, near and far pixels (shape). On KITTI, the scale is miscalibrated for every uncertainty estimate we evaluate, and the error of MonoProb is nearly twice its predicted uncertainty. We propose MonoCal, which corrects both the scale and the shape without ground-truth depth. Scale calibration multiplies the uncertainty by a single constant measured from stereo pairs, requiring no retraining, and this constant closely matches the one fitted with ground truth. Since a constant cannot change the shape, we further retrain the uncertainty to predict where the depth of the network disagrees with that of a second self-supervised network. Experiments on KITTI show that MonoCal achieves better calibration across uncertainty levels and depth ranges than rescaling with ground truth, while still using a single image at inference. Code will be made publicly available.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T06:10:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19188v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -3025,3 +3025,28 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18553v1](http://arxiv.org/abs/2611.18553v1)
 
+## Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers
+- **ID**: arxiv_2611.19127v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19127v1](http://arxiv.org/abs/2611.19127v1)
+
+## How Much Determinism Can Fine-Tuning Buy? Margin Regularisation Against Batch-Induced Token Flips
+- **ID**: arxiv_2611.19135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19135v1](http://arxiv.org/abs/2611.19135v1)
+
+## LogT: Logically Think with Images for Visual Search
+- **ID**: arxiv_2611.19200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19200v1](http://arxiv.org/abs/2611.19200v1)
+
+## On-policy distillation as a Backdoor Propagation Channel
+- **ID**: arxiv_2611.19207v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19207v1](http://arxiv.org/abs/2611.19207v1)
+
+## Neural Dual Bounds: Valid-by-Construction JGLP Warm-Starts for MAP and Constrained MAP
+- **ID**: arxiv_2611.19218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19218v1](http://arxiv.org/abs/2611.19218v1)
+

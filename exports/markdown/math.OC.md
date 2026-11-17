@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14426v1](http://arxiv.org/abs/2611.14426v1)
 
+## Mean-field Token Steering
+- **ID**: arxiv_2611.19163v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19163v1](http://arxiv.org/abs/2611.19163v1)
+

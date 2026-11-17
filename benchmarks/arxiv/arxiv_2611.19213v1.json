@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19213v1",
+  "schema_version": "1.0",
+  "name": "Incremental Learning of Vision-Language Models via Task Subspace Projection and Dynamic LoRA",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19213v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19213v1",
+    "updated": "2026-11-14T07:12:52Z",
+    "published": "2026-11-14T07:12:52Z",
+    "title": "Incremental Learning of Vision-Language Models via Task Subspace Projection and Dynamic LoRA",
+    "summary": "Recent pre-trained vision-language models often encounter a Multi-Domain Task-Incremental Learning (MTIL) scenario in practice, where a set of classes of multi-modal tasks arrive incrementally. Due to privacy concerns and memory constraints, MTIL with pre-trained models encounters forgetting of knowledge from old tasks, degradation of zero-shot transfer capability, and underfitting of new-task knowledge. To overcome these challenges, previous MTIL methods attempt to learn a discriminative cross-task identification (CTI) module and an effective new-task adaptation (NTA) module. However, current CTI modules suffer from severe task confusion between seen and unseen tasks, and NTA modules cannot adaptively balance the performance and parameter cost while incorporating task-specific knowledge. To alleviate the above dilemmas, we propose an effective and efficient TSP-DLoRA method for MTIL, which consists of Task Subspace Projection (TSP) and Dynamic Low Rank Adapter (DLoRA) modules. Specifically, our TSP module includes a task identifier classifier based on task-specific subspaces and a feature projection strategy that can determine the identifier associated with samples from both seen and unseen tasks. Our DLoRA improves the knowledge adaptation from new tasks by dynamically assigning Low Rank Adapter (LoRA) across transformer layers based on the task distributions. Experimental evaluations across 11 datasets, using three performance metrics, demonstrate the effectiveness of our proposed method. Code is available at https://github.com/FerdinandZJU/TSP-DLoRA.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T07:12:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19213v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

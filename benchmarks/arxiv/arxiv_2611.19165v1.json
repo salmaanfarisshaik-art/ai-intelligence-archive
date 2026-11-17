@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19165v1",
+  "schema_version": "1.0",
+  "name": "From Sensors to Silicon: Causal Cross-Layer Self-Healing Edge AI for Secure and Energy-Adaptive IoT Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19165v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19165v1",
+    "updated": "2026-11-14T05:14:45Z",
+    "published": "2026-11-14T05:14:45Z",
+    "title": "From Sensors to Silicon: Causal Cross-Layer Self-Healing Edge AI for Secure and Energy-Adaptive IoT Systems",
+    "summary": "The migration of artificial intelligence from centralized cloud infrastructure to resource-constrained Internet-of-Things (IoT) devices reduces communication latency and improves data locality, but it also tightly couples sensing quality, inference behavior, microarchitectural activity, hardware reliability, security, and energy management within the same physical node. Existing edge-intelligence solutions predominantly address these dimensions in isolation, making it difficult to determine whether an observed degradation originates from sensor malfunction, data-distribution shift, malicious execution, hardware faults, or resource and thermal stress. This paper presents a causal cross-layer self-healing Edge-AI framework that continuously observes synchronized telemetry spanning sensor health, inference uncertainty, processor hardware-performance counters, accelerator and memory activity, power and thermal state, and communication conditions. A temporally informed causal reasoning engine estimates the most probable origin of abnormal behavior and quantifies diagnostic uncertainty, including under concurrent perturbations.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T05:14:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19165v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

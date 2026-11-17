@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.16723v2",
+  "schema_version": "1.0",
+  "name": "Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.16723v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.16723v2",
+    "updated": "2026-11-14T06:46:40Z",
+    "published": "2026-04-17T21:54:15Z",
+    "title": "Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training",
+    "summary": "Large Language Models (LLMs) have demonstrated potential in automating scientific ideation, yet current approaches relying on iterative prompting or complex multi-agent architectures often suffer from hallucination or computational inefficiency. A critical bottleneck in applying Reinforcement Learning (RL) to this open-ended domain is reward hacking---where models exploit imperfect evaluation proxies to maximize scores without producing genuine scientific innovation. To address these limitations, we propose an RL framework explicitly tailored for high-quality scientific idea generation. We propose the first multi-agent reward function designed to serve as a judge, decoupling methodological validation from implementation details while providing strict binary rewards that are robust to reward hacking. To effectively optimize against this sparse signal, we utilize an unbiased variant of Group Relative Policy Optimization to mitigate artificial length bias. We ground our training in a curated dataset of problem-solution pairs extracted from ICLR 2024 and NeurIPS 2025 proceedings. Experiments demonstrate that our framework significantly outperforms state-of-the-art baselines across expert-evaluated metrics of novelty, feasibility, and effectiveness.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T06:46:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.16723v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

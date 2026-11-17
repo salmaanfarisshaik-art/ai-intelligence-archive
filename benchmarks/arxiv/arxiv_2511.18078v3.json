@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.18078v3",
+  "schema_version": "1.0",
+  "name": "Diffusion-based Surrogate Model for Time-varying Underwater Acoustic Channels",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.18078v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.18078v3",
+    "updated": "2026-11-14T03:44:21Z",
+    "published": "2025-11-22T14:25:21Z",
+    "title": "Diffusion-based Surrogate Model for Time-varying Underwater Acoustic Channels",
+    "summary": "Accurate modeling of time-varying underwater acoustic channels is essential for the design, evaluation, and deployment of reliable underwater communication systems. Conventional physics models require detailed environmental knowledge, while stochastic replay methods are constrained by the limited diversity of measured channels and often fail to generalize to unseen scenarios, reducing their practical applicability. To address these challenges, we propose StableUASim, a pre-trained conditional latent diffusion surrogate model that captures the stochastic dynamics of underwater acoustic communication channels. Leveraging generative modeling, StableUASim produces diverse and statistically realistic channel realizations, while supporting conditional generation from specific measurement samples. Pre-training enables rapid adaptation to new environments using minimal additional data, and the autoencoder latent representation facilitates efficient channel analysis and compression. Experimental results demonstrate that StableUASim accurately reproduces key channel characteristics and communication performance, providing a scalable, data-efficient, and physically consistent surrogate model for both system design and machine learning-driven underwater applications. In this work, we focus on sparse underwater channels, and expanding the diversity of the pre-training dataset is expected to further improve generalization to a broader range of underwater propagation environments.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T03:44:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.18078v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

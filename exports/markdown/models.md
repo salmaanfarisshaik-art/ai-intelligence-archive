@@ -120,6 +120,14 @@
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4
 - **Source**: 
 
+## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Text-NVFP4-MTP
+- **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_text_nvfp4_mtp
+- **Source**: 
+
+## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Text-NVFP4-MTP-XS
+- **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_text_nvfp4_mtp_xs
+- **Source**: 
+
 ## AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16
 - **ID**: model_aeon_7_qwen3_8_27b_aeon_ultimate_uncensored_bf16
 - **Source**: 
@@ -522,6 +530,10 @@
 
 ## AvitoTech/avibe
 - **ID**: model_avitotech_avibe
+- **Source**: 
+
+## axteam/GLM-4.7-Flash-GGUF
+- **ID**: model_axteam_glm_4_7_flash_gguf
 - **Source**: 
 
 ## azukivc/Qwen3.8-27B-Uncensored-GGUF
@@ -3080,6 +3092,10 @@
 - **ID**: model_latam_gpt_llama_3_1_70b_latamgpt_sft_1_0
 - **Source**: 
 
+## LeaderboardModel1/KAT-Coder-V2.5-Dev-AutoRound-W4A16-Tuning
+- **ID**: model_leaderboardmodel1_kat_coder_v2_5_dev_autoround_w4a16_tuning
+- **Source**: 
+
 ## LeaderboardModel1/Qwen3.6-27B-DFlash-autoround-W4A16
 - **ID**: model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16
 - **Source**: 
@@ -5116,6 +5132,10 @@
 - **ID**: model_openvino_qwen2_5_coder_7b_instruct_int8_ov
 - **Source**: 
 
+## OpenYourMind/OpenYourMind-NVIDIA-Nemotron-3-Ultra-550B-A55B-abliterated-uncensored-NVFP4
+- **ID**: model_openyourmind_openyourmind_nvidia_nemotron_3_ultra_550b_a55b_abliterated_uncensored_nvfp4
+- **Source**: 
+
 ## OptimizeLLM/Qwen3.5-122B-A10B-heretic-MTP-NVFP4
 - **ID**: model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4
 - **Source**: 
@@ -6610,6 +6630,14 @@
 
 ## sahilchachra/gemma-4-12B-coder-fable5-composer2.5-AWQ
 - **ID**: model_sahilchachra_gemma_4_12b_coder_fable5_composer2_5_awq
+- **Source**: 
+
+## sahilchachra/KAT-Coder-V2.5-Dev-NVFP4A16
+- **ID**: model_sahilchachra_kat_coder_v2_5_dev_nvfp4a16
+- **Source**: 
+
+## sahilchachra/KAT-Coder-V2.5-Dev-W4A16
+- **ID**: model_sahilchachra_kat_coder_v2_5_dev_w4a16
 - **Source**: 
 
 ## sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP

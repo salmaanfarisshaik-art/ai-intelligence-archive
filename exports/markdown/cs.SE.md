@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.12063v2](http://arxiv.org/abs/2512.12063v2)
 
+## Will It Survive? Deciphering the Fate of AI Agent-Authored Code in Open Source
+- **ID**: arxiv_2601.16809v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.16809v3](http://arxiv.org/abs/2601.16809v3)
+
 ## ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents
 - **ID**: arxiv_2602.04935v4
 - **Source**: ArXiv
@@ -405,6 +410,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.33958v1](http://arxiv.org/abs/2610.33958v1)
 
+## Skeleton Coding: Program Structure as Control for AI Agents
+- **ID**: arxiv_2610.38214v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.38214v2](http://arxiv.org/abs/2610.38214v2)
+
+## BOXBOX: Recursive Harness Self-Improvement for Long-Running Performance Optimization
+- **ID**: arxiv_2611.09218v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09218v3](http://arxiv.org/abs/2611.09218v3)
+
 ## AnimWeb-Bench: Benchmarking Animated Webpage Code Generation from Videos
 - **ID**: arxiv_2611.09769v1
 - **Source**: ArXiv
@@ -419,4 +434,9 @@
 - **ID**: arxiv_2611.10958v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10958v1](http://arxiv.org/abs/2611.10958v1)
+
+## When the Mythical Man-Month Meets Agentic Web Systems: Structured Coordination for Scalable Development
+- **ID**: arxiv_2611.19140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19140v1](http://arxiv.org/abs/2611.19140v1)
 

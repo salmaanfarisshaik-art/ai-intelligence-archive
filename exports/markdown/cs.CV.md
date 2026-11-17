@@ -955,6 +955,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.11685v2](http://arxiv.org/abs/2604.11685v2)
 
+## AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition
+- **ID**: arxiv_2604.12735v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.12735v3](http://arxiv.org/abs/2604.12735v3)
+
 ## A Lightweight Multi-Metric No-Reference Image Quality Assessment Framework for UAV Imaging
 - **ID**: arxiv_2604.13112v2
 - **Source**: ArXiv
@@ -1125,6 +1130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.18736v3](http://arxiv.org/abs/2605.18736v3)
 
+## VISTAQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence
+- **ID**: arxiv_2605.20676v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20676v2](http://arxiv.org/abs/2605.20676v2)
+
 ## Rethinking Cross-Layer Information Routing in Diffusion Transformers
 - **ID**: arxiv_2605.20708v2
 - **Source**: ArXiv
@@ -1174,6 +1184,11 @@
 - **ID**: arxiv_2605.30320v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30320v2](http://arxiv.org/abs/2605.30320v2)
+
+## COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation
+- **ID**: arxiv_2606.00954v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.00954v2](http://arxiv.org/abs/2606.00954v2)
 
 ## Beyond Visual Memory: Mechanistic Diagnostics of Latent Visual Reasoning
 - **ID**: arxiv_2606.01287v2
@@ -2424,6 +2439,11 @@
 - **ID**: arxiv_2607.24743v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24743v1](http://arxiv.org/abs/2607.24743v1)
+
+## OrganLens: Organ-Specific Representation Learning for CT Foundation Models
+- **ID**: arxiv_2607.25164v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25164v2](http://arxiv.org/abs/2607.25164v2)
 
 ## Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA
 - **ID**: arxiv_2607.25921v1
@@ -7280,6 +7300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31835v2](http://arxiv.org/abs/2610.31835v2)
 
+## Hyperparameter-Free Boundary-Interior t-vMF Dice Loss for Medical Image Segmentation
+- **ID**: arxiv_2610.32266v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32266v2](http://arxiv.org/abs/2610.32266v2)
+
 ## OpenStripe supports open-set identification and spatial stripe profiling in wild Amur tigers
 - **ID**: arxiv_2610.32848v1
 - **Source**: ArXiv
@@ -7604,6 +7629,11 @@
 - **ID**: arxiv_2611.00892v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.00892v2](http://arxiv.org/abs/2611.00892v2)
+
+## Zero-shot evaluation of open vision-language models as System 1 decision models on radiology tasks
+- **ID**: arxiv_2611.01631v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.01631v2](http://arxiv.org/abs/2611.01631v2)
 
 ## Contrastive Adapter Training and Consensus Knowledge Distillation for Multi-Source-Free Domain Adaptation in Skin Cancer Diagnosis
 - **ID**: arxiv_2611.03528v1
@@ -8209,4 +8239,44 @@
 - **ID**: arxiv_2611.18559v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18559v1](http://arxiv.org/abs/2611.18559v1)
+
+## Puzzle: One Pass Is Not Enough for Open-Vocabulary Remote Sensing Segmentation
+- **ID**: arxiv_2611.19146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19146v1](http://arxiv.org/abs/2611.19146v1)
+
+## From zero-target transfer to target-site personalization: multi-source training across fall-detection models
+- **ID**: arxiv_2611.19156v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19156v1](http://arxiv.org/abs/2611.19156v1)
+
+## EviRef: Evidence-Specific Memories for Logical Anomaly Detection across Capture Conditions
+- **ID**: arxiv_2611.19172v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19172v1](http://arxiv.org/abs/2611.19172v1)
+
+## WA-JEPA: Goal-Aware Predictive Feedback Action Refinement for a World-Action Model
+- **ID**: arxiv_2611.19183v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19183v1](http://arxiv.org/abs/2611.19183v1)
+
+## Do VLMs Really Look at the Road? A Diagnostic Evaluation for Autonomous Driving
+- **ID**: arxiv_2611.19184v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19184v1](http://arxiv.org/abs/2611.19184v1)
+
+## Calibrating the Uncertainty of Self-Supervised Monocular Depth without Labels
+- **ID**: arxiv_2611.19188v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19188v1](http://arxiv.org/abs/2611.19188v1)
+
+## Ref-MIL: Plug-and-Play Posterior Refinement for Multiple Instance Learning in QSM-Based Brain Disease Classification
+- **ID**: arxiv_2611.19193v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19193v1](http://arxiv.org/abs/2611.19193v1)
+
+## Incremental Learning of Vision-Language Models via Task Subspace Projection and Dynamic LoRA
+- **ID**: arxiv_2611.19213v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19213v1](http://arxiv.org/abs/2611.19213v1)
 

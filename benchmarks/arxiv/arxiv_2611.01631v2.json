@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.01631v2",
+  "schema_version": "1.0",
+  "name": "Zero-shot evaluation of open vision-language models as System 1 decision models on radiology tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.01631v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.01631v2",
+    "updated": "2026-11-14T05:17:35Z",
+    "published": "2026-11-01T06:32:47Z",
+    "title": "Zero-shot evaluation of open vision-language models as System 1 decision models on radiology tasks",
+    "summary": "Purpose: To compare two multimodal System 1 decision models (Clef 27B, d1 3B) with three generative vision-language models read out zero-shot from a single answer token (Qwen3.8-27B, which is Clef's backbone; Gemma 4 31B; MedGemma 1.5 4B) on seven radiology tasks. Methods: All models ran locally on one NVIDIA DGX Spark. The System 1 models returned a probability for each option in one pass; for the generative models, probabilities were read from the log-probabilities of the option letters. Tasks covered chest CT and radiograph reports (CT-RATE, PadChest), device MR safety records (GUDID), tubes and lines on chest radiographs (RANZCR CLiP), chest CT volumes (CT-RATE), brain MRI motion (MR-ART) and MRI sequence (BraTS 2021), 4,435 cases in total. The primary endpoint was AUROC with bootstrap 95% CIs. Results: All five models retrieved report findings well (AUROC 0.93-0.99). Clef ranked higher than its backbone on CT volumes (0.749 vs 0.668) and tube and line radiographs (0.812 vs 0.766) and lower on motion (0.625 vs 0.709), but it changed decisions more than ranking: it identified 90 of 100 FLAIR volumes, a class its backbone never chose, and cut calibration error on CT volumes from 0.436 to 0.072. d1 was within 0.04 of Clef on reports while using 3 to 9 times less energy per request, but was weak on images. Gemma 4 31B ranked device MR safety best (0.854) and MedGemma 1.5 4B ranked motion best (0.821), yet MedGemma was at chance on MRI sequences and answered \"severe\" for 93% of motion scans. Conclusion: A single-token readout turns open generative models from several families into usable decision models without retraining, but no model was best on every task and each had task-specific answer biases, so models and decision thresholds should be chosen on local cases.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T05:17:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.01631v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

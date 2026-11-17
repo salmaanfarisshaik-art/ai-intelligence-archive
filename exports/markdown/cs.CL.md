@@ -620,6 +620,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.06422v2](http://arxiv.org/abs/2604.06422v2)
 
+## A Parameter-Efficient Transfer Learning Approach through Multitask Prompt Distillation and Decomposition for Clinical NLP
+- **ID**: arxiv_2604.06650v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.06650v2](http://arxiv.org/abs/2604.06650v2)
+
 ## Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent
 - **ID**: arxiv_2604.07269v2
 - **Source**: ArXiv
@@ -5010,6 +5015,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42148v1](http://arxiv.org/abs/2610.42148v1)
 
+## Write Facts the Way Models Read Them: Lifting the Two-Hop Curse
+- **ID**: arxiv_2611.01519v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.01519v4](http://arxiv.org/abs/2611.01519v4)
+
 ## VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations
 - **ID**: arxiv_2611.03518v1
 - **Source**: ArXiv
@@ -5359,4 +5369,39 @@
 - **ID**: arxiv_2611.18506v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18506v1](http://arxiv.org/abs/2611.18506v1)
+
+## Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards
+- **ID**: arxiv_2611.19136v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19136v1](http://arxiv.org/abs/2611.19136v1)
+
+## A Systematic Study of Cross-Token Transfer for Data-Efficient Non-Verbal Text-to-Speech
+- **ID**: arxiv_2611.19145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19145v1](http://arxiv.org/abs/2611.19145v1)
+
+## MarineSparkLM-4B: A Lightweight Language Model for Marine and Offshore Engineering Built by Parameter-Efficient Adaptation
+- **ID**: arxiv_2611.19151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19151v1](http://arxiv.org/abs/2611.19151v1)
+
+## Personalized Language Models for One-to-Many Private Communications
+- **ID**: arxiv_2611.19155v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19155v1](http://arxiv.org/abs/2611.19155v1)
+
+## A Bag of Concepts? Testing Role-Filler Binding in the Verbalizable Workspace
+- **ID**: arxiv_2611.19176v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19176v1](http://arxiv.org/abs/2611.19176v1)
+
+## Isolating Perception for Multi-View Planning under Occlusion-Induced Partial Observability
+- **ID**: arxiv_2611.19179v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19179v1](http://arxiv.org/abs/2611.19179v1)
+
+## Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks
+- **ID**: arxiv_2611.19202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19202v1](http://arxiv.org/abs/2611.19202v1)
 

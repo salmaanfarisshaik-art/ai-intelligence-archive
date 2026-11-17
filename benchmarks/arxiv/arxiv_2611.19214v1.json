@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19214v1",
+  "schema_version": "1.0",
+  "name": "STaSBO: LLM-Guided Strategy Planning and Configuration Selection for Bayesian Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19214v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19214v1",
+    "updated": "2026-11-14T07:14:23Z",
+    "published": "2026-11-14T07:14:23Z",
+    "title": "STaSBO: LLM-Guided Strategy Planning and Configuration Selection for Bayesian Optimization",
+    "summary": "Bayesian optimization (BO) enables sample-efficient search for expensive black-box problems, but its performance depends strongly on surrogate-acquisition configurations whose suitability varies across problems and optimization states. We take a significant step toward LLM-driven strategic management of BO with STaSBO, a task-agnostic meta-controller that plans search behavior and jointly selects surrogate-acquisition configurations, while numerical BO retains responsibility for probabilistic modeling and candidate generation. STaSBO comprises two coordinated stages: strategy planning and strategy-guided configuration selection. A structured memory system connects prior plans, configuration selections, and candidate behaviors to optimization states, allowing the controller to revise its trajectory summary and behavioral plans during planning. To navigate the large joint configuration space, the selection stage shortlists configurations using surrogate fit evidence. Prospective BO-action diagnostics then expose the candidate behaviors, supporting final joint selection against the behavioral plans. Across 12 synthetic mathematical and 10 scientific and engineering application tasks, STaSBO achieves the best average rank against 11 baselines: 2.17 and 2.60, compared with 4.08 and 4.10 for the strongest baseline in each suite, respectively.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T07:14:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19214v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

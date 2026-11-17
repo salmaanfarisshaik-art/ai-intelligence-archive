@@ -350,6 +350,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28490v1](http://arxiv.org/abs/2608.28490v1)
 
+## Workload Identification with Physical Side Channels for AI Governance
+- **ID**: arxiv_2609.00309v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00309v2](http://arxiv.org/abs/2609.00309v2)
+
 ## PatchBench: Evaluating AI Agents for Vulnerability Patching
 - **ID**: arxiv_2609.04075v1
 - **Source**: ArXiv
@@ -454,6 +459,11 @@
 - **ID**: arxiv_2610.12463v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12463v1](http://arxiv.org/abs/2610.12463v1)
+
+## SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models
+- **ID**: arxiv_2610.17727v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.17727v3](http://arxiv.org/abs/2610.17727v3)
 
 ## Bytes to Threats: Byte-Sequence Transformer For Malware Detection
 - **ID**: arxiv_2610.18787v1

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.20676v2",
+  "schema_version": "1.0",
+  "name": "VISTAQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.20676v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.20676v2",
+    "updated": "2026-11-14T04:06:19Z",
+    "published": "2026-05-20T03:44:06Z",
+    "title": "VISTAQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence",
+    "summary": "Establishing a clear link between model predictions and the visual evidence that supports them is critical for transparency and reliability in multimodal reasoning, yet current multimodal large language model (MLLM) evaluations do not explicitly enforce this alignment. Existing benchmarks assess either textual answer correctness or pixel-level localization in isolation, leaving the coupling of reasoning and grounding an open challenge. We introduce VISTAQA, a comprehensive benchmark for joint evaluation of free-form answer correctness and pixel-level evidence grounding in visual question answering. VISTAQA comprises 1,157 expert-curated samples spanning six task types and six visual domains, ranging from direct perception to compositional and relational reasoning. VISTAQA requires models to not only answer correctly, but to also provide precise segmentation masks that support their answers. It also includes hallucination-aware examples where no valid visual evidence exists. To support this enhanced evaluation, we introduce GROVE, a unified evaluation metric that enforces joint correctness by combining textual accuracy and grounding quality via a per-sample geometric mean, ensuring neither dimension can compensate for deficiencies in the other. Comprehensive experiments across grounding-aware models and hybrid pipelines with general-purpose MLLMs reveal that even the strongest systems achieve limited performance under GROVE, highlighting a substantial gap between answer accuracy and visual evidence alignment. Project page can be found at https://vistaqa.github.io.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T04:06:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.20676v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

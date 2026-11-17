@@ -311,6 +311,11 @@
 - **URL**: [https://openai.com/business/customer-stories/gondola](https://openai.com/business/customer-stories/gondola)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/holiday-extras-dots
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/holiday-extras-dots](https://openai.com/business/customer-stories/holiday-extras-dots)
+
+## 
 - **ID**: rss_https://openai.com/business/customer-stories/holidays-extras-codex
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/customer-stories/holidays-extras-codex](https://openai.com/business/customer-stories/holidays-extras-codex)

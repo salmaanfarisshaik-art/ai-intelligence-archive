@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.18694v4",
+  "schema_version": "1.0",
+  "name": "AgriChrono: A Longitudinal Dataset and Benchmark for Novel-View Synthesis of Field-Grown Crops",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.18694v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.18694v4",
+    "updated": "2026-11-14T05:59:57Z",
+    "published": "2025-08-26T05:39:47Z",
+    "title": "AgriChrono: A Longitudinal Dataset and Benchmark for Novel-View Synthesis of Field-Grown Crops",
+    "summary": "Reliable 3D reconstruction of field-grown crops is hindered by thin, overlapping structures, wind-driven foliage motion, and changing illumination. Yet longitudinal field datasets and standardized novel-view synthesis (NVS) benchmarks remain scarce. We present an integrated framework for robotic acquisition, dataset construction, NVS evaluation, and agricultural scene reconstruction. AgriChrobot enables web-based teleoperation and repeated multi-view capture along crop rows. Using this platform, we introduce AgriChrono, a longitudinal canola dataset collected over approximately one month, comprising 160 recording sessions, four RGB streams, two depth maps, and estimated camera poses. We define seven NVS scenarios spanning four times of day and three acquisition dates, and benchmark 15 NeRF- and Gaussian Splatting-based methods. In addition to whole-image metrics, we assess fine-detail reconstruction within manually annotated canola regions using gradient- and edge-based metrics. Our results show that strong whole-image scores do not guarantee faithful reconstruction of thin, overlapping crop structures. To address this gap, we propose AgriSplat, which relaxes visibility filtering during initialization and reallocates model capacity through contribution-based pruning and budgeted reinvestment in sub-threshold candidates ranked by existing gradient statistics. After reallocation, asymmetric directional supervision penalizes insufficient contrast along reference image-gradient directions. Relative to Octree-GS, AgriSplat improves mean crop-region gradient-energy ratio from 0.506 to 0.847 and edge F-score from 0.712 to 0.797 across seven scenarios, while also improving whole-image PSNR, SSIM, and LPIPS. These contributions provide a dataset, benchmark, and method for systematic crop reconstruction under field conditions.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T05:59:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.18694v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

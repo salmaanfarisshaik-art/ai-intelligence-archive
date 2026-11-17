@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.32266v2",
+  "schema_version": "1.0",
+  "name": "Hyperparameter-Free Boundary-Interior t-vMF Dice Loss for Medical Image Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.32266v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.32266v2",
+    "updated": "2026-11-14T07:20:26Z",
+    "published": "2026-10-23T07:24:41Z",
+    "title": "Hyperparameter-Free Boundary-Interior t-vMF Dice Loss for Medical Image Segmentation",
+    "summary": "Class imbalance and errors near anatomical boundaries remain challenges in medical image segmentation, motivating loss functions that account for these difficulties. Adaptive t-vMF Dice Loss adjusts the similarity function during training but requires hyperparameter tuning. We propose Self-Tuned Boundary-Aware t-vMF Dice Loss (STB-tvMF Dice), which adapts the function separately for boundary and interior regions without tuning shape-adaptation parameters. Each region's shape parameter of t-vMF function is determined from its mean prediction-target cosine similarity in the preceding epoch and remains fixed throughout the current epoch. This rule maximizes the slope of the similarity function at the observed mean similarity, providing a principled basis for adaptation without validation-based parameter selection. Experiments on three datasets and architectures demonstrated its effectiveness. On Synapse with U-Net, STB-tvMF Dice achieved a mean DSC of 70.75%, compared with 63.03% for Adaptive t-vMF Dice Loss. Our code will be available soon.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T07:20:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.32266v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

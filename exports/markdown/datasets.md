@@ -529,6 +529,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_amolharsh_ground3d_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_amphion_emilia_dataset
 - **Source**: 
 
@@ -1106,6 +1110,10 @@
 
 ## 
 - **ID**: dataset_bastao_veracruz_pt_br
+- **Source**: 
+
+## 
+- **ID**: dataset_battam_training_data_foundation
 - **Source**: 
 
 ## 
@@ -2401,6 +2409,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_eriksarriegui_nunc_news_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_eriktks_conll2003
 - **Source**: 
 
@@ -2822,6 +2834,10 @@
 
 ## 
 - **ID**: dataset_g4kmu_lemur
+- **Source**: 
+
+## 
+- **ID**: dataset_gagandeepreehal_indus_ad_monocam
 - **Source**: 
 
 ## 
@@ -3318,6 +3334,10 @@
 
 ## 
 - **ID**: dataset_hexuan21_memorytax_res_other
+- **Source**: 
+
+## 
+- **ID**: dataset_hexuan21_memorytax_res_qwen3_6_27b
 - **Source**: 
 
 ## 
@@ -5350,6 +5370,10 @@
 
 ## 
 - **ID**: dataset_innovatorlab_innovator_vl_instruct_46m
+- **Source**: 
+
+## 
+- **ID**: dataset_inria_soda_tabular_benchmark
 - **Source**: 
 
 ## 
@@ -8397,6 +8421,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_phillyweatherguy_baroclinic_rrfs_data
+- **Source**: 
+
+## 
 - **ID**: dataset_phuckhang384234_phuckhang384234
 - **Source**: 
 
@@ -8942,6 +8970,10 @@
 
 ## 
 - **ID**: dataset_robeedau_airlens_live
+- **Source**: 
+
+## 
+- **ID**: dataset_roboarena_datadump_07_17_2026
 - **Source**: 
 
 ## 
@@ -9929,6 +9961,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tejuyon_copyright_detection_video_data
+- **Source**: 
+
+## 
 - **ID**: dataset_teknium_openhermes_2_5
 - **Source**: 
 
@@ -10062,6 +10098,10 @@
 
 ## 
 - **ID**: dataset_thuml_time_series_library
+- **Source**: 
+
+## 
+- **ID**: dataset_tiagozip_bilibili
 - **Source**: 
 
 ## 
@@ -11210,6 +11250,10 @@
 
 ## 
 - **ID**: dataset_zhanli_li_dataworld_train_2k_part1
+- **Source**: 
+
+## 
+- **ID**: dataset_zhanli_li_dataworld_train_2k_part2
 - **Source**: 
 
 ## 

@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.10912v5](http://arxiv.org/abs/2506.10912v5)
 
+## SmartThinker: Learning High-Density Reasoning via Step-Level Token Allocation
+- **ID**: arxiv_2507.04348v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.04348v3](http://arxiv.org/abs/2507.04348v3)
+
 ## How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
 - **ID**: arxiv_2508.01300v2
 - **Source**: ArXiv
@@ -374,6 +379,11 @@
 - **ID**: arxiv_2604.07709v6
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.07709v6](http://arxiv.org/abs/2604.07709v6)
+
+## Debate as Reward: A Multi-Agent Reward System for Scientific Ideation via RL Post-Training
+- **ID**: arxiv_2604.16723v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.16723v2](http://arxiv.org/abs/2604.16723v2)
 
 ## Interval POMDP Shielding for Imperfect-Perception Agents
 - **ID**: arxiv_2604.20728v2
@@ -4580,6 +4590,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32057v3](http://arxiv.org/abs/2610.32057v3)
 
+## Who Verifies the Tools? How Warped Formatters Mislead Agents and Their Verifiers
+- **ID**: arxiv_2610.32110v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32110v2](http://arxiv.org/abs/2610.32110v2)
+
 ## Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves
 - **ID**: arxiv_2610.32851v1
 - **Source**: ArXiv
@@ -5190,6 +5205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14514v1](http://arxiv.org/abs/2611.14514v1)
 
+## Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark
+- **ID**: arxiv_2611.15225v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.15225v2](http://arxiv.org/abs/2611.15225v2)
+
 ## Benchmarking AI risk behaviors
 - **ID**: arxiv_2611.16318v2
 - **Source**: ArXiv
@@ -5279,4 +5299,44 @@
 - **ID**: arxiv_2611.18543v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18543v1](http://arxiv.org/abs/2611.18543v1)
+
+## FundingClaw: Automated Grant Proposal Writing Agents System
+- **ID**: arxiv_2611.19157v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19157v1](http://arxiv.org/abs/2611.19157v1)
+
+## From Sensors to Silicon: Causal Cross-Layer Self-Healing Edge AI for Secure and Energy-Adaptive IoT Systems
+- **ID**: arxiv_2611.19165v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19165v1](http://arxiv.org/abs/2611.19165v1)
+
+## LABEL: Literature Asymmetry between Efficacy and Limits in Drug Knowledge and Language Models
+- **ID**: arxiv_2611.19166v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19166v1](http://arxiv.org/abs/2611.19166v1)
+
+## Executable Archaeology: Reanimating the Logic Theorist
+- **ID**: arxiv_2611.19167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19167v1](http://arxiv.org/abs/2611.19167v1)
+
+## When Does Confidence Reveal Problem Difficulty?
+- **ID**: arxiv_2611.19173v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19173v1](http://arxiv.org/abs/2611.19173v1)
+
+## What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges
+- **ID**: arxiv_2611.19199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19199v1](http://arxiv.org/abs/2611.19199v1)
+
+## STaSBO: LLM-Guided Strategy Planning and Configuration Selection for Bayesian Optimization
+- **ID**: arxiv_2611.19214v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19214v1](http://arxiv.org/abs/2611.19214v1)
+
+## Mem2Fair: Online Fairness Control for Text-to-Video Generation via Fair Memory
+- **ID**: arxiv_2611.19215v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19215v1](http://arxiv.org/abs/2611.19215v1)
 

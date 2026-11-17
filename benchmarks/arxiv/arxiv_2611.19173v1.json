@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.19173v1",
+  "schema_version": "1.0",
+  "name": "When Does Confidence Reveal Problem Difficulty?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.19173v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.19173v1",
+    "updated": "2026-11-14T05:49:58Z",
+    "published": "2026-11-14T05:49:58Z",
+    "title": "When Does Confidence Reveal Problem Difficulty?",
+    "summary": "While confidence signals are commonly evaluated for their ability to predict a model's own correctness, their relationship with problem difficulty remains less understood. In this work, we investigate a wide range of confidence-related signals and whether they can serve as indicators of problem difficulty across various task domains. We find that perturbation inconsistency, semantic entropy, and solution length exhibit strong associations with population difficulty than token-level uncertainty. Notably, these relationships persist even when restricting the analysis to problems correctly answered by the focal model, suggesting that such signals capture information about difficulty beyond their ability to predict the model's own correctness. We further explore applications of these signals, illustrating the potential and limitations of using confidence-related signals to guide inference-time decisions. Our findings highlight the utility of model-specific signals as imperfect but informative proxies for population-level problem difficulty.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T05:49:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.19173v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

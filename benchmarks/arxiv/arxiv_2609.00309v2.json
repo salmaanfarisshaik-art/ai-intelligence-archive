@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.00309v2",
+  "schema_version": "1.0",
+  "name": "Workload Identification with Physical Side Channels for AI Governance",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.00309v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.00309v2",
+    "updated": "2026-11-14T06:05:21Z",
+    "published": "2026-08-31T19:59:35Z",
+    "title": "Workload Identification with Physical Side Channels for AI Governance",
+    "summary": "AI compute verification is one of the first tangible and tractable points for international policy aimed at AI governance. Determining whether frontier labs, or any operator, comply with established agreements requires the regulating authority, at the very least, to discern how their compute is used. The elementary building block of AI compute is the GPU, and any activity it executes leaves a physical trace. We show that an external observer can identify the class of the workload running on a single NVIDIA H200 from its power draw. Unlike on-chip NVML telemetry, which can be spoofed or replayed, this physical channel can be observed without the operator's cooperation. We recorded 930 five-second traces at 10 MHz with a Rogowski probe, covering seventeen open-weight LLMs and twenty-five non-AI workloads. We separate training from inference and from non-AI computation with an accuracy of 97% and a macro-averaged F1 score of 0.955, evaluated on models unseen during training. We find that AI workload spectral content predominantly lies below $\\sim 20$ kHz and training appears to be particularly recognizable through the optimizer update. The GPU operator is then treated as adversarial and able to reshape the training program. Four evasion strategies are tested to disguise training as inference, producing 680 additional adversarial traces. A detector hardened against evasion strategies, with the tested strategy held out, catches training $\\geq 99$% of the time for three of the four strategies. The fourth, diluted low-rank adaptation (LoRA), is detected $48-88$% of the time with a hardened classifier, rising to $\\geq 98$% with an additional rescue rule. While these attacks are not intended to provide a comprehensive evaluation against adversarial behaviour, they offer initial insights beyond genuine activities and a dataset for developing and testing stronger evasion mechanisms.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-11-17T02:46:40Z",
+  "last_updated": "2026-11-14T06:05:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.00309v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

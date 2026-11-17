@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40290v1](http://arxiv.org/abs/2609.40290v1)
 
+## Beyond LLM-GA: Secure Fluid Antenna Systems with ReEvo-Designed Memetic Algorithm
+- **ID**: arxiv_2610.10235v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10235v3](http://arxiv.org/abs/2610.10235v3)
+
 ## Information Theory of Random Composition Trees
 - **ID**: arxiv_2610.24788v1
 - **Source**: ArXiv
