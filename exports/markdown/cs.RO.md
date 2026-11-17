@@ -1305,3 +1305,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18484v1](http://arxiv.org/abs/2611.18484v1)
 
+## GHySSeg: Real-Time Geometric Ground and Road Segmentation for Hybrid Solid-State LiDAR
+- **ID**: arxiv_2611.21507v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21507v1](http://arxiv.org/abs/2611.21507v1)
+
+## Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models
+- **ID**: arxiv_2611.21517v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21517v1](http://arxiv.org/abs/2611.21517v1)
+

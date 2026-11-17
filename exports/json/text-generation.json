@@ -9874,6 +9874,33 @@
     "local_path": "models/pearl-ai/hf_pearl-ai_Llama-3.1-8B-Instruct-pearl.json"
   },
   {
+    "id": "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
+    "title": "peasantsmith/GLM-5.3-Flash-Maya-GGUF",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "base_model:quantized:zai-org/GLM-5.3-Flash",
+      "base_model:zai-org/GLM-5.3-Flash",
+      "gguf",
+      "glm",
+      "imatrix",
+      "license:mit",
+      "mixture-of-experts",
+      "project-maya",
+      "region:us",
+      "text-generation",
+      "vision"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF",
+    "local_path": "models/peasantsmith/hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF.json"
+  },
+  {
     "id": "hf_peft-internal-testing_opt-125m",
     "title": "peft-internal-testing/opt-125m",
     "category": "text-generation",

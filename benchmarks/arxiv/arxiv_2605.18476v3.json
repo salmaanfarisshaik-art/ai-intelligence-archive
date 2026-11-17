@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.18476v3",
+  "schema_version": "1.0",
+  "name": "AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.18476v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.CO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.18476v3",
+    "updated": "2026-11-16T18:59:11Z",
+    "published": "2026-05-18T14:31:24Z",
+    "title": "AI4BayesCode: From Natural Language Descriptions to Validated Modular Stateful Bayesian Samplers",
+    "summary": "Coding and computation remain major bottlenecks in Markov chain Monte Carlo (MCMC) workflows, especially as modern sampling algorithms have become increasingly complex and existing probabilistic programming systems remain limited in model support, extensibility, and composability. We introduce AI4BayesCode, an extensible LLM-driven system that translates natural-language Bayesian model descriptions into runnable, validated MCMC samplers. To improve reliability, AI4BayesCode adopts a modular design that decomposes models into modular sampling blocks and maps each block to a built-in sampling component, reducing the need to implement complex sampling algorithms from scratch. Reliability is further improved through pre-generation validation of model specifications and post-generation validation of generated sampler code. AI4BayesCode also introduces a novel recursively stateful coding paradigm for MCMC, allowing modular sampling components, potentially developed by different contributors, to be composed coherently within larger MCMC procedures. We develop a benchmark suite to evaluate AI4BayesCode for sampler-generation. Experiments show that AI4BayesCode can implement a wide range of Bayesian models from natural-language descriptions alone. As an open-ended system, its capability can continue to expand with improvements in the underlying AI agent and the addition of new built-in blocks. The software is available at https://ai4bayescode.com/.",
+    "primary_category": "stat.CO"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:59:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.18476v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

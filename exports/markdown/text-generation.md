@@ -4195,6 +4195,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/pearl-ai/Llama-3.1-8B-Instruct-pearl](https://huggingface.co/pearl-ai/Llama-3.1-8B-Instruct-pearl)
 
+## peasantsmith/GLM-5.3-Flash-Maya-GGUF
+- **ID**: hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF](https://huggingface.co/peasantsmith/GLM-5.3-Flash-Maya-GGUF)
+- **Tags**: base_model:quantized:zai-org/GLM-5.3-Flash, base_model:zai-org/GLM-5.3-Flash, gguf, glm, imatrix, license:mit, mixture-of-experts, project-maya, region:us, text-generation, vision
+
 ## peft-internal-testing/opt-125m
 - **ID**: hf_peft-internal-testing_opt-125m
 - **Source**: Hugging Face

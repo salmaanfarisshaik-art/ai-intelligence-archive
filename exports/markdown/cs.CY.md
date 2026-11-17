@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.10600v8](http://arxiv.org/abs/2509.10600v8)
 
+## Toward LLM-Supported Automated Assessment of Critical Thinking Subskills
+- **ID**: arxiv_2510.12915v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.12915v3](http://arxiv.org/abs/2510.12915v3)
+
 ## Large language models eroding science understanding: an empirical study of malignment
 - **ID**: arxiv_2604.25639v2
 - **Source**: ArXiv

@@ -248,6 +248,7 @@
 | [Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?](http://arxiv.org/abs/2506.10912v5) | ArXiv |  | 1 |
 | [BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1) | ArXiv |  | 1 |
 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](http://arxiv.org/abs/2607.23159v2) | ArXiv |  | 1 |
+| [CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models](http://arxiv.org/abs/2607.25244v2) | ArXiv |  | 1 |
 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](http://arxiv.org/abs/2608.24794v1) | ArXiv |  | 1 |
 | [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
 | [Can Agentic Systems Close the Gap in Radiology with Production AI Tools?](http://arxiv.org/abs/2611.09836v1) | ArXiv |  | 1 |
@@ -392,6 +393,7 @@
 | [EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1) | ArXiv |  | 1 |
 | [Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable](http://arxiv.org/abs/2609.04127v1) | ArXiv |  | 1 |
 | [ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams](http://arxiv.org/abs/2607.24707v1) | ArXiv |  | 1 |
+| [Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking](http://arxiv.org/abs/2609.32116v2) | ArXiv |  | 1 |
 | [Estimating Uncertain Spatial Relationships in Robotics](http://arxiv.org/abs/1304.3111v2) | ArXiv |  | 1 |
 | [Et Tu, Brute? Economic Misalignment in Personal AI Agents](http://arxiv.org/abs/2609.24927v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
@@ -519,6 +521,7 @@
 | [How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles](http://arxiv.org/abs/2608.23543v1) | ArXiv |  | 1 |
 | [How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1) | ArXiv |  | 1 |
 | [How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective](http://arxiv.org/abs/2508.01300v2) | ArXiv |  | 1 |
+| [How Finite Brains Generalize Without Bound: Spatial Memory as a Universal Computer](http://arxiv.org/abs/2611.07920v2) | ArXiv |  | 1 |
 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](http://arxiv.org/abs/2609.40303v1) | ArXiv |  | 1 |
 | [How Short Is Too Short? Length-Conditional Calibration and Abstention for Detecting AI-Generated Text](http://arxiv.org/abs/2611.10901v1) | ArXiv |  | 1 |
 | [HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling](http://arxiv.org/abs/2610.12393v1) | ArXiv |  | 1 |
@@ -706,6 +709,7 @@
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v2) | ArXiv |  | 1 |
 | [Ownership in AI-Assisted Everyday Tasks](http://arxiv.org/abs/2609.20658v1) | ArXiv |  | 1 |
 | [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](http://arxiv.org/abs/2608.14441v1) | ArXiv |  | 1 |
+| [PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations](http://arxiv.org/abs/2611.12307v2) | ArXiv |  | 1 |
 | [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](http://arxiv.org/abs/2610.18784v1) | ArXiv |  | 1 |
 | [Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson](http://arxiv.org/abs/2608.18531v2) | ArXiv |  | 1 |
 | [Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference](http://arxiv.org/abs/2606.07897v2) | ArXiv |  | 1 |
@@ -747,6 +751,7 @@
 | [Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs](http://arxiv.org/abs/2609.38070v1) | ArXiv |  | 1 |
 | [Procedural Content Generation via Generative Artificial Intelligence](http://arxiv.org/abs/2407.09013v3) | ArXiv |  | 1 |
 | [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) | ArXiv |  | 1 |
+| [Procedure without Judgment: What Small Language Models Learn under an Exact Verifier](http://arxiv.org/abs/2611.21529v1) | ArXiv |  | 1 |
 | [ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](http://arxiv.org/abs/2605.06223v4) | ArXiv |  | 1 |
 | [ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](http://arxiv.org/abs/2605.06223v5) | ArXiv |  | 1 |
 | [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](http://arxiv.org/abs/2608.25992v1) | ArXiv |  | 1 |
@@ -805,6 +810,7 @@
 | [Reward Modeling for Multi-Agent Orchestration](http://arxiv.org/abs/2606.13598v1) | ArXiv |  | 1 |
 | [ReWorld: An Interactive World Model with Long-Horizon Memory](http://arxiv.org/abs/2608.23565v1) | ArXiv |  | 1 |
 | [Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought](http://arxiv.org/abs/2608.24790v1) | ArXiv |  | 1 |
+| [Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests](http://arxiv.org/abs/2611.21545v1) | ArXiv |  | 1 |
 | [Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving](http://arxiv.org/abs/2609.21470v2) | ArXiv |  | 1 |
 | [RoboJEPA: Scaling Robotic Latent World Models](http://arxiv.org/abs/2610.10515v1) | ArXiv |  | 1 |
 | [Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk](http://arxiv.org/abs/2608.19073v1) | ArXiv |  | 1 |
@@ -815,6 +821,7 @@
 | [Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2](http://arxiv.org/abs/2611.06827v1) | ArXiv |  | 1 |
 | [RunningTab: Direct Workspace Interaction with Environment-Side Tabs](http://arxiv.org/abs/2610.10444v1) | ArXiv |  | 1 |
 | [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](http://arxiv.org/abs/2609.09113v1) | ArXiv |  | 1 |
+| [Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety](http://arxiv.org/abs/2611.21520v1) | ArXiv |  | 1 |
 | [SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment](http://arxiv.org/abs/2609.02786v1) | ArXiv |  | 1 |
 | [Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](http://arxiv.org/abs/2603.10044v3) | ArXiv |  | 1 |
 | [Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](http://arxiv.org/abs/2603.10044v4) | ArXiv |  | 1 |
@@ -838,6 +845,7 @@
 | [ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences](http://arxiv.org/abs/2610.08691v1) | ArXiv |  | 1 |
 | [Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1) | ArXiv |  | 1 |
 | [SciExam for ENSO: Can AI Agents Build Climate Models?](http://arxiv.org/abs/2610.10513v1) | ArXiv |  | 1 |
+| [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](http://arxiv.org/abs/2611.21541v1) | ArXiv |  | 1 |
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v1) | ArXiv |  | 1 |
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v2) | ArXiv |  | 1 |
 | [SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale](http://arxiv.org/abs/2609.08228v2) | ArXiv |  | 1 |
@@ -1031,6 +1039,7 @@
 | [What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models](http://arxiv.org/abs/2608.16852v1) | ArXiv |  | 1 |
 | [What Do RTL Repair Benchmarks Actually Measure?](http://arxiv.org/abs/2610.28595v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |
+| [What Does CLIP Learn for Regional Geolocalization? Probing Visual Cues and Scene Configuration After Adaptation](http://arxiv.org/abs/2608.21761v2) | ArXiv |  | 1 |
 | [What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models](http://arxiv.org/abs/2610.37631v1) | ArXiv |  | 1 |
 | [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1) | ArXiv |  | 1 |
 | [What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models](http://arxiv.org/abs/2610.31576v1) | ArXiv |  | 1 |

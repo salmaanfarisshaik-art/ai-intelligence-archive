@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.21488v1",
+  "schema_version": "1.0",
+  "name": "Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.21488v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.21488v1",
+    "updated": "2026-11-16T17:56:12Z",
+    "published": "2026-11-16T17:56:12Z",
+    "title": "Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation",
+    "summary": "Vision--language agents generate descriptions, decisions, and instructions that may be reused by users, downstream agents, and automated workflows, creating a need for provenance mechanisms that support content authenticity and post-deployment auditing without unnecessarily degrading response quality. We present a risk-aware semantic watermarking framework that combines predictive uncertainty with a zero-shot multimodal relevance-risk proxy to allocate watermark strength during decoding. A single risk penalty $λ$ exposes a continuous operating frontier, allowing deployment-time selection of a detection--quality trade-off without model retraining. At a selected operating point, mean watermark strength is reduced by approximately 59.4\\% relative to fixed-strength watermarking, while perplexity change falls from 0.3634 to 0.1689 and clean/paraphrased ROC-AUC reaches 0.9552/0.9459. A matched-strength analysis shows that this advantage reflects the allocation policy rather than lower average intervention: at comparable mean strength, risk-constrained allocation achieves substantially higher ROC-AUC than fixed, entropy-only, and criticality-only policies, identifying it as detection-efficient rather than quality-dominant. We further show that threshold calibration on finite samples produces substantial false-positive-rate drift, motivating calibration variance reporting as standard practice for auditable provenance.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T17:56:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.21488v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

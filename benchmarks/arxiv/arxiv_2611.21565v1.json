@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.21565v1",
+  "schema_version": "1.0",
+  "name": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.21565v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.21565v1",
+    "updated": "2026-11-16T18:41:01Z",
+    "published": "2026-11-16T18:41:01Z",
+    "title": "When Do Histology Foundation Models Need Geometric Test-Time Augmentation?",
+    "summary": "Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling across the 8 rotations and reflections of a square---is a standard default in computational pathology. However, the rise of self-supervised histology foundation models (FMs) with inherent rotational invariance calls its continued utility into question. We benchmark 9 histology FMs and 6 general-purpose models across four patch-level and two whole-slide image (WSI) datasets. We find that $D_4$ TTA remains a reliable post hoc improvement, but benefits diminish from $+1.98$ percentage points (pp) for general-purpose backbones to $+0.50$ pp for histology FMs on TCGA-UT, and shrink further for the largest models. To eliminate computational overhead, our experiments demonstrate that entropy routing---applying TTA selectively to uncertain predictions---recovers most of the gain while augmenting only ${\\sim}13\\%$ of samples. Finally, we show that patch-level TTA improvements do not transfer to slide-level multiple instance learning (MIL). Code: https://github.com/lars-chen/histology-tta",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:41:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.21565v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

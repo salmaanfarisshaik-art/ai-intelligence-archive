@@ -321,6 +321,11 @@
 - **URL**: [https://openai.com/business/customer-stories/holidays-extras-codex](https://openai.com/business/customer-stories/holidays-extras-codex)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/revolut
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/revolut](https://openai.com/business/customer-stories/revolut)
+
+## 
 - **ID**: rss_https://openai.com/business/customer-stories/shield
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/customer-stories/shield](https://openai.com/business/customer-stories/shield)
@@ -6424,6 +6429,11 @@
 - **ID**: rss_https://openai.com/index/strengthening-democratic-oversight-in-national-security
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/strengthening-democratic-oversight-in-national-security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
+
+## 
+- **ID**: rss_https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/strengthening-nato-allied-cyber-defences-ai](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
 
 ## 
 - **ID**: rss_https://openai.com/index/strengthening-online-child-safety

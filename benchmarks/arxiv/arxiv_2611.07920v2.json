@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.07920v2",
+  "schema_version": "1.0",
+  "name": "How Finite Brains Generalize Without Bound: Spatial Memory as a Universal Computer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.07920v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.07920v2",
+    "updated": "2026-11-16T18:08:28Z",
+    "published": "2026-11-05T12:30:06Z",
+    "title": "How Finite Brains Generalize Without Bound: Spatial Memory as a Universal Computer",
+    "summary": "A child who learned to add small numbers adds numbers of any length. LSTMs and Transformers trained on short sequences fail on longer ones. We trace this to what learners read when deciding. A position, count or time takes new values as input grows: it is a coordinate, and a learner that reads one meets in every long input values its experience never covered. Whether two things are the same has the same two answers at every size: it is a coincidence, and a learner that reads only coincidences finds in a long input nothing that short inputs lacked, so finite experience fixes its rule for every size. The memory carries the size of the input and the rule stays finite, and this determines the memory a generalizing brain can have: a memory that grows while what the learner reads of it stays finite has to look the same from every place, so it is made of cycles, and the past is reached by asking what happened when the cycles last stood where they stand now. The cycles are the grid modules, the cells that detect their return the place cells, the records the hippocampal index; a prefrontal controller moves the cycles and never sees them. Reading only coincidences costs no power: what finite experience fixes in such a learner is what Turing machines compute in step with their input, which is why a circuit that evolved to find the way home can learn arithmetic and grammar. In a network of neurons this machine of cycles is the dynamics seen through its symmetry, and symbols are its invariants. Trained on strings up to 40 symbols, the machine solves five benchmark tasks that no LSTM or Transformer solves, among them duplication and binary addition, and beyond the reach of its cycles it fails on the curve the theory predicts. Given larger cycles after training, a machine that saw no string longer than five symbols reverses a string of a million without error. Its controllers run unchanged on neurons.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:08:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.07920v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

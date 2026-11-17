@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.12915v3",
+  "schema_version": "1.0",
+  "name": "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.12915v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.12915v3",
+    "updated": "2026-11-16T18:20:08Z",
+    "published": "2025-10-14T18:36:19Z",
+    "title": "Toward LLM-Supported Automated Assessment of Critical Thinking Subskills",
+    "summary": "As the world becomes increasingly saturated with AI-generated content, disinformation, and algorithmic persuasion, critical thinking - the capacity to evaluate evidence, detect unreliable claims, and exercise independent judgment - is becoming a defining human skill. Developing critical thinking skills through timely assessment and feedback is crucial; however, there has not been extensive work in educational data mining on defining, measuring, and supporting critical thinking. In this paper, we investigate the feasibility of measuring \"subskills\" that underlie critical thinking. We ground our work in an authentic task where students operationalize critical thinking by writing argumentative essays. We developed a coding rubric based on an established skills progression and completed human coding for a corpus of student essays. We then evaluated three distinct approaches to automated scoring: zero-shot prompting, few-shot prompting, and supervised fine-tuning, implemented across three large language models (GPT-5, Llama 3.1 8B, and ModernBERT). Fine-tuning Llama 3.1 8B achieved the best results and demonstrated particular strength on subskills with highly separable proficiency levels with balanced labels across levels, while lower performance was observed for subskills that required detection of subtle distinctions between proficiency levels or imbalanced labels. Our exploratory work represents an initial step toward scalable assessment of critical thinking skills across authentic educational contexts. Future research should continue to combine automated critical thinking assessment with human validation to more accurately detect and measure dynamic, higher-order thinking skills.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:20:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.12915v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

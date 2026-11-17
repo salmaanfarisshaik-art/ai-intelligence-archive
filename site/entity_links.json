@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:48:04Z",
+  "generated_at": "2026-11-17T11:30:23Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -484,6 +484,11 @@
     {
       "source_id": "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
       "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
+      "target_id": "hf_zai-org_GLM-5.3-Flash",
       "type": "derived_from"
     },
     {
@@ -10999,6 +11004,11 @@
     {
       "source_id": "model_z_lab_qwen3_5_27b_dflash",
       "target_id": "hf_Qwen_Qwen3.5-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_z_lab_qwen3_5_4b_dflash",
+      "target_id": "hf_Qwen_Qwen3.5-4B",
       "type": "derived_from"
     },
     {

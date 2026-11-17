@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.09583v2",
+  "schema_version": "1.0",
+  "name": "Promptable Concept Segmentation from Above: Evaluating Zero-Shot Textual and Visual Prompting of SAM 3 in Remote Sensing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.09583v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.09583v2",
+    "updated": "2026-11-16T18:24:53Z",
+    "published": "2026-07-10T16:33:05Z",
+    "title": "Promptable Concept Segmentation from Above: Evaluating Zero-Shot Textual and Visual Prompting of SAM 3 in Remote Sensing",
+    "summary": "Large-scale foundation models such as the Segment Anything Model 3 (SAM 3) promise a transition toward open-vocabulary, training-free computer vision. However, their capacity to generalize out-of-distribution to the top-down geometric structures of Earth Observation imagery remains largely unquantified. We present a multi-task empirical evaluation of SAM 3 across remote sensing scene classification, object detection, and instance segmentation, without any fine-tuning. For scene classification, we repurpose its decoupled binary presence head as a standalone zero-shot classifier. For detection and segmentation, we compare textual and visual prompts, where a visual prompt reveals one true instance of the target class in the image being segmented. Text alone performs poorly, while adding a visual prompt raises accuracy sharply, and combining both raises or lowers accuracy depending on the task. We also compare SAM 3's text-only performance against several general-domain, open-vocabulary detection and segmentation models under the same evaluation protocol, and find that it leads all of them on both benchmarks. Its accuracy without a visual prompt nonetheless remains limited, motivating parameter-efficient fine-tuning as a direction for future work.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:24:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.09583v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

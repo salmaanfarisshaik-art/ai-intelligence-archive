@@ -525,6 +525,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03555v1](http://arxiv.org/abs/2611.03555v1)
 
+## SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection
+- **ID**: arxiv_2611.07222v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.07222v2](http://arxiv.org/abs/2611.07222v2)
+
 ## FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning
 - **ID**: arxiv_2611.08383v1
 - **Source**: ArXiv
@@ -534,4 +539,34 @@
 - **ID**: arxiv_2611.12760v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12760v1](http://arxiv.org/abs/2611.12760v1)
+
+## RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems
+- **ID**: arxiv_2611.21480v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21480v1](http://arxiv.org/abs/2611.21480v1)
+
+## Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation
+- **ID**: arxiv_2611.21488v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21488v1](http://arxiv.org/abs/2611.21488v1)
+
+## The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU
+- **ID**: arxiv_2611.21497v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21497v1](http://arxiv.org/abs/2611.21497v1)
+
+## TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings
+- **ID**: arxiv_2611.21548v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21548v1](http://arxiv.org/abs/2611.21548v1)
+
+## When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents
+- **ID**: arxiv_2611.21577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21577v1](http://arxiv.org/abs/2611.21577v1)
+
+## ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises
+- **ID**: arxiv_2611.21579v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21579v1](http://arxiv.org/abs/2611.21579v1)
 

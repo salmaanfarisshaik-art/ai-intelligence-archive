@@ -5405,3 +5405,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19202v1](http://arxiv.org/abs/2611.19202v1)
 
+## Embedding Cosine Measures Text Length Before It Measures Homogenization
+- **ID**: arxiv_2611.21519v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21519v1](http://arxiv.org/abs/2611.21519v1)
+
+## Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse
+- **ID**: arxiv_2611.21535v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21535v1](http://arxiv.org/abs/2611.21535v1)
+
+## Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering
+- **ID**: arxiv_2611.21586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21586v1](http://arxiv.org/abs/2611.21586v1)
+

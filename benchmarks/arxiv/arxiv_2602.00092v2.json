@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.00092v2",
+  "schema_version": "1.0",
+  "name": "Interpreting and Controlling Model Behavior via Constitutions for Atomic Concept Edits",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.00092v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.00092v2",
+    "updated": "2026-11-16T17:54:57Z",
+    "published": "2026-01-23T16:56:33Z",
+    "title": "Interpreting and Controlling Model Behavior via Constitutions for Atomic Concept Edits",
+    "summary": "We introduce a black-box interpretability framework that learns a verifiable constitution: a natural language summary of how changes to a prompt affect a model's specific behavior, such as its alignment, correctness, or adherence to constraints. Our method leverages atomic concept edits (ACEs), which are targeted operations that add, remove, or replace an interpretable concept in the input prompt. By systematically applying ACEs and observing the resulting effects on model behavior across various tasks, our framework learns a causal mapping from edits to predictable outcomes. This learned constitution provides deep, generalizable insights into the model. Empirically, we validate our approach across diverse tasks, including mathematical reasoning and text-to-image alignment, for controlling and understanding model behavior. We found that for text-to-image generation, GPT-Image tends to focus on grammatical adherence, while Imagen 4 prioritizes atmospheric coherence. In mathematical reasoning, distractor variables confuse GPT-5 but leave Gemini 2.5 models and o4-mini largely unaffected. Moreover, our results show that the learned constitutions are highly effective for controlling model behavior, achieving an average of 1.86 times boost in success rate over methods that do not use constitutions. Our open-sourced code can be found at https://github.com/google-deepmind/atomic_concept_edits",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T17:54:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.00092v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

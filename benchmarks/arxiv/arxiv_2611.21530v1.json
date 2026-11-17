@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.21530v1",
+  "schema_version": "1.0",
+  "name": "DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.21530v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.21530v1",
+    "updated": "2026-11-16T18:22:22Z",
+    "published": "2026-11-16T18:22:22Z",
+    "title": "DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control",
+    "summary": "An embodied speaker's expressiveness depends not only on what is said, but also on how the voice sounds and how the body moves. However, existing joint speech-motion generation models are largely driven implicitly by transcript semantics or intermediate speech representations, offering little explicit control over motion hierarchy, body parts, or vocal style. To bridge this gap, we construct MotionSpeech, a structured benchmark for controllable joint speech-motion generation that includes transcripts, voice-style descriptions, and motion conditions at two hierarchical levels. Building on this benchmark, we propose DuoFlow, a dual-stream latent flow transformer that jointly denoises speech and motion under a shared noise level and a unified second-based temporal coordinate. Modality-specific residual connectors inject structured conditions into the corresponding streams, layer-wise bidirectional cross-modal attention coordinates their generation, and a monotonic phoneme pathway combines normalized progress anchors with CTC supervision to strengthen speech temporal modeling. DuoFlow provides a unified interface for fine-grained motion and vocal-style control and demonstrates the ability to synthesize high-quality, synchronized, and instruction-consistent speech-motion sequences.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:22:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.21530v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

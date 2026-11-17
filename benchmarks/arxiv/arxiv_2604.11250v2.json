@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.11250v2",
+  "schema_version": "1.0",
+  "name": "TEMPER: Reducing Attribute Leakage from Face Recognition Embeddings",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.11250v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.11250v2",
+    "updated": "2026-11-16T18:21:16Z",
+    "published": "2026-04-13T10:01:48Z",
+    "title": "TEMPER: Reducing Attribute Leakage from Face Recognition Embeddings",
+    "summary": "Face recognition embeddings encode soft-biometric attributes such as gender and ethnicity, which can be inferred from templates. This paper proposes TEMPlate Entropy Regularisation (TEMPER), a post-hoc method that removes an attribute. TEMPER learns a linear map of the embedding in a split-latent variational autoencoder. The map is initialised at the principal component analysis (PCA) solution of the embeddings and trained to maximise the predictive entropy of an auxiliary attribute classifier. A relational term keeps the similarities of mated pairs close to the embedding similarities. We evaluate the removal of gender and a four-group ethnicity label from ArcFace embeddings against ten prior post-hoc methods and two label-free controls. Every method is trained on VGGFace2 and tested on IJB-C and RFW at false match rates down to $10^{-4}$. Leakage is the balanced accuracy of the strongest of four attacker families trained on transformed VGGFace2 templates. TEMPER retains the highest IJB-C true match rate at a false match rate of $10^{-3}$ at every leakage threshold for both attributes. TEMPER retains a true match rate of 82.4% at a gender leakage of at most 52.5%, close to chance, against 76.7% for the best prior method. In the ablation, this improvement comes from the PCA initialisation and the relational term.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:21:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.11250v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

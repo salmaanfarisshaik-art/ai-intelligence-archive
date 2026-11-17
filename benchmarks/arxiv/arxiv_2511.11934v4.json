@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.11934v4",
+  "schema_version": "1.0",
+  "name": "A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.11934v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.11934v4",
+    "updated": "2026-11-16T18:50:25Z",
+    "published": "2025-11-14T23:18:13Z",
+    "title": "A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts",
+    "summary": "We present a systematic benchmark of out-of-distribution (OOD) detection confidence scoring functions (CSFs) through a representation-centric lens. Our study spans CNN and ViT backbones, multiple training paradigms, four image-classification source datasets (CIFAR-10, CIFAR-100, SuperCIFAR-100, and TinyImageNet), and OOD datasets grouped into near, mid, and far regimes based on CLIP-derived semantic distances. To compare CSFs across these settings, we employ a rank-based pipeline of Friedman and Conover tests that identifies top cliques of statistically indistinguishable winners under threshold-free ranking metrics (AURC and AUGRC). The main empirical finding is that the family of CSFs that are competitive detectors correlates with characteristics of the learned representation. For both CNNs and ViTs, simple probabilistic scores dominate misclassification detection. On CNNs, margin-based scores are strongest in near-OOD regimes, while geometry-aware scores such as NNGuide, fDBD, and CTM become more competitive as shift severity increases. On fine-tuned ViTs, the top cliques are led mainly by reconstruction- and residual-based scores. To interpret these ranking shifts, we analyze the last-layer representation using Neural Collapse (NC) metrics. The resulting picture is consistent across architectures: prototype- and boundary-aware scores become stronger when the representation is more collapsed and better aligned with classifier weights, whereas weaker-collapse regimes favor gradient- and manifold-based scores. Building on these insights, we propose two contributions: a simple PCA-based projection-filtering procedure that improves detector performance, and an approach that uses only the NC measurements of a trained classifier to predict its competitive out-of-distribution detector shortlist, without OOD data for that classifier and without knowledge of the shift.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:50:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.11934v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

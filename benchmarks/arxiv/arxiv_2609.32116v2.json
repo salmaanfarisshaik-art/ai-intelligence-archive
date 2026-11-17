@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.32116v2",
+  "schema_version": "1.0",
+  "name": "Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.32116v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.32116v2",
+    "updated": "2026-11-16T18:52:09Z",
+    "published": "2026-09-26T00:40:15Z",
+    "title": "Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking",
+    "summary": "Best-of-$N$ jailbreaking (BoN) bypasses safeguards of aligned models by drawing $N$ independent augmentations of an unsafe prompt and sampling $M$ completions of each. Previous works have shown that the attack success rate (ASR) seems to follow a power-law in $N$, which we challenge. The exponent drifts with $N$, and the reported exponential crossover is consistent with a finite-size effect of the adversarial dataset. Little work has been done to explore the entire two-budget ($N, M$) attack surface as well as its dependence on the generation temperature $T$. We introduce a simple barrier model where each prompt has a baseline safety level and each augmentation a random thermally activated barrier. Then five numbers, each backed by an interpretable safety mechanism, determine the entire ($N, M$) attack surface. They extrapolate predictions from $N \\leq 100$ to $N = 10^4$, collapse five distinct models on the same scaling function and predict ASR at different temperatures from the one they were fitted at. The extrapolation holds under two automated judges and on held-out prompts.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:52:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.32116v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

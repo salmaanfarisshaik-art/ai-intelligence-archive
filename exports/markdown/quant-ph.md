@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09822v2](http://arxiv.org/abs/2611.09822v2)
 
+## Discovering formally verified quantum programs with AI
+- **ID**: arxiv_2611.09822v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09822v3](http://arxiv.org/abs/2611.09822v3)
+
 ## Beyond the Mean Gap: What Transferred-Angle QAOA Retains on a Superconducting Processor
 - **ID**: arxiv_2611.10529v2
 - **Source**: ArXiv

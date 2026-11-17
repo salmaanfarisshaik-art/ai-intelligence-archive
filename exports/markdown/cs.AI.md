@@ -1395,6 +1395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24814v2](http://arxiv.org/abs/2607.24814v2)
 
+## CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models
+- **ID**: arxiv_2607.25244v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25244v2](http://arxiv.org/abs/2607.25244v2)
+
 ## Explanation-Bound Tool Execution for AI Agents: Server-Verified Action Claims Without Trusting Model Rationales
 - **ID**: arxiv_2607.25364v2
 - **Source**: ArXiv
@@ -2429,6 +2434,11 @@
 - **ID**: arxiv_2608.21567v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21567v2](http://arxiv.org/abs/2608.21567v2)
+
+## What Does CLIP Learn for Regional Geolocalization? Probing Visual Cues and Scene Configuration After Adaptation
+- **ID**: arxiv_2608.21761v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21761v2](http://arxiv.org/abs/2608.21761v2)
 
 ## StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models
 - **ID**: arxiv_2608.23475v1
@@ -3639,6 +3649,11 @@
 - **ID**: arxiv_2609.31619v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31619v1](http://arxiv.org/abs/2609.31619v1)
+
+## Escaping Alignment: A Physical Trap Model of Best-of-N Jailbreaking
+- **ID**: arxiv_2609.32116v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.32116v2](http://arxiv.org/abs/2609.32116v2)
 
 ## Learning response-aware patient dynamics for respiratory support
 - **ID**: arxiv_2609.32782v2
@@ -4975,6 +4990,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.07508v2](http://arxiv.org/abs/2611.07508v2)
 
+## How Finite Brains Generalize Without Bound: Spatial Memory as a Universal Computer
+- **ID**: arxiv_2611.07920v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.07920v2](http://arxiv.org/abs/2611.07920v2)
+
 ## Enhancing Local and Global Structure in Compressed AI Agent Memory
 - **ID**: arxiv_2611.08341v1
 - **Source**: ArXiv
@@ -5134,6 +5154,11 @@
 - **ID**: arxiv_2611.10901v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10901v1](http://arxiv.org/abs/2611.10901v1)
+
+## PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations
+- **ID**: arxiv_2611.12307v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.12307v2](http://arxiv.org/abs/2611.12307v2)
 
 ## Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery
 - **ID**: arxiv_2611.12762v1
@@ -5339,4 +5364,24 @@
 - **ID**: arxiv_2611.19215v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19215v1](http://arxiv.org/abs/2611.19215v1)
+
+## Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety
+- **ID**: arxiv_2611.21520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21520v1](http://arxiv.org/abs/2611.21520v1)
+
+## Procedure without Judgment: What Small Language Models Learn under an Exact Verifier
+- **ID**: arxiv_2611.21529v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21529v1](http://arxiv.org/abs/2611.21529v1)
+
+## SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents
+- **ID**: arxiv_2611.21541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21541v1](http://arxiv.org/abs/2611.21541v1)
+
+## Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests
+- **ID**: arxiv_2611.21545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21545v1](http://arxiv.org/abs/2611.21545v1)
 

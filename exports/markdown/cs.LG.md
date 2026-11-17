@@ -200,6 +200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.02769v2](http://arxiv.org/abs/2511.02769v2)
 
+## A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts
+- **ID**: arxiv_2511.11934v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.11934v4](http://arxiv.org/abs/2511.11934v4)
+
 ## Stabilizing Multi-Attack Adversarial Training via Bandit Optimization
 - **ID**: arxiv_2511.12265v2
 - **Source**: ArXiv
@@ -274,6 +279,11 @@
 - **ID**: arxiv_2601.21419v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21419v3](http://arxiv.org/abs/2601.21419v3)
+
+## Interpreting and Controlling Model Behavior via Constitutions for Atomic Concept Edits
+- **ID**: arxiv_2602.00092v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00092v2](http://arxiv.org/abs/2602.00092v2)
 
 ## Deep Time-series Forecasting Needs Kernelized Moment Balancing
 - **ID**: arxiv_2602.00717v2
@@ -3049,4 +3059,44 @@
 - **ID**: arxiv_2611.19218v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19218v1](http://arxiv.org/abs/2611.19218v1)
+
+## Differentiable Exact Learning
+- **ID**: arxiv_2611.21486v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21486v1](http://arxiv.org/abs/2611.21486v1)
+
+## Algorithm Distillation for Safe In-Context Reinforcement Learning
+- **ID**: arxiv_2611.21524v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21524v1](http://arxiv.org/abs/2611.21524v1)
+
+## Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle
+- **ID**: arxiv_2611.21538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21538v1](http://arxiv.org/abs/2611.21538v1)
+
+## Reading or Remembering? Measuring Temporal Contamination in Language Models
+- **ID**: arxiv_2611.21554v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21554v1](http://arxiv.org/abs/2611.21554v1)
+
+## Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters
+- **ID**: arxiv_2611.21562v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21562v1](http://arxiv.org/abs/2611.21562v1)
+
+## Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent
+- **ID**: arxiv_2611.21598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21598v1](http://arxiv.org/abs/2611.21598v1)
+
+## Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction
+- **ID**: arxiv_2611.21602v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21602v1](http://arxiv.org/abs/2611.21602v1)
+
+## Latent Lattice Language Models
+- **ID**: arxiv_2611.21608v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21608v1](http://arxiv.org/abs/2611.21608v1)
 

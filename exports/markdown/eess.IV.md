@@ -115,3 +115,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09854v1](http://arxiv.org/abs/2611.09854v1)
 
+## How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?
+- **ID**: arxiv_2611.21532v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21532v1](http://arxiv.org/abs/2611.21532v1)
+

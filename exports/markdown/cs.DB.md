@@ -70,3 +70,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12817v1](http://arxiv.org/abs/2611.12817v1)
 
+## Use-case-driven ontology modeling with the NeOn methodology for ambient assisted living
+- **ID**: arxiv_2611.17466v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17466v2](http://arxiv.org/abs/2611.17466v2)
+

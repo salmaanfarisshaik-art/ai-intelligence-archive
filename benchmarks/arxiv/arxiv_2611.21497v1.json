@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.21497v1",
+  "schema_version": "1.0",
+  "name": "The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.21497v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.21497v1",
+    "updated": "2026-11-16T18:00:19Z",
+    "published": "2026-11-16T18:00:19Z",
+    "title": "The CYBER-BRIDGE project: An AI-Powered Platform for Cross-Border Cybersecurity, Compliance and Forensics in the EU",
+    "summary": "Cross-border cyber attacks on European SMEs and critical-infrastructure operators expose a structural cyber-resilience gap: cybersecurity (threat sharing, detection, response), compliance (framework assessment, certification) and digital forensics (cross-jurisdictional evidence) are jointly regulated by NIS2, the CRA, GDPR and the LED, yet their tooling evolved in silos and rarely interoperates across Member States. The EU-funded CYBER-BRIDGE project integrates the three domains under one architecture and a hash-chained evidence layer: AI-driven CTI sharing with ENISA-aligned notification, multi-framework assessments with retrieval-augmented advisory, and RFC 3161-anchored custody with lawful GDPR/LED exchange, all aligned with MITRE ATT&CK. A sanitised replica of the back-end image hosts a Cyber-Range for upskilling. The contribution is not the individual tools but the reconciliation mechanism that lets one incident produce, from a single evidence record, a cross-border CTI advisory, the regulatory notifications its deadlines demand and a re-verifiable forensic pack; we set out why binding three differently regulated evidence regimes onto one record is non-trivial and how the shared evidence layer resolves the resulting tensions. This paper introduces the project's scope, requirements, pilots, architecture and toolkits; quantitative KPIs follow in later deliverables.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-11-17T11:29:14Z",
+  "last_updated": "2026-11-16T18:00:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.21497v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

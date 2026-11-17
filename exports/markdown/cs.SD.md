@@ -240,6 +240,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37605v1](http://arxiv.org/abs/2610.37605v1)
 
+## SPDMX: Large-Scale Open Stem Audio From Symbolic Music
+- **ID**: arxiv_2611.09140v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09140v2](http://arxiv.org/abs/2611.09140v2)
+
 ## Earlybird: Predictive Streaming Speech Recognition in 29M Parameters
 - **ID**: arxiv_2611.14421v1
 - **Source**: ArXiv

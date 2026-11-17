@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93386
+**Total Entities Tracked**: 93439
 
 ## Category Distribution
 
@@ -9,29 +9,29 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2836
 - **models**: 2095
-- **cs.CV**: 1656
-- **news**: 1432
+- **cs.CV**: 1669
+- **news**: 1434
 - **dataset**: 1253
-- **cs.CL**: 1081
-- **cs.AI**: 1068
-- **text-generation**: 1017
-- **cs.LG**: 610
-- **cs.RO**: 261
-- **cs.CR**: 107
+- **cs.CL**: 1084
+- **cs.AI**: 1077
+- **text-generation**: 1018
+- **cs.LG**: 620
+- **cs.RO**: 263
+- **cs.CR**: 114
 - **cs.SE**: 88
 - **tool**: 59
 - **cs.HC**: 55
 - **cs.IR**: 55
-- **cs.SD**: 49
-- **cs.CY**: 38
+- **cs.SD**: 50
+- **cs.CY**: 39
 - **cs.MA**: 27
-- **eess.IV**: 23
+- **eess.IV**: 24
 - **eess.AS**: 20
+- **quant-ph**: 18
 - **stat.ML**: 18
-- **quant-ph**: 17
 - **cs.GT**: 16
 - **API**: 15
-- **cs.DB**: 14
+- **cs.DB**: 15
 - **cs.AR**: 13
 - **cs.DC**: 13
 - **math.OC**: 13
@@ -98,14 +98,15 @@
 - **physics.plasm-ph**: 1
 - **q-bio.GN**: 1
 - **q-fin.RM**: 1
+- **stat.CO**: 1
 
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
 - ****: 32109
-- **ArXiv**: 5408
-- **Hugging Face**: 2025
-- **OpenAI Blog**: 1417
+- **ArXiv**: 5458
+- **Hugging Face**: 2026
+- **OpenAI Blog**: 1419
 - **HuggingFace Datasets**: 253
 - **GitHub Trending**: 59
 - **BAIR Blog**: 15
@@ -146,10 +147,10 @@
 
 ## Top Tags
 
-- **region:us**: 346
+- **region:us**: 347
 - **library:datasets**: 95
 - **library:mlcroissant**: 95
-- **text-generation**: 94
+- **text-generation**: 95
 - **modality:text**: 87
 - **language:en**: 84
 - **license:apache-2.0**: 82
@@ -158,7 +159,7 @@
 - **transformers**: 77
 - **conversational**: 75
 - **library:polars**: 66
-- **license:mit**: 57
+- **license:mit**: 58
 - **format:parquet**: 52
 - **text-generation-inference**: 39
 - **deploy:azure**: 38
@@ -180,8 +181,8 @@
 - **size_categories:100K<n<1M**: 21
 - **task_categories:robotics**: 19
 - **api**: 16
+- **gguf**: 16
 - **size_categories:1M<n<10M**: 16
-- **gguf**: 15
 - **license:odc-by**: 15
 - **arxiv:2505.09388**: 14
 - **fp8**: 14

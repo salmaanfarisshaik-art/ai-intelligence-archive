@@ -950,6 +950,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10766v6](http://arxiv.org/abs/2604.10766v6)
 
+## TEMPER: Reducing Attribute Leakage from Face Recognition Embeddings
+- **ID**: arxiv_2604.11250v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.11250v2](http://arxiv.org/abs/2604.11250v2)
+
 ## Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis
 - **ID**: arxiv_2604.11685v2
 - **Source**: ArXiv
@@ -1765,6 +1770,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00861v2](http://arxiv.org/abs/2607.00861v2)
 
+## Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning
+- **ID**: arxiv_2607.01191v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.01191v2](http://arxiv.org/abs/2607.01191v2)
+
 ## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
 - **ID**: arxiv_2607.01586v2
 - **Source**: ArXiv
@@ -1804,6 +1814,11 @@
 - **ID**: arxiv_2607.09133v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09133v3](http://arxiv.org/abs/2607.09133v3)
+
+## Promptable Concept Segmentation from Above: Evaluating Zero-Shot Textual and Visual Prompting of SAM 3 in Remote Sensing
+- **ID**: arxiv_2607.09583v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09583v2](http://arxiv.org/abs/2607.09583v2)
 
 ## Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture
 - **ID**: arxiv_2607.12254v2
@@ -8279,4 +8294,54 @@
 - **ID**: arxiv_2611.19213v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19213v1](http://arxiv.org/abs/2611.19213v1)
+
+## Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits
+- **ID**: arxiv_2611.21485v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21485v1](http://arxiv.org/abs/2611.21485v1)
+
+## DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control
+- **ID**: arxiv_2611.21530v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21530v1](http://arxiv.org/abs/2611.21530v1)
+
+## Seen but Unsaid: Locating and Repairing Cross-Image Comparison in Vision-Language Models
+- **ID**: arxiv_2611.21539v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21539v1](http://arxiv.org/abs/2611.21539v1)
+
+## BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents
+- **ID**: arxiv_2611.21553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21553v1](http://arxiv.org/abs/2611.21553v1)
+
+## Reference Forcing: Long Video Generation with Region-Guided Drift Correction
+- **ID**: arxiv_2611.21559v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21559v1](http://arxiv.org/abs/2611.21559v1)
+
+## Wildfire-SSR: Geolocation-Aware Multimodal Fusion for Structure-Level Wildfire Risk Assessment
+- **ID**: arxiv_2611.21563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21563v1](http://arxiv.org/abs/2611.21563v1)
+
+## When Do Histology Foundation Models Need Geometric Test-Time Augmentation?
+- **ID**: arxiv_2611.21565v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21565v1](http://arxiv.org/abs/2611.21565v1)
+
+## How VLMs Plan What's Next
+- **ID**: arxiv_2611.21600v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21600v1](http://arxiv.org/abs/2611.21600v1)
+
+## FaceJev: Direct Visual Decisions for Face Forgery Detection
+- **ID**: arxiv_2611.21604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21604v1](http://arxiv.org/abs/2611.21604v1)
+
+## ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization
+- **ID**: arxiv_2611.21605v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21605v1](http://arxiv.org/abs/2611.21605v1)
 

@@ -1129,8 +1129,14 @@
   "base_model:quantized:ukisai/Swift-1.5-Qwen3.8-27b": [
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
+  "base_model:quantized:zai-org/GLM-5.3-Flash": [
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
+  ],
   "base_model:ukisai/Swift-1.5-Qwen3.8-27b": [
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
+  "base_model:zai-org/GLM-5.3-Flash": [
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "benchmark": [
     "hf_ds_67e58fa6625f0f6c8447f37c",
@@ -2253,6 +2259,7 @@
     "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
@@ -2267,6 +2274,9 @@
     "github-graphql-api",
     "github-rest-api",
     "secure-github-actions-cicd-pipeline"
+  ],
+  "glm": [
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "glm4_moe_lite": [
     "hf_zai-org_GLM-4.7-Flash"
@@ -2409,6 +2419,7 @@
   "imatrix": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
@@ -5033,6 +5044,7 @@
     "hf_openai-community_gpt2-large",
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5-FP8",
@@ -5229,7 +5241,8 @@
   ],
   "mixture-of-experts": [
     "hf_antirez_deepseek-v4-gguf",
-    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "ml": [
     "pytorch",
@@ -5755,6 +5768,9 @@
   "processed": [
     "hf_ds_66674f5483de542b724d771e"
   ],
+  "project-maya": [
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
+  ],
   "prompt-dataset": [
     "hf_ds_69f638c8ebff1de2d6753093"
   ],
@@ -6265,6 +6281,7 @@
     "hf_openai_gpt-oss-20b",
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
@@ -7205,6 +7222,7 @@
     "hf_openai_gpt-oss-20b",
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
@@ -7452,7 +7470,8 @@
     "hf_ds_69f638c8ebff1de2d6753093"
   ],
   "vision": [
-    "hf_microsoft_Phi-3.5-vision-instruct"
+    "hf_microsoft_Phi-3.5-vision-instruct",
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "vision-language-action": [
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
