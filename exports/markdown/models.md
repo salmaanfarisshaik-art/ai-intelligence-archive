@@ -7820,6 +7820,10 @@
 - **ID**: model_unsloth_qwen3_235b_a22b_gguf
 - **Source**: 
 
+## unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF
+- **ID**: model_unsloth_qwen3_235b_a22b_instruct_2507_gguf
+- **Source**: 
+
 ## unsloth/Qwen3-30B-A3B-GGUF
 - **ID**: model_unsloth_qwen3_30b_a3b_gguf
 - **Source**: 
@@ -8246,6 +8250,10 @@
 
 ## z-lab/Qwen3.5-4B-DFlash
 - **ID**: model_z_lab_qwen3_5_4b_dflash
+- **Source**: 
+
+## z-lab/Qwen3.5-9B-DFlash
+- **ID**: model_z_lab_qwen3_5_9b_dflash
 - **Source**: 
 
 ## z-lab/Qwen3.6-27B-DFlash

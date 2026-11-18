@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2f71a2e2e5f5df9a777e3c19465cb8fe4026408b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tGround3D Dataset\n\t\n\nA large-scale 3D vision-language question-answering dataset for point-grounded,\nmetric-aware 3D scene understanding. Built on ScanNet and ScanNet++\nwith dense object and part annotations, the dataset spans eight downstream\nreasoning tasks at both object and part granularity, plus multi-turn\ndialogue that composes them.\nAnswers are both:\n\npoint-grounded: explicitly tied to the referred 3D region via\n<p>label</p><SEG> markup, and\nmetric: physical quantities (size… See the full description on the dataset page: https://huggingface.co/datasets/amolharsh/Ground3D_Dataset.",
-  "downloads": 61342,
+  "downloads": 61380,
   "tags": [
     "task_categories:visual-question-answering",
     "task_categories:question-answering",

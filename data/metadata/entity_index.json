@@ -342659,6 +342659,38 @@
     "local_path": "datasets/open-cn-llm-leaderboard/hf_ds_65af8a3de50627e40c93389e.json"
   },
   {
+    "id": "hf_ds_65c1411cd4c3b8dff2e5e33c",
+    "title": "McGill-NLP/WebLINX-full",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2402.05930",
+      "convAI",
+      "conversational",
+      "image",
+      "image-to-text",
+      "language:en",
+      "modality:image",
+      "modality:text",
+      "modality:video",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "text",
+      "video",
+      "vision"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/McGill-NLP"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/McGill-NLP/WebLINX-full",
+    "local_path": "datasets/mcgill-nlp/hf_ds_65c1411cd4c3b8dff2e5e33c.json"
+  },
+  {
     "id": "hf_ds_65c7e3da4451e58b8ded6212",
     "title": "espnet/yodas",
     "category": "dataset",
@@ -345442,6 +345474,29 @@
     "local_path": "datasets/maynor996/hf_ds_696dc1fee7a76925b95bba1d.json"
   },
   {
+    "id": "hf_ds_697716f663bd3f05cc3c7760",
+    "title": "VoiceOfML/VOMEBOOK",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:gpl-3.0",
+      "modality:document",
+      "modality:image",
+      "region:us",
+      "size_categories:10K<n<100K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/VoiceOfML"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/VoiceOfML/VOMEBOOK",
+    "local_path": "datasets/voiceofml/hf_ds_697716f663bd3f05cc3c7760.json"
+  },
+  {
     "id": "hf_ds_69822b12f4c99fc122169639",
     "title": "utter-project/EuroWeb-2512",
     "category": "dataset",
@@ -345538,19 +345593,13 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
-      "format:parquet",
       "leaderboards",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:pandas",
-      "library:polars",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -346221,6 +346270,30 @@
     "local_path": "datasets/57xj5shr/hf_ds_69c83627a52ab2757b1a6d90.json"
   },
   {
+    "id": "hf_ds_69c94788f69be9b927cace92",
+    "title": "meloqiao/us-stock-data",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "modality:tabular",
+      "region:us",
+      "size_categories:100K<n<1M"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/meloqiao/us-stock-data",
+    "local_path": "datasets/meloqiao/hf_ds_69c94788f69be9b927cace92.json"
+  },
+  {
     "id": "hf_ds_69cd2a3acc9af6d091c033f0",
     "title": "ayuo/hd_tmp",
     "category": "dataset",
@@ -346383,12 +346456,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:text",
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:text",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -348088,11 +348156,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:video",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -384055,6 +384119,16 @@
     "local_path": "models/unsloth/model_unsloth_qwen3_235b_a22b_gguf.json"
   },
   {
+    "id": "model_unsloth_qwen3_235b_a22b_instruct_2507_gguf",
+    "title": "unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/unsloth/model_unsloth_qwen3_235b_a22b_instruct_2507_gguf.json"
+  },
+  {
     "id": "model_unsloth_qwen3_30b_a3b_gguf",
     "title": "unsloth/Qwen3-30B-A3B-GGUF",
     "category": "models",
@@ -385123,6 +385197,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/z-lab/model_z_lab_qwen3_5_4b_dflash.json"
+  },
+  {
+    "id": "model_z_lab_qwen3_5_9b_dflash",
+    "title": "z-lab/Qwen3.5-9B-DFlash",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/z-lab/model_z_lab_qwen3_5_9b_dflash.json"
   },
   {
     "id": "model_z_lab_qwen3_6_27b_dflash",
@@ -660042,6 +660126,21 @@
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_advancing-ai-safety-through-state-and-federal-action.json"
   },
   {
+    "id": "rss_https://openai.com/index/advancing-chip-design-with-our-models",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_advancing-chip-design-with-our-models.json"
+  },
+  {
     "id": "rss_https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "title": "",
     "category": "news",
@@ -668350,6 +668449,21 @@
     },
     "source_url": "https://openai.com/index/inside-our-in-house-data-agent",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_inside-our-in-house-data-agent.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/inside-the-codex-sandbox",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_inside-the-codex-sandbox.json"
   },
   {
     "id": "rss_https://openai.com/index/insights-from-global-conversations",
@@ -677860,6 +677974,21 @@
     },
     "source_url": "https://openai.com/index/the-power-of-continuous-learning",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_the-power-of-continuous-learning.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/the-silent-consensus",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/the-silent-consensus",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_the-silent-consensus.json"
   },
   {
     "id": "rss_https://openai.com/index/the-work-now-within-reach",

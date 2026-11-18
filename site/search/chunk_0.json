@@ -2362,6 +2362,13 @@
       "score": 2.0
     }
   ],
+  "0009": [
+    {
+      "entity_id": "dataset_theusamaaslam_urdu_callsqa_private",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "000ft": [
     {
       "entity_id": "alpaca_-6757154689627622518",
@@ -3663,6 +3670,11 @@
   "01318": [
     {
       "entity_id": "dataset_jailbreakbench_jbb_behaviors",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mml_group_pavebench",
       "match_type": "exact",
       "score": 1.5
     }
@@ -5127,6 +5139,13 @@
       "score": 1.0
     }
   ],
+  "02804": [
+    {
+      "entity_id": "dataset_mml_group_pavebench",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "02807": [
     {
       "entity_id": "dataset_ifm_megamath",
@@ -6319,6 +6338,13 @@
       "score": 2.5
     }
   ],
+  "03806": [
+    {
+      "entity_id": "dataset_jialelin2007_tex_1500",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "03822": [
     {
       "entity_id": "dataset_rajpurkar_squad_v2",
@@ -7340,6 +7366,11 @@
       "entity_id": "alpaca_-7457987344318941334",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "04761": [
@@ -7357,6 +7388,11 @@
     }
   ],
   "048": [
+    {
+      "entity_id": "dataset_lhpku20010120_omni_edu",
+      "match_type": "exact",
+      "score": 1.0
+    },
     {
       "entity_id": "dataset_nodemind_shadow_o_logits_20b",
       "match_type": "exact",
@@ -7553,6 +7589,13 @@
       "entity_id": "dataset_yuanm1135_dsert_roll",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "05014": [
+    {
+      "entity_id": "dataset_calm_dataset_calm_scenarios",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "05019": [
@@ -7817,6 +7860,13 @@
   "05207": [
     {
       "entity_id": "dataset_syn4d_syn4d",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "05209": [
+    {
+      "entity_id": "dataset_vsevolodpl_repid",
       "match_type": "exact",
       "score": 1.5
     }
@@ -8997,13 +9047,6 @@
       "entity_id": "dataset_tiiuae_falcon_refinedweb",
       "match_type": "exact",
       "score": 1.5
-    }
-  ],
-  "065": [
-    {
-      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "06501": [
@@ -13113,11 +13156,6 @@
     },
     {
       "entity_id": "model_stefanruseti_newsvibe_categories_multilingual_llama_1b",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "model_trl_internal_testing_tiny_random_llamaforcausallm",
       "match_type": "exact",
       "score": 1.5
     },

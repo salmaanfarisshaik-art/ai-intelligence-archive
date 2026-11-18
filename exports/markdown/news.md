@@ -811,6 +811,11 @@
 - **URL**: [https://openai.com/index/advancing-ai-safety-through-state-and-federal-action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)
 
 ## 
+- **ID**: rss_https://openai.com/index/advancing-chip-design-with-our-models
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/advancing-chip-design-with-our-models](https://openai.com/index/advancing-chip-design-with-our-models)
+
+## 
 - **ID**: rss_https://openai.com/index/advancing-computer-use-for-healthcare-teams
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/advancing-computer-use-for-healthcare-teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
@@ -3579,6 +3584,11 @@
 - **ID**: rss_https://openai.com/index/inside-our-in-house-data-agent
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/inside-our-in-house-data-agent](https://openai.com/index/inside-our-in-house-data-agent)
+
+## 
+- **ID**: rss_https://openai.com/index/inside-the-codex-sandbox
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/inside-the-codex-sandbox](https://openai.com/index/inside-the-codex-sandbox)
 
 ## 
 - **ID**: rss_https://openai.com/index/insights-from-global-conversations
@@ -6749,6 +6759,11 @@
 - **ID**: rss_https://openai.com/index/the-power-of-continuous-learning
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/the-power-of-continuous-learning](https://openai.com/index/the-power-of-continuous-learning)
+
+## 
+- **ID**: rss_https://openai.com/index/the-silent-consensus
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/the-silent-consensus](https://openai.com/index/the-silent-consensus)
 
 ## 
 - **ID**: rss_https://openai.com/index/the-work-now-within-reach

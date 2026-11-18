@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:09:07.536718+00:00",
+  "generated_at": "2026-11-18T19:59:51.773771+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -150395,6 +150395,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_65c1411cd4c3b8dff2e5e33c",
+      "label": "McGill-NLP/WebLINX-full"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_65c7e3da4451e58b8ded6212",
       "label": "espnet/yodas"
     },
@@ -150895,6 +150900,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_697716f663bd3f05cc3c7760",
+      "label": "VoiceOfML/VOMEBOOK"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69822b12f4c99fc122169639",
       "label": "utter-project/EuroWeb-2512"
     },
@@ -151042,6 +151052,11 @@
       "category": "dataset",
       "id": "hf_ds_69c83627a52ab2757b1a6d90",
       "label": "57xj5SHr/Tui9DGhp"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_69c94788f69be9b927cace92",
+      "label": "meloqiao/us-stock-data"
     },
     {
       "category": "dataset",
@@ -168805,6 +168820,11 @@
     },
     {
       "category": "models",
+      "id": "model_unsloth_qwen3_235b_a22b_instruct_2507_gguf",
+      "label": "unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_unsloth_qwen3_30b_a3b_gguf",
       "label": "unsloth/Qwen3-30B-A3B-GGUF"
     },
@@ -169337,6 +169357,11 @@
       "category": "models",
       "id": "model_z_lab_qwen3_5_4b_dflash",
       "label": "z-lab/Qwen3.5-4B-DFlash"
+    },
+    {
+      "category": "models",
+      "id": "model_z_lab_qwen3_5_9b_dflash",
+      "label": "z-lab/Qwen3.5-9B-DFlash"
     },
     {
       "category": "models",
@@ -306330,6 +306355,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/index/advancing-chip-design-with-our-models",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "label": ""
     },
@@ -309096,6 +309126,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/inside-our-in-house-data-agent",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/inside-the-codex-sandbox",
       "label": ""
     },
     {
@@ -312266,6 +312301,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/the-power-of-continuous-learning",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/the-silent-consensus",
       "label": ""
     },
     {
@@ -467835,5 +467875,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 93566
+  "total_nodes": 93574
 }

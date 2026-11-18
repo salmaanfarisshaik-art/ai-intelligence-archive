@@ -9,7 +9,7 @@
   "private": false,
   "sha": "55a9e23b00e18c2d4582c853e2435d6ce310ecb5",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSketchGraphs 全量数据集镜像（sg_all.npy，15,020,918 条 CAD 草图序列）\n\t\n\n本仓库是 Princeton SketchGraphs 未过滤全量序列数据 sg_all.npy 的中转镜像，\n原始文件直连下载极慢（国内实测 <50 KB/s），故经 GitHub Actions 中转 备份至 HuggingFace。\n\nHuggingFace 数据集：https://huggingface.co/datasets/carvendxu/sketchgraphs-full（公开）\nGitHub 中转仓库：https://github.com/carvendy/sketchgraphs-full（workflow 分块下载脚本）\n原始来源：https://sketchgraphs.cs.princeton.edu/sequence/sg_all.npy（Princeton SketchGraphs 项目）\n许可：数据版权归 Onshape/原始作者所有，仅限学术研究用途（见 SketchGraphs 项目说明）… See the full description on the dataset page: https://huggingface.co/datasets/carvendxu/sketchgraphs-full.",
-  "downloads": 45382,
+  "downloads": 48827,
   "tags": [
     "region:us"
   ],

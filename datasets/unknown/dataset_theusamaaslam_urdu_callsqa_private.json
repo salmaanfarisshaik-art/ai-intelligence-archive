@@ -1,0 +1,32 @@
+{
+  "_id": "6ae1e9293f6d9aae82bba3bd",
+  "id": "theusamaaslam/urdu-callsqa-private",
+  "author": "theusamaaslam",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-16T11:08:57.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "6b0790975820d13e3d72b446b72db61e901984b0",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tCalls QA Urdu Speech\n\t\n\nInternal human call speech, curated separately from the organic Urdu collection.\nContains 69,810 clips / 441.0009 hours. Earlier strict clips\nmeasure 1-10 seconds; broader candidates measure 1-300 seconds. Access must remain private or gated. The exporter refuses\nan ungated public destination and never changes repository visibility or approval\nsettings. For a public gated repository, the dataset card is public while dataset\nfiles require access through the… See the full description on the dataset page: https://huggingface.co/datasets/theusamaaslam/urdu-callsqa-private.",
+  "downloads": 38242,
+  "tags": [
+    "task_categories:automatic-speech-recognition",
+    "task_categories:text-to-speech",
+    "language:ur",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:audio",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-10-28T12:23:05.000Z",
+  "key": "",
+  "unique_id": "dataset_theusamaaslam_urdu_callsqa_private",
+  "schema_version": "1.0"
+}

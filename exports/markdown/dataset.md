@@ -280,6 +280,12 @@
 - **URL**: [https://huggingface.co/datasets/open-cn-llm-leaderboard/requests](https://huggingface.co/datasets/open-cn-llm-leaderboard/requests)
 - **Tags**: license:apache-2.0, region:us
 
+## McGill-NLP/WebLINX-full
+- **ID**: hf_ds_65c1411cd4c3b8dff2e5e33c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/McGill-NLP/WebLINX-full](https://huggingface.co/datasets/McGill-NLP/WebLINX-full)
+- **Tags**: arxiv:2402.05930, convAI, conversational, image, image-to-text, language:en, modality:image, modality:text, modality:video, region:us, size_categories:10K<n<100K, text, video, vision
+
 ## espnet/yodas
 - **ID**: hf_ds_65c7e3da4451e58b8ded6212
 - **Source**: HuggingFace Datasets
@@ -880,6 +886,12 @@
 - **URL**: [https://huggingface.co/datasets/Maynor996/upload2](https://huggingface.co/datasets/Maynor996/upload2)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
 
+## VoiceOfML/VOMEBOOK
+- **ID**: hf_ds_697716f663bd3f05cc3c7760
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/VoiceOfML/VOMEBOOK](https://huggingface.co/datasets/VoiceOfML/VOMEBOOK)
+- **Tags**: license:gpl-3.0, modality:document, modality:image, region:us, size_categories:10K<n<100K
+
 ## utter-project/EuroWeb-2512
 - **ID**: hf_ds_69822b12f4c99fc122169639
 - **Source**: HuggingFace Datasets
@@ -908,7 +920,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, format:parquet, leaderboards, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1060,6 +1072,12 @@
 - **URL**: [https://huggingface.co/datasets/57xj5SHr/Tui9DGhp](https://huggingface.co/datasets/57xj5SHr/Tui9DGhp)
 - **Tags**: license:mit, region:us
 
+## meloqiao/us-stock-data
+- **ID**: hf_ds_69c94788f69be9b927cace92
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/meloqiao/us-stock-data](https://huggingface.co/datasets/meloqiao/us-stock-data)
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:tabular, region:us, size_categories:100K<n<1M
+
 ## ayuo/hd_tmp
 - **ID**: hf_ds_69cd2a3acc9af6d091c033f0
 - **Source**: HuggingFace Datasets
@@ -1100,7 +1118,7 @@
 - **ID**: hf_ds_69dea0a636a3f56ff6f91b7f
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/nyarlathotep12/MXStuff](https://huggingface.co/datasets/nyarlathotep12/MXStuff)
-- **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## babyhari/gt
 - **ID**: hf_ds_69e6aa6a6c2bdbeca4448187
@@ -1508,7 +1526,7 @@
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
-- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## miniiohinkimsavol/copyright-detection-videos
 - **ID**: hf_ds_6adf714965d27a395f029c31

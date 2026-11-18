@@ -1925,6 +1925,38 @@
     "local_path": "datasets/open-cn-llm-leaderboard/hf_ds_65af8a3de50627e40c93389e.json"
   },
   {
+    "id": "hf_ds_65c1411cd4c3b8dff2e5e33c",
+    "title": "McGill-NLP/WebLINX-full",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2402.05930",
+      "convAI",
+      "conversational",
+      "image",
+      "image-to-text",
+      "language:en",
+      "modality:image",
+      "modality:text",
+      "modality:video",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "text",
+      "video",
+      "vision"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/McGill-NLP"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/McGill-NLP/WebLINX-full",
+    "local_path": "datasets/mcgill-nlp/hf_ds_65c1411cd4c3b8dff2e5e33c.json"
+  },
+  {
     "id": "hf_ds_65c7e3da4451e58b8ded6212",
     "title": "espnet/yodas",
     "category": "dataset",
@@ -4708,6 +4740,29 @@
     "local_path": "datasets/maynor996/hf_ds_696dc1fee7a76925b95bba1d.json"
   },
   {
+    "id": "hf_ds_697716f663bd3f05cc3c7760",
+    "title": "VoiceOfML/VOMEBOOK",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:gpl-3.0",
+      "modality:document",
+      "modality:image",
+      "region:us",
+      "size_categories:10K<n<100K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/VoiceOfML"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/VoiceOfML/VOMEBOOK",
+    "local_path": "datasets/voiceofml/hf_ds_697716f663bd3f05cc3c7760.json"
+  },
+  {
     "id": "hf_ds_69822b12f4c99fc122169639",
     "title": "utter-project/EuroWeb-2512",
     "category": "dataset",
@@ -4804,19 +4859,13 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
-      "format:parquet",
       "leaderboards",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:pandas",
-      "library:polars",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -5487,6 +5536,30 @@
     "local_path": "datasets/57xj5shr/hf_ds_69c83627a52ab2757b1a6d90.json"
   },
   {
+    "id": "hf_ds_69c94788f69be9b927cace92",
+    "title": "meloqiao/us-stock-data",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "modality:tabular",
+      "region:us",
+      "size_categories:100K<n<1M"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/meloqiao/us-stock-data",
+    "local_path": "datasets/meloqiao/hf_ds_69c94788f69be9b927cace92.json"
+  },
+  {
     "id": "hf_ds_69cd2a3acc9af6d091c033f0",
     "title": "ayuo/hd_tmp",
     "category": "dataset",
@@ -5649,12 +5722,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:text",
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:text",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -7354,11 +7422,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:video",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],

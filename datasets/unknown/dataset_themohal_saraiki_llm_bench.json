@@ -1,0 +1,32 @@
+{
+  "_id": "6ac5b45237365d0081e52b69",
+  "id": "themohal/saraiki-llm-bench",
+  "author": "themohal",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-18T10:44:25.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "1c5a63c0e1eefa24e80dd7152a0cf1a09ca0a4aa",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tSaraiki LLM Benchmark v1.0\n\t\n\nA seven-task benchmark for evaluating language models in Saraiki (Jataki/Multani, Shahmukhi script).\n\nEvaluation only. Do not train on this dataset.\n\nMultiple-choice and math configs include a small dev split that serves as the few-shot examples (5 shots, or 8 for math). instruction_following and truthfulness_safety are 0-shot and have only a test split.\n\n\t\n\t\t\n\t\n\t\n\t\tTasks\n\t\n\n\n\t\n\t\t\nConfig\nSource (license)\nScoring\n\n\n\t\t\nknowledge\nMMLU, culturally neutral… See the full description on the dataset page: https://huggingface.co/datasets/themohal/saraiki-llm-bench.",
+  "downloads": 38537,
+  "tags": [
+    "task_categories:question-answering",
+    "task_categories:multiple-choice",
+    "task_categories:text-generation",
+    "language:skr",
+    "license:cc-by-sa-4.0",
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-10-07T02:54:10.000Z",
+  "key": "",
+  "unique_id": "dataset_themohal_saraiki_llm_bench",
+  "schema_version": "1.0"
+}
