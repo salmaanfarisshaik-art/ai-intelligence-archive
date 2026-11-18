@@ -255,6 +255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.20502v2](http://arxiv.org/abs/2602.20502v2)
 
+## Evaluating and Understanding Scheming Propensity in LLM Agents
+- **ID**: arxiv_2603.01608v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.01608v3](http://arxiv.org/abs/2603.01608v3)
+
 ## Conformal Policy Control
 - **ID**: arxiv_2603.02196v4
 - **Source**: ArXiv
@@ -5384,4 +5389,54 @@
 - **ID**: arxiv_2611.21545v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.21545v1](http://arxiv.org/abs/2611.21545v1)
+
+## LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model
+- **ID**: arxiv_2611.22131v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22131v1](http://arxiv.org/abs/2611.22131v1)
+
+## Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions
+- **ID**: arxiv_2611.22136v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22136v1](http://arxiv.org/abs/2611.22136v1)
+
+## Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)
+- **ID**: arxiv_2611.22148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22148v1](http://arxiv.org/abs/2611.22148v1)
+
+## Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents
+- **ID**: arxiv_2611.22169v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22169v1](http://arxiv.org/abs/2611.22169v1)
+
+## Readie: Low-Latency Code Sandboxes for AI Agents
+- **ID**: arxiv_2611.22171v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22171v1](http://arxiv.org/abs/2611.22171v1)
+
+## Reconfiguring Procedural Knowledge for Compositional Robot Skill Adaptation
+- **ID**: arxiv_2611.22174v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22174v1](http://arxiv.org/abs/2611.22174v1)
+
+## The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News
+- **ID**: arxiv_2611.22177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22177v1](http://arxiv.org/abs/2611.22177v1)
+
+## CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting
+- **ID**: arxiv_2611.22178v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22178v1](http://arxiv.org/abs/2611.22178v1)
+
+## RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't
+- **ID**: arxiv_2611.22179v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22179v1](http://arxiv.org/abs/2611.22179v1)
+
+## Fine-Grained Japanese Clinical Named Entity Recognition: A Controlled Comparison of BERT and Open-Weight Large Language Models
+- **ID**: arxiv_2611.22219v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22219v1](http://arxiv.org/abs/2611.22219v1)
 

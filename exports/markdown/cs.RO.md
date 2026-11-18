@@ -965,6 +965,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13945v1](http://arxiv.org/abs/2610.13945v1)
 
+## Let the Mind Conceive, Let the Hand Achieve: Coupling Grounded Action and Progress Evaluation for Long-Horizon Manipulation
+- **ID**: arxiv_2610.18352v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18352v2](http://arxiv.org/abs/2610.18352v2)
+
 ## SEAR: Self-Evolving Agentic Robotics
 - **ID**: arxiv_2610.18792v1
 - **Source**: ArXiv
@@ -1265,6 +1270,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08449v1](http://arxiv.org/abs/2611.08449v1)
 
+## Goodhart in the Planner: Sampling-Based Control Exploits Rewards Learned from Human Preferences
+- **ID**: arxiv_2611.09670v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09670v3](http://arxiv.org/abs/2611.09670v3)
+
 ## Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation
 - **ID**: arxiv_2611.09794v1
 - **Source**: ArXiv
@@ -1314,4 +1324,14 @@
 - **ID**: arxiv_2611.21517v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.21517v1](http://arxiv.org/abs/2611.21517v1)
+
+## DailyBrick: Language-Guided Synthesis of Brick Assembly Instructions
+- **ID**: arxiv_2611.22132v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22132v1](http://arxiv.org/abs/2611.22132v1)
+
+## RoboTeam: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time
+- **ID**: arxiv_2611.22138v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22138v1](http://arxiv.org/abs/2611.22138v1)
 

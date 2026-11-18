@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.00024v3",
+  "schema_version": "1.0",
+  "name": "WHBench: Evaluating Frontier LLMs with Expert-in-the-Loop Validation on Women's Health Topics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.00024v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.00024v3",
+    "updated": "2026-11-17T04:47:58Z",
+    "published": "2026-03-11T06:21:37Z",
+    "title": "WHBench: Evaluating Frontier LLMs with Expert-in-the-Loop Validation on Women's Health Topics",
+    "summary": "Large language models are increasingly used for medical guidance, but women's health remains under-evaluated in benchmark design. We present the Women's Health Benchmark (WHBench), a targeted evaluation suite of 47 expert-crafted scenarios across 10 women's health topics, designed to expose clinically meaningful failure modes including outdated guidelines, unsafe omissions, dosing errors, and equity-related blind spots. We evaluate 22 models using a 23-criterion rubric spanning clinical accuracy, completeness, safety, communication quality, instruction following, equity, uncertainty handling, and guideline adherence, with safety-weighted penalties and server-side score recalculation. Across 3,102 attempted responses (3,100 scored), no model mean performance exceeds 75 percent; the best model reaches 72.1 percent. Even top models show low fully correct rates and substantial variation in harm rates. Inter-rater reliability is moderate at the response label level but high for model ranking, supporting WHBench utility for comparative system evaluation while highlighting the need for expert oversight in clinical deployment. WHBench provides a public, failure-mode-aware benchmark to track safer and more equitable progress in womens health AI.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-18T02:44:06Z",
+  "last_updated": "2026-11-17T04:47:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.00024v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

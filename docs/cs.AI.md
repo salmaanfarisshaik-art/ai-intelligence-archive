@@ -234,6 +234,7 @@
 | [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](http://arxiv.org/abs/2608.06305v1) | ArXiv |  | 1 |
 | [Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](http://arxiv.org/abs/2608.06300v1) | ArXiv |  | 1 |
 | [BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](http://arxiv.org/abs/2610.06846v1) | ArXiv |  | 1 |
+| [Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions](http://arxiv.org/abs/2611.22136v1) | ArXiv |  | 1 |
 | [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](http://arxiv.org/abs/2609.02750v1) | ArXiv |  | 1 |
 | [BioPro: Towards Difference-Aware Gender Fairness for Vision-Language Models](http://arxiv.org/abs/2512.00807v2) | ArXiv |  | 1 |
 | [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](http://arxiv.org/abs/2607.19262v1) | ArXiv |  | 1 |
@@ -316,6 +317,7 @@
 | [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](http://arxiv.org/abs/2611.17316v1) | ArXiv |  | 1 |
 | [CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases](http://arxiv.org/abs/2608.27391v1) | ArXiv |  | 1 |
 | [Corralling AI Risks with Grassroots Contracts](http://arxiv.org/abs/2611.06374v1) | ArXiv |  | 1 |
+| [CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting](http://arxiv.org/abs/2611.22178v1) | ArXiv |  | 1 |
 | [Correcting a learned physical invariant improves world-model rollouts](http://arxiv.org/abs/2608.23526v1) | ArXiv |  | 1 |
 | [Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection](http://arxiv.org/abs/2609.15989v1) | ArXiv |  | 1 |
 | [Cortex-FL: Agent-Mediated Collaboration for Federated Learning](http://arxiv.org/abs/2611.17186v1) | ArXiv |  | 1 |
@@ -398,6 +400,7 @@
 | [Et Tu, Brute? Economic Misalignment in Personal AI Agents](http://arxiv.org/abs/2609.24927v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
 | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](http://arxiv.org/abs/2606.30219v4) | ArXiv |  | 1 |
+| [Evaluating and Understanding Scheming Propensity in LLM Agents](http://arxiv.org/abs/2603.01608v3) | ArXiv |  | 1 |
 | [Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning](http://arxiv.org/abs/2611.14419v1) | ArXiv |  | 1 |
 | [Evaluating Rational Contracting in Natural Language](http://arxiv.org/abs/2608.10475v2) | ArXiv |  | 1 |
 | [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?](http://arxiv.org/abs/2610.22333v1) | ArXiv |  | 1 |
@@ -434,6 +437,7 @@
 | [FedReady: Bounded Agents for Federation Formation](http://arxiv.org/abs/2611.03586v1) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
 | [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v1) | ArXiv |  | 1 |
+| [Fine-Grained Japanese Clinical Named Entity Recognition: A Controlled Comparison of BERT and Open-Weight Large Language Models](http://arxiv.org/abs/2611.22219v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
 | [First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint](http://arxiv.org/abs/2605.02827v2) | ArXiv |  | 1 |
 | [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](http://arxiv.org/abs/2608.07437v1) | ArXiv |  | 1 |
@@ -611,11 +615,13 @@
 | [LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams](http://arxiv.org/abs/2609.05327v1) | ArXiv |  | 1 |
 | [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) | ArXiv |  | 1 |
 | [LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](http://arxiv.org/abs/2608.29612v1) | ArXiv |  | 1 |
+| [LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model](http://arxiv.org/abs/2611.22131v1) | ArXiv |  | 1 |
 | [LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion](http://arxiv.org/abs/2611.12775v1) | ArXiv |  | 1 |
 | [LOGIC: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration](http://arxiv.org/abs/2601.15397v4) | ArXiv |  | 1 |
 | [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes](http://arxiv.org/abs/2607.18228v1) | ArXiv |  | 1 |
 | [LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics](http://arxiv.org/abs/2603.24929v2) | ArXiv |  | 1 |
 | [Logos: An Agent Harness on a Cross-Process Bus](http://arxiv.org/abs/2608.28553v1) | ArXiv |  | 1 |
+| [Long-Context Generation Is a Sampling Problem (When You Turn Up the Heat)](http://arxiv.org/abs/2611.22148v1) | ArXiv |  | 1 |
 | [Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration](http://arxiv.org/abs/2608.11195v1) | ArXiv |  | 1 |
 | [Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration](http://arxiv.org/abs/2608.11195v2) | ArXiv |  | 1 |
 | [Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions](http://arxiv.org/abs/2608.02491v1) | ArXiv |  | 1 |
@@ -682,6 +688,7 @@
 | [NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](http://arxiv.org/abs/2610.03631v1) | ArXiv |  | 1 |
 | [NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding](http://arxiv.org/abs/2610.32881v1) | ArXiv |  | 1 |
 | [Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance](http://arxiv.org/abs/2608.27340v1) | ArXiv |  | 1 |
+| [Not All Evidence Is Admissible: Evidence Governance for Tool-Augmented Medical Agents](http://arxiv.org/abs/2611.22169v1) | ArXiv |  | 1 |
 | [Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines](http://arxiv.org/abs/2608.29589v1) | ArXiv |  | 1 |
 | [NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma](http://arxiv.org/abs/2611.08369v1) | ArXiv |  | 1 |
 | [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1) | ArXiv |  | 1 |
@@ -770,6 +777,7 @@
 | [QuoteBench: How Matched Scores Can Hide Command-Path Failures](http://arxiv.org/abs/2608.13547v1) | ArXiv |  | 1 |
 | [RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons](http://arxiv.org/abs/2608.24758v1) | ArXiv |  | 1 |
 | [RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents](http://arxiv.org/abs/2609.20754v1) | ArXiv |  | 1 |
+| [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't](http://arxiv.org/abs/2611.22179v1) | ArXiv |  | 1 |
 | [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](http://arxiv.org/abs/2606.16925v1) | ArXiv |  | 1 |
 | [Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs](http://arxiv.org/abs/2610.40551v1) | ArXiv |  | 1 |
 | [RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](http://arxiv.org/abs/2605.11151v3) | ArXiv |  | 1 |
@@ -777,6 +785,7 @@
 | [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics](http://arxiv.org/abs/2610.13889v1) | ArXiv |  | 1 |
 | [Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game](http://arxiv.org/abs/2611.14487v1) | ArXiv |  | 1 |
 | [Read the Room Before Your Model Generates](http://arxiv.org/abs/2610.18820v1) | ArXiv |  | 1 |
+| [Readie: Low-Latency Code Sandboxes for AI Agents](http://arxiv.org/abs/2611.22171v1) | ArXiv |  | 1 |
 | [Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum](http://arxiv.org/abs/2603.05614v2) | ArXiv |  | 1 |
 | [Real-Time Detection and Repair of LLM Agent Failures](http://arxiv.org/abs/2608.02464v1) | ArXiv |  | 1 |
 | [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](http://arxiv.org/abs/2607.24649v1) | ArXiv |  | 1 |
@@ -788,6 +797,7 @@
 | [Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models](http://arxiv.org/abs/2606.10949v2) | ArXiv |  | 1 |
 | [RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing](http://arxiv.org/abs/2610.10507v1) | ArXiv |  | 1 |
 | [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](http://arxiv.org/abs/2608.31077v1) | ArXiv |  | 1 |
+| [Reconfiguring Procedural Knowledge for Compositional Robot Skill Adaptation](http://arxiv.org/abs/2611.22174v1) | ArXiv |  | 1 |
 | [Recurrent GraphNeural NetworkswithSet-BasedAggregation](http://arxiv.org/abs/2609.15932v1) | ArXiv |  | 1 |
 | [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) | ArXiv |  | 1 |
 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](http://arxiv.org/abs/2608.03972v1) | ArXiv |  | 1 |
@@ -954,6 +964,7 @@
 | [The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping](http://arxiv.org/abs/2608.06361v1) | ArXiv |  | 1 |
 | [The Natural Language Interaction Protocol and Standard for AI Agents](http://arxiv.org/abs/2609.04135v1) | ArXiv |  | 1 |
 | [The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents](http://arxiv.org/abs/2610.24873v1) | ArXiv |  | 1 |
+| [The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News](http://arxiv.org/abs/2611.22177v1) | ArXiv |  | 1 |
 | [The Past and Future of AI Scientists](http://arxiv.org/abs/2608.14407v1) | ArXiv |  | 1 |
 | [The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI](http://arxiv.org/abs/2611.08428v1) | ArXiv |  | 1 |
 | [The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents](http://arxiv.org/abs/2607.22520v1) | ArXiv |  | 1 |

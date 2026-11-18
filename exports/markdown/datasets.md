@@ -737,6 +737,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_arabalika_us_rent_history
+- **Source**: 
+
+## 
 - **ID**: dataset_arcinstitute_opengenome2
 - **Source**: 
 
@@ -1265,6 +1269,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bitrobot_robomocap
+- **Source**: 
+
+## 
 - **ID**: dataset_bk939448_system_arc_data
 - **Source**: 
 
@@ -1722,6 +1730,10 @@
 
 ## 
 - **ID**: dataset_codepawl_abo_glb
+- **Source**: 
+
+## 
+- **ID**: dataset_codepawl_simready_glb
 - **Source**: 
 
 ## 
@@ -2374,6 +2386,10 @@
 
 ## 
 - **ID**: dataset_emmyc2_psp
+- **Source**: 
+
+## 
+- **ID**: dataset_enalis_leafbenchv2
 - **Source**: 
 
 ## 
@@ -3074,6 +3090,10 @@
 
 ## 
 - **ID**: dataset_graphite_ai_graphite_past_problems
+- **Source**: 
+
+## 
+- **ID**: dataset_greennode_greenocr_dataset
 - **Source**: 
 
 ## 
@@ -3826,6 +3846,10 @@
 
 ## 
 - **ID**: dataset_iamtarun_python_code_instructions_18k_alpaca
+- **Source**: 
+
+## 
+- **ID**: dataset_ibm_granite_chartnet
 - **Source**: 
 
 ## 
@@ -5213,6 +5237,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icey444_retdata
+- **Source**: 
+
+## 
 - **ID**: dataset_icml_2026_agent_repro_challenge
 - **Source**: 
 
@@ -6581,6 +6609,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lyzenghq_banned_historical_archives
+- **Source**: 
+
+## 
 - **ID**: dataset_lyzenghq_low_priority
 - **Source**: 
 
@@ -6718,6 +6750,10 @@
 
 ## 
 - **ID**: dataset_manu_project_gutenberg
+- **Source**: 
+
+## 
+- **ID**: dataset_manus4oher_cia_declassified_reading_room
 - **Source**: 
 
 ## 
@@ -7710,6 +7746,10 @@
 
 ## 
 - **ID**: dataset_nvidia_openmathreasoning
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_opensciencereasoning_2
 - **Source**: 
 
 ## 
@@ -9197,6 +9237,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sandflow_sand3d_articraft
+- **Source**: 
+
+## 
 - **ID**: dataset_sandflow_sand3d_cad
 - **Source**: 
 
@@ -9218,6 +9262,10 @@
 
 ## 
 - **ID**: dataset_saraghznfri_unisim_data
+- **Source**: 
+
+## 
+- **ID**: dataset_sarkau_imgmt_dataset_for_evaluating_text_image_translation
 - **Source**: 
 
 ## 
@@ -9853,6 +9901,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sysu_ai_sake_twitter
+- **Source**: 
+
+## 
 - **ID**: dataset_sysuyy_imgedit
 - **Source**: 
 
@@ -10102,6 +10154,14 @@
 
 ## 
 - **ID**: dataset_tiagozip_bilibili
+- **Source**: 
+
+## 
+- **ID**: dataset_tiagozip_bluesky
+- **Source**: 
+
+## 
+- **ID**: dataset_tiagozip_vk
 - **Source**: 
 
 ## 
@@ -11294,6 +11354,10 @@
 
 ## 
 - **ID**: dataset_ziyjiang_mmeb_test_instruct
+- **Source**: 
+
+## 
+- **ID**: dataset_zizc3_liveshell_community
 - **Source**: 
 
 ## 

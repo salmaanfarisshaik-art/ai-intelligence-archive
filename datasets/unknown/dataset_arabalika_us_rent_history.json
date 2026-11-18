@@ -4,10 +4,10 @@
   "author": "arabalika",
   "disabled": false,
   "gated": "manual",
-  "lastModified": "2026-11-17T02:15:10.000Z",
+  "lastModified": "2026-11-18T02:15:51.000Z",
   "likes": 2,
   "private": false,
-  "sha": "1a1961f80aee775bc0de3490d3545e4e8ab6d49e",
+  "sha": "193d38dadd042431168eb49747e0dabc64e19907",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUS rent history\n\t\n\nDaily snapshots of US rental listings, down to individual units. One partition per\nday (date=YYYY-MM-DD); rows carry observed_date.\n\n\t\n\t\t\ntable\none row per\nmain columns\n\n\n\t\t\nproperty_obs\nlisting × day\nkey, name, address, city, state, zip, lat, lng, property_type, total_units, units_available, price_min/price_max, deals_json, fees_json, is_unpaid\n\n\nfloorplan_obs\nfloor plan × day\nkey, floorplan_id, bed_count, bath_count, sqft_min/sqft_max… See the full description on the dataset page: https://huggingface.co/datasets/arabalika/us-rent-history.",
   "downloads": 38596,
   "tags": [

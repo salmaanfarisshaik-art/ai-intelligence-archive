@@ -1770,6 +1770,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00861v2](http://arxiv.org/abs/2607.00861v2)
 
+## From Formulas to Protocols: A Compositional View of Binary Target Segmentation Metrics
+- **ID**: arxiv_2607.00886v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00886v2](http://arxiv.org/abs/2607.00886v2)
+
 ## Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning
 - **ID**: arxiv_2607.01191v2
 - **Source**: ArXiv
@@ -7125,6 +7130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29590v1](http://arxiv.org/abs/2610.29590v1)
 
+## SemQAM: A Unified Generative Image Codec for Joint Semantic-Channel Coding and Modulation
+- **ID**: arxiv_2610.29643v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29643v2](http://arxiv.org/abs/2610.29643v2)
+
 ## RealMe: Immersive Volumetric Video from Minimal Captures
 - **ID**: arxiv_2610.30023v1
 - **Source**: ArXiv
@@ -8295,6 +8305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19213v1](http://arxiv.org/abs/2611.19213v1)
 
+## TIVS: Mapping the Sensitivity Landscape of Visual Token Transformations in MLLMs
+- **ID**: arxiv_2611.19745v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19745v2](http://arxiv.org/abs/2611.19745v2)
+
 ## Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits
 - **ID**: arxiv_2611.21485v1
 - **Source**: ArXiv
@@ -8344,4 +8359,54 @@
 - **ID**: arxiv_2611.21605v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.21605v1](http://arxiv.org/abs/2611.21605v1)
+
+## CEVA: Complementary Evidence Verification via Frame-Level Reorganization for Short-Video Fake News Detection
+- **ID**: arxiv_2611.22141v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22141v1](http://arxiv.org/abs/2611.22141v1)
+
+## EgoHandWAM: Probing the Role of Hand Motion in Egocentric World Action Modeling
+- **ID**: arxiv_2611.22151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22151v1](http://arxiv.org/abs/2611.22151v1)
+
+## Unsupervised Multi-modal Medical Image Registration via Invertible Translation
+- **ID**: arxiv_2611.22152v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22152v1](http://arxiv.org/abs/2611.22152v1)
+
+## Centroid Spectral Coupling: Implicit Alignment and Representation Diversity in Self-Supervised Learning
+- **ID**: arxiv_2611.22158v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22158v1](http://arxiv.org/abs/2611.22158v1)
+
+## HandRSI: Recursive Self-Improvement for Hand Pose Estimation
+- **ID**: arxiv_2611.22164v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22164v1](http://arxiv.org/abs/2611.22164v1)
+
+## CueClash: Frontier Vision-Language Models Judge 3-D Relations Close to the Picture Plane
+- **ID**: arxiv_2611.22180v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22180v1](http://arxiv.org/abs/2611.22180v1)
+
+## SRED: Sparse Regional Evidence Distillation Across Magnifications in Whole-Slide Imaging
+- **ID**: arxiv_2611.22189v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22189v1](http://arxiv.org/abs/2611.22189v1)
+
+## MIRAGE: Motion Identity Reduction via Autoregressive Generative Encoding for Privacy-Preserving Skeleton-based Motion Data
+- **ID**: arxiv_2611.22200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22200v1](http://arxiv.org/abs/2611.22200v1)
+
+## ARG-Avatar: Animation-Rendering Guidance for Efficient Feedforward Avatar Reconstruction
+- **ID**: arxiv_2611.22207v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22207v1](http://arxiv.org/abs/2611.22207v1)
+
+## Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments
+- **ID**: arxiv_2611.22212v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22212v1](http://arxiv.org/abs/2611.22212v1)
 

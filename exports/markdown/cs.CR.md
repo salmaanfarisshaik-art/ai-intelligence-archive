@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.02999v6](http://arxiv.org/abs/2510.02999v6)
 
+## From Strategy Search to Policy Learning: MCTS-Guided Adversarial Co-Evolution for LLM Safety Alignment
+- **ID**: arxiv_2511.19218v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.19218v3](http://arxiv.org/abs/2511.19218v3)
+
 ## A Hybrid Insider Threat Detection Framework Combining Multi-Agent Simulation, Layered SIEM Correlation, and Theory-of-Mind Reasoning
 - **ID**: arxiv_2601.04243v2
 - **Source**: ArXiv
@@ -460,6 +465,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12463v1](http://arxiv.org/abs/2610.12463v1)
 
+## Natural Code Transformation Confuses Agents in Vulnerability Analysis
+- **ID**: arxiv_2610.14350v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14350v3](http://arxiv.org/abs/2610.14350v3)
+
 ## SkillScreen: High-Recall Screening of Malicious Agent Skills with Decision Models
 - **ID**: arxiv_2610.17727v3
 - **Source**: ArXiv
@@ -569,4 +579,9 @@
 - **ID**: arxiv_2611.21579v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.21579v1](http://arxiv.org/abs/2611.21579v1)
+
+## Is 4-Bit Quantization More Than Noise to a Chat Model's Safety Behaviour? Attributing Behavioural Shifts with Matched Perturbations
+- **ID**: arxiv_2611.22186v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22186v1](http://arxiv.org/abs/2611.22186v1)
 

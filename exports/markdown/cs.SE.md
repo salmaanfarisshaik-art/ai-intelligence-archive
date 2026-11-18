@@ -205,6 +205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07446v1](http://arxiv.org/abs/2608.07446v1)
 
+## Persistent Recursive Worlds Enable Autonomous Software Evolution
+- **ID**: arxiv_2608.10450v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10450v4](http://arxiv.org/abs/2608.10450v4)
+
 ## CAPRI: Contract-Aware Proof Repair for Isabelle
 - **ID**: arxiv_2608.13459v1
 - **Source**: ArXiv

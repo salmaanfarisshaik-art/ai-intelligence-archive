@@ -635,6 +635,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.21653v2](http://arxiv.org/abs/2605.21653v2)
 
+## PEARL: Unbiased Percentile Estimation via Contrastive Learning for Industrial-Scale Livestream Recommendation
+- **ID**: arxiv_2605.21752v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.21752v2](http://arxiv.org/abs/2605.21752v2)
+
 ## Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability
 - **ID**: arxiv_2605.22142v3
 - **Source**: ArXiv
@@ -699,6 +704,11 @@
 - **ID**: arxiv_2606.10466v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.10466v4](http://arxiv.org/abs/2606.10466v4)
+
+## ICA Lens: Non-Gaussianity Reveals Interpretable Directions in Language Models
+- **ID**: arxiv_2606.11722v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11722v3](http://arxiv.org/abs/2606.11722v3)
 
 ## Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training
 - **ID**: arxiv_2606.11854v2
@@ -1369,6 +1379,11 @@
 - **ID**: arxiv_2608.12307v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12307v1](http://arxiv.org/abs/2608.12307v1)
+
+## Sampling Luck Masquerades as Allocation Gain: Auditing Test-Time Budget Allocation for Neural Combinatorial Optimization
+- **ID**: arxiv_2608.13087v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13087v2](http://arxiv.org/abs/2608.13087v2)
 
 ## Concept Drift Detection and Adaptive Retraining of Malware Classification Models
 - **ID**: arxiv_2608.13465v1
@@ -3099,4 +3114,24 @@
 - **ID**: arxiv_2611.21608v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.21608v1](http://arxiv.org/abs/2611.21608v1)
+
+## When does deep reinforcement learning pay off in HVAC supervisory control? Four small Modelica case studies trained directly on FMUs
+- **ID**: arxiv_2611.22144v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22144v1](http://arxiv.org/abs/2611.22144v1)
+
+## What RL on Expert-Built Tasks Teaches Nemotron 3.5 Super
+- **ID**: arxiv_2611.22161v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22161v1](http://arxiv.org/abs/2611.22161v1)
+
+## Communicate the Change: Efficient Expert Parallelism via Activation Compression
+- **ID**: arxiv_2611.22215v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22215v1](http://arxiv.org/abs/2611.22215v1)
+
+## Learning Optimal Transport Plans Via Autoregressive Token Regression
+- **ID**: arxiv_2611.22218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22218v1](http://arxiv.org/abs/2611.22218v1)
 

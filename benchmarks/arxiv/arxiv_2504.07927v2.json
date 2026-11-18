@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2504.07927v2",
+  "schema_version": "1.0",
+  "name": "Physics-Aware Zero-Shot Learning for Low-Dose CT from a Single Sinogram",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2504.07927v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2504.07927v2",
+    "updated": "2026-11-17T04:19:30Z",
+    "published": "2025-04-10T17:42:01Z",
+    "title": "Physics-Aware Zero-Shot Learning for Low-Dose CT from a Single Sinogram",
+    "summary": "Low-dose computed tomography (CT) imaging remains a persistent challenge, especially under heterogeneous acquisition conditions. Zero-shot learning, which enables models to learn directly from individual images without external supervision, represents a compelling approach to mitigate distribution mismatches arising from variations in scanner hardware, imaging protocols, and patient demographics. However, most existing zero-shot approaches employ down-sampling operations that reduce spatial resolution and cause domain shifts, which become particularly evident when applied to raw sinogram data. Here, we propose a physics-aware zero-shot CT denoising framework to exploit the conjugate symmetry property intrinsic to CT sinograms. Conjugate X-ray pencil beams traverse identical anatomical paths and ideally yield the same expected attenuation values but with independent noise realizations. By randomly mapping sinogram values between conjugate-ray pairs, we synthesize structurally consistent yet noise-diverse sinogram pairs, enabling self-supervised network training without external data. The resulting lightweight denoising network demonstrates strong generalization across low-dose simulation, clinical helical CT, and preclinical photon-counting CT datasets. Quantitative and qualitative results demonstrate competitive denoising performance, with favorable noise suppression and structural preservation across diverse acquisition settings. This work establishes a generalizable and data-efficient paradigm for CT denoising that integrates physical redundancy into learning-based image reconstruction. The code for the proposed method is openly available at: https://github.com/shiyongyi/Physics-Aware-Zero-Shot-CT-Sinogram-Denoising",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-11-18T02:44:06Z",
+  "last_updated": "2026-11-17T04:19:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2504.07927v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

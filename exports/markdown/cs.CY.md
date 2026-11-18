@@ -195,3 +195,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18439v1](http://arxiv.org/abs/2611.18439v1)
 
+## Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems
+- **ID**: arxiv_2611.20140v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.20140v2](http://arxiv.org/abs/2611.20140v2)
+

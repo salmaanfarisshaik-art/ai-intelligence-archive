@@ -585,6 +585,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29123v4](http://arxiv.org/abs/2603.29123v4)
 
+## WHBench: Evaluating Frontier LLMs with Expert-in-the-Loop Validation on Women's Health Topics
+- **ID**: arxiv_2604.00024v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.00024v3](http://arxiv.org/abs/2604.00024v3)
+
 ## A Taxonomy of Programming Languages for Code Generation
 - **ID**: arxiv_2604.00239v3
 - **Source**: ArXiv
@@ -1905,6 +1910,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00013v4](http://arxiv.org/abs/2608.00013v4)
 
+## Role Steering of Language Models for Social Simulations
+- **ID**: arxiv_2608.00023v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00023v3](http://arxiv.org/abs/2608.00023v3)
+
 ## Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct
 - **ID**: arxiv_2608.00285v2
 - **Source**: ArXiv
@@ -2304,6 +2314,11 @@
 - **ID**: arxiv_2608.12278v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12278v1](http://arxiv.org/abs/2608.12278v1)
+
+## Query Timing Produces Opposite Positional Biases Between LLMs and Humans
+- **ID**: arxiv_2608.12387v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12387v2](http://arxiv.org/abs/2608.12387v2)
 
 ## Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity
 - **ID**: arxiv_2608.13484v1
@@ -3915,6 +3930,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38627v3](http://arxiv.org/abs/2609.38627v3)
 
+## Spike-driven Vision-Language-Action Model
+- **ID**: arxiv_2609.39514v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.39514v2](http://arxiv.org/abs/2609.39514v2)
+
 ## Zero-Compute Cross-Lingual Transferability Estimation Using Typological Feature Proxies
 - **ID**: arxiv_2609.39640v2
 - **Source**: ArXiv
@@ -5015,6 +5035,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42148v1](http://arxiv.org/abs/2610.42148v1)
 
+## Multi-Estimate Elicitation Does Not Uniformly Debias Language Model Judgments
+- **ID**: arxiv_2611.00597v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00597v3](http://arxiv.org/abs/2611.00597v3)
+
 ## Write Facts the Way Models Read Them: Lifting the Two-Hop Curse
 - **ID**: arxiv_2611.01519v4
 - **Source**: ArXiv
@@ -5419,4 +5444,19 @@
 - **ID**: arxiv_2611.21586v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.21586v1](http://arxiv.org/abs/2611.21586v1)
+
+## From Imperfective Paradox to Moorean Absurdity: Single-Chain Reasoning Lock-In and Multi-Candidate Verbalization Across Aspectual and Pragmatic Ambiguity
+- **ID**: arxiv_2611.22188v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22188v1](http://arxiv.org/abs/2611.22188v1)
+
+## RISA: Recoverable Sparse Attention for Block-Diffusion Language Models
+- **ID**: arxiv_2611.22191v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22191v1](http://arxiv.org/abs/2611.22191v1)
+
+## EGS: A Complementary Safety Framework for Educational LLMs
+- **ID**: arxiv_2611.22203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22203v1](http://arxiv.org/abs/2611.22203v1)
 

@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02814v2](http://arxiv.org/abs/2606.02814v2)
 
+## Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization
+- **ID**: arxiv_2606.04547v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.04547v4](http://arxiv.org/abs/2606.04547v4)
+
 ## How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations
 - **ID**: arxiv_2606.16973v1
 - **Source**: ArXiv

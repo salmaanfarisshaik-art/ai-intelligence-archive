@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2608.00023v3",
+  "schema_version": "1.0",
+  "name": "Role Steering of Language Models for Social Simulations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.00023v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.00023v3",
+    "updated": "2026-11-17T04:15:01Z",
+    "published": "2026-07-09T22:07:27Z",
+    "title": "Role Steering of Language Models for Social Simulations",
+    "summary": "Social simulations built from language-model agents need role-conditioned behavior that can be checked before agents are placed into a simulated population. We introduce an activation-steering screening workflow for role-conditioned agents: define a role profile, extract a role-specific direction, sweep four steering coefficients, evaluate role-profile alignment, and pass or flag each candidate configuration. On OLMo-3-7B-Instruct, we apply the workflow to a mixed 275-role inventory with 228 role-agnostic questions, GPT-4.1-mini prompted role references, and GPT-4.1-mini judges. We also introduce CastVectors, which receive higher judged role-profile alignment than an assistant-axis directional control from prior persona-vector work, with mean overall scores of 63.2 versus 41.1 across the tested grid. They also preserve high lexical diversity, while the control drops sharply at larger coefficients. The role-level screen is the main contribution: most roles improve as steering increases, but 38 roles decline across all six measured dimensions, showing why simulation builders should choose coefficients per role rather than deploy a uniform high-strength setting. Our code is available at https://github.com/HCAI-Lab-GT/casting-call-vectors, and the role vectors and evaluation data at https://huggingface.co/datasets/HCAI-Lab-GT/casting-call-vectors.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-18T02:44:06Z",
+  "last_updated": "2026-11-17T04:15:01Z",
+  "links": {
+    "related_models": [
+      "datasets/HCAI-Lab-GT"
+    ],
+    "related_papers": [
+      "2608.00023v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

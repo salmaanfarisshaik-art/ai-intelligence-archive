@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.39514v2",
+  "schema_version": "1.0",
+  "name": "Spike-driven Vision-Language-Action Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.39514v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.39514v2",
+    "updated": "2026-11-17T04:52:52Z",
+    "published": "2026-09-30T11:16:01Z",
+    "title": "Spike-driven Vision-Language-Action Model",
+    "summary": "Vision-language-action (VLA) models bridge multimodal understanding and robotic control, advancing the dominant paradigm for embodied intelligence. However, most existing models rely on large Transformers, whose latency and energy costs hinder deployment on resource-constrained platforms. Through sparse event-driven computation, spiking neural networks offer a promising paradigm for high-performance and energy-efficient computing. Here, we propose the first Spike-driven VLA framework enabling end-to-end direct training for robotic manipulation, which mainly comprises three core components. First, we develop spiking visual and instruction encoders for multimodal perception, encoding visual observations and language instructions into sparse, reliable spike representations for subsequent cross-modal fusion. Then, we introduce Multi-Winner Spike Fusion for instruction-guided scene understanding, using bidirectional top-$k$ winner-take-all spike routing to suppress background interference and yield fused memory. Finally, we propose a Spike Action Chunking Transformer that incorporates spiking cross-attention over the fused memory and the current robot state, enabling efficient end-to-end generation of continuous action chunks for robotic control. Extensive experiments on LIBERO and Meta-World demonstrate that Spike-driven VLA achieves competitive performance with fewer parameters and lower estimated inference energy than conventional VLA models. This work establishes a foundational framework for neuromorphic VLA modeling, paving the way for future advances in resource-efficient embodied intelligence.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-18T02:44:06Z",
+  "last_updated": "2026-11-17T04:52:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.39514v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

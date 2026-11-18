@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:29:51Z",
+  "generated_at": "2026-11-18T02:45:00Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2709,6 +2709,11 @@
     {
       "source_id": "model_devquasar_liquidai_lfm2_2_6b_transcript_gguf",
       "target_id": "hf_LiquidAI_LFM2-2.6B-Transcript",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dicplay_rusmind_momentum",
+      "target_id": "hf_google_gemma-4-E2B-it",
       "type": "derived_from"
     },
     {

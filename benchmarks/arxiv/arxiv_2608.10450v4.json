@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.10450v4",
+  "schema_version": "1.0",
+  "name": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.10450v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.10450v4",
+    "updated": "2026-11-17T03:48:34Z",
+    "published": "2026-08-11T04:04:00Z",
+    "title": "Persistent Recursive Worlds Enable Autonomous Software Evolution",
+    "summary": "Software systems accumulate dependencies and design commitments over time, while the agents that modify them operate within bounded sessions. How, then, can development remain cumulative across generations of transient agents? We introduce EvoX Genesis, which organizes development as a persistent recursive software world. Agents enter an accepted repository version, delegate work within local scopes, and submit changes for verification and parent review. Once accepted, those changes pass to later episodes together with the contracts and tests used to assess them. The project thus preserves both earlier work and a basis for evaluating what comes next. We examine this continuity through four studies of formation, continuation and redevelopment. Starting without compiler code, Genesis built a C compiler with 219,676 lines of Rust source through 1,019 agent episodes over 123.4 hours. Within this growing implementation, repairs increased passes on a fixed set of 100 Csmith programs from 61 to 93; a subsequent revision retained all 93 passes. Development also continued in a separate compiler lineage when DeepSeek V4 Flash inherited a GLM 5.2 snapshot. To examine continuity when the implementation itself changes, Genesis redeveloped selected MESA functionality in Rust, with numerical agreement assessed against the Fortran reference across six workloads. The WebGL trajectory, meanwhile, exposed both repairs and regressions as repeated checks recorded progress towards 2,017/2,019 conformance pages passed. A complementary EvoX Compiler case connects program-merging performance to executable graph and backend contracts. Together, these records trace how accepted work becomes a foundation for further development: later agents inherit both usable implementations and concrete ways to assess further revisions.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-11-18T02:44:06Z",
+  "last_updated": "2026-11-17T03:48:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.10450v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

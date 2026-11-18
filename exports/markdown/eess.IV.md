@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.13309v3](http://arxiv.org/abs/2503.13309v3)
 
+## Physics-Aware Zero-Shot Learning for Low-Dose CT from a Single Sinogram
+- **ID**: arxiv_2504.07927v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.07927v2](http://arxiv.org/abs/2504.07927v2)
+
 ## crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023
 - **ID**: arxiv_2506.12006v4
 - **Source**: ArXiv

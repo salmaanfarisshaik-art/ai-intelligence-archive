@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.29643v2",
+  "schema_version": "1.0",
+  "name": "SemQAM: A Unified Generative Image Codec for Joint Semantic-Channel Coding and Modulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.29643v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.29643v2",
+    "updated": "2026-11-17T03:14:13Z",
+    "published": "2026-10-21T12:25:37Z",
+    "title": "SemQAM: A Unified Generative Image Codec for Joint Semantic-Channel Coding and Modulation",
+    "summary": "Conventional digital image transmission typically optimizes source coding, channel coding, and modulation separately, limiting how source representations adapt to channel impairments. Such impairments can corrupt the latent representations recovered at the receiver and propagate through autoregressive coding, degrading reconstruction quality. We propose SemQAM, a unified generative image codec that supports conventional source coding and joint semantic-channel coding and modulation within a single model. SemQAM represents latent features using vector quantization (VQ), maps the resulting indices to QAM symbols, and updates the codeword selected by the detected index, encouraging easily confused symbols to represent similar latent features. We also use the conditional expectation of received codewords to approximate the receiver reconstruction at the transmitter, reducing error propagation during autoregressive coding without feedback. In the special case of noiseless transmission, SemQAM reduces to a conventional source codec called SemQAM-C. Experiments show that (i) SemQAM-C achieves lower bitrates than OneDC at matched LPIPS and DISTS, with approximately $27\\times$ faster decoding. (ii) Compared with the separated SemQAM-C system using LDPC and QAM, SemQAM further achieves BD-CBR savings of 30.85%, 28.06%, and 28.80% on LPIPS, DISTS, and FID, respectively, demonstrating the benefit of joint optimization.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-18T02:44:06Z",
+  "last_updated": "2026-11-17T03:14:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.29643v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
