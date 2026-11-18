@@ -235,6 +235,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.01927v3](http://arxiv.org/abs/2507.01927v3)
 
+## Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models
+- **ID**: arxiv_2507.10029v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.10029v3](http://arxiv.org/abs/2507.10029v3)
+
 ## DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations
 - **ID**: arxiv_2507.19474v2
 - **Source**: ArXiv
@@ -1074,6 +1079,11 @@
 - **ID**: arxiv_2605.06192v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06192v2](http://arxiv.org/abs/2605.06192v2)
+
+## DCR: Counterfactual Attractor Guidance for Rare Compositional Generation
+- **ID**: arxiv_2605.06512v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06512v2](http://arxiv.org/abs/2605.06512v2)
 
 ## Exposing and Mitigating Temporal Attack in Deepfake Video Detection
 - **ID**: arxiv_2605.07398v2
@@ -2525,6 +2535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26042v1](http://arxiv.org/abs/2607.26042v1)
 
+## TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models
+- **ID**: arxiv_2607.26706v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26706v2](http://arxiv.org/abs/2607.26706v2)
+
 ## Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation
 - **ID**: arxiv_2607.27058v1
 - **Source**: ArXiv
@@ -3094,6 +3109,11 @@
 - **ID**: arxiv_2608.07468v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07468v3](http://arxiv.org/abs/2608.07468v3)
+
+## MAGIC-SSCIL: Manifold Anchoring and Geometric Incremental Calibration for Semi-Supervised Class Incremental Learning
+- **ID**: arxiv_2608.07586v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07586v2](http://arxiv.org/abs/2608.07586v2)
 
 ## ASV3D: Adapting Diffusion-Based Single-View 3D Reconstruction with Extra Imagery
 - **ID**: arxiv_2608.08132v2
@@ -8310,6 +8330,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19745v2](http://arxiv.org/abs/2611.19745v2)
 
+## LynnReal-Hand: Unlocking World Interaction with Hand Control
+- **ID**: arxiv_2611.21479v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.21479v2](http://arxiv.org/abs/2611.21479v2)
+
 ## Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits
 - **ID**: arxiv_2611.21485v1
 - **Source**: ArXiv
@@ -8409,4 +8434,84 @@
 - **ID**: arxiv_2611.22212v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22212v1](http://arxiv.org/abs/2611.22212v1)
+
+## Nunchi: Ears Help Eyes in Multi-Party Conversations
+- **ID**: arxiv_2611.23115v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23115v1](http://arxiv.org/abs/2611.23115v1)
+
+## GameRealm: Grounding Visual Learning in Interactive Games
+- **ID**: arxiv_2611.23140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23140v1](http://arxiv.org/abs/2611.23140v1)
+
+## $π^4$: A Foundation Model for 4D Scene Geometry and Motion
+- **ID**: arxiv_2611.23144v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23144v1](http://arxiv.org/abs/2611.23144v1)
+
+## VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs
+- **ID**: arxiv_2611.23153v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23153v1](http://arxiv.org/abs/2611.23153v1)
+
+## TextSphere: Efficient Text-to-Image Generation via Shared Hyperspherical Alignment and Uniformity
+- **ID**: arxiv_2611.23155v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23155v1](http://arxiv.org/abs/2611.23155v1)
+
+## Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs
+- **ID**: arxiv_2611.23161v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23161v1](http://arxiv.org/abs/2611.23161v1)
+
+## Déjà View: A Shared Working-Memory Model for Visual Tasks
+- **ID**: arxiv_2611.23177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23177v1](http://arxiv.org/abs/2611.23177v1)
+
+## Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models
+- **ID**: arxiv_2611.23179v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23179v1](http://arxiv.org/abs/2611.23179v1)
+
+## Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries
+- **ID**: arxiv_2611.23187v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23187v1](http://arxiv.org/abs/2611.23187v1)
+
+## Retrieval-Augmented Correction for Generalist Medical Image Segmentation
+- **ID**: arxiv_2611.23189v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23189v1](http://arxiv.org/abs/2611.23189v1)
+
+## Reading Scene States: Uncovering Safety Failures in Vision-Language Models
+- **ID**: arxiv_2611.23206v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23206v1](http://arxiv.org/abs/2611.23206v1)
+
+## Learning Grounded Reasoning from Human Gaze
+- **ID**: arxiv_2611.23209v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23209v1](http://arxiv.org/abs/2611.23209v1)
+
+## Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving
+- **ID**: arxiv_2611.23211v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23211v1](http://arxiv.org/abs/2611.23211v1)
+
+## EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification
+- **ID**: arxiv_2611.23212v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23212v1](http://arxiv.org/abs/2611.23212v1)
+
+## FastFrames: Video Generation at Interactive Latency
+- **ID**: arxiv_2611.23226v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23226v1](http://arxiv.org/abs/2611.23226v1)
+
+## Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models
+- **ID**: arxiv_2611.23228v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23228v1](http://arxiv.org/abs/2611.23228v1)
 

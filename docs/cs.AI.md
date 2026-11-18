@@ -138,6 +138,7 @@
 | [Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](http://arxiv.org/abs/2606.06448v2) | ArXiv |  | 1 |
 | [Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces](http://arxiv.org/abs/2607.04419v4) | ArXiv |  | 1 |
 | [Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams](http://arxiv.org/abs/2607.22917v2) | ArXiv |  | 1 |
+| [Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents](http://arxiv.org/abs/2611.23202v1) | ArXiv |  | 1 |
 | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](http://arxiv.org/abs/2610.26828v1) | ArXiv |  | 1 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](http://arxiv.org/abs/2606.13608v1) | ArXiv |  | 1 |
 | [AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers](http://arxiv.org/abs/2607.29626v1) | ArXiv |  | 1 |
@@ -383,6 +384,7 @@
 | [Electronic Navigational Chart Change Classification](http://arxiv.org/abs/2608.20218v1) | ArXiv |  | 1 |
 | [EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search](http://arxiv.org/abs/2610.22290v1) | ArXiv |  | 1 |
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](http://arxiv.org/abs/2511.22226v3) | ArXiv |  | 1 |
+| [EmbeWebAgent: Embedding Web Agents into Custom Enterprise UIs](http://arxiv.org/abs/2602.14865v2) | ArXiv |  | 1 |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](http://arxiv.org/abs/2610.10498v1) | ArXiv |  | 1 |
 | [Emergent Collusion in Long-Horizon LLM Agent Interaction](http://arxiv.org/abs/2609.24967v1) | ArXiv |  | 1 |
 | [EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model](http://arxiv.org/abs/2509.22407v3) | ArXiv |  | 1 |
@@ -580,6 +582,7 @@
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1) | ArXiv |  | 1 |
 | [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
+| [Latent Goal Prediction from Language for Model-Based Planning](http://arxiv.org/abs/2606.20627v4) | ArXiv |  | 1 |
 | [Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1) | ArXiv |  | 1 |
 | [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](http://arxiv.org/abs/2609.23058v2) | ArXiv |  | 1 |
 | [Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](http://arxiv.org/abs/2609.23378v1) | ArXiv |  | 1 |
@@ -651,6 +654,7 @@
 | [MFG: Multi-turn Feedback Guided Molecular Optimization](http://arxiv.org/abs/2610.18851v1) | ArXiv |  | 1 |
 | [MidTool: Mid-training Data Synthesis for Agentic Tool Use](http://arxiv.org/abs/2608.20314v1) | ArXiv |  | 1 |
 | [MindTopo: Can Foundation Models Reason in Topological Space?](http://arxiv.org/abs/2609.11900v1) | ArXiv |  | 1 |
+| [Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks](http://arxiv.org/abs/2610.02001v2) | ArXiv |  | 1 |
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
@@ -825,6 +829,7 @@
 | [RoboJEPA: Scaling Robotic Latent World Models](http://arxiv.org/abs/2610.10515v1) | ArXiv |  | 1 |
 | [Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk](http://arxiv.org/abs/2608.19073v1) | ArXiv |  | 1 |
 | [Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents](http://arxiv.org/abs/2610.30041v1) | ArXiv |  | 1 |
+| [RSI-Prime: Training Models to Train Models](http://arxiv.org/abs/2611.23138v1) | ArXiv |  | 1 |
 | [RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization](http://arxiv.org/abs/2610.29491v1) | ArXiv |  | 1 |
 | [Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](http://arxiv.org/abs/2608.20237v1) | ArXiv |  | 1 |
 | [RULER: Representation-Level Verification of Machine Unlearning](http://arxiv.org/abs/2605.27569v3) | ArXiv |  | 1 |
@@ -990,6 +995,7 @@
 | [TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing](http://arxiv.org/abs/2605.11473v2) | ArXiv |  | 1 |
 | [TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](http://arxiv.org/abs/2606.27161v2) | ArXiv |  | 1 |
 | [TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU](http://arxiv.org/abs/2610.24161v3) | ArXiv |  | 1 |
+| [Toward AI epidemiology: a measurement standardization framework for prospective risk detection](http://arxiv.org/abs/2512.15783v5) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |
 | [Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement](http://arxiv.org/abs/2608.14590v2) | ArXiv |  | 1 |
@@ -1080,6 +1086,7 @@
 | [Who Verifies the Tools? How Warped Formatters Mislead Agents and Their Verifiers](http://arxiv.org/abs/2610.32110v2) | ArXiv |  | 1 |
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |
 | [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | ArXiv |  | 1 |
+| [WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition](http://arxiv.org/abs/2611.23192v1) | ArXiv |  | 1 |
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |
 | [WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](http://arxiv.org/abs/2602.17990v4) | ArXiv |  | 2 |
 | [World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models](http://arxiv.org/abs/2607.27599v2) | ArXiv |  | 1 |

@@ -440,8 +440,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10958v1](http://arxiv.org/abs/2611.10958v1)
 
+## Spec-Driven PBT: Deriving Semantic Invariants from Code Specifications for Agentic Property-based Testing
+- **ID**: arxiv_2611.15920v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.15920v2](http://arxiv.org/abs/2611.15920v2)
+
 ## When the Mythical Man-Month Meets Agentic Web Systems: Structured Coordination for Scalable Development
 - **ID**: arxiv_2611.19140v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19140v1](http://arxiv.org/abs/2611.19140v1)
+
+## Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance
+- **ID**: arxiv_2611.23142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23142v1](http://arxiv.org/abs/2611.23142v1)
+
+## Higher-Scoring Coding Models Did Not Get More Work Done
+- **ID**: arxiv_2611.23216v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23216v1](http://arxiv.org/abs/2611.23216v1)
 

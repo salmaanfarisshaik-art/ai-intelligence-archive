@@ -140,6 +140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.00807v2](http://arxiv.org/abs/2512.00807v2)
 
+## Toward AI epidemiology: a measurement standardization framework for prospective risk detection
+- **ID**: arxiv_2512.15783v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.15783v5](http://arxiv.org/abs/2512.15783v5)
+
 ## Subjective functions
 - **ID**: arxiv_2512.15948v3
 - **Source**: ArXiv
@@ -229,6 +234,11 @@
 - **ID**: arxiv_2602.14622v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14622v3](http://arxiv.org/abs/2602.14622v3)
+
+## EmbeWebAgent: Embedding Web Agents into Custom Enterprise UIs
+- **ID**: arxiv_2602.14865v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.14865v2](http://arxiv.org/abs/2602.14865v2)
 
 ## When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 - **ID**: arxiv_2602.16763v4
@@ -899,6 +909,11 @@
 - **ID**: arxiv_2606.20544v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20544v1](http://arxiv.org/abs/2606.20544v1)
+
+## Latent Goal Prediction from Language for Model-Based Planning
+- **ID**: arxiv_2606.20627v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20627v4](http://arxiv.org/abs/2606.20627v4)
 
 ## Fara-1.5: Scalable Learning Environments for Computer Use Agents
 - **ID**: arxiv_2606.20785v2
@@ -3840,6 +3855,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40330v1](http://arxiv.org/abs/2609.40330v1)
 
+## Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks
+- **ID**: arxiv_2610.02001v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02001v2](http://arxiv.org/abs/2610.02001v2)
+
 ## A Comparative Explainability Framework for DeBERTa-v3 in Zero-Shot Medical Abstract Classification
 - **ID**: arxiv_2610.02116v1
 - **Source**: ArXiv
@@ -5439,4 +5459,19 @@
 - **ID**: arxiv_2611.22219v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22219v1](http://arxiv.org/abs/2611.22219v1)
+
+## RSI-Prime: Training Models to Train Models
+- **ID**: arxiv_2611.23138v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23138v1](http://arxiv.org/abs/2611.23138v1)
+
+## WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition
+- **ID**: arxiv_2611.23192v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23192v1](http://arxiv.org/abs/2611.23192v1)
+
+## Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents
+- **ID**: arxiv_2611.23202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23202v1](http://arxiv.org/abs/2611.23202v1)
 

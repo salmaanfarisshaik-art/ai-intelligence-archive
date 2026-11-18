@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.26356v2",
+  "schema_version": "1.0",
+  "name": "In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.26356v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.26356v2",
+    "updated": "2026-11-17T18:19:55Z",
+    "published": "2026-05-25T22:04:54Z",
+    "title": "In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective",
+    "summary": "In-context learning has recently been linked to implicit gradient descent in linear self-attention models, suggesting that context can induce a forward-pass update. Retrieval-augmented generation (RAG) also relies on context, but retrieved documents are usually treated as static evidence rather than signals for adaptation. We study RAG as an in-context optimization process. First, we show that one linear self-attention layer can implement one gradient-descent step on a unified linearized RAG objective covering both projection-based and dot-product retrieval interfaces. This gives an exact regime where retrieval-augmented prediction and in-context optimization coincide. We use this result not as a literal model of LLM computation, but as a guide for adapting the interaction between queries and retrieved evidence. We then test the boundary of this correspondence: it remains stable under controlled linear extensions, but becomes feature-distribution dependent under nonlinear architectures. Finally, we turn this view into a lightweight method for frozen RAG LLMs. The method keeps the retriever and backbone fixed, and predicts a context-conditioned update to a generator-side evidence-use interface. Across seven QA benchmarks, two retrievers, and two frozen LLM backbones, this forward-only update improves a shared-interface baseline, transfers to held-out tasks, and approaches test-time gradient adaptation at much lower per-query cost.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T18:19:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.26356v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

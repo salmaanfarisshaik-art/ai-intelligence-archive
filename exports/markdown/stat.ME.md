@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17239v1](http://arxiv.org/abs/2611.17239v1)
 
+## Inference after coding agents
+- **ID**: arxiv_2611.23174v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23174v1](http://arxiv.org/abs/2611.23174v1)
+

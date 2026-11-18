@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13674v2",
+  "schema_version": "1.0",
+  "name": "Asymmetric Discourse Homogenization on Reddit Was a Text-Length Artifact: A Reanalysis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.13674v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13674v2",
+    "updated": "2026-11-17T17:58:50Z",
+    "published": "2026-08-13T18:13:35Z",
+    "title": "Asymmetric Discourse Homogenization on Reddit Was a Text-Length Artifact: A Reanalysis",
+    "summary": "In the first version of this paper I reported that conservative Reddit users began writing more alike after ChatGPT was released while progressive users did not. That result came from a similarity measure that rises and falls with comment length. I redo every analysis of the original paper on all 6,056,593 comments with a sentence encoder and a dispersion measure computed within length strata, and the conservative break goes away. The two camps show no reliable difference in how within-group similarity changed after late 2022, and the ChatGPT date behaves like any of the more than two thousand other cutoffs I test. The matched flair comparison, the cumulative AI index, the stayer panel and the entropy signature each lose their support once length is held fixed. The one change that survives is older. Left and right comments drew closer to each other between 2019 and 2022, and that convergence was complete before ChatGPT arrived. I end with what this implies for studies that measure homogenization with embeddings.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T17:58:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13674v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

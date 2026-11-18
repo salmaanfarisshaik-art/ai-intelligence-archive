@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.23209v1",
+  "schema_version": "1.0",
+  "name": "Learning Grounded Reasoning from Human Gaze",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.23209v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.23209v1",
+    "updated": "2026-11-17T18:49:33Z",
+    "published": "2026-11-17T18:49:33Z",
+    "title": "Learning Grounded Reasoning from Human Gaze",
+    "summary": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for visually-grounded reasoning in vision-language models (VLMs). However, human gaze also includes noise and redundancies that may transfer poorly to VLMs. In this work, we investigate how human gaze data can be effectively leveraged to improve visual reasoning in VLMs, while maintaining alignment with human behavior. We collect 7,109 human gaze trials from a diverse and challenging set of visual reasoning tasks, and train grounded reasoning models with different forms of gaze guidance. Across evaluations in chart understanding, visual search, and counting, we find that using human gaze as a prior for grounded reasoning consistently outperforms supervision using the full gaze sequence. Based on these findings, we introduce GGR (Gaze-Guided Reasoner), which achieves greater human alignment and more reliable visual grounding while matching or outperforming leading grounded-reasoning baselines in accuracy. Reinforcement learning further improves task accuracy, gaze alignment, and grounding quality despite using no gaze supervision. Behavioral analyses show that gaze supervised models exhibit more visual exploration before arriving at an answer. Our results suggest that the value of human gaze lies in guiding spatial exploration and shaping reasoning behavior without requiring complete imitation of human behavior.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T18:49:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.23209v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

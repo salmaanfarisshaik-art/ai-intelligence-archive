@@ -140,6 +140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06364v1](http://arxiv.org/abs/2608.06364v1)
 
+## Asymmetric Discourse Homogenization on Reddit Was a Text-Length Artifact: A Reanalysis
+- **ID**: arxiv_2608.13674v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13674v2](http://arxiv.org/abs/2608.13674v2)
+
 ## Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice
 - **ID**: arxiv_2608.14399v1
 - **Source**: ArXiv

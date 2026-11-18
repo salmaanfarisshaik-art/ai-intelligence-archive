@@ -895,6 +895,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.24930v2](http://arxiv.org/abs/2605.24930v2)
 
+## RICE-PO: Turning Retrieval Interactions into Credit Signals for Reasoning Agents
+- **ID**: arxiv_2605.26352v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26352v4](http://arxiv.org/abs/2605.26352v4)
+
+## In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective
+- **ID**: arxiv_2605.26356v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26356v2](http://arxiv.org/abs/2605.26356v2)
+
 ## VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild
 - **ID**: arxiv_2605.27882v2
 - **Source**: ArXiv
@@ -5375,6 +5385,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17332v2](http://arxiv.org/abs/2611.17332v2)
 
+## MamaReason: Unfinished Reasoning and Answer Recovery in Clinical Language Models
+- **ID**: arxiv_2611.18264v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18264v2](http://arxiv.org/abs/2611.18264v2)
+
 ## LitArc-Bench: Disentangling Text-Specific Reader-Response Dynamics from Position and Lexical Affect
 - **ID**: arxiv_2611.18412v1
 - **Source**: ArXiv
@@ -5459,4 +5474,29 @@
 - **ID**: arxiv_2611.22203v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22203v1](http://arxiv.org/abs/2611.22203v1)
+
+## Dynamic Task Allocation with Dialogue
+- **ID**: arxiv_2611.23119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23119v1](http://arxiv.org/abs/2611.23119v1)
+
+## MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study
+- **ID**: arxiv_2611.23158v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23158v1](http://arxiv.org/abs/2611.23158v1)
+
+## Polarity Composition Hypothesis: Causal Evidence from Negation in NLI
+- **ID**: arxiv_2611.23185v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23185v1](http://arxiv.org/abs/2611.23185v1)
+
+## Structure--Residual Inductive Biases for Language Model Pretraining
+- **ID**: arxiv_2611.23197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23197v1](http://arxiv.org/abs/2611.23197v1)
+
+## What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution
+- **ID**: arxiv_2611.23218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23218v1](http://arxiv.org/abs/2611.23218v1)
 

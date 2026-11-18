@@ -900,6 +900,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.04688v2](http://arxiv.org/abs/2607.04688v2)
 
+## Localized LoRA-MoE: Mixture of Low-Rank Experts With Adaptive Routing
+- **ID**: arxiv_2607.05114v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05114v2](http://arxiv.org/abs/2607.05114v2)
+
 ## What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates
 - **ID**: arxiv_2607.05381v2
 - **Source**: ArXiv
@@ -3134,4 +3139,34 @@
 - **ID**: arxiv_2611.22218v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22218v1](http://arxiv.org/abs/2611.22218v1)
+
+## The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?
+- **ID**: arxiv_2611.23127v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23127v1](http://arxiv.org/abs/2611.23127v1)
+
+## Learning Stratified Policies for Inference-Time Objectives
+- **ID**: arxiv_2611.23154v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23154v1](http://arxiv.org/abs/2611.23154v1)
+
+## Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU
+- **ID**: arxiv_2611.23205v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23205v1](http://arxiv.org/abs/2611.23205v1)
+
+## Distortion-Free Semantic Watermarks for Black-Box Generative Models
+- **ID**: arxiv_2611.23208v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23208v1](http://arxiv.org/abs/2611.23208v1)
+
+## Do LLM Agents Still Need to Be Told How to Self-Improve?
+- **ID**: arxiv_2611.23219v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23219v1](http://arxiv.org/abs/2611.23219v1)
+
+## Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching
+- **ID**: arxiv_2611.23229v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23229v1](http://arxiv.org/abs/2611.23229v1)
 

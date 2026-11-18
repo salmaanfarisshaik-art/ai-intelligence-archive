@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.14865v2",
+  "schema_version": "1.0",
+  "name": "EmbeWebAgent: Embedding Web Agents into Custom Enterprise UIs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.14865v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.14865v2",
+    "updated": "2026-11-17T18:20:19Z",
+    "published": "2026-02-16T15:59:56Z",
+    "title": "EmbeWebAgent: Embedding Web Agents into Custom Enterprise UIs",
+    "summary": "Most web agents operate at the human interface level, observing screenshots or raw DOM trees without application-level access, which limits robustness and action expressiveness. In enterprise settings, however, explicit control of both the frontend and backend is available. We present EmbeWebAgent, a framework for embedding agents directly into existing UIs using lightweight frontend hooks (curated ARIA and URL-based observations, and a per-page function registry exposed via a WebSocket) and a reusable backend workflow that performs reasoning and takes actions. EmbeWebAgent is stack-agnostic (e.g., React or Angular), supports mixed-granularity actions ranging from GUI primitives to higher-level composites, and orchestrates navigation, manipulation, and domain-specific analytics via MCP tools. Our demo shows minimal retrofitting effort and multi-step behaviors grounded in a live UI setting. Demo Video: https://youtu.be/Cy06Ljee1JQ",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T18:20:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.14865v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

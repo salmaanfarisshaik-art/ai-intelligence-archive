@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93515
+**Total Entities Tracked**: 93566
 
 ## Category Distribution
 
@@ -9,21 +9,21 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2852
 - **models**: 2096
-- **cs.CV**: 1682
-- **news**: 1440
+- **cs.CV**: 1703
+- **news**: 1441
 - **dataset**: 1255
-- **cs.CL**: 1092
-- **cs.AI**: 1088
+- **cs.CL**: 1100
+- **cs.AI**: 1095
 - **text-generation**: 1018
-- **cs.LG**: 627
-- **cs.RO**: 267
+- **cs.LG**: 634
+- **cs.RO**: 268
 - **cs.CR**: 117
-- **cs.SE**: 89
+- **cs.SE**: 92
 - **tool**: 60
 - **cs.IR**: 56
 - **cs.HC**: 55
 - **cs.SD**: 50
-- **cs.CY**: 40
+- **cs.CY**: 41
 - **cs.MA**: 27
 - **eess.IV**: 25
 - **eess.AS**: 20
@@ -45,9 +45,9 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
+- **stat.ME**: 10
 - **cs.MM**: 9
 - **cs.NE**: 9
-- **stat.ME**: 9
 - **cond-mat.mtrl-sci**: 8
 - **cs.LO**: 7
 - **eess.SY**: 7
@@ -70,6 +70,7 @@
 - **cs.CC**: 2
 - **cs.DS**: 2
 - **cs.SI**: 2
+- **hep-th**: 2
 - **physics.flu-dyn**: 2
 - **q-fin.PM**: 2
 - **q-fin.TR**: 2
@@ -86,7 +87,6 @@
 - **econ.EM**: 1
 - **hep-ex**: 1
 - **hep-ph**: 1
-- **hep-th**: 1
 - **math.AG**: 1
 - **math.MG**: 1
 - **math.NA**: 1
@@ -104,9 +104,9 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 32126
-- **ArXiv**: 5508
+- **ArXiv**: 5558
 - **Hugging Face**: 2026
-- **OpenAI Blog**: 1425
+- **OpenAI Blog**: 1426
 - **HuggingFace Datasets**: 255
 - **GitHub Trending**: 60
 - **BAIR Blog**: 15

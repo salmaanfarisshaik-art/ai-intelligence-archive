@@ -4301,6 +4301,11 @@
 - **URL**: [https://openai.com/index/launching-sora-responsibly](https://openai.com/index/launching-sora-responsibly)
 
 ## 
+- **ID**: rss_https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
+
+## 
 - **ID**: rss_https://openai.com/index/leadership-expansion-with-fidji-simo
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/leadership-expansion-with-fidji-simo](https://openai.com/index/leadership-expansion-with-fidji-simo)

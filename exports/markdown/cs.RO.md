@@ -1335,3 +1335,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22138v1](http://arxiv.org/abs/2611.22138v1)
 
+## TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation
+- **ID**: arxiv_2611.23143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23143v1](http://arxiv.org/abs/2611.23143v1)
+

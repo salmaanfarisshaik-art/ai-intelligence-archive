@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.26706v2",
+  "schema_version": "1.0",
+  "name": "TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.26706v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.26706v2",
+    "updated": "2026-11-17T18:32:39Z",
+    "published": "2026-07-29T09:52:20Z",
+    "title": "TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models",
+    "summary": "Text-to-video diffusion models generate temporally coherent content from natural language, yet when a prompt describes an early scene that persists while a new event emerges on top of it (such as \"a tall sandcastle standing on a beach where a wave rushes in and washes it away\"), generation frequently fails to realize the late-segment event in the corresponding frames. We identify this failure as Temporal Prior Suppression (TPS), in which the dominant prior of the early segment captures the cross-attention trajectory across the temporal axis and suppresses the guidance signal needed for late-segment realization. We introduce Temporal Prior Decoupling (TPD), a training-free heuristic that strengthens the suppressed late-segment signal during diffusion sampling. TPD constructs a temporal counterfactual by conditioning on the early segment alone, and defines the discrepancy between the full-prompt and counterfactual predictions as a suppressed signal direction. Rather than removing a direction as in prior subtractive projection methods, TPD adds this direction back to the guidance update whenever the alignment of the update with it falls below a threshold. The threshold follows a hand-designed schedule over diffusion timestep and video frame, so the correction acts mainly on late frames and structure-forming steps and leaves early frames largely untouched. TPD runs entirely within standard diffusion sampling without retraining and is defined purely in classifier-free guidance space, so it applies to any backbone that exposes a CFG update. Experiments show that TPD substantially improves late-concept realization while preserving temporal coherence and visual fidelity, and that the targeted suppression recurs across distinct text-to-video backbones.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T18:32:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.26706v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

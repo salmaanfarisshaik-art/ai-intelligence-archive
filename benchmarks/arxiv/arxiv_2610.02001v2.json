@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.02001v2",
+  "schema_version": "1.0",
+  "name": "Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.02001v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.02001v2",
+    "updated": "2026-11-17T18:43:13Z",
+    "published": "2026-10-01T16:32:07Z",
+    "title": "Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks",
+    "summary": "Small open-weight language models now run on a laptop, but they fail at multi-step work in ways a large model does not: they stop with the files missing, repeat one action until the budget ends, and report success without checking. At the one-to-nine-billion-parameter tier the harness supplies almost all of the procedural control that a large model supplies for itself.We present Mingbird, an open-source harness for that tier on a consumer graphics card: 12k lines of Python, a 628-test suite, and eighteen mechanisms for context economy, completion, time budget and the host boundary, plus a crawl guard outside those four groups. Its design point is completion control: the harness runs executable checks on the working directory and refuses a claim of completion when they fail.Five evaluations accompany it. A configuration-surface audit finds four defects that the 625-test suite of v3.1.1 missed, each because a test checked a property adjacent to the one that broke. A ten-task probe suite gives each mechanism a reason to fire and reports where the change reaches the artifact, including one mechanism that cuts the signal it protects. Disabling five of six completion-time checks costs 0.152 of the artifact score on eighteen held-out tasks, three replications per cell (95% CI [+0.064, +0.246], Holm p = 0.014). On a 288-cell matrix the harness reaches 0.886 against 0.631, 0.479 and 0.405 for three open scaffolds, and on τ 2 -bench it ranks first or tied first in all three domains against the arms evaluated.Tasks, scorer, source and every per-cell result are public.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T18:43:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.02001v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

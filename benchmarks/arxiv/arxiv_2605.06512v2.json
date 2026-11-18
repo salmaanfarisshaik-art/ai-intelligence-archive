@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.06512v2",
+  "schema_version": "1.0",
+  "name": "DCR: Counterfactual Attractor Guidance for Rare Compositional Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.06512v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.06512v2",
+    "updated": "2026-11-17T17:55:47Z",
+    "published": "2026-05-07T16:22:21Z",
+    "title": "DCR: Counterfactual Attractor Guidance for Rare Compositional Generation",
+    "summary": "Diffusion models generate realistic visual content, yet often fail to produce rare but plausible compositions. When prompted with combinations that are valid but underrepresented in training data (such as a snowy beach or a rainbow at night), the generation process frequently collapses toward more common alternatives. We identify this failure mode as default completion bias, where denoising trajectories are implicitly attracted toward high-frequency semantic configurations. Existing guidance mechanisms do not explicitly model this competing tendency and therefore struggle to prevent such collapse. We introduce Default Completion Repulsion (DCR), a training-free framework that explicitly models and suppresses default completion behavior. DCR constructs a counterfactual attractor by relaxing the rare compositional factor while preserving surrounding semantics, inducing an alternative denoising trajectory reflecting the model's preferred completion. We define the discrepancy between target and attractor trajectories as a counterfactual drift, and propose a projection-based repulsion mechanism that removes guidance components aligned with this drift direction. This suppresses undesired frequent completions while preserving other semantic components. DCR operates entirely within the standard diffusion sampling process without retraining or architectural modification. Experiments on rare compositional prompts show that DCR improves compositional fidelity while maintaining visual quality. Our analysis further shows that generations from the attractor prompt alone closely match the baseline outputs, confirming that it captures the model's default completion.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-18T11:08:53Z",
+  "last_updated": "2026-11-17T17:55:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.06512v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
