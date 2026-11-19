@@ -341,6 +341,11 @@
 - **URL**: [https://openai.com/business/customer-stories/shield](https://openai.com/business/customer-stories/shield)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/sumitomo-life
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/sumitomo-life](https://openai.com/business/customer-stories/sumitomo-life)
+
+## 
 - **ID**: rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/enabling-a-data-driven-workforce-webinar](https://openai.com/business/enabling-a-data-driven-workforce-webinar)
@@ -4516,6 +4521,11 @@
 - **URL**: [https://openai.com/index/managing-ai-investments-in-agentic-era](https://openai.com/index/managing-ai-investments-in-agentic-era)
 
 ## 
+- **ID**: rss_https://openai.com/index/managing-frontier-ai-risk
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/managing-frontier-ai-risk](https://openai.com/index/managing-frontier-ai-risk)
+
+## 
 - **ID**: rss_https://openai.com/index/mapping-ai-jobs-transition-eu
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/mapping-ai-jobs-transition-eu](https://openai.com/index/mapping-ai-jobs-transition-eu)
@@ -5919,6 +5929,11 @@
 - **ID**: rss_https://openai.com/index/requests-for-research-2
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/requests-for-research-2](https://openai.com/index/requests-for-research-2)
+
+## 
+- **ID**: rss_https://openai.com/index/research-acceleration-jagged-frontier
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/research-acceleration-jagged-frontier](https://openai.com/index/research-acceleration-jagged-frontier)
 
 ## 
 - **ID**: rss_https://openai.com/index/research-acceleration-view-inside-openai

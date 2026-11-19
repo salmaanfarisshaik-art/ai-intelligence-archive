@@ -1780,6 +1780,10 @@
 - **ID**: model_edge0_audio8_asr_infinite
 - **Source**: 
 
+## Edge0/Edge0-120B-q3k
+- **ID**: model_edge0_edge0_120b_q3k
+- **Source**: 
+
 ## Edge0/Edge0-145B-NVFP4
 - **ID**: model_edge0_edge0_145b_nvfp4
 - **Source**: 
@@ -8098,6 +8102,10 @@
 
 ## XHToken/Spark-X2.5-4B-GGUF
 - **ID**: model_xhtoken_spark_x2_5_4b_gguf
+- **Source**: 
+
+## XHToken/Spark-X2.6-1.7B-GGUF
+- **ID**: model_xhtoken_spark_x2_6_1_7b_gguf
 - **Source**: 
 
 ## XHToken/Spark-X2.6-4B-GGUF

@@ -493,6 +493,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allratestoday_central_bank_exchange_rates
+- **Source**: 
+
+## 
 - **ID**: dataset_alonsoapp_tablet_large
 - **Source**: 
 
@@ -1461,6 +1465,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_calm_dataset_calm_scenarios
+- **Source**: 
+
+## 
 - **ID**: dataset_camel_ai_seta_env
 - **Source**: 
 
@@ -1878,6 +1886,10 @@
 
 ## 
 - **ID**: dataset_cybermax_tools_open_domain_ranks
+- **Source**: 
+
+## 
+- **ID**: dataset_cybrpgs_corpus5_top100_new_20261106
 - **Source**: 
 
 ## 
@@ -2633,6 +2645,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_finebench_finebench
+- **Source**: 
+
+## 
 - **ID**: dataset_fineenvs_data_agent_harbor_train
 - **Source**: 
 
@@ -2866,6 +2882,10 @@
 
 ## 
 - **ID**: dataset_gatlingpeashooter_novatstyle_confirmed_working
+- **Source**: 
+
+## 
+- **ID**: dataset_gaussianworld_matterport3d_scene_mcmc_3dgs_lang_base
 - **Source**: 
 
 ## 
@@ -3133,6 +3153,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_guica_license_plates_700k
+- **Source**: 
+
+## 
 - **ID**: dataset_guillaume0477_gennocs
 - **Source**: 
 
@@ -3190,6 +3214,10 @@
 
 ## 
 - **ID**: dataset_hanchong_real_infrared_maritime_vessel_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_hanchong_synthetic_infrared_maritime_vessel_dataset_flux2klein
 - **Source**: 
 
 ## 
@@ -5733,6 +5761,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jialelin2007_tex_1500
+- **Source**: 
+
+## 
 - **ID**: dataset_jiaqi_chen_3d_front
 - **Source**: 
 
@@ -6262,6 +6294,10 @@
 
 ## 
 - **ID**: dataset_lhoestq_test
+- **Source**: 
+
+## 
+- **ID**: dataset_lhpku20010120_omni_edu
 - **Source**: 
 
 ## 
@@ -7194,6 +7230,10 @@
 
 ## 
 - **ID**: dataset_mminstruction_m3it
+- **Source**: 
+
+## 
+- **ID**: dataset_mml_group_pavebench
 - **Source**: 
 
 ## 
@@ -8305,6 +8345,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_own2pwn_fr_ctfhoard_corpus
+- **Source**: 
+
+## 
 - **ID**: dataset_p2samapa_p2_etf_samba_models
 - **Source**: 
 
@@ -8921,6 +8965,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_respair_multi_ds_qezel
+- **Source**: 
+
+## 
 - **ID**: dataset_rethinklab_bench2drive
 - **Source**: 
 
@@ -9418,6 +9466,10 @@
 
 ## 
 - **ID**: dataset_shaurya2626_allpanel_live_feed
+- **Source**: 
+
+## 
+- **ID**: dataset_shaymanor_willow_surface_code_detection_events
 - **Source**: 
 
 ## 
@@ -10109,6 +10161,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_themohal_saraiki_llm_bench
+- **Source**: 
+
+## 
 - **ID**: dataset_theom55_mvtec_all_objects_split
 - **Source**: 
 
@@ -10118,6 +10174,10 @@
 
 ## 
 - **ID**: dataset_thesyx_vulguard_lite
+- **Source**: 
+
+## 
+- **ID**: dataset_theusamaaslam_urdu_callsqa_private
 - **Source**: 
 
 ## 
@@ -10473,6 +10533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vankey_realtext_v2
+- **Source**: 
+
+## 
 - **ID**: dataset_varunburde_transparent_bop
 - **Source**: 
 
@@ -10649,6 +10713,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vsevolodpl_repid
+- **Source**: 
+
+## 
 - **ID**: dataset_vuquocbao19944_vuquocbao19944
 - **Source**: 
 
@@ -10769,6 +10837,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_whalezzz_m2rag
+- **Source**: 
+
+## 
 - **ID**: dataset_whoisjutanlee_2_1tbofdata
 - **Source**: 
 
@@ -10818,6 +10890,10 @@
 
 ## 
 - **ID**: dataset_wolframko_betty_dota2_canonical_v1
+- **Source**: 
+
+## 
+- **ID**: dataset_woog_open_text_detector_papers
 - **Source**: 
 
 ## 
@@ -10898,6 +10974,10 @@
 
 ## 
 - **ID**: dataset_xenova_transformers_js_docs
+- **Source**: 
+
+## 
+- **ID**: dataset_xiangpengyang_videograin_dataset
 - **Source**: 
 
 ## 
@@ -11394,6 +11474,10 @@
 
 ## 
 - **ID**: dataset_zwa73_soultide_audiodata_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zwhe99_deepmath_103k
 - **Source**: 
 
 ## 

@@ -1118,7 +1118,7 @@
 - **ID**: hf_ds_69dea0a636a3f56ff6f91b7f
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/nyarlathotep12/MXStuff](https://huggingface.co/datasets/nyarlathotep12/MXStuff)
-- **Tags**: region:us
+- **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
 
 ## babyhari/gt
 - **ID**: hf_ds_69e6aa6a6c2bdbeca4448187
@@ -1526,7 +1526,7 @@
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
-- **Tags**: region:us
+- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
 
 ## miniiohinkimsavol/copyright-detection-videos
 - **ID**: hf_ds_6adf714965d27a395f029c31
