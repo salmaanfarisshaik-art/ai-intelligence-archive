@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.24806v1",
+  "schema_version": "1.0",
+  "name": "ReCoCo: From Patches to Compositions for Visual Representation Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.24806v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.24806v1",
+    "updated": "2026-11-18T17:45:04Z",
+    "published": "2026-11-18T17:45:04Z",
+    "title": "ReCoCo: From Patches to Compositions for Visual Representation Learning",
+    "summary": "Self-supervised learning has produced powerful visual representations, yet learning strong dense features remains challenging. While consistency between augmented views provides strong image-level supervision, extending this principle to local visual content is less straightforward. Existing approaches often match individual patches across views or identify coherent regions, introducing uncertainties in correspondence estimation and assumptions about how visual content should be grouped. We introduce ReCoCo (Regional Composition Consistency), a principled approach that extends cross-view consistency to the regional level without requiring such correspondences or semantic grouping. ReCoCo represents the content shared between augmented views through compositions of their patch-level predictions over learned visual prototypes. By aligning these compositions, the model learns from regions containing multiple visual concepts without requiring them to be separated beforehand. ReCoCo integrates naturally with teacher-student self-distillation and introduces no additional learned parameters. Extensive experiments demonstrate substantial improvements in frozen-feature segmentation, clustering, and regional retrieval while maintaining competitive image-level recognition, alleviating the trade-off between dense and global representation quality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-19T09:54:04Z",
+  "last_updated": "2026-11-18T17:45:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.24806v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

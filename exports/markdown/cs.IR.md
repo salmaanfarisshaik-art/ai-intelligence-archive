@@ -280,3 +280,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18513v1](http://arxiv.org/abs/2611.18513v1)
 
+## Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling
+- **ID**: arxiv_2611.24849v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24849v1](http://arxiv.org/abs/2611.24849v1)
+

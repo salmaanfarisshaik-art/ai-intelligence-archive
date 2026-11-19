@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2106.06060v5](http://arxiv.org/abs/2106.06060v5)
 
+## MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents
+- **ID**: arxiv_2503.01935v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.01935v2](http://arxiv.org/abs/2503.01935v2)
+
 ## Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?
 - **ID**: arxiv_2601.17454v3
 - **Source**: ArXiv

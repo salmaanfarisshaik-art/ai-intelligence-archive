@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.06919v2](http://arxiv.org/abs/2510.06919v2)
 
+## Low-Dimensional Adaptation of Rectified Flow: A Diffusion and Stochastic Localization Perspective
+- **ID**: arxiv_2601.15500v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.15500v5](http://arxiv.org/abs/2601.15500v5)
+
 ## The Causal Description Gap: Information-Theoretic Separations Across Pearl's Hierarchy
 - **ID**: arxiv_2605.02177v2
 - **Source**: ArXiv

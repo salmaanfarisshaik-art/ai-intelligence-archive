@@ -3150,6 +3150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09156v1](http://arxiv.org/abs/2609.09156v1)
 
+## Improving Cross-Lingual Token Representations by Adding a Pinch of SALT
+- **ID**: arxiv_2609.09953v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09953v2](http://arxiv.org/abs/2609.09953v2)
+
 ## Rosetta at AlexandriaX-2026: LoRA-Adapted NileChat for Context-Aware Dialectal Arabic Dialogue Translation
 - **ID**: arxiv_2609.10395v1
 - **Source**: ArXiv
@@ -3564,6 +3569,11 @@
 - **ID**: arxiv_2609.23371v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23371v1](http://arxiv.org/abs/2609.23371v1)
+
+## RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents
+- **ID**: arxiv_2609.23466v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23466v4](http://arxiv.org/abs/2609.23466v4)
 
 ## Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines
 - **ID**: arxiv_2609.24122v2
@@ -5499,4 +5509,29 @@
 - **ID**: arxiv_2611.23218v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23218v1](http://arxiv.org/abs/2611.23218v1)
+
+## On-Policy Morphing into Hybrid Attention Models
+- **ID**: arxiv_2611.24809v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24809v1](http://arxiv.org/abs/2611.24809v1)
+
+## A Foundation Model to Measure and Predict Human Behaviour
+- **ID**: arxiv_2611.24830v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24830v1](http://arxiv.org/abs/2611.24830v1)
+
+## General progress substitutes for specific training data in language models
+- **ID**: arxiv_2611.24844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24844v1](http://arxiv.org/abs/2611.24844v1)
+
+## Ground, Iterate, Trace: Decomposing AI Research Ideation
+- **ID**: arxiv_2611.24887v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24887v1](http://arxiv.org/abs/2611.24887v1)
+
+## Jailbreak Detection on Large Language Models via Contrastive Prototype Structures
+- **ID**: arxiv_2611.24936v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24936v1](http://arxiv.org/abs/2611.24936v1)
 

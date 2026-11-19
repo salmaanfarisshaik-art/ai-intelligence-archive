@@ -460,3 +460,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23216v1](http://arxiv.org/abs/2611.23216v1)
 
+## Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses
+- **ID**: arxiv_2611.24924v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24924v1](http://arxiv.org/abs/2611.24924v1)
+

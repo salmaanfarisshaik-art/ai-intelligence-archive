@@ -1340,3 +1340,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23143v1](http://arxiv.org/abs/2611.23143v1)
 
+## $Z$-sight: Unifying Vision-Language-Action and Latent World Modeling
+- **ID**: arxiv_2611.24940v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24940v1](http://arxiv.org/abs/2611.24940v1)
+

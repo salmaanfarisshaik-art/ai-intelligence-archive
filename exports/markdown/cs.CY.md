@@ -205,3 +205,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.20140v2](http://arxiv.org/abs/2611.20140v2)
 
+## Anticipating or Speculating? Making Futures Pay in AI Ethics
+- **ID**: arxiv_2611.22268v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22268v2](http://arxiv.org/abs/2611.22268v2)
+
+## Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem
+- **ID**: arxiv_2611.24927v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24927v1](http://arxiv.org/abs/2611.24927v1)
+

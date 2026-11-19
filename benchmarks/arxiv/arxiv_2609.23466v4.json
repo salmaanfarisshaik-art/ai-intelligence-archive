@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23466v4",
+  "schema_version": "1.0",
+  "name": "RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23466v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23466v4",
+    "updated": "2026-11-18T18:28:11Z",
+    "published": "2026-09-20T08:51:10Z",
+    "title": "RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents",
+    "summary": "Long-running LLM agents require memory that persists and evolves across sessions. Text-based memory retrieves and reconstructs past interactions at every query, making long-horizon performance increasingly dependent on retrieval quality and contextual reasoning as histories grow. Parametric memory encodes experience directly into model computation, but existing approaches provide limited support for cross-session memory evolution. Their coupling to a specific backbone further restricts memory reuse after model replacement. We introduce RPMem, a two-stage architecture that compiles each session into a model-independent latent memory through forward computation and selectively integrates it with retained memory via a task-trained recurrent gate. The consolidated memory is then mapped to backbone-specific low-rank adaptation (LoRA) parameters, allowing the encoding capability to transfer when the backbone is replaced. Evaluation across three long-term memory benchmarks and five diverse backbones demonstrates broad generalization with near-constant update cost and memory footprint. With Qwen3-8B on PERMA, RPMem reaches 85.52%, outperforming the strongest parametric and text-based baselines by 5.32 and 12.98 percentage points, respectively. Ablations validate the complementary roles of session compilation and cross-session consolidation, while dynamics analyses reveal that the gate acquires task-specific memory integration strategies. These results establish RPMem as a lifecycle-independent parametric memory framework that maintains evolving cross-session memory that remains reusable across backbone replacements. Our code is available at https://github.com/Quark-Medical/rpmem/tree/main.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-19T09:54:04Z",
+  "last_updated": "2026-11-18T18:28:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23466v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

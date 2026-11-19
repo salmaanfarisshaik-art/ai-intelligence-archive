@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.10912v5](http://arxiv.org/abs/2506.10912v5)
 
+## MARBLE: An Agentic Benchmark for Spatial Reasoning and Visual Abstraction
+- **ID**: arxiv_2506.22992v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.22992v2](http://arxiv.org/abs/2506.22992v2)
+
 ## SmartThinker: Learning High-Density Reasoning via Step-Level Token Allocation
 - **ID**: arxiv_2507.04348v3
 - **Source**: ArXiv
@@ -4035,6 +4040,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08966v2](http://arxiv.org/abs/2610.08966v2)
 
+## CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use
+- **ID**: arxiv_2610.09127v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.09127v2](http://arxiv.org/abs/2610.09127v2)
+
 ## Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI
 - **ID**: arxiv_2610.09146v2
 - **Source**: ArXiv
@@ -5460,6 +5470,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22219v1](http://arxiv.org/abs/2611.22219v1)
 
+## CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference
+- **ID**: arxiv_2611.22563v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22563v2](http://arxiv.org/abs/2611.22563v2)
+
+## MillBill: A Machining Agent with Geometric Feedback
+- **ID**: arxiv_2611.22565v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22565v2](http://arxiv.org/abs/2611.22565v2)
+
 ## RSI-Prime: Training Models to Train Models
 - **ID**: arxiv_2611.23138v1
 - **Source**: ArXiv
@@ -5474,4 +5494,29 @@
 - **ID**: arxiv_2611.23202v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23202v1](http://arxiv.org/abs/2611.23202v1)
+
+## Vibe-Trading: Towards Agent-Native Trading
+- **ID**: arxiv_2611.24845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24845v1](http://arxiv.org/abs/2611.24845v1)
+
+## Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents
+- **ID**: arxiv_2611.24867v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24867v1](http://arxiv.org/abs/2611.24867v1)
+
+## WorldRuler: Interactive World Modeling under Configurable Rules
+- **ID**: arxiv_2611.24869v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24869v1](http://arxiv.org/abs/2611.24869v1)
+
+## Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs
+- **ID**: arxiv_2611.24880v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24880v1](http://arxiv.org/abs/2611.24880v1)
+
+## Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems
+- **ID**: arxiv_2611.24932v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24932v1](http://arxiv.org/abs/2611.24932v1)
 

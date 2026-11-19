@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38089v1](http://arxiv.org/abs/2609.38089v1)
 
+## LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules
+- **ID**: arxiv_2611.24810v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24810v1](http://arxiv.org/abs/2611.24810v1)
+

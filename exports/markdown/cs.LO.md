@@ -35,3 +35,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20573v1](http://arxiv.org/abs/2610.20573v1)
 
+## Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving
+- **ID**: arxiv_2611.24788v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24788v1](http://arxiv.org/abs/2611.24788v1)
+

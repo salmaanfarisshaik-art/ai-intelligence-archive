@@ -2775,6 +2775,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00239v2](http://arxiv.org/abs/2608.00239v2)
 
+## CADENA: Stepwise CAD Reverse Engineering
+- **ID**: arxiv_2608.00799v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00799v2](http://arxiv.org/abs/2608.00799v2)
+
 ## ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs
 - **ID**: arxiv_2608.01979v2
 - **Source**: ArXiv
@@ -4795,6 +4800,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.14377v2](http://arxiv.org/abs/2609.14377v2)
 
+## Small Object Detection in Drone Aerial Imagery with LAF-YOLOv10
+- **ID**: arxiv_2609.14560v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.14560v2](http://arxiv.org/abs/2609.14560v2)
+
 ## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 - **ID**: arxiv_2609.15018v2
 - **Source**: ArXiv
@@ -6464,6 +6474,11 @@
 - **ID**: arxiv_2610.13947v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13947v1](http://arxiv.org/abs/2610.13947v1)
+
+## CAPTOR: a vision-language foundation model for Chest-Abdomen-Pelvis Oncologic CT
+- **ID**: arxiv_2610.14226v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14226v2](http://arxiv.org/abs/2610.14226v2)
 
 ## SliderEdit++: Improved Slider Trajectories in Instruction-Based Image Editing
 - **ID**: arxiv_2610.14253v2
@@ -8165,6 +8180,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14519v1](http://arxiv.org/abs/2611.14519v1)
 
+## VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender
+- **ID**: arxiv_2611.15789v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.15789v2](http://arxiv.org/abs/2611.15789v2)
+
 ## SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery
 - **ID**: arxiv_2611.17172v1
 - **Source**: ArXiv
@@ -8435,6 +8455,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22212v1](http://arxiv.org/abs/2611.22212v1)
 
+## MAVE: Reconstructing Editable 3D Blockouts from Film Shots
+- **ID**: arxiv_2611.22464v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22464v2](http://arxiv.org/abs/2611.22464v2)
+
 ## Nunchi: Ears Help Eyes in Multi-Party Conversations
 - **ID**: arxiv_2611.23115v1
 - **Source**: ArXiv
@@ -8514,4 +8539,69 @@
 - **ID**: arxiv_2611.23228v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23228v1](http://arxiv.org/abs/2611.23228v1)
+
+## Read Together, Answer Apart: How Earlier Questions Help Vision-Language Models Look
+- **ID**: arxiv_2611.24785v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24785v1](http://arxiv.org/abs/2611.24785v1)
+
+## Training-free motion statistics match self-supervised behavior encoders
+- **ID**: arxiv_2611.24792v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24792v1](http://arxiv.org/abs/2611.24792v1)
+
+## The Elephant in the Question: Unified Models Picture the Concepts Behind Their Answers
+- **ID**: arxiv_2611.24793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24793v1](http://arxiv.org/abs/2611.24793v1)
+
+## Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual Instruction Data
+- **ID**: arxiv_2611.24795v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24795v1](http://arxiv.org/abs/2611.24795v1)
+
+## Edge-Efficient Joint RAW Image Compression and Restoration for Smart Wearable Devices
+- **ID**: arxiv_2611.24805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24805v1](http://arxiv.org/abs/2611.24805v1)
+
+## ReCoCo: From Patches to Compositions for Visual Representation Learning
+- **ID**: arxiv_2611.24806v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24806v1](http://arxiv.org/abs/2611.24806v1)
+
+## Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving
+- **ID**: arxiv_2611.24840v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24840v1](http://arxiv.org/abs/2611.24840v1)
+
+## Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance
+- **ID**: arxiv_2611.24862v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24862v1](http://arxiv.org/abs/2611.24862v1)
+
+## NereidVLA: Learning to Understand and Navigate the Underwater World
+- **ID**: arxiv_2611.24864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24864v1](http://arxiv.org/abs/2611.24864v1)
+
+## ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection
+- **ID**: arxiv_2611.24904v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24904v1](http://arxiv.org/abs/2611.24904v1)
+
+## PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration
+- **ID**: arxiv_2611.24915v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24915v1](http://arxiv.org/abs/2611.24915v1)
+
+## Unified Law for Visual Tasks (The Four Laws of Computer Vision)
+- **ID**: arxiv_2611.24917v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24917v1](http://arxiv.org/abs/2611.24917v1)
+
+## UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation
+- **ID**: arxiv_2611.24941v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24941v1](http://arxiv.org/abs/2611.24941v1)
 

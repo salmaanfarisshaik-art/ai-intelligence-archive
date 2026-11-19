@@ -90,3 +90,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18504v1](http://arxiv.org/abs/2611.18504v1)
 
+## Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning
+- **ID**: arxiv_2611.24798v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24798v1](http://arxiv.org/abs/2611.24798v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.24810v1",
+  "schema_version": "1.0",
+  "name": "LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.24810v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.24810v1",
+    "updated": "2026-11-18T17:45:52Z",
+    "published": "2026-11-18T17:45:52Z",
+    "title": "LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules",
+    "summary": "Rooftop photovoltaics raise three questions: should a household invest, which incentive costs the state least, and does the feeder stay within limits? Those who ask are rarely modellers. We present LAaDT-DSS, decision-support software that answers all three under Turkish tariff rules from one simulation core. Non-experts reach it by clicking a house on a 3D map or by asking in plain words; a language model is asked to call the simulation tools, not to compute. Each entry of its 125-entry parameter registry is marked as sourced or estimated. Case studies test the system. Its PV yield lies within $\\pm$3.6% of two independent tools at equal losses. Across 2,048 draws of its estimated inputs, the answer for PV alone held in all but one; with a battery, it changed in 31-41% of the draws. Four scripted chat scenarios ran end to end; no user study was run.",
+    "primary_category": "cs.CE"
+  },
+  "retrieval_timestamp": "2026-11-19T09:54:04Z",
+  "last_updated": "2026-11-18T17:45:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.24810v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

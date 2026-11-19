@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.14226v2",
+  "schema_version": "1.0",
+  "name": "CAPTOR: a vision-language foundation model for Chest-Abdomen-Pelvis Oncologic CT",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.14226v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.14226v2",
+    "updated": "2026-11-18T17:38:45Z",
+    "published": "2026-10-09T18:39:01Z",
+    "title": "CAPTOR: a vision-language foundation model for Chest-Abdomen-Pelvis Oncologic CT",
+    "summary": "Objectives: Radiologists interpreting oncologic chest-abdomen-pelvis (CAP) CT must also detect non-oncologic conditions, yet existing CT foundation models are trained on single anatomical regions or on non-oncologic data. We developed and evaluated CAPTOR, a vision-language foundation model for oncologic CAP CT that uses an anatomically structured preprocessing strategy to learn from whole examinations.\n  Materials & Methods: CAPTOR is a contrastive vision-language model pretrained on 25,512 predominantly oncologic CAP CT-report pairs (single or multiple series) from a retrospective multicenter dataset (North America, Europe, Asia). It was compared with five CT foundation models, a larger-scale variant (CAPTOR-100K) and an ablation without anatomical preprocessing (CAPTOR-NoPre) on classification and retrieval using held-out internal and public test sets, and on survival prediction using TumorImagingBench. Confidence intervals and pairwise comparisons used patient-level bootstrap and permutation tests.\n  Results: On 10,794 test studies, CAPTOR achieved higher AUC than all five models on CAP (0.767 vs. 0.695 for the next-best model; p<0.001) and oncologic subsets (0.784 vs. 0.734; p<0.001), with superior retrieval on both, and ranked first on three of four oncologic survival benchmarks. Despite substantially fewer training examinations, it performed comparably to CAPTOR-100K. Removing the anatomically structured preprocessing reduced classification performance, including on the institutionally held-out test subset (macro-AUC 0.737 vs. 0.691 for CAPTOR-NoPre, p<0.01).\n  Conclusion: Anatomically structured preprocessing enabled whole-examination CAP CT interpretation, including multiple-series acquisitions, and improved downstream performance. CAPTOR outperformed state-of-the-art CT foundation models on CAP and oncologic subsets while matching a substantially larger-scale variant.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-19T09:54:04Z",
+  "last_updated": "2026-11-18T17:38:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.14226v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

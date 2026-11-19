@@ -1015,6 +1015,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18553v3](http://arxiv.org/abs/2607.18553v3)
 
+## Operational Proto-Introspection in Looped Language Models: Reading Correctness Before the Answer
+- **ID**: arxiv_2607.18553v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18553v4](http://arxiv.org/abs/2607.18553v4)
+
 ## Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning
 - **ID**: arxiv_2607.18722v3
 - **Source**: ArXiv
@@ -3169,4 +3174,24 @@
 - **ID**: arxiv_2611.23229v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23229v1](http://arxiv.org/abs/2611.23229v1)
+
+## Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations
+- **ID**: arxiv_2611.24782v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24782v1](http://arxiv.org/abs/2611.24782v1)
+
+## Bias-Only Training Dynamics in ReLU Networks
+- **ID**: arxiv_2611.24797v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24797v1](http://arxiv.org/abs/2611.24797v1)
+
+## Synthesizing hyperspectral Data using generative Models to train spectral Unmixing Methods for low-cost Crop Residue Cover Mapping
+- **ID**: arxiv_2611.24827v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24827v1](http://arxiv.org/abs/2611.24827v1)
+
+## Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws
+- **ID**: arxiv_2611.24877v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24877v1](http://arxiv.org/abs/2611.24877v1)
 

@@ -275,3 +275,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12834v1](http://arxiv.org/abs/2611.12834v1)
 
+## Who are you? The Personal Imitation Game
+- **ID**: arxiv_2611.24888v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24888v1](http://arxiv.org/abs/2611.24888v1)
+

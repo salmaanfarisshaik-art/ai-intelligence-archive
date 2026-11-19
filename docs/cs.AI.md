@@ -251,6 +251,8 @@
 | [BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1) | ArXiv |  | 1 |
 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](http://arxiv.org/abs/2607.23159v2) | ArXiv |  | 1 |
 | [CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models](http://arxiv.org/abs/2607.25244v2) | ArXiv |  | 1 |
+| [CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use](http://arxiv.org/abs/2610.09127v2) | ArXiv |  | 1 |
+| [CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference](http://arxiv.org/abs/2611.22563v2) | ArXiv |  | 1 |
 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](http://arxiv.org/abs/2608.24794v1) | ArXiv |  | 1 |
 | [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
 | [Can Agentic Systems Close the Gap in Radiology with Production AI Tools?](http://arxiv.org/abs/2611.09836v1) | ArXiv |  | 1 |
@@ -275,6 +277,7 @@
 | [CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](http://arxiv.org/abs/2607.26023v1) | ArXiv |  | 1 |
 | [Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis](http://arxiv.org/abs/2610.30072v1) | ArXiv |  | 1 |
 | [ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry](http://arxiv.org/abs/2511.17909v2) | ArXiv |  | 1 |
+| [Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents](http://arxiv.org/abs/2611.24867v1) | ArXiv |  | 1 |
 | [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](http://arxiv.org/abs/2605.14398v3) | ArXiv |  | 1 |
 | [CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI](http://arxiv.org/abs/2609.02459v2) | ArXiv |  | 1 |
 | [Classical Energies Learn to Reason 1,000x Faster than Looped Models](http://arxiv.org/abs/2611.17309v1) | ArXiv |  | 1 |
@@ -571,6 +574,7 @@
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
 | [Keeping LLM Agents on Procedure: Executable Finite-State Control for Long-Horizon Instruction Fidelity](http://arxiv.org/abs/2611.10884v1) | ArXiv |  | 1 |
 | [KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents](http://arxiv.org/abs/2610.22331v1) | ArXiv |  | 1 |
+| [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1) | ArXiv |  | 1 |
 | [Knowing When to Intervene: Causal Evaluation of AI Agents](http://arxiv.org/abs/2611.09792v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows](http://arxiv.org/abs/2610.03564v1) | ArXiv |  | 1 |
@@ -618,6 +622,7 @@
 | [LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams](http://arxiv.org/abs/2609.05327v1) | ArXiv |  | 1 |
 | [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) | ArXiv |  | 1 |
 | [LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](http://arxiv.org/abs/2608.29612v1) | ArXiv |  | 1 |
+| [Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs](http://arxiv.org/abs/2611.24880v1) | ArXiv |  | 1 |
 | [LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model](http://arxiv.org/abs/2611.22131v1) | ArXiv |  | 1 |
 | [LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion](http://arxiv.org/abs/2611.12775v1) | ArXiv |  | 1 |
 | [LOGIC: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration](http://arxiv.org/abs/2601.15397v4) | ArXiv |  | 1 |
@@ -634,6 +639,7 @@
 | [MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance](http://arxiv.org/abs/2606.16923v1) | ArXiv |  | 1 |
 | [Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation](http://arxiv.org/abs/2608.02518v1) | ArXiv |  | 1 |
 | [MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](http://arxiv.org/abs/2607.28527v1) | ArXiv |  | 1 |
+| [MARBLE: An Agentic Benchmark for Spatial Reasoning and Visual Abstraction](http://arxiv.org/abs/2506.22992v2) | ArXiv |  | 1 |
 | [MARBO: Relational Belief Grounding for LLM Agents in Social Deduction Games](http://arxiv.org/abs/2609.06563v2) | ArXiv |  | 1 |
 | [MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination](http://arxiv.org/abs/2608.13476v1) | ArXiv |  | 1 |
 | [Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs](http://arxiv.org/abs/2604.27618v2) | ArXiv |  | 1 |
@@ -653,6 +659,7 @@
 | [MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use](http://arxiv.org/abs/2608.20202v1) | ArXiv |  | 1 |
 | [MFG: Multi-turn Feedback Guided Molecular Optimization](http://arxiv.org/abs/2610.18851v1) | ArXiv |  | 1 |
 | [MidTool: Mid-training Data Synthesis for Agentic Tool Use](http://arxiv.org/abs/2608.20314v1) | ArXiv |  | 1 |
+| [MillBill: A Machining Agent with Geometric Feedback](http://arxiv.org/abs/2611.22565v2) | ArXiv |  | 1 |
 | [MindTopo: Can Foundation Models Reason in Topological Space?](http://arxiv.org/abs/2609.11900v1) | ArXiv |  | 1 |
 | [Mingbird: A Local-First Agent Harness Enabling Small Open Models to Complete Real Tasks](http://arxiv.org/abs/2610.02001v2) | ArXiv |  | 1 |
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
@@ -1044,6 +1051,7 @@
 | [VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](http://arxiv.org/abs/2610.08761v1) | ArXiv |  | 1 |
 | [VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification](http://arxiv.org/abs/2607.20474v2) | ArXiv |  | 1 |
 | [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1) | ArXiv |  | 1 |
+| [Vibe-Trading: Towards Agent-Native Trading](http://arxiv.org/abs/2611.24845v1) | ArXiv |  | 1 |
 | [View-oriented Conversation Compiler for Agent Trace Analysis](http://arxiv.org/abs/2603.29678v3) | ArXiv |  | 1 |
 | [VISTA: A Visual Harness for Reasoning in an Interactive World](http://arxiv.org/abs/2610.02200v1) | ArXiv |  | 1 |
 | [VoiceLongMemEval: Do Assistants Remember How You Sounded?](http://arxiv.org/abs/2609.00570v3) | ArXiv |  | 1 |
@@ -1092,6 +1100,7 @@
 | [World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models](http://arxiv.org/abs/2607.27599v2) | ArXiv |  | 1 |
 | [World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](http://arxiv.org/abs/2610.24061v2) | ArXiv |  | 1 |
 | [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) | ArXiv |  | 1 |
+| [WorldRuler: Interactive World Modeling under Configurable Rules](http://arxiv.org/abs/2611.24869v1) | ArXiv |  | 1 |
 | [WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?](http://arxiv.org/abs/2610.08720v1) | ArXiv |  | 1 |
 | [Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores](http://arxiv.org/abs/2608.31068v1) | ArXiv |  | 1 |
 | [Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports](http://arxiv.org/abs/2608.14446v1) | ArXiv |  | 1 |
