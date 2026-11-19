@@ -311776,6 +311776,16 @@
     "local_path": "datasets/unknown/dataset_espnet_yodas3.json"
   },
   {
+    "id": "dataset_espnet_yodas3_1",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_espnet_yodas3_1.json"
+  },
+  {
     "id": "dataset_espnet_yodas_granary",
     "title": "",
     "category": "datasets",
@@ -347911,6 +347921,38 @@
     "local_path": "datasets/drakesuper/hf_ds_6a05090783b099c94f623217.json"
   },
   {
+    "id": "hf_ds_6a12a89c37f564db4d5c51d1",
+    "title": "YipengGao/3DCodeBench",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2606.01057",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:mit",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/YipengGao"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/YipengGao/3DCodeBench",
+    "local_path": "datasets/yipenggao/hf_ds_6a12a89c37f564db4d5c51d1.json"
+  },
+  {
     "id": "hf_ds_6a139a707f615e6fc818bde7",
     "title": "just-me7ss/American-Sign-Language-Dataset",
     "category": "dataset",
@@ -380547,6 +380589,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/qwen/model_qwen_qwen2_5_coder_32b_instruct_gptq_int4.json"
+  },
+  {
+    "id": "model_qwen_qwen2_5_coder_32b_instruct_gptq_int8",
+    "title": "Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/qwen/model_qwen_qwen2_5_coder_32b_instruct_gptq_int8.json"
   },
   {
     "id": "model_qwen_qwen2_5_coder_3b",
@@ -669084,6 +669136,21 @@
     },
     "source_url": "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_how-openai-is-approaching-2024-worldwide-elections.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_how-openai-performance-factory-keeps-chatgpt-fast.json"
   },
   {
     "id": "rss_https://openai.com/index/how-people-are-using-chatgpt",

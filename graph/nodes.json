@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:54:22.357772+00:00",
+  "generated_at": "2026-11-19T18:53:02.962018+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -136195,6 +136195,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_espnet_yodas3_1",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_espnet_yodas_granary",
       "label": ""
     },
@@ -151525,6 +151530,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a12a89c37f564db4d5c51d1",
+      "label": "YipengGao/3DCodeBench"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a139a707f615e6fc818bde7",
       "label": "just-me7ss/American-Sign-Language-Dataset"
     },
@@ -166847,6 +166857,11 @@
       "category": "models",
       "id": "model_qwen_qwen2_5_coder_32b_instruct_gptq_int4",
       "label": "Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int4"
+    },
+    {
+      "category": "models",
+      "id": "model_qwen_qwen2_5_coder_32b_instruct_gptq_int8",
+      "label": "Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int8"
     },
     {
       "category": "models",
@@ -309336,6 +309351,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "label": ""
     },
     {
@@ -468255,5 +468275,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 93650
+  "total_nodes": 93654
 }

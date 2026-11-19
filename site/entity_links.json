@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:55:28Z",
+  "generated_at": "2026-11-19T18:54:10Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -6897,6 +6897,16 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_nvidia_nvidia_nemotron_labs_dory1_0_4b_nvfp4",
+      "target_id": "hf_nvidia_nemotron-post-training-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_labs_dory1_0_4b_nvfp4",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_nvidia_nvidia_nemotron_nano_12b_v2",
       "target_id": "hf_nvidia_NVIDIA-Nemotron-Nano-12B-v2-Base",
       "type": "derived_from"
@@ -10950,6 +10960,11 @@
       "source_id": "model_xlnet_xlnet_base_cased",
       "target_id": "hf_wikipedia",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_xtools_at_deepseek_v4_pro_qwen3_5_9b_uncensored_heretic",
+      "target_id": "hf_Jackrong_DeepSeek-V4-Pro-Qwen3.5-9B",
+      "type": "derived_from"
     },
     {
       "source_id": "model_yanissamz_hy3_295b_a21b_gguf",

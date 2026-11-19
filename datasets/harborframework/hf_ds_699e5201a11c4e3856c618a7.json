@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "harborframework/terminal-bench-science-lfs",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tTerminal-Bench-Science — task input mirror\n\t\n\nLarge input files for Terminal-Bench-Science\ntasks, which cannot be committed to git. Tasks pull from here at container build\ntime, pinned to a commit SHA and verified against a checksum file that ships in\nthe task directory.\nOne top-level prefix per task; everything lives under <task-name>/input/.\n\n\t\n\t\t\n\t\n\t\n\t\tBenchmark contamination canary\n\t\n\nThis dataset is benchmark material. If you are assembling a training corpus,\nexclude it.… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/terminal-bench-science-lfs.",
-  "size": "303861",
+  "size": "326246",
   "source_url": "https://huggingface.co/datasets/harborframework/terminal-bench-science-lfs",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "cf019ba0ece48c40c82fd4d8f5ca77b8904f6133",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tTerminal-Bench-Science — task input mirror\n\t\n\nLarge input files for Terminal-Bench-Science\ntasks, which cannot be committed to git. Tasks pull from here at container build\ntime, pinned to a commit SHA and verified against a checksum file that ships in\nthe task directory.\nOne top-level prefix per task; everything lives under <task-name>/input/.\n\n\t\n\t\t\n\t\n\t\n\t\tBenchmark contamination canary\n\t\n\nThis dataset is benchmark material. If you are assembling a training corpus,\nexclude it.… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/terminal-bench-science-lfs.",
-    "downloads": 303861,
+    "downloads": 326246,
     "tags": [
       "license:apache-2.0",
       "region:us",
@@ -29,7 +29,7 @@
     "createdAt": "2026-02-25T01:36:01.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-18T19:59:40.761409+00:00",
+  "retrieval_timestamp": "2026-11-19T18:52:51.985583+00:00",
   "last_updated": "2026-11-13T07:34:39.000Z",
   "links": {
     "related_models": [

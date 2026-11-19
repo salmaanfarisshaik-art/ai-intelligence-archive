@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "lmarena-ai/leaderboard-dataset",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tArena Leaderboard Dataset\n\t\n\nHistorical snapshots of the Arena leaderboard.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load all historical text style control data\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"full\")\n\n# Load the current text style control leaderboard\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"latest\")\n\n# Filter to overall category\nds =… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset.",
-  "size": "335161",
+  "size": "343435",
   "source_url": "https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -15,11 +15,11 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-11-19T04:04:20.000Z",
-    "likes": 50,
+    "likes": 51,
     "private": false,
     "sha": "b9863c64b88ca180037b5c2dcd65742b7ea8cf70",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tArena Leaderboard Dataset\n\t\n\nHistorical snapshots of the Arena leaderboard.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load all historical text style control data\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"full\")\n\n# Load the current text style control leaderboard\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"latest\")\n\n# Filter to overall category\nds =… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset.",
-    "downloads": 335161,
+    "downloads": 343435,
     "tags": [
       "license:cc-by-4.0",
       "size_categories:1M<n<10M",
@@ -35,7 +35,7 @@
     "createdAt": "2026-04-02T19:50:32.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-19T09:54:11.409327+00:00",
+  "retrieval_timestamp": "2026-11-19T18:52:51.985583+00:00",
   "last_updated": "2026-11-19T04:04:20.000Z",
   "links": {
     "related_models": [

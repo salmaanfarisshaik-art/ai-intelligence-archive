@@ -5960,6 +5960,10 @@
 - **ID**: model_qwen_qwen2_5_coder_32b_instruct_gptq_int4
 - **Source**: 
 
+## Qwen/Qwen2.5-Coder-32B-Instruct-GPTQ-Int8
+- **ID**: model_qwen_qwen2_5_coder_32b_instruct_gptq_int8
+- **Source**: 
+
 ## Qwen/Qwen2.5-Coder-3B
 - **ID**: model_qwen_qwen2_5_coder_3b
 - **Source**: 

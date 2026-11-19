@@ -1210,6 +1210,12 @@
 - **URL**: [https://huggingface.co/datasets/Drakesuper/rodridre](https://huggingface.co/datasets/Drakesuper/rodridre)
 - **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
 
+## YipengGao/3DCodeBench
+- **ID**: hf_ds_6a12a89c37f564db4d5c51d1
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/YipengGao/3DCodeBench](https://huggingface.co/datasets/YipengGao/3DCodeBench)
+- **Tags**: arxiv:2606.01057, benchmark, blender, code-generation, language:en, license:mit, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:10K<n<100K, task_categories:image-to-3d, task_categories:text-to-3d
+
 ## just-me7ss/American-Sign-Language-Dataset
 - **ID**: hf_ds_6a139a707f615e6fc818bde7
 - **Source**: HuggingFace Datasets
