@@ -4860,6 +4860,10 @@
 - **ID**: model_nvidia_nvidia_nemotron_labs_dory1_0_4b_gguf
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4
+- **ID**: model_nvidia_nvidia_nemotron_labs_dory1_0_4b_nvfp4
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-Nano-12B-v2
 - **ID**: model_nvidia_nvidia_nemotron_nano_12b_v2
 - **Source**: 
@@ -8158,6 +8162,10 @@
 
 ## xlnet/xlnet-base-cased
 - **ID**: model_xlnet_xlnet_base_cased
+- **Source**: 
+
+## xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic
+- **ID**: model_xtools_at_deepseek_v4_pro_qwen3_5_9b_uncensored_heretic
 - **Source**: 
 
 ## YanissAmz/Hy3-295B-A21B-GGUF
