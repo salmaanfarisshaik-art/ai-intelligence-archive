@@ -817,13 +817,6 @@
       "score": 2.0
     }
   ],
-  "406": [
-    {
-      "entity_id": "dataset_allratestoday_central_bank_exchange_rates",
-      "match_type": "exact",
-      "score": 1.0
-    }
-  ],
   "4068": [
     {
       "entity_id": "dataset_usanococr_humanoid_everyday_stepit",
@@ -1190,6 +1183,11 @@
   "411": [
     {
       "entity_id": "alpaca_785549299731997396",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allratestoday_central_bank_exchange_rates",
       "match_type": "exact",
       "score": 1.0
     }
@@ -2681,6 +2679,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mll_lab_embodied_exam_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_secemp9_arxiv_complete",
       "match_type": "exact",
       "score": 1.0
@@ -2892,12 +2895,22 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_audiosp_uoy_narrowband_truncated_rirs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_desmondlzy_bigs_data",
       "match_type": "exact",
       "score": 1.0
     },
     {
       "entity_id": "dataset_hffordata_h3_fewstep_benchmark_20260920",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_joneslin_writing_model_papers_2016_2021",
       "match_type": "exact",
       "score": 1.0
     },
@@ -3260,16 +3273,18 @@
       "entity_id": "alpaca_-1789408207886283658",
       "match_type": "exact",
       "score": 1.0
-    },
-    {
-      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "490m": [
     {
       "entity_id": "dataset_tiagozip_bluesky",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "491": [
+    {
+      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
       "match_type": "exact",
       "score": 1.0
     }
@@ -4695,6 +4710,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_kapitsaprime_clover_35b_a3b_preview_mlx_4bit",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_llmsafety_qwen2_5_math_7b_4bit",
       "match_type": "exact",
       "score": 2.0
@@ -5314,6 +5334,11 @@
     },
     {
       "entity_id": "arxiv_2611.23144v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.26516v1",
       "match_type": "exact",
       "score": 2.0
     },

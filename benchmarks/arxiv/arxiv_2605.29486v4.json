@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.29486v4",
+  "schema_version": "1.0",
+  "name": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.29486v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.29486v4",
+    "updated": "2026-11-19T18:16:20Z",
+    "published": "2026-05-28T07:14:15Z",
+    "title": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+    "summary": "Real applications provide the training setting closest to phone-agent deployment, but are difficult to reset, scale safely, and verify programmatically. Static screenshots and interaction trajectories preserve realistic evidence but cannot generate new experience. We introduce PhoneWorld, a trace-grounded framework that converts such evidence into runnable, resettable, and verifiable Android environments. PhoneWorld induces a usage-weighted interaction skeleton from observed pages, transitions, and state-changing operations; translates it into a behavior-grounded app specification; realizes the specification through an autonomous build--inspect--repair loop; and synthesizes executable tasks with programmatic verifiers. The resulting suite spans 34 consumer-facing apps across 16 domains and supports an audited online benchmark, verified trajectory generation, and online RL through common reset and verification interfaces. Evaluations with diverse general and open-source GUI agents show that PhoneWorld supports reliable end-to-end online interaction and exposes capabilities complementary to AndroidWorld. Controlled SFT experiments further show that PhoneWorld trajectories complement AndroidWorld supervision, transfer across online and offline benchmarks, and become more effective as data volume and app coverage increase. Under a matched RL budget, combining PhoneWorld mock-app rollouts with real-app rollouts improves performance over real-app RL alone on both real-phone tasks and AndroidWorld. Together, these results demonstrate that trace-grounded executable abstraction can bridge realistic mobile behavior and scalable agent learning, turning limited real-app evidence into a growing supply of controllable and verifiable environments for training and evaluation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-20T18:19:08Z",
+  "last_updated": "2026-11-19T18:16:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.29486v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

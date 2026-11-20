@@ -4,12 +4,12 @@
   "author": "vincewin",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-11-20T09:43:00.000Z",
+  "lastModified": "2026-11-20T18:18:49.000Z",
   "likes": 14,
   "private": false,
-  "sha": "5cc55f3f250758ff21a5ff488d1eca981f92cbd5",
+  "sha": "d80d20f6cc425f23991241d3b2c8f85354b39ce3",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tCREST forcing (parquet)\n\t\n\nEF5/CREST hourly forcing for CONUS, 2016-present, packed as one tar per variable/year.\n\n\t\n\t\t\ndir\nvariable\nsource\ncadence\n\n\n\t\t\nmrms/\nprecipitation\nMRMS QPE (corrected)\nhourly\n\n\ntemp/\n2 m temperature\nNLDAS-2 FORA\nhourly\n\n\npet/\npotential ET\nFEWS NET daily PET\ndaily\n\n\n\t\n\nEach *.tar expands to individual .pqf (Apache Arrow parquet) grids readable by the\nEF5 v4.5 native parquet reader. Used by the Space vincewin/CREST_AI.\nDownload + extract one year, e.g.:\nfrom… See the full description on the dataset page: https://huggingface.co/datasets/vincewin/CREST_data.",
-  "downloads": 88638,
+  "downloads": 85939,
   "tags": [
     "license:cc-by-4.0",
     "region:us"

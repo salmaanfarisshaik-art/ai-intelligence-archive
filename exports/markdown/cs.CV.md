@@ -660,6 +660,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.06159v3](http://arxiv.org/abs/2602.06159v3)
 
+## Robust Pedestrian Detection with Uncertain Modality
+- **ID**: arxiv_2602.06363v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.06363v2](http://arxiv.org/abs/2602.06363v2)
+
 ## How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study
 - **ID**: arxiv_2602.07814v2
 - **Source**: ArXiv
@@ -1025,6 +1030,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.25370v3](http://arxiv.org/abs/2604.25370v3)
 
+## Beyond Visual Fidelity: Benchmarking Super-Resolution Models for Large-Scale Remote Sensing Imagery via Downstream Task Integration
+- **ID**: arxiv_2605.00310v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00310v3](http://arxiv.org/abs/2605.00310v3)
+
 ## Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels
 - **ID**: arxiv_2605.00718v3
 - **Source**: ArXiv
@@ -1144,6 +1154,11 @@
 - **ID**: arxiv_2605.18736v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.18736v3](http://arxiv.org/abs/2605.18736v3)
+
+## Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models
+- **ID**: arxiv_2605.20158v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20158v2](http://arxiv.org/abs/2605.20158v2)
 
 ## VISTAQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence
 - **ID**: arxiv_2605.20676v2
@@ -5750,6 +5765,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38180v1](http://arxiv.org/abs/2609.38180v1)
 
+## GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
+- **ID**: arxiv_2609.39601v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.39601v3](http://arxiv.org/abs/2609.39601v3)
+
 ## Recognition of Urbanized Areas in UAV-Derived Very-High-Resolution Visible-Light Imagery
 - **ID**: arxiv_2609.40212v1
 - **Source**: ArXiv
@@ -6489,6 +6509,11 @@
 - **ID**: arxiv_2610.14698v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.14698v2](http://arxiv.org/abs/2610.14698v2)
+
+## Composable Driving Style for End-to-End Autonomous Driving
+- **ID**: arxiv_2610.14802v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14802v2](http://arxiv.org/abs/2610.14802v2)
 
 ## Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++
 - **ID**: arxiv_2610.15061v3
@@ -8125,6 +8150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12886v1](http://arxiv.org/abs/2611.12886v1)
 
+## DailyWildfireCAN: A Dataset and Benchmark for Next-Day Wildfire Spread Prediction in Canada
+- **ID**: arxiv_2611.14207v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14207v2](http://arxiv.org/abs/2611.14207v2)
+
 ## What Factors Matter for Collection-Level Counting with Human-AI Collaboration?
 - **ID**: arxiv_2611.14380v1
 - **Source**: ArXiv
@@ -8540,6 +8570,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23228v1](http://arxiv.org/abs/2611.23228v1)
 
+## DORMS: Image Segmentation via Depth-Ordered Region Merge Trees
+- **ID**: arxiv_2611.23958v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23958v2](http://arxiv.org/abs/2611.23958v2)
+
 ## Read Together, Answer Apart: How Earlier Questions Help Vision-Language Models Look
 - **ID**: arxiv_2611.24785v1
 - **Source**: ArXiv
@@ -8604,4 +8639,59 @@
 - **ID**: arxiv_2611.24941v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24941v1](http://arxiv.org/abs/2611.24941v1)
+
+## Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain
+- **ID**: arxiv_2611.26511v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26511v1](http://arxiv.org/abs/2611.26511v1)
+
+## Plan4D: Generative Plannable 4D Worlds
+- **ID**: arxiv_2611.26516v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26516v1](http://arxiv.org/abs/2611.26516v1)
+
+## Deterministic Temporal Embedding for Calcium Imaging Trace Extraction
+- **ID**: arxiv_2611.26522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26522v1](http://arxiv.org/abs/2611.26522v1)
+
+## AURA: AUdio-dRiven streaming Avatar
+- **ID**: arxiv_2611.26540v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26540v1](http://arxiv.org/abs/2611.26540v1)
+
+## Multi-institutional grading of Barrett's esophagus dysplasia without stain normalization using a pathology foundation model and multiple instance learning
+- **ID**: arxiv_2611.26562v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26562v1](http://arxiv.org/abs/2611.26562v1)
+
+## Coda-DaVinci: Reimagining Video Generation with Code2Video
+- **ID**: arxiv_2611.26595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26595v1](http://arxiv.org/abs/2611.26595v1)
+
+## Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth
+- **ID**: arxiv_2611.26603v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26603v1](http://arxiv.org/abs/2611.26603v1)
+
+## ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement
+- **ID**: arxiv_2611.26615v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26615v1](http://arxiv.org/abs/2611.26615v1)
+
+## One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning
+- **ID**: arxiv_2611.26617v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26617v1](http://arxiv.org/abs/2611.26617v1)
+
+## RL Post-Training in Diffusion Transformers Is Activation Steering
+- **ID**: arxiv_2611.26627v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26627v1](http://arxiv.org/abs/2611.26627v1)
+
+## Posterior Matching Distillation
+- **ID**: arxiv_2611.26629v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26629v1](http://arxiv.org/abs/2611.26629v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.26615v1",
+  "schema_version": "1.0",
+  "name": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.26615v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.26615v1",
+    "updated": "2026-11-19T18:58:04Z",
+    "published": "2026-11-19T18:58:04Z",
+    "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+    "summary": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory costs. We present ScaleWorld, a causal video model that unifies low-resolution world prediction and high-resolution refinement within a single shared backbone. By refining its own predictions, ScaleWorld produces high-resolution world videos without requiring a separate refinement model. For each video chunk, the shared backbone first completes a low-resolution prediction and then performs one-step high-resolution refinement conditioned on that prediction. To support efficient streaming generation, we maintain separate causal states with a long low-resolution history for prediction and a short high-resolution history for refinement. To address task interference during distillation, we separate specialist optimization from capability consolidation and introduce task-asymmetric on-policy distillation (TA-OPD). This procedure transfers prediction and refinement behaviors from specialized teachers into a shared student through local velocity matching under their respective sampling and history policies. {Extensive experiments demonstrate that ScaleWorld achieves high-quality world generation with improved computational and memory efficiency.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-20T18:19:08Z",
+  "last_updated": "2026-11-19T18:58:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.26615v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

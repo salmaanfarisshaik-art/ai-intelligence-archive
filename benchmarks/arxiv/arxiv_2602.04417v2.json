@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.04417v2",
+  "schema_version": "1.0",
+  "name": "EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.04417v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.04417v2",
+    "updated": "2026-11-19T18:58:48Z",
+    "published": "2026-02-04T10:50:17Z",
+    "title": "EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
+    "summary": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy gradient algorithms for LLMs. First, we replace the fixed anchor policy during RL with an Exponential Moving Average (EMA), similar to a target network in deep Q-learning. Second, we introduce Top-$k$ KL estimator, which allows for flexible interpolation between exact KL and sampled KL. We derive the stability conditions for using EMA anchor; moreover, we show that our Top-$k$ KL estimator yields both unbiased KL values and unbiased gradients at any $k$, while bringing the benefits of exact KL. When combined with GRPO, the two techniques (EMA-PG) lead to a significant performance boost. On math reasoning, it allows R1-distilled Qwen-1.5B to reach 53.9% on OlympiadBench compared to 50.8% by GRPO. On agentic RL domains, with Qwen-3B base, EMA-PG improves GRPO by an average of 35.6% across 7 datasets of Q&A with search engines, including 29.7% $\\rightarrow$ 45.8% on HotpotQA, 27.4% $\\rightarrow$ 40.5% on 2WikiMultiHopQA. Overall, we show that EMA-PG is a simple, principled, and powerful approach to scaling RL for LLMs. Code: https://github.com/LunjunZhang/ema-pg",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-20T18:19:08Z",
+  "last_updated": "2026-11-19T18:58:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.04417v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

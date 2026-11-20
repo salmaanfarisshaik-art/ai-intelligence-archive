@@ -700,8 +700,16 @@
 - **ID**: model_bartowski_hy3_gguf
 - **Source**: 
 
+## bartowski/kldzj_gpt-oss-120b-heretic-v2-GGUF
+- **ID**: model_bartowski_kldzj_gpt_oss_120b_heretic_v2_gguf
+- **Source**: 
+
 ## bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF
 - **ID**: model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf
+- **Source**: 
+
+## bartowski/L3.3-70B-Euryale-v2.3-GGUF
+- **ID**: model_bartowski_l3_3_70b_euryale_v2_3_gguf
 - **Source**: 
 
 ## bartowski/L3-8B-Stheno-v3.2-GGUF
@@ -1026,6 +1034,10 @@
 
 ## bleysg/Qwen3.5-122B-A10B-int4-fp8-hybrid
 - **ID**: model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid
+- **Source**: 
+
+## BlinkDL/rwkv-4-pile-14b
+- **ID**: model_blinkdl_rwkv_4_pile_14b
 - **Source**: 
 
 ## BlinkDL/rwkv-4-pile-7b
@@ -6954,6 +6966,10 @@
 
 ## t-tech/T-lite-it-2.1
 - **ID**: model_t_tech_t_lite_it_2_1
+- **Source**: 
+
+## taobao-mnn/Qwen3-4B-MNN
+- **ID**: model_taobao_mnn_qwen3_4b_mnn
 - **Source**: 
 
 ## TaoLiveAIGC/TLive-Omni-4B

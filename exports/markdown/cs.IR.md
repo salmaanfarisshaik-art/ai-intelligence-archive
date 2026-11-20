@@ -285,3 +285,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24849v1](http://arxiv.org/abs/2611.24849v1)
 
+## Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models
+- **ID**: arxiv_2611.26531v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26531v1](http://arxiv.org/abs/2611.26531v1)
+

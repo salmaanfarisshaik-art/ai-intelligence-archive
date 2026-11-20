@@ -1310,6 +1310,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17330v1](http://arxiv.org/abs/2611.17330v1)
 
+## Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment
+- **ID**: arxiv_2611.18372v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.18372v2](http://arxiv.org/abs/2611.18372v2)
+
 ## From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration
 - **ID**: arxiv_2611.18484v1
 - **Source**: ArXiv
@@ -1344,4 +1349,14 @@
 - **ID**: arxiv_2611.24940v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24940v1](http://arxiv.org/abs/2611.24940v1)
+
+## PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation
+- **ID**: arxiv_2611.26596v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26596v1](http://arxiv.org/abs/2611.26596v1)
+
+## AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control
+- **ID**: arxiv_2611.26613v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26613v1](http://arxiv.org/abs/2611.26613v1)
 

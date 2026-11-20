@@ -5520,3 +5520,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24932v1](http://arxiv.org/abs/2611.24932v1)
 
+## LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits
+- **ID**: arxiv_2611.26538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26538v1](http://arxiv.org/abs/2611.26538v1)
+
+## The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models
+- **ID**: arxiv_2611.26545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26545v1](http://arxiv.org/abs/2611.26545v1)
+
+## MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models
+- **ID**: arxiv_2611.26557v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26557v1](http://arxiv.org/abs/2611.26557v1)
+
+## ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images
+- **ID**: arxiv_2611.26586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26586v1](http://arxiv.org/abs/2611.26586v1)
+
+## Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models
+- **ID**: arxiv_2611.26590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26590v1](http://arxiv.org/abs/2611.26590v1)
+
+## PlayCraft: Designing Engaging Games from Agent Play Experience
+- **ID**: arxiv_2611.26624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26624v1](http://arxiv.org/abs/2611.26624v1)
+

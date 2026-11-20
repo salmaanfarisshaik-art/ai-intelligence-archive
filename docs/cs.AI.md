@@ -619,6 +619,7 @@
 | [LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents](http://arxiv.org/abs/2610.37166v2) | ArXiv |  | 1 |
 | [LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation](http://arxiv.org/abs/2607.24780v2) | ArXiv |  | 1 |
 | [LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior](http://arxiv.org/abs/2607.19300v1) | ArXiv |  | 1 |
+| [LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits](http://arxiv.org/abs/2611.26538v1) | ArXiv |  | 1 |
 | [LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams](http://arxiv.org/abs/2609.05327v1) | ArXiv |  | 1 |
 | [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) | ArXiv |  | 1 |
 | [LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](http://arxiv.org/abs/2608.29612v1) | ArXiv |  | 1 |
@@ -667,6 +668,7 @@
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
 | [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](http://arxiv.org/abs/2606.06473v2) | ArXiv |  | 1 |
 | [MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1) | ArXiv |  | 1 |
+| [MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models](http://arxiv.org/abs/2611.26557v1) | ArXiv |  | 1 |
 | [MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records](http://arxiv.org/abs/2610.27911v1) | ArXiv |  | 1 |
 | [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v3) | ArXiv |  | 1 |
 | [MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization](http://arxiv.org/abs/2605.19330v2) | ArXiv |  | 1 |
@@ -753,6 +755,7 @@
 | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v1) | ArXiv |  | 1 |
 | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v2) | ArXiv |  | 1 |
 | [Planning with the Views via Scene Self-Exploration](http://arxiv.org/abs/2605.29563v2) | ArXiv |  | 1 |
+| [PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1) | ArXiv |  | 1 |
 | [Plover: Steering GUI Agents through Plan-Centric Interaction](http://arxiv.org/abs/2607.15193v1) | ArXiv |  | 1 |
 | [Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning](http://arxiv.org/abs/2608.16831v1) | ArXiv |  | 1 |
 | [Polynomial Denoisers on the Image Manifold: Volterra Networks for Self-Contained Pixel Diffusion](http://arxiv.org/abs/2611.10857v1) | ArXiv |  | 1 |
@@ -767,6 +770,7 @@
 | [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
 | [Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL](http://arxiv.org/abs/2607.13073v2) | ArXiv |  | 1 |
 | [Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs](http://arxiv.org/abs/2609.38070v1) | ArXiv |  | 1 |
+| [Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](http://arxiv.org/abs/2611.26590v1) | ArXiv |  | 1 |
 | [Procedural Content Generation via Generative Artificial Intelligence](http://arxiv.org/abs/2407.09013v3) | ArXiv |  | 1 |
 | [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) | ArXiv |  | 1 |
 | [Procedure without Judgment: What Small Language Models Learn under an Exact Verifier](http://arxiv.org/abs/2611.21529v1) | ArXiv |  | 1 |
@@ -777,6 +781,7 @@
 | [Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](http://arxiv.org/abs/2609.31505v1) | ArXiv |  | 1 |
 | [Protecting patient privacy in clinical foundation models: Technical and legal perspectives](http://arxiv.org/abs/2608.07705v2) | ArXiv |  | 1 |
 | [ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry](http://arxiv.org/abs/2610.26829v1) | ArXiv |  | 1 |
+| [ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images](http://arxiv.org/abs/2611.26586v1) | ArXiv |  | 1 |
 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](http://arxiv.org/abs/2606.18037v3) | ArXiv |  | 1 |
 | [PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents](http://arxiv.org/abs/2608.07438v1) | ArXiv |  | 1 |
 | [Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure](http://arxiv.org/abs/2609.20732v1) | ArXiv |  | 1 |
@@ -966,6 +971,7 @@
 | [The edge-based contiguous p-median problem: exact formulations and strengthening inequalities](http://arxiv.org/abs/2608.11230v2) | ArXiv |  | 1 |
 | [The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers](http://arxiv.org/abs/2606.16974v1) | ArXiv |  | 1 |
 | [The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation](http://arxiv.org/abs/2611.05272v1) | ArXiv |  | 1 |
+| [The Geometry of Lies: Knowledge and Persona Directions for Detecting Deception in Large Language Models](http://arxiv.org/abs/2611.26545v1) | ArXiv |  | 1 |
 | [The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?](http://arxiv.org/abs/2611.08412v1) | ArXiv |  | 1 |
 | [The Hitchhikers Guide to Rubric Quality Understanding and Enrichment](http://arxiv.org/abs/2604.01375v4) | ArXiv |  | 1 |
 | [The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation](http://arxiv.org/abs/2601.05500v6) | ArXiv |  | 1 |

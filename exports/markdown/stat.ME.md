@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23174v1](http://arxiv.org/abs/2611.23174v1)
 
+## Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning
+- **ID**: arxiv_2611.26592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26592v1](http://arxiv.org/abs/2611.26592v1)
+

@@ -2949,6 +2949,9 @@
     "tags": [
       "arxiv:2407.19320",
       "doi:10.57967/hf/7644",
+      "format:imagefolder",
+      "library:datasets",
+      "library:mlcroissant",
       "license:cc-by-sa-4.0",
       "modality:image",
       "region:us",
@@ -3049,6 +3052,32 @@
     },
     "source_url": "https://huggingface.co/datasets/cadene/droid",
     "local_path": "datasets/cadene/hf_ds_67b9d203047d98a072b4e68c.json"
+  },
+  {
+    "id": "hf_ds_67be7d7b0a1a886d7b5d305d",
+    "title": "IPEC-COMMUNITY/droid_lerobot",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "LeRobot",
+      "droid",
+      "franka",
+      "license:apache-2.0",
+      "openx",
+      "region:us",
+      "rlds",
+      "task_categories:robotics"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/IPEC-COMMUNITY"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot",
+    "local_path": "datasets/ipec-community/hf_ds_67be7d7b0a1a886d7b5d305d.json"
   },
   {
     "id": "hf_ds_67cac93b5877d9c876a84572",
@@ -6294,6 +6323,9 @@
       "embodied-ai",
       "human-intervention",
       "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "license:cc-by-4.0",
       "modality:video",
       "multimodal",
       "real-world-robotics",
@@ -6559,39 +6591,6 @@
   },
   {
     "id": "hf_ds_6a409561222ffbb14f69924c",
-    "title": "ilabai/3dcodeverse",
-    "category": "dataset",
-    "source": "HuggingFace Datasets",
-    "tags": [
-      "3d",
-      "arxiv:2610.22341",
-      "benchmark",
-      "blender",
-      "code-generation",
-      "language:en",
-      "license:cc-by-nc-sa-4.0",
-      "modality:3d",
-      "modality:image",
-      "modality:text",
-      "procedural-3d",
-      "region:us",
-      "size_categories:1M<n<10M",
-      "task_categories:image-to-3d",
-      "task_categories:text-to-3d"
-    ],
-    "links": {
-      "related_models": [
-        "datasets/ilabai"
-      ],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    },
-    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
-    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
-  },
-  {
-    "id": "hf_ds_6a409561222ffbb14f69924c",
     "title": "3dcodeverse/3dcodeverse-2m",
     "category": "dataset",
     "source": "HuggingFace Datasets",
@@ -6626,6 +6625,39 @@
     },
     "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
     "local_path": "datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "ilabai/3dcodeverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ilabai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
+    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
   },
   {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",
@@ -7154,6 +7186,30 @@
     },
     "source_url": "https://huggingface.co/datasets/gfdg34fsd/newe",
     "local_path": "datasets/gfdg34fsd/hf_ds_6a8779d11c6e0f8d87cc3080.json"
+  },
+  {
+    "id": "hf_ds_6a8c52a903fa052d1016eb4a",
+    "title": "nureasoning/nuReasoning",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:other",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "task_categories:robotics",
+      "task_categories:text-generation",
+      "task_categories:visual-question-answering"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/nureasoning"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nureasoning/nuReasoning",
+    "local_path": "datasets/nureasoning/hf_ds_6a8c52a903fa052d1016eb4a.json"
   },
   {
     "id": "hf_ds_6a96f1b1177b511ec1b92935",

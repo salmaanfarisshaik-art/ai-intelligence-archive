@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93677
+**Total Entities Tracked**: 93733
 
 ## Category Distribution
 
@@ -8,19 +8,19 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2891
-- **models**: 2103
-- **cs.CV**: 1721
+- **models**: 2107
+- **cs.CV**: 1739
 - **news**: 1452
-- **dataset**: 1259
-- **cs.CL**: 1107
-- **cs.AI**: 1104
+- **dataset**: 1261
+- **cs.CL**: 1116
+- **cs.AI**: 1110
 - **text-generation**: 1018
-- **cs.LG**: 639
-- **cs.RO**: 269
-- **cs.CR**: 117
-- **cs.SE**: 93
+- **cs.LG**: 644
+- **cs.RO**: 272
+- **cs.CR**: 122
+- **cs.SE**: 94
 - **tool**: 60
-- **cs.IR**: 57
+- **cs.IR**: 58
 - **cs.HC**: 56
 - **cs.SD**: 50
 - **cs.CY**: 43
@@ -38,6 +38,7 @@
 - **cs.GR**: 11
 - **cs.IT**: 11
 - **cs.NI**: 11
+- **stat.ME**: 11
 - **Backend**: 10
 - **Database**: 10
 - **DevOps**: 10
@@ -45,7 +46,6 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **stat.ME**: 10
 - **cs.MM**: 9
 - **cs.NE**: 9
 - **cond-mat.mtrl-sci**: 8
@@ -96,6 +96,7 @@
 - **physics.comp-ph**: 1
 - **physics.optics**: 1
 - **physics.plasm-ph**: 1
+- **q-bio.BM**: 1
 - **q-bio.GN**: 1
 - **q-fin.RM**: 1
 - **stat.CO**: 1
@@ -103,11 +104,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 32172
-- **ArXiv**: 5608
+- ****: 32176
+- **ArXiv**: 5658
 - **Hugging Face**: 2026
 - **OpenAI Blog**: 1437
-- **HuggingFace Datasets**: 259
+- **HuggingFace Datasets**: 261
 - **GitHub Trending**: 60
 - **BAIR Blog**: 15
 - **Backend**: 10
@@ -147,13 +148,13 @@
 
 ## Top Tags
 
-- **region:us**: 353
-- **library:datasets**: 96
-- **library:mlcroissant**: 96
+- **region:us**: 355
+- **library:datasets**: 98
+- **library:mlcroissant**: 98
 - **text-generation**: 95
 - **modality:text**: 90
 - **language:en**: 87
-- **license:apache-2.0**: 83
+- **license:apache-2.0**: 84
 - **endpoints_compatible**: 80
 - **safetensors**: 78
 - **transformers**: 77
@@ -166,20 +167,20 @@
 - **deploy:azure**: 38
 - **library:pandas**: 37
 - **en**: 34
-- **task_categories:text-generation**: 33
+- **task_categories:text-generation**: 34
+- **license:other**: 33
 - **library:dask**: 32
-- **license:other**: 32
 - **deploy:sagemaker**: 30
 - **eval-results**: 29
 - **modality:tabular**: 27
+- **size_categories:10K<n<100K**: 27
 - **size_categories:n<1K**: 27
-- **size_categories:10K<n<100K**: 26
 - **enterprise**: 25
+- **license:cc-by-4.0**: 23
 - **modality:video**: 23
-- **license:cc-by-4.0**: 22
 - **qwen3**: 22
 - **size_categories:100K<n<1M**: 22
-- **task_categories:robotics**: 19
+- **task_categories:robotics**: 21
 - **api**: 16
 - **gguf**: 16
 - **size_categories:1M<n<10M**: 16

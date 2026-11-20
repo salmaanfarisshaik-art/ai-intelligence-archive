@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.26531v1",
+  "schema_version": "1.0",
+  "name": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.26531v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.26531v1",
+    "updated": "2026-11-19T18:12:04Z",
+    "published": "2026-11-19T18:12:04Z",
+    "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+    "summary": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, and deterministic tools execute experiments and verify them. For each model, an LLM generates and shortlists cross features from a combinatorial candidate space, and all features are then ranked by several importance methods. Feature blending mixes these rankings into a single selection, using Pareto fronts across tasks for multi-task models. An LLM Researcher agent then tunes the feature selection in 10--25 asynchronous trials under resource caps, and a trimming step keeps the pipeline cost within budget. Across production models, the system improves normalized entropy by 0.31% on average within each model's budget, and the trimming step cuts pipeline cost by 2.3% with no regression beyond measurement noise. The optimized models were launched, and in online A/B tests they improved a primary online metric by 0.20%.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-11-20T18:19:08Z",
+  "last_updated": "2026-11-19T18:12:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.26531v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "67893e24ea2c75be69ef4d12",
+  "id": "facebook/CoTracker3_Kubric",
+  "author": "facebook",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-01-17T21:39:53.000Z",
+  "likes": 10,
+  "private": false,
+  "sha": "a23b6e6e332595c9d92944680a10415e93bfd1e1",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tKubric Dataset for CoTracker 3\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nThis dataset was specifically created for training CoTracker 3, a state-of-the-art point tracking model. The dataset was generated using the Kubric engine.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Specifications\n\t\n\n\nSize: ~6,000 sequences\nResolution: 512×512 pixels\nSequence Length: 120 frames per sequence\nCamera Movement: Carefully rendered with subtle camera motion to simulate realistic scenarios\nFormat: Generated using Kubric engine… See the full description on the dataset page: https://huggingface.co/datasets/facebook/CoTracker3_Kubric.",
+  "downloads": 69288,
+  "tags": [
+    "license:apache-2.0",
+    "arxiv:2410.11831",
+    "region:us"
+  ],
+  "createdAt": "2025-01-16T17:13:08.000Z",
+  "key": "",
+  "unique_id": "dataset_facebook_cotracker3_kubric",
+  "schema_version": "1.0"
+}

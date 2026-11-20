@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.26522v1",
+  "schema_version": "1.0",
+  "name": "Deterministic Temporal Embedding for Calcium Imaging Trace Extraction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.26522v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.26522v1",
+    "updated": "2026-11-19T18:00:35Z",
+    "published": "2026-11-19T18:00:35Z",
+    "title": "Deterministic Temporal Embedding for Calcium Imaging Trace Extraction",
+    "summary": "Reliable extraction of calcium-dependent fluorescence traces in calcium imaging sequences requires identifying pixels whose fluorescence intensity reflects the same underlying cellular activity. We present a deterministic temporal embedding framework that maps pixel-wise fluorescence traces to a low-dimensional representation in which temporally coherent sources form spatially coherent regions. Starting from a fuzzy-neighborhood graph and spectral initialization, we optimize a class-balanced cross-entropy objective using exact sparse attraction and a deterministic particle-mesh decomposition of the dense repulsive interaction with sparse edge compensation, avoiding stochastic negative sampling. The resulting latent representation is spatially decoded into reliable source supports for trace extraction without imposing an explicit cellular shape prior. Experiments on synthetic and in vivo two-photon calcium imaging data demonstrate robust recovery of irregular and spatially touching sources together with efficient deterministic embedding optimization.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-20T18:19:08Z",
+  "last_updated": "2026-11-19T18:00:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.26522v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

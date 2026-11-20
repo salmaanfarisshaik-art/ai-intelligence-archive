@@ -1,0 +1,44 @@
+{
+  "unique_id": "hf_ds_6a8c52a903fa052d1016eb4a",
+  "schema_version": "1.0",
+  "name": "nureasoning/nuReasoning",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tnuReasoning\n\t\n\nPaper Website \nnuReasoning Website\nnuReasoning Dev-kit\n\n  \n\n\nnuReasoning is a reasoning-centric multimodal autonomous driving dataset for evaluating and training end-to-end driving systems in long-tail real-world scenarios. \nEach sample is built around a driving clip with synchronized multi-camera images, LiDAR data, ego state, object annotations, HD map, routing, and frame-level reasoning annotations.\nReasoning annotations are organized into three complementary… See the full description on the dataset page: https://huggingface.co/datasets/nureasoning/nuReasoning.",
+  "size": "293782",
+  "source_url": "https://huggingface.co/datasets/nureasoning/nuReasoning",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "6a8c52a903fa052d1016eb4a",
+    "id": "nureasoning/nuReasoning",
+    "author": "nureasoning",
+    "disabled": false,
+    "gated": "auto",
+    "lastModified": "2026-09-16T21:14:57.000Z",
+    "likes": 29,
+    "private": false,
+    "sha": "26bb09b29fc9ebc3889ed8d0a9e42850e271442e",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tnuReasoning\n\t\n\nPaper Website \nnuReasoning Website\nnuReasoning Dev-kit\n\n  \n\n\nnuReasoning is a reasoning-centric multimodal autonomous driving dataset for evaluating and training end-to-end driving systems in long-tail real-world scenarios. \nEach sample is built around a driving clip with synchronized multi-camera images, LiDAR data, ego state, object annotations, HD map, routing, and frame-level reasoning annotations.\nReasoning annotations are organized into three complementary… See the full description on the dataset page: https://huggingface.co/datasets/nureasoning/nuReasoning.",
+    "downloads": 293782,
+    "tags": [
+      "task_categories:visual-question-answering",
+      "task_categories:text-generation",
+      "task_categories:robotics",
+      "license:other",
+      "size_categories:10K<n<100K",
+      "region:us"
+    ],
+    "createdAt": "2026-08-24T14:18:17.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-11-20T18:19:14.171991+00:00",
+  "last_updated": "2026-09-16T21:14:57.000Z",
+  "links": {
+    "related_models": [
+      "datasets/nureasoning"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

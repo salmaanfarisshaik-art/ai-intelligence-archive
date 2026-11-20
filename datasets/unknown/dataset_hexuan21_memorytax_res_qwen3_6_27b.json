@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8968f0af2925a476c37b8a8f4198a179e4586686",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMemoryTax-Res-Qwen3-6-27B\n\t\n\n      \n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\nMemoryTax-Res-Qwen3-6-27B/\n├── res_{system}_{bench}_27b/          # one memory system on one benchmark\n│   ├── qa_res/                        # per-question answers (with retrieved memory ids)\n│   ├── judge_res/judge.jsonl          # per-question judge verdicts\n│   ├── cost/                          # per-corpus token / call cost, by memory operation\n│   └── memories.tar.gz                # memory store built by the… See the full description on the dataset page: https://huggingface.co/datasets/hexuan21/MemoryTax-Res-Qwen3-6-27B.",
-  "downloads": 53400,
+  "downloads": 53406,
   "tags": [
     "language:en",
     "license:cc-by-4.0",

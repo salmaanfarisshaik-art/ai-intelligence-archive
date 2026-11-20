@@ -9,7 +9,7 @@
   "private": false,
   "sha": "0e5af85a062c0c602a06e69bd5aab048183a2434",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRoboCOIN\n\t\n\nRobot pretraining data prepared for the OpenWAM project.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset statistics\n\t\n\nStatistics for the cleaned LeRobot v3 dataset released in this repository.\n\n\t\n\t\t\nMetric\nValue\n\n\n\t\t\nTotal frames\n94,228,074\n\n\nFrame rate (FPS)\n30\n\n\nDuration (hours)\n872.48\n\n\n\t\n\nFrames count synchronized robot observation/action timesteps once; camera views are not counted separately. Duration is calculated as total frames / FPS / 3,600. All sub-datasets use the frame rate listed… See the full description on the dataset page: https://huggingface.co/datasets/wayrise/RoboCOIN.",
-  "downloads": 39275,
+  "downloads": 40008,
   "tags": [
     "region:us",
     "robotics",

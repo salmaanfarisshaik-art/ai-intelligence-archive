@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:43:51Z",
+  "generated_at": "2026-11-20T18:20:06Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -191,7 +191,8 @@
       "model_aeon_7_gemma_4_31b_it_deckard_heretic_uncensored_nvfp4_svdquant"
     ],
     "hf_Diffuspace_Clover-35B-A3B-Preview": [
-      "model_diffuspace_clover_35b_a3b_preview_gguf"
+      "model_diffuspace_clover_35b_a3b_preview_gguf",
+      "model_kapitsaprime_clover_35b_a3b_preview_mlx_4bit"
     ],
     "hf_DuoNeural_Gemma4-12B-IT-Abliterated": [
       "model_duoneural_gemma4_12b_it_abliterated_gguf"
@@ -273,6 +274,9 @@
     ],
     "hf_FreedomIntelligence_SocraticChat": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
+    ],
+    "hf_FrostWolfAI_Frost-Cyber-Mini-Uncensored-v1.1": [
+      "model_frostwolfai_frost_cyber_mini_uncensored_v1_1_gguf"
     ],
     "hf_GBaker_MedQA-USMLE-4-options-hf": [
       "model_s4nfs_neeto_1_0_8b"
@@ -2139,6 +2143,7 @@
       "model_cyankiwi_ornith_1_0_35b_awq_fp8",
       "model_protolabsai_ornith_1_0_35b_fp8",
       "model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf",
+      "model_satgeze_ornith_1_0_35b_1m_gguf",
       "model_sc117_ornith_1_0_35b_mtp_apex_gguf",
       "model_unsloth_ornith_1_0_35b_gguf"
     ],
@@ -2618,6 +2623,9 @@
     ],
     "hf_ibm-granite_granite-4.0-tiny-base-preview": [
       "model_ibm_granite_granite_4_0_tiny_preview"
+    ],
+    "hf_ibm-granite_granite-4.1-30b": [
+      "model_ibm_granite_granite_4_1_30b_fp8"
     ],
     "hf_ibm-granite_granite-4.1-30b-base": [
       "model_ibm_granite_granite_4_2_30b"
@@ -3903,6 +3911,9 @@
     ],
     "hf_sbintuitions_sarashina2.2-0.5b": [
       "model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1"
+    ],
+    "hf_sensenova_SenseNova-Loop-9B": [
+      "model_sensenova_sensenova_loop_9b_gguf"
     ],
     "hf_shibing624_CSC": [
       "model_shibing624_macbert4csc_base_chinese"
@@ -5597,6 +5608,9 @@
     "model_flywheel_ai_automotive": [
       "hf_Qwen_Qwen3.6-35B-A3B"
     ],
+    "model_frostwolfai_frost_cyber_mini_uncensored_v1_1_gguf": [
+      "hf_FrostWolfAI_Frost-Cyber-Mini-Uncensored-v1.1"
+    ],
     "model_gadflyii_glm_4_7_flash_nvfp4": [
       "hf_zai-org_GLM-4.7-Flash"
     ],
@@ -5822,6 +5836,9 @@
     "model_ibm_granite_granite_4_0_tiny_preview": [
       "hf_ibm-granite_granite-4.0-tiny-base-preview"
     ],
+    "model_ibm_granite_granite_4_1_30b_fp8": [
+      "hf_ibm-granite_granite-4.1-30b"
+    ],
     "model_ibm_granite_granite_4_1_3b_gguf": [
       "hf_ibm-granite_granite-4.1-3b"
     ],
@@ -6038,6 +6055,9 @@
     ],
     "model_junhowie_qwen3_14b_gptq_int4": [
       "hf_Qwen_Qwen3-14B"
+    ],
+    "model_kapitsaprime_clover_35b_a3b_preview_mlx_4bit": [
+      "hf_Diffuspace_Clover-35B-A3B-Preview"
     ],
     "model_katanemo_arch_router_1_5b": [
       "hf_Qwen_Qwen2.5-1.5B-Instruct"
@@ -8268,6 +8288,9 @@
     "model_saricles_qwen3_coder_next_nvfp4_gb10": [
       "hf_Qwen_Qwen3-Coder-Next"
     ],
+    "model_satgeze_ornith_1_0_35b_1m_gguf": [
+      "hf_deepreinforce-ai_Ornith-1.0-35B"
+    ],
     "model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1": [
       "hf_sbintuitions_sarashina2.2-0.5b"
     ],
@@ -8297,6 +8320,9 @@
     ],
     "model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf": [
       "hf_WeiboAI_VibeThinker-3B"
+    ],
+    "model_sensenova_sensenova_loop_9b_gguf": [
+      "hf_sensenova_SenseNova-Loop-9B"
     ],
     "model_sentientagi_dobby_mini_unhinged_llama_3_1_8b": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"

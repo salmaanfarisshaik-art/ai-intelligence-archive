@@ -512,7 +512,7 @@
 - **ID**: hf_ds_67a9e0d357ebdf85feb590c1
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/neashton/windsorml](https://huggingface.co/datasets/neashton/windsorml)
-- **Tags**: arxiv:2407.19320, doi:10.57967/hf/7644, license:cc-by-sa-4.0, modality:image, region:us, size_categories:100K<n<1M
+- **Tags**: arxiv:2407.19320, doi:10.57967/hf/7644, format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-sa-4.0, modality:image, region:us, size_categories:100K<n<1M
 
 ## agibot-world/AgiBotWorld-Beta
 - **ID**: hf_ds_67ab2149bc76a9aab3ff90ed
@@ -531,6 +531,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/cadene/droid](https://huggingface.co/datasets/cadene/droid)
 - **Tags**: LeRobot, arxiv:2403.12945, language:en, license:apache-2.0, modality:video, openx, region:us, size_categories:10M<n<100M, task_categories:robotics
+
+## IPEC-COMMUNITY/droid_lerobot
+- **ID**: hf_ds_67be7d7b0a1a886d7b5d305d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot)
+- **Tags**: LeRobot, droid, franka, license:apache-2.0, openx, region:us, rlds, task_categories:robotics
 
 ## jobs-git/Zyda-2
 - **ID**: hf_ds_67cac93b5877d9c876a84572
@@ -1250,7 +1256,7 @@
 - **ID**: hf_ds_6a2109cc17dad4ca26c80eb7
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/MINT-SJTU/RW-RL-Dataset](https://huggingface.co/datasets/MINT-SJTU/RW-RL-Dataset)
-- **Tags**: arxiv:2610.13345, embodied-ai, human-intervention, language:en, modality:video, multimodal, real-world-robotics, region:us, reinforcement-learning, robotics, size_categories:100K<n<1M, teleoperation
+- **Tags**: arxiv:2610.13345, embodied-ai, human-intervention, language:en, library:datasets, library:mlcroissant, license:cc-by-4.0, modality:video, multimodal, real-world-robotics, region:us, reinforcement-learning, robotics, size_categories:100K<n<1M, teleoperation
 
 ## RoboDojo-Benchmark/RoboDojo
 - **ID**: hf_ds_6a252aa1e7f978cbccbe94ed
@@ -1306,17 +1312,17 @@
 - **URL**: [https://huggingface.co/datasets/TGMR/one_pass_ingestion](https://huggingface.co/datasets/TGMR/one_pass_ingestion)
 - **Tags**: region:us
 
-## ilabai/3dcodeverse
-- **ID**: hf_ds_6a409561222ffbb14f69924c
-- **Source**: HuggingFace Datasets
-- **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
-- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
-
 ## 3dcodeverse/3dcodeverse-2m
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
 - **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
+
+## ilabai/3dcodeverse
+- **ID**: hf_ds_6a409561222ffbb14f69924c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
+- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
@@ -1443,6 +1449,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/newe](https://huggingface.co/datasets/gfdg34fsd/newe)
 - **Tags**: region:us
+
+## nureasoning/nuReasoning
+- **ID**: hf_ds_6a8c52a903fa052d1016eb4a
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nureasoning/nuReasoning](https://huggingface.co/datasets/nureasoning/nuReasoning)
+- **Tags**: license:other, region:us, size_categories:10K<n<100K, task_categories:robotics, task_categories:text-generation, task_categories:visual-question-answering
 
 ## BuLei/imgbed
 - **ID**: hf_ds_6a96f1b1177b511ec1b92935

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7696e8364ed81428a843dd21afb9cf2130ae9d0b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t🚗 ADAS-TO\n\t\n\nA large-scale naturalistic dataset of real-world Level-2 ADAS → human control transitions.\n16,446 takeover clips · 364 drivers · 179 vehicle models · 2,585 routes · ~41 GB\nEach clip is a self-contained 20 s multimodal record centered on an automation disengagement:\nfront-view video plus 13 synchronized CAN / perception / IMU signal files.\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhy this dataset\n\t\n\nMost takeover research comes from simulators or small scripted road experiments. ADAS-TO instead… See the full description on the dataset page: https://huggingface.co/datasets/HenryYHW/ADAS-TO.",
-  "downloads": 95432,
+  "downloads": 155457,
   "tags": [
     "task_categories:time-series-forecasting",
     "task_categories:video-classification",

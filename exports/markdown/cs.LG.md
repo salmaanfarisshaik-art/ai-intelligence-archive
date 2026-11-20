@@ -290,6 +290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.00717v2](http://arxiv.org/abs/2602.00717v2)
 
+## EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL
+- **ID**: arxiv_2602.04417v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04417v2](http://arxiv.org/abs/2602.04417v2)
+
 ## Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
 - **ID**: arxiv_2602.04663v3
 - **Source**: ArXiv
@@ -714,6 +719,11 @@
 - **ID**: arxiv_2606.11854v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.11854v2](http://arxiv.org/abs/2606.11854v2)
+
+## Implicit Neural Representations of Individual Behavior
+- **ID**: arxiv_2606.12200v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.12200v2](http://arxiv.org/abs/2606.12200v2)
 
 ## Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting
 - **ID**: arxiv_2606.13571v1
@@ -2140,6 +2150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35760v1](http://arxiv.org/abs/2609.35760v1)
 
+## Channel-Dependent State Space Model for Multivariate Time Series Forecasting
+- **ID**: arxiv_2609.36453v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36453v3](http://arxiv.org/abs/2609.36453v3)
+
 ## 
 - **ID**: arxiv_2609.36942v1
 - **Source**: ArXiv
@@ -3194,4 +3209,14 @@
 - **ID**: arxiv_2611.24877v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24877v1](http://arxiv.org/abs/2611.24877v1)
+
+## Hybrid Retrieval for Government Scheme Search in English and Marathi
+- **ID**: arxiv_2611.26514v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26514v1](http://arxiv.org/abs/2611.26514v1)
+
+## Active Feature Acquisition by Distilling an Oracle Teacher
+- **ID**: arxiv_2611.26598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26598v1](http://arxiv.org/abs/2611.26598v1)
 

@@ -465,3 +465,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24924v1](http://arxiv.org/abs/2611.24924v1)
 
+## Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards
+- **ID**: arxiv_2611.26588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26588v1](http://arxiv.org/abs/2611.26588v1)
+

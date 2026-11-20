@@ -585,3 +585,28 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22186v1](http://arxiv.org/abs/2611.22186v1)
 
+## Backtracking Agent Applications Security Incidents
+- **ID**: arxiv_2611.26525v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26525v1](http://arxiv.org/abs/2611.26525v1)
+
+## Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)
+- **ID**: arxiv_2611.26553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26553v1](http://arxiv.org/abs/2611.26553v1)
+
+## GEOHunter: Mapping a Generative Engine Optimization Network in the Wild
+- **ID**: arxiv_2611.26564v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26564v1](http://arxiv.org/abs/2611.26564v1)
+
+## Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs
+- **ID**: arxiv_2611.26569v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26569v1](http://arxiv.org/abs/2611.26569v1)
+
+## SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research
+- **ID**: arxiv_2611.26601v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26601v1](http://arxiv.org/abs/2611.26601v1)
+

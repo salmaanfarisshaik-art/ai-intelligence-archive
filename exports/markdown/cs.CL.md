@@ -795,6 +795,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.03742v2](http://arxiv.org/abs/2605.03742v2)
 
+## Natural Language Processing: An Applied Research Practicum From Classical Text Processing to Multimodal and Agentic Systems
+- **ID**: arxiv_2605.03799v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.03799v4](http://arxiv.org/abs/2605.03799v4)
+
 ## Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement
 - **ID**: arxiv_2605.05103v3
 - **Source**: ArXiv
@@ -804,6 +809,11 @@
 - **ID**: arxiv_2605.05962v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.05962v2](http://arxiv.org/abs/2605.05962v2)
+
+## Don't Lose Focus: Activation Steering via Key-Orthogonal Projections
+- **ID**: arxiv_2605.06342v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06342v2](http://arxiv.org/abs/2605.06342v2)
 
 ## StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction
 - **ID**: arxiv_2605.06642v2
@@ -859,6 +869,11 @@
 - **ID**: arxiv_2605.18105v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.18105v3](http://arxiv.org/abs/2605.18105v3)
+
+## MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems
+- **ID**: arxiv_2605.18565v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.18565v3](http://arxiv.org/abs/2605.18565v3)
 
 ## Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs
 - **ID**: arxiv_2605.20382v3
@@ -919,6 +934,11 @@
 - **ID**: arxiv_2605.29224v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29224v2](http://arxiv.org/abs/2605.29224v2)
+
+## PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents
+- **ID**: arxiv_2605.29486v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29486v4](http://arxiv.org/abs/2605.29486v4)
 
 ## Multi-Legal-Bench: Evaluating LLMs on Legal Reasoning Across Jurisdictions, Languages, and Legal Traditions
 - **ID**: arxiv_2605.29738v2
@@ -1534,6 +1554,11 @@
 - **ID**: arxiv_2607.15277v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15277v1](http://arxiv.org/abs/2607.15277v1)
+
+## Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models
+- **ID**: arxiv_2607.15277v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15277v2](http://arxiv.org/abs/2607.15277v2)
 
 ## Loop the Loopies!
 - **ID**: arxiv_2607.16051v1
@@ -3990,6 +4015,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40340v1](http://arxiv.org/abs/2609.40340v1)
 
+## Capturing In-Context Learning Dynamics with Task Operators
+- **ID**: arxiv_2610.01054v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.01054v2](http://arxiv.org/abs/2610.01054v2)
+
 ## Cross-Lingual Alignment for Decoder-Only Models using MoE Routers
 - **ID**: arxiv_2610.01921v2
 - **Source**: ArXiv
@@ -5365,6 +5395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.14483v1](http://arxiv.org/abs/2611.14483v1)
 
+## Shortcuts or Memorisation? Revisiting Data Corruption in Natural Language Understanding with Large Language Models
+- **ID**: arxiv_2611.16843v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.16843v2](http://arxiv.org/abs/2611.16843v2)
+
 ## Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing
 - **ID**: arxiv_2611.17169v1
 - **Source**: ArXiv
@@ -5510,6 +5545,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23218v1](http://arxiv.org/abs/2611.23218v1)
 
+## LipSpell: A Language-Independent Phonetic Scoring Framework for Spelling Correction Combining Distinctive-Feature Edit Distance, Keyboard Geometry, and Corpus Frequency
+- **ID**: arxiv_2611.24285v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24285v2](http://arxiv.org/abs/2611.24285v2)
+
 ## On-Policy Morphing into Hybrid Attention Models
 - **ID**: arxiv_2611.24809v1
 - **Source**: ArXiv
@@ -5534,4 +5574,9 @@
 - **ID**: arxiv_2611.24936v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24936v1](http://arxiv.org/abs/2611.24936v1)
+
+## Represented but misread: Post-training changes how language models read out what they represent
+- **ID**: arxiv_2611.26584v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26584v1](http://arxiv.org/abs/2611.26584v1)
 
