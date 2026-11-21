@@ -29332,6 +29332,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6ad4893ea6e143550bed4f47",
+      "target": "datasets/google"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6ae993485240eb6b7ac68d30",
       "target": "datasets/DAGroup-PKU"
     },
@@ -29616,7 +29621,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-21T07:59:32.353109+00:00",
+  "generated_at": "2026-11-21T16:04:52.185078+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -181618,12 +181623,12 @@
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "ilabai/3dcodeverse"
+      "label": "3dcodeverse/3dcodeverse-2m"
     },
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "3dcodeverse/3dcodeverse-2m"
+      "label": "ilabai/3dcodeverse"
     },
     {
       "category": "dataset",
@@ -181794,6 +181799,11 @@
       "category": "dataset",
       "id": "hf_ds_6acfd70a1ee5628d262f3350",
       "label": "sjkhfuk/fofo"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6ad4893ea6e143550bed4f47",
+      "label": "google/physical-engineerings-last-exam"
     },
     {
       "category": "dataset",
@@ -498377,6 +498387,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5923,
-  "total_nodes": 93751
+  "total_edges": 5924,
+  "total_nodes": 93752
 }

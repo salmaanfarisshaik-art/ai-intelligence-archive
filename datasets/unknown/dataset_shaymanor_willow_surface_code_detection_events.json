@@ -9,7 +9,7 @@
   "private": false,
   "sha": "79ea4cbbc278047c9ce5d4d74d79a0f38aa28c7c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tWillow Surface-Code Detection Events (ingested)\n\t\n\nDetection events and logical-observable flips derived from Google's Willow\nbelow-threshold surface-code dataset (Zenodo\n10.5281/zenodo.13273331), rotated\nsurface code at distances 3, 5, 7 in X and Z memory.\nEach row is one experimental shot. Detection events are derived from the raw\ndevice measurement records with Stim's measurement-to-detector converter, using\nthe per-shot sweep bits, and validated to reproduce the dataset's… See the full description on the dataset page: https://huggingface.co/datasets/ShayManor/willow-surface-code-detection-events.",
-  "downloads": 94478,
+  "downloads": 111027,
   "tags": [
     "task_categories:other",
     "license:apache-2.0",

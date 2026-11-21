@@ -1,7 +1,7 @@
 {
   "_id": "6698d8a0653e4babe21e1e7d",
   "id": "meta-llama/Llama-3.1-8B-Instruct",
-  "likes": 9053,
+  "likes": 9057,
   "private": false,
   "downloads": 4070382,
   "tags": [
@@ -29,8 +29,8 @@
     "eval-results",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

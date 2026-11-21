@@ -6591,39 +6591,6 @@
   },
   {
     "id": "hf_ds_6a409561222ffbb14f69924c",
-    "title": "ilabai/3dcodeverse",
-    "category": "dataset",
-    "source": "HuggingFace Datasets",
-    "tags": [
-      "3d",
-      "arxiv:2610.22341",
-      "benchmark",
-      "blender",
-      "code-generation",
-      "language:en",
-      "license:cc-by-nc-sa-4.0",
-      "modality:3d",
-      "modality:image",
-      "modality:text",
-      "procedural-3d",
-      "region:us",
-      "size_categories:1M<n<10M",
-      "task_categories:image-to-3d",
-      "task_categories:text-to-3d"
-    ],
-    "links": {
-      "related_models": [
-        "datasets/ilabai"
-      ],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    },
-    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
-    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
-  },
-  {
-    "id": "hf_ds_6a409561222ffbb14f69924c",
     "title": "3dcodeverse/3dcodeverse-2m",
     "category": "dataset",
     "source": "HuggingFace Datasets",
@@ -6658,6 +6625,39 @@
     },
     "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
     "local_path": "datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "ilabai/3dcodeverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ilabai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
+    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
   },
   {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",
@@ -7479,6 +7479,43 @@
     },
     "source_url": "https://huggingface.co/datasets/sjkhfuk/fofo",
     "local_path": "datasets/sjkhfuk/hf_ds_6acfd70a1ee5628d262f3350.json"
+  },
+  {
+    "id": "hf_ds_6ad4893ea6e143550bed4f47",
+    "title": "google/physical-engineerings-last-exam",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "agents",
+      "arxiv:2610.30537",
+      "benchmark",
+      "benchmark:eval-yaml",
+      "benchmark:official",
+      "civil-engineering",
+      "electrical-engineering",
+      "engineering",
+      "harbor",
+      "language:en",
+      "library:harbor",
+      "license:cc-by-4.0",
+      "mechanical-engineering",
+      "modality:document",
+      "region:us",
+      "size_categories:n<1K",
+      "structural-engineering",
+      "task_categories:question-answering",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/google"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
+    "local_path": "datasets/google/hf_ds_6ad4893ea6e143550bed4f47.json"
   },
   {
     "id": "hf_ds_6ad73b2611ffd4dabac49e74",

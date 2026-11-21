@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bd9489dce95d77dbcca9a491c8d13b953d74ca17",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tVK scrape\n\t\n\npublic wall posts, comments, discussion boards, photos, videos, communities and profiles from VK (VKontakte), scraped continuously since October 2026. posts, comments, topics, photos and videos are uploaded every day, and the communities and users snapshots weekly.\nfrom datasets import load_dataset\n\nposts = load_dataset(\"tiagozip/vk\", \"posts\", split=\"train\", streaming=True)\ncommunities = load_dataset(\"tiagozip/vk\", \"communities\", split=\"train\")\n\n\n\t\n\t\t\n\t\n\t\n\t\tformat… See the full description on the dataset page: https://huggingface.co/datasets/tiagozip/vk.",
-  "downloads": 46702,
+  "downloads": 49121,
   "tags": [
     "task_categories:text-classification",
     "language:ru",

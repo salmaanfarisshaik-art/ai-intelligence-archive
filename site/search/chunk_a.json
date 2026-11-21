@@ -3134,6 +3134,13 @@
       "score": 1.0
     }
   ],
+  "abclgy": [
+    {
+      "entity_id": "dataset_abclgy_dsert_roll",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "abdomen": [
     {
       "entity_id": "arxiv_2610.14226v2",
@@ -41444,6 +41451,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_6ad4893ea6e143550bed4f47",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/academy/how-to-use-codex-for-everyday-work",
       "match_type": "exact",
       "score": 1.0
@@ -53165,6 +53177,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_posprivacy_teachmaster",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_prismor_prompt_guard_1_5b",
       "match_type": "exact",
       "score": 1.5
@@ -58765,6 +58782,11 @@
     },
     {
       "entity_id": "dataset_bigcode_the_stack_metadata",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_biraripc_curated_mnist_export",
       "match_type": "exact",
       "score": 1.0
     },
@@ -69076,6 +69098,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_criteo_criteoclicklogs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_goku_openlab_gpt_image_2_prompts_datasets",
       "match_type": "exact",
       "score": 1.0
@@ -69198,6 +69225,11 @@
       "entity_id": "arxiv_2606.13562v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_readyart_wicked_stuff_31b_final_gguf",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "alpaca_-1900414352337197175",
@@ -75433,6 +75465,11 @@
       "entity_id": "alpaca_4409812022953264382",
       "match_type": "exact",
       "score": 4.0
+    },
+    {
+      "entity_id": "dataset_criteo_criteoclicklogs",
+      "match_type": "exact",
+      "score": 3.5
     },
     {
       "entity_id": "alpaca_-3424116579919481504",
@@ -82561,6 +82598,11 @@
       "entity_id": "arxiv_2608.13558v1",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "again": [
@@ -88103,6 +88145,11 @@
     },
     {
       "entity_id": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6ad4893ea6e143550bed4f47",
       "match_type": "exact",
       "score": 1.0
     },
@@ -99578,11 +99625,6 @@
     },
     {
       "entity_id": "model_dealignai_deepseek_v4_1_flash_uncensored_fp8",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "model_dealignai_glm_5_3_cybersecurity_fp8",
       "match_type": "exact",
       "score": 3.0
     },
@@ -121634,6 +121676,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_criteo_criteoclicklogs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ctmedtech_ddr_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -122434,6 +122481,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_abclgy_dsert_roll",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huahua123313_a1v2h_aligin2",
       "match_type": "exact",
       "score": 1.0
@@ -122847,6 +122899,11 @@
     },
     {
       "entity_id": "dataset_ucla_vail_urbanverse_assets_sim_ready",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
       "match_type": "exact",
       "score": 1.0
     },
@@ -126296,6 +126353,11 @@
     },
     {
       "entity_id": "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_readyart_wicked_stuff_31b_final_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -131191,6 +131253,11 @@
     },
     {
       "entity_id": "dataset_hausmer_ua_ru_tg_channels_clean",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
       "match_type": "exact",
       "score": 1.0
     },
@@ -139301,6 +139368,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_hebrish_jewish_religious_terminology_sentences",
       "match_type": "exact",
       "score": 1.0
@@ -140490,6 +140562,11 @@
     },
     {
       "entity_id": "dataset_danielrosehill_english_hebrew_codeswitching_sentences",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
       "match_type": "exact",
       "score": 1.0
     },
@@ -191103,6 +191180,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_helenqu_genpairs",
       "match_type": "exact",
       "score": 1.0
@@ -191414,6 +191496,11 @@
     },
     {
       "entity_id": "dataset_nguha_legalbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
       "match_type": "exact",
       "score": 1.0
     },
@@ -191864,6 +191951,11 @@
     },
     {
       "entity_id": "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6ad4893ea6e143550bed4f47",
       "match_type": "exact",
       "score": 1.0
     },
@@ -222827,6 +222919,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_ybisk_piqa",
       "match_type": "exact",
       "score": 4.0
@@ -235452,6 +235549,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_biraripc_curated_mnist_export",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_bop_benchmark_hot3d",
       "match_type": "exact",
       "score": 3.0
@@ -236343,6 +236445,11 @@
     },
     {
       "entity_id": "dataset_xlangai_ubuntu_osworld_file_cache",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_yandex_yambda",
       "match_type": "exact",
       "score": 3.0
     },
@@ -258002,6 +258109,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_abclgy_dsert_roll",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_abtinzandi_obstacle_detection_dataset_yolo",
       "match_type": "exact",
       "score": 2.0
@@ -259033,6 +259145,11 @@
     },
     {
       "entity_id": "dataset_livebench_data_analysis",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_llamaindex_parsebench_2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -260418,6 +260535,11 @@
     },
     {
       "entity_id": "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_6ad4893ea6e143550bed4f47",
       "match_type": "exact",
       "score": 2.0
     },
@@ -278852,6 +278974,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_criteo_criteoclicklogs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ctmedtech_gamma",
       "match_type": "exact",
       "score": 1.0
@@ -279263,6 +279390,11 @@
     },
     {
       "entity_id": "dataset_hasankursun_github_code_2025_language_split",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
       "match_type": "exact",
       "score": 1.0
     },
@@ -289893,11 +290025,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_hublabs_hubego_100k",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_huggingfacefw_finephrase",
       "match_type": "exact",
       "score": 1.5
@@ -297599,6 +297726,13 @@
     },
     {
       "entity_id": "alpaca_6058846010434463773",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "antibody": [
+    {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
       "match_type": "exact",
       "score": 1.0
     }
@@ -305749,6 +305883,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_llamaindex_parsebench_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_lmms_lab_docvqa",
       "match_type": "exact",
       "score": 1.5
@@ -305895,6 +306034,11 @@
     },
     {
       "entity_id": "dataset_neigezhu_china_a_share_1min_ohlcv",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
       "match_type": "exact",
       "score": 1.5
     },
@@ -306460,6 +306604,11 @@
     },
     {
       "entity_id": "dataset_yaak_ai_l2d",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_yandex_yambda",
       "match_type": "exact",
       "score": 1.5
     },
@@ -310440,6 +310589,11 @@
     },
     {
       "entity_id": "model_readyart_gemma_4_31b_it_scotoma_2_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_readyart_wicked_stuff_31b_final_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -352624,6 +352778,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_hebrish_jewish_religious_terminology_sentences",
       "match_type": "exact",
       "score": 1.0
@@ -377034,6 +377193,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_llamaindex_parsebench_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_llm360_megamath",
       "match_type": "exact",
       "score": 1.5
@@ -378369,12 +378533,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_xwm_wildgui",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "dataset_y123_wed_multimodal_dataset_image_text_t_e3d118780c",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_yandex_yambda",
       "match_type": "exact",
       "score": 1.5
     },
@@ -405650,6 +405824,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_hebrish_jewish_religious_terminology_sentences",
       "match_type": "exact",
       "score": 1.0
@@ -406001,6 +406180,11 @@
     },
     {
       "entity_id": "dataset_neurodeskorg_webapps",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
       "match_type": "exact",
       "score": 1.0
     },
@@ -406456,6 +406640,11 @@
     },
     {
       "entity_id": "dataset_xnhyacinth_longbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
       "match_type": "exact",
       "score": 1.0
     },
@@ -410322,6 +410511,11 @@
     },
     {
       "entity_id": "dataset_ehabnegm_100_hour_egyptian_dataset_single_speaker",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
       "match_type": "exact",
       "score": 1.5
     },
@@ -416073,6 +416267,11 @@
     },
     {
       "entity_id": "dataset_alonsoapp_tablet_large",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_biraripc_curated_mnist_export",
       "match_type": "exact",
       "score": 1.0
     },
@@ -433823,6 +434022,13 @@
       "score": 1.0
     }
   ],
+  "atualizado": [
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "atumai": [
     {
       "entity_id": "arxiv_2608.02569v1",
@@ -434743,6 +434949,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_readyart_wicked_stuff_31b_final_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_ttimofeyka_mistralrp_noromaid_nsfw_mistral_7b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -435091,6 +435302,11 @@
     },
     {
       "entity_id": "dataset_hebrish_hebrish_tts_voice_recordings",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
       "match_type": "exact",
       "score": 4.5
     },
@@ -436366,6 +436582,11 @@
     },
     {
       "entity_id": "dataset_wan_fen52_mavos_dd",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_yandex_yambda",
       "match_type": "exact",
       "score": 1.0
     },
@@ -443665,6 +443886,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_hebrish_jewish_religious_terminology_sentences",
       "match_type": "exact",
       "score": 1.5
@@ -445426,6 +445652,13 @@
   "automatique": [
     {
       "entity_id": "alpaca_6435836112454178842",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "automatizada": [
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
       "match_type": "exact",
       "score": 1.0
     }
@@ -454375,6 +454608,11 @@
     },
     {
       "entity_id": "dataset_configinc_habit",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_llamaindex_parsebench_2",
       "match_type": "exact",
       "score": 2.0
     },

@@ -2806,13 +2806,6 @@
       "score": 1.0
     }
   ],
-  "jangq": [
-    {
-      "entity_id": "model_dealignai_glm_5_3_cybersecurity_fp8",
-      "match_type": "exact",
-      "score": 3.0
-    }
-  ],
   "janhq": [
     {
       "entity_id": "model_janhq_jan_v3_5_4b_gguf",
@@ -5693,6 +5686,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_abclgy_dsert_roll",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_yuanm1135_dsert_roll",
       "match_type": "exact",
       "score": 2.0
@@ -6368,6 +6366,11 @@
     },
     {
       "entity_id": "dataset_danielrosehill_english_hebrew_codeswitching_sentences",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hebrish_israeli_name_sentences",
       "match_type": "exact",
       "score": 1.0
     }
@@ -17748,6 +17751,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_llamaindex_parsebench_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_llm_jp_leaderboard_requests",
       "match_type": "exact",
       "score": 1.5
@@ -21590,6 +21598,11 @@
     },
     {
       "entity_id": "dataset_bigcode_starcoderdata",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_biraripc_curated_mnist_export",
       "match_type": "exact",
       "score": 1.0
     },

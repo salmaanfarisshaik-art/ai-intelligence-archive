@@ -14114,6 +14114,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "alpaca_-9041119749279243770",
       "match_type": "exact",
       "score": 4.0
@@ -28767,11 +28772,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_hublabs_hubego_100k",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_huggingfacecode_stack_v3_train",
       "match_type": "exact",
       "score": 1.5
@@ -32463,6 +32463,11 @@
     },
     {
       "entity_id": "model_petals_team_stablebeluga2",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_posprivacy_teachmaster",
       "match_type": "exact",
       "score": 3.0
     },
@@ -42452,6 +42457,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_readyart_wicked_stuff_31b_final_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_recursivesi_flint",
       "match_type": "exact",
       "score": 1.5
@@ -52002,6 +52012,11 @@
     },
     {
       "entity_id": "dataset_wei82_precancer_omics_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_xuejun72_hr_vilage_3k3m",
       "match_type": "exact",
       "score": 1.5
     },
@@ -62397,6 +62412,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "model_readyart_wicked_stuff_31b_final_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_recursivesi_flint_int4_gguf",
       "match_type": "exact",
       "score": 3.5
@@ -66433,6 +66453,11 @@
     },
     {
       "entity_id": "dataset_aaaad1_banned_historical_archives",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_abclgy_dsert_roll",
       "match_type": "exact",
       "score": 3.0
     },
@@ -104066,6 +104091,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "hf_ds_6ad4893ea6e143550bed4f47",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "hf_ds_google-research-datasets_mbpp",
       "match_type": "exact",
       "score": 3.0
@@ -106100,12 +106130,31 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_yxi8_uspto_mol_mirror",
       "match_type": "exact",
       "score": 1.0
     },
     {
       "entity_id": "rss_https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "govbr": [
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
+  "govbrnews": [
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
       "match_type": "exact",
       "score": 1.0
     }
@@ -106154,6 +106203,13 @@
       "entity_id": "rss_https://openai.com/index/democratic-inputs-to-ai-grant-program-update",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "governamentais": [
+    {
+      "entity_id": "dataset_nitaibezerra_govbrnews",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "governance": [
@@ -129816,6 +129872,11 @@
     },
     {
       "entity_id": "dataset_llamaindex_parsebench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_llamaindex_parsebench_2",
       "match_type": "exact",
       "score": 1.0
     },

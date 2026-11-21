@@ -9,7 +9,7 @@
   "private": false,
   "sha": "624204c19e0d5ad4d291795fe183afc8c5ccac1d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tQuantFeatures Hyperliquid Live 10-Minute Features (Sample)\n\t\n\n10-minute features for Hyperliquid perpetuals, computed as each interval ends: trade activity and flow, trade\ndistributions, top of book, funding rate and open interest. Each update replaces the files with the last 7\nUTC days, today included. For every day of 2026, hourly and 10-minute, see\nQuantFeatures/hyperliquid-features.\n\n\t\n\t\t\nAttribute\nValue\n\n\n\t\t\nInstruments\nBCH, BNB, BTC, ETH, HYPE, XRP (quoted in USDC; the quote… See the full description on the dataset page: https://huggingface.co/datasets/QuantFeatures/hyperliquid-live-features.",
-  "downloads": 42776,
+  "downloads": 46471,
   "tags": [
     "task_categories:time-series-forecasting",
     "language:en",

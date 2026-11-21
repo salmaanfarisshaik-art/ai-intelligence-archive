@@ -9,7 +9,7 @@
   "private": false,
   "sha": "371f907b437f6f820803d054827b017bd542968e",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMeddies PII v3 — Skeleton Corpus\n\t\n\nTyped-placeholder document skeletons for multilingual synthetic PII/PHI\ntraining data. Every PII-shaped slot is a ⟦label.subtype#id⟧ placeholder —\nno real values exist in this corpus by construction. A deterministic filler\nsubstitutes values downstream.\n\n401,339 documents · 20 languages (incl. Khmer, Javanese, Sundanese)\n9 coarse labels: address, company_name, date, email_address, human_name,\nid_number, phone_number, private_url, secret — plus… See the full description on the dataset page: https://huggingface.co/datasets/Meddies/meddies-pii-v3-skeleton.",
-  "downloads": 42610,
+  "downloads": 45209,
   "tags": [
     "annotations_creators:machine-generated",
     "language_creators:machine-generated",
