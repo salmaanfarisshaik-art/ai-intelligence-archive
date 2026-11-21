@@ -981,6 +981,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_audiosp_uoy_narrowband_truncated_rirs
+- **Source**: 
+
+## 
 - **ID**: dataset_augaazuun_copydetect_videos
 - **Source**: 
 
@@ -1709,6 +1713,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_coaa1_dap_data
+- **Source**: 
+
+## 
 - **ID**: dataset_coastalcph_lex_glue
 - **Source**: 
 
@@ -2193,6 +2201,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dl3dv_dl3dv_gs_960p
+- **Source**: 
+
+## 
 - **ID**: dataset_dmanningcoe_topic_model_pbm_sprint_20261008
 - **Source**: 
 
@@ -2522,6 +2534,10 @@
 
 ## 
 - **ID**: dataset_facebook_belebele
+- **Source**: 
+
+## 
+- **ID**: dataset_facebook_cotracker3_kubric
 - **Source**: 
 
 ## 
@@ -3026,6 +3042,10 @@
 
 ## 
 - **ID**: dataset_glint_research_fable_5_traces
+- **Source**: 
+
+## 
+- **ID**: dataset_glowbond_euroc_mav_dataset
 - **Source**: 
 
 ## 
@@ -3630,6 +3650,10 @@
 
 ## 
 - **ID**: dataset_hotpotqa_hotpot_qa
+- **Source**: 
+
+## 
+- **ID**: dataset_hotsheep_2a96571e4b
 - **Source**: 
 
 ## 
@@ -5862,6 +5886,10 @@
 
 ## 
 - **ID**: dataset_jonathan_roberts1_zerobench
+- **Source**: 
+
+## 
+- **ID**: dataset_joneslin_writing_model_papers_2016_2021
 - **Source**: 
 
 ## 
@@ -9869,6 +9897,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sulabhkatiyar_tinyasr_shrutilipi
+- **Source**: 
+
+## 
 - **ID**: dataset_sunblaze_ucb_cybergym
 - **Source**: 
 
@@ -11089,6 +11121,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_xlangai_osworld_v2_tasks
+- **Source**: 
+
+## 
 - **ID**: dataset_xlangai_recommendation
 - **Source**: 
 
@@ -11262,6 +11298,10 @@
 
 ## 
 - **ID**: dataset_ytzi_the_stack_dedup_python_filtered
+- **Source**: 
+
+## 
+- **ID**: dataset_yuan_shenghai_mmaud
 - **Source**: 
 
 ## 

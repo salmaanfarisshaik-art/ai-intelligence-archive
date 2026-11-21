@@ -29616,7 +29616,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-20T18:19:22.937765+00:00",
+  "generated_at": "2026-11-21T00:37:58.180601+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -164212,6 +164212,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_audiosp_uoy_narrowband_truncated_rirs",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_augaazuun_copydetect_videos",
       "label": ""
     },
@@ -165122,6 +165127,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_coaa1_dap_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_coastalcph_lex_glue",
       "label": ""
     },
@@ -165727,6 +165737,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_dl3dv_dl3dv_gs_960p",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_dmanningcoe_topic_model_pbm_sprint_20261008",
       "label": ""
     },
@@ -166138,6 +166153,11 @@
     {
       "category": "datasets",
       "id": "dataset_facebook_belebele",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_facebook_cotracker3_kubric",
       "label": ""
     },
     {
@@ -166768,6 +166788,11 @@
     {
       "category": "datasets",
       "id": "dataset_glint_research_fable_5_traces",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_glowbond_euroc_mav_dataset",
       "label": ""
     },
     {
@@ -167523,6 +167548,11 @@
     {
       "category": "datasets",
       "id": "dataset_hotpotqa_hotpot_qa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_hotsheep_2a96571e4b",
       "label": ""
     },
     {
@@ -170313,6 +170343,11 @@
     {
       "category": "datasets",
       "id": "dataset_jonathan_roberts1_zerobench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_joneslin_writing_model_papers_2016_2021",
       "label": ""
     },
     {
@@ -175322,6 +175357,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_sulabhkatiyar_tinyasr_shrutilipi",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_sunblaze_ucb_cybergym",
       "label": ""
     },
@@ -176847,6 +176887,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_xlangai_osworld_v2_tasks",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_xlangai_recommendation",
       "label": ""
     },
@@ -177063,6 +177108,11 @@
     {
       "category": "datasets",
       "id": "dataset_ytzi_the_stack_dedup_python_filtered",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_yuan_shenghai_mmaud",
       "label": ""
     },
     {
@@ -181568,12 +181618,12 @@
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "3dcodeverse/3dcodeverse-2m"
+      "label": "ilabai/3dcodeverse"
     },
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "ilabai/3dcodeverse"
+      "label": "3dcodeverse/3dcodeverse-2m"
     },
     {
       "category": "dataset",
@@ -192027,6 +192077,11 @@
     },
     {
       "category": "models",
+      "id": "model_frostwolfai_frost_cyber_mini_uncensored_v1_1_gguf",
+      "label": "FrostWolfAI/Frost-Cyber-Mini-Uncensored-v1.1-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_gadflyii_glm_4_7_flash_nvfp4",
       "label": "GadflyII/GLM-4.7-Flash-NVFP4"
     },
@@ -192647,6 +192702,11 @@
     },
     {
       "category": "models",
+      "id": "model_ibm_granite_granite_4_1_30b_fp8",
+      "label": "ibm-granite/granite-4.1-30b-fp8"
+    },
+    {
+      "category": "models",
       "id": "model_ibm_granite_granite_4_1_3b",
       "label": "ibm-granite/granite-4.1-3b"
     },
@@ -193114,6 +193174,11 @@
       "category": "models",
       "id": "model_kakaocorp_kanana_nano_2_1b_embedding",
       "label": "kakaocorp/kanana-nano-2.1b-embedding"
+    },
+    {
+      "category": "models",
+      "id": "model_kapitsaprime_clover_35b_a3b_preview_mlx_4bit",
+      "label": "kapitsaprime/Clover-35B-A3B-Preview-MLX-4bit"
     },
     {
       "category": "models",
@@ -197782,6 +197847,11 @@
     },
     {
       "category": "models",
+      "id": "model_satgeze_ornith_1_0_35b_1m_gguf",
+      "label": "satgeze/Ornith-1.0-35B-1M-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1",
       "label": "sbintuitions/sarashina2.2-0.5b-instruct-v0.1"
     },
@@ -197829,6 +197899,11 @@
       "category": "models",
       "id": "model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf",
       "label": "semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_sensenova_sensenova_loop_9b_gguf",
+      "label": "sensenova/SenseNova-Loop-9B-GGUF"
     },
     {
       "category": "models",
@@ -336237,6 +336312,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/business/customer-stories/hebbia",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/business/customer-stories/holiday-extras-dots",
       "label": ""
     },
@@ -337638,6 +337718,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/combatting-adversarial-distillation",
       "label": ""
     },
     {
@@ -339888,6 +339973,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/introducing-medchembench",
       "label": ""
     },
     {
@@ -498288,5 +498378,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 5923,
-  "total_nodes": 93733
+  "total_nodes": 93751
 }

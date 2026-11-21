@@ -2124,6 +2124,10 @@
 - **ID**: model_frontterrain_harp_1b
 - **Source**: 
 
+## FrostWolfAI/Frost-Cyber-Mini-Uncensored-v1.1-GGUF
+- **ID**: model_frostwolfai_frost_cyber_mini_uncensored_v1_1_gguf
+- **Source**: 
+
 ## GadflyII/GLM-4.7-Flash-NVFP4
 - **ID**: model_gadflyii_glm_4_7_flash_nvfp4
 - **Source**: 
@@ -2620,6 +2624,10 @@
 - **ID**: model_ibm_granite_granite_4_1_30b
 - **Source**: 
 
+## ibm-granite/granite-4.1-30b-fp8
+- **ID**: model_ibm_granite_granite_4_1_30b_fp8
+- **Source**: 
+
 ## ibm-granite/granite-4.1-3b
 - **ID**: model_ibm_granite_granite_4_1_3b
 - **Source**: 
@@ -2994,6 +3002,10 @@
 
 ## kakaocorp/kanana-nano-2.1b-embedding
 - **ID**: model_kakaocorp_kanana_nano_2_1b_embedding
+- **Source**: 
+
+## kapitsaprime/Clover-35B-A3B-Preview-MLX-4bit
+- **ID**: model_kapitsaprime_clover_35b_a3b_preview_mlx_4bit
 - **Source**: 
 
 ## katanemo/Arch-Router-1.5B
@@ -6728,6 +6740,10 @@
 - **ID**: model_sarvamai_sarvam_30b
 - **Source**: 
 
+## satgeze/Ornith-1.0-35B-1M-GGUF
+- **ID**: model_satgeze_ornith_1_0_35b_1m_gguf
+- **Source**: 
+
 ## sbintuitions/sarashina2.2-0.5b-instruct-v0.1
 - **ID**: model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1
 - **Source**: 
@@ -6766,6 +6782,10 @@
 
 ## semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF
 - **ID**: model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf
+- **Source**: 
+
+## sensenova/SenseNova-Loop-9B-GGUF
+- **ID**: model_sensenova_sensenova_loop_9b_gguf
 - **Source**: 
 
 ## SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B

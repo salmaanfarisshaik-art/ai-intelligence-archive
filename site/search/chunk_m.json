@@ -79339,6 +79339,13 @@
       "score": 2.0
     }
   ],
+  "medchembench": [
+    {
+      "entity_id": "rss_https://openai.com/index/introducing-medchembench",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "medclsbench": [
     {
       "entity_id": "hf_ds_FL-MedClsBench_FL-MedClsBench",
@@ -95071,6 +95078,11 @@
       "entity_id": "dataset_ucirvine_sms_spam",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "alpaca_-1591758820622443731",
@@ -129354,6 +129366,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_battam_training_data_foundation",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_beileicui_c3vdv2",
       "match_type": "exact",
       "score": 1.5
@@ -129815,6 +129832,11 @@
     },
     {
       "entity_id": "dataset_danielrosehill_english_hebrew_codeswitching_sentences",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_danielrosehill_read_aloud_voice_sentences",
       "match_type": "exact",
       "score": 1.5
     },
@@ -130590,6 +130612,11 @@
     },
     {
       "entity_id": "dataset_hausmer_ua_ru_tg_channels_clean",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hebrish_hebrish_tts_voice_recordings",
       "match_type": "exact",
       "score": 1.5
     },
@@ -133629,11 +133656,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_meddies_meddies_pii_v3_skeleton",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_medotter_pi_cai",
       "match_type": "exact",
       "score": 1.5
@@ -134044,11 +134066,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_nuberea_ontology",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_nuprl_multipl_e",
       "match_type": "exact",
       "score": 1.5
@@ -134100,6 +134117,11 @@
     },
     {
       "entity_id": "dataset_nvidia_opensciencereasoning_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nvidia_physicalai_robotics_locomanipulation_grail",
       "match_type": "exact",
       "score": 1.5
     },
@@ -134529,6 +134551,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_penfever_cvebench_harbor",
       "match_type": "exact",
       "score": 1.5
@@ -134855,6 +134882,11 @@
     },
     {
       "entity_id": "dataset_robbyant_research_humangen",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 1.5
     },
@@ -135310,11 +135342,6 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -141548,6 +141575,11 @@
       "score": 4.5
     },
     {
+      "entity_id": "dataset_nvidia_physicalai_robotics_locomanipulation_grail",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "dataset_omniaicreator_royalroad_1_61m",
       "match_type": "exact",
       "score": 4.5
@@ -141993,6 +142025,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_battam_training_data_foundation",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_benchmark_anon_2026_roadmapbench",
       "match_type": "exact",
       "score": 3.0
@@ -142199,6 +142236,11 @@
     },
     {
       "entity_id": "dataset_danielrosehill_english_hebrew_codeswitching_sentences",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_danielrosehill_read_aloud_voice_sentences",
       "match_type": "exact",
       "score": 3.0
     },
@@ -142534,6 +142576,11 @@
     },
     {
       "entity_id": "dataset_hayeonbang_piast",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_hebrish_hebrish_tts_voice_recordings",
       "match_type": "exact",
       "score": 3.0
     },
@@ -143363,11 +143410,6 @@
       "score": 3.0
     },
     {
-      "entity_id": "dataset_nuberea_ontology",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "dataset_nvidia_helpsteer2",
       "match_type": "exact",
       "score": 3.0
@@ -143499,6 +143541,11 @@
     },
     {
       "entity_id": "dataset_peakstars_math_instruct",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_peetpedro_ultrawhale_dogfood",
       "match_type": "exact",
       "score": 3.0
     },
@@ -143704,6 +143751,11 @@
     },
     {
       "entity_id": "dataset_ringowrw97_airzoo_real",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 3.0
     },
@@ -144509,6 +144561,11 @@
     },
     {
       "entity_id": "dataset_agentica_org_deepscaler_preview_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_agents_course_certificates",
       "match_type": "exact",
       "score": 1.5
     },
@@ -148163,11 +148220,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_meddies_meddies_pii_v3_skeleton",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_meehai_dronescapes",
       "match_type": "exact",
       "score": 1.5
@@ -149494,11 +149546,6 @@
     },
     {
       "entity_id": "dataset_stereo_dataset_stereo_dataset",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -162617,6 +162664,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/combatting-adversarial-distillation",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "match_type": "exact",
       "score": 1.0
@@ -171844,6 +171896,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/introducing-medchembench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/introducing-o3-and-o4-mini",
       "match_type": "exact",
       "score": 1.0
@@ -176745,6 +176802,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/introducing-medchembench",
       "match_type": "exact",
       "score": 1.0
     }
