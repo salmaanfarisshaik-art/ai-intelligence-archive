@@ -5536,6 +5536,10 @@
 - **ID**: model_poolside_laguna_xs_2_1_nvfp4
 - **Source**: 
 
+## posprivacy/teachmaster
+- **ID**: model_posprivacy_teachmaster
+- **Source**: 
+
 ## PowCal/deepseek-math-7b-base-4bit
 - **ID**: model_powcal_deepseek_math_7b_base_4bit
 - **Source**: 
@@ -6414,6 +6418,10 @@
 
 ## ReadyArt/gemma-4-31B-it-scotoma-2-GGUF
 - **ID**: model_readyart_gemma_4_31b_it_scotoma_2_gguf
+- **Source**: 
+
+## ReadyArt/Wicked-Stuff-31B-Final-GGUF
+- **ID**: model_readyart_wicked_stuff_31b_final_gguf
 - **Source**: 
 
 ## RecursiveSI/flint
