@@ -2068,6 +2068,10 @@
 - **ID**: model_farbodtavakkoli_otel_llm_27b_it
 - **Source**: 
 
+## farbodtavakkoli/OTel-LLM-32B-IT
+- **ID**: model_farbodtavakkoli_otel_llm_32b_it
+- **Source**: 
+
 ## farbodtavakkoli/OTel-LLM-8.3B-IT
 - **ID**: model_farbodtavakkoli_otel_llm_8_3b_it
 - **Source**: 
@@ -3402,6 +3406,10 @@
 
 ## llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF
 - **ID**: model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf
+- **Source**: 
+
+## llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF
+- **ID**: model_llmfan46_qwen3_coder_next_uncensored_heretic_gguf
 - **Source**: 
 
 ## llmfan46/Qwythos-9B-Claude-Mythos-5-1M-uncensored-heretic-GGUF
@@ -5388,6 +5396,10 @@
 - **ID**: model_outsourc_e_qwen3_8_27b_unleashed_gguf
 - **Source**: 
 
+## OVHaiLLM/Olala-v1.0-mini-7A1B
+- **ID**: model_ovhaillm_olala_v1_0_mini_7a1b
+- **Source**: 
+
 ## owao/Nanbeige4.2-3B-GGUF
 - **ID**: model_owao_nanbeige4_2_3b_gguf
 - **Source**: 
@@ -7208,6 +7220,10 @@
 - **ID**: model_tokenrhythm_neohorse_1_4b_gguf
 - **Source**: 
 
+## TokenTinkerer/Cyber-Tiel-Coder-35B-A3B-MTP-TTQ-GGUF
+- **ID**: model_tokentinkerer_cyber_tiel_coder_35b_a3b_mtp_ttq_gguf
+- **Source**: 
+
 ## tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5
 - **ID**: model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5
 - **Source**: 
@@ -7218,6 +7234,10 @@
 
 ## tpls/gemma-4-12B-coder-fable5-composer2.5-v1-abliterated
 - **ID**: model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated
+- **Source**: 
+
+## TrevorJS/gemma-4-12B-it-uncensored-GGUF
+- **ID**: model_trevorjs_gemma_4_12b_it_uncensored_gguf
 - **Source**: 
 
 ## TrevorJS/gemma-4-26B-A4B-it-uncensored

@@ -4477,6 +4477,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_verolm_veromotion",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_yxi8_uspto_mol_mirror",
       "match_type": "exact",
       "score": 1.0
@@ -5059,6 +5064,11 @@
     },
     {
       "entity_id": "dataset_tabquerybench2026_tabquerybench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_verolm_veromotion",
       "match_type": "exact",
       "score": 1.0
     },
@@ -7705,6 +7715,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_kyiphyuaung_tigas_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_laion_scientific_summaries",
       "match_type": "exact",
       "score": 1.0
@@ -9324,13 +9339,6 @@
       "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
-    }
-  ],
-  "khmer": [
-    {
-      "entity_id": "dataset_meddies_meddies_pii_v3_skeleton",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "khs": [
@@ -24858,6 +24866,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "kyiphyuaung": [
+    {
+      "entity_id": "dataset_kyiphyuaung_tigas_dataset",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "kyle": [

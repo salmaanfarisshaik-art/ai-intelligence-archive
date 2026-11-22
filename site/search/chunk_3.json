@@ -1295,6 +1295,11 @@
       "entity_id": "dataset_spark_school_school_corpus",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6acedd2cf1f835c4a01488b9",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "300b": [
@@ -1363,6 +1368,11 @@
   "301": [
     {
       "entity_id": "alpaca_-7246526502963526237",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hongchenggao_engiworld_tasks",
       "match_type": "exact",
       "score": 1.0
     }
@@ -3857,6 +3867,13 @@
       "score": 2.0
     }
   ],
+  "32m": [
+    {
+      "entity_id": "dataset_davidheineman_tiny_rl_refined_tasks_v5",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "32x32": [
     {
       "entity_id": "dataset_uoft_cs_cifar10",
@@ -6342,6 +6359,13 @@
       "score": 1.0
     }
   ],
+  "37686": [
+    {
+      "entity_id": "dataset_hongchenggao_engiworld_tasks",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "37696946": [
     {
       "entity_id": "dataset_mjpansa_qwen38_eagle4_native_features_37m_20261024_5277c167",
@@ -7571,6 +7595,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_davidheineman_tiny_rl_refined_tasks_v5",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacetb_smoltalk2",
       "match_type": "exact",
       "score": 1.0
@@ -7989,6 +8018,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_originlab_game_recordings_free_camera_v2",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_ppak10_amt_flow_3d",
       "match_type": "exact",
       "score": 4.0
@@ -8285,6 +8319,11 @@
     },
     {
       "entity_id": "dataset_anon_cmevs_2026_cmevs_erp_eval",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
+      "entity_id": "dataset_groundedsi_robocap_10k",
       "match_type": "exact",
       "score": 2.5
     },

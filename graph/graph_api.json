@@ -29267,6 +29267,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6a5485bf73e76a43b79498f6",
+      "target": "datasets/axisrobotics"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6a615c95fb10b1093e0ea9ed",
       "target": "datasets/HuggingFaceCode"
     },
@@ -29329,6 +29334,11 @@
       "relationship": "related_models",
       "source": "hf_ds_6acca32f6fa844eabec4e77b",
       "target": "datasets/lerobot"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6acedd2cf1f835c4a01488b9",
+      "target": "datasets/spark-school"
     },
     {
       "relationship": "related_models",
@@ -29621,7 +29631,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-22T10:43:39.173850+00:00",
+  "generated_at": "2026-11-22T18:14:03.946018+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -171967,6 +171977,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_miracl_miracl",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_miracl_miracl_corpus",
       "label": ""
     },
@@ -174493,6 +174508,11 @@
     {
       "category": "datasets",
       "id": "dataset_roboverseorg_roboverse_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_rocky93_brats_segmentation",
       "label": ""
     },
     {
@@ -177523,6 +177543,11 @@
     {
       "category": "datasets",
       "id": "dataset_ztwhhh_envs_1",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_ztwhhh_envs_2",
       "label": ""
     },
     {
@@ -181722,6 +181747,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a5485bf73e76a43b79498f6",
+      "label": "axisrobotics/Franka-Datasets-v2"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a580014dab1978b184dc4a0",
       "label": "willi19/autodex-gallery-video"
     },
@@ -181854,6 +181884,11 @@
       "category": "dataset",
       "id": "hf_ds_6accfa5c558696f3caf5dbfc",
       "label": "hdlzidane/ConteRecopilacion"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6acedd2cf1f835c4a01488b9",
+      "label": "spark-school/school-corpus"
     },
     {
       "category": "dataset",
@@ -192082,6 +192117,11 @@
     },
     {
       "category": "models",
+      "id": "model_farbodtavakkoli_otel_llm_32b_it",
+      "label": "farbodtavakkoli/OTel-LLM-32B-IT"
+    },
+    {
+      "category": "models",
       "id": "model_farbodtavakkoli_otel_llm_8_3b_it",
       "label": "farbodtavakkoli/OTel-LLM-8.3B-IT"
     },
@@ -193749,6 +193789,11 @@
       "category": "models",
       "id": "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf",
       "label": "llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_llmfan46_qwen3_coder_next_uncensored_heretic_gguf",
+      "label": "llmfan46/Qwen3-Coder-Next-Uncensored-Heretic-GGUF"
     },
     {
       "category": "models",
@@ -196232,6 +196277,11 @@
     },
     {
       "category": "models",
+      "id": "model_ovhaillm_olala_v1_0_mini_7a1b",
+      "label": "OVHaiLLM/Olala-v1.0-mini-7A1B"
+    },
+    {
+      "category": "models",
       "id": "model_owao_nanbeige4_2_3b_gguf",
       "label": "owao/Nanbeige4.2-3B-GGUF"
     },
@@ -198507,6 +198557,11 @@
     },
     {
       "category": "models",
+      "id": "model_tokentinkerer_cyber_tiel_coder_35b_a3b_mtp_ttq_gguf",
+      "label": "TokenTinkerer/Cyber-Tiel-Coder-35B-A3B-MTP-TTQ-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5",
       "label": "tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5"
     },
@@ -198519,6 +198574,11 @@
       "category": "models",
       "id": "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated",
       "label": "tpls/gemma-4-12B-coder-fable5-composer2.5-v1-abliterated"
+    },
+    {
+      "category": "models",
+      "id": "model_trevorjs_gemma_4_12b_it_uncensored_gguf",
+      "label": "TrevorJS/gemma-4-12B-it-uncensored-GGUF"
     },
     {
       "category": "models",
@@ -341778,6 +341838,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/people-first-ai-fund-grantees",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/perplexity-and-intelligence",
       "label": ""
     },
     {
@@ -498462,6 +498527,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5924,
-  "total_nodes": 93767
+  "total_edges": 5926,
+  "total_nodes": 93778
 }

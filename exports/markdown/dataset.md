@@ -1360,6 +1360,12 @@
 - **URL**: [https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo](https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo)
 - **Tags**: egocentric, embodied-ai, hand-tracking, language:en, license:cc-by-sa-4.0, manipulation, region:us, robotics, size_categories:n>1T, slam, task_categories:robotics, trajectory, vla
 
+## axisrobotics/Franka-Datasets-v2
+- **ID**: hf_ds_6a5485bf73e76a43b79498f6
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/axisrobotics/Franka-Datasets-v2](https://huggingface.co/datasets/axisrobotics/Franka-Datasets-v2)
+- **Tags**: arxiv:2607.21588, arxiv:2610.18869, franka, imitation-learning, language:en, lerobot, region:us, robot-manipulation, robotics, simulation, vision-language-action
+
 ## willi19/autodex-gallery-video
 - **ID**: hf_ds_6a580014dab1978b184dc4a0
 - **Source**: HuggingFace Datasets
@@ -1521,6 +1527,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/hdlzidane/ConteRecopilacion](https://huggingface.co/datasets/hdlzidane/ConteRecopilacion)
 - **Tags**: not-for-all-audiences, region:us
+
+## spark-school/school-corpus
+- **ID**: hf_ds_6acedd2cf1f835c4a01488b9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/spark-school/school-corpus](https://huggingface.co/datasets/spark-school/school-corpus)
+- **Tags**: region:us
 
 ## sjkhfuk/fofo
 - **ID**: hf_ds_6acfd70a1ee5628d262f3350

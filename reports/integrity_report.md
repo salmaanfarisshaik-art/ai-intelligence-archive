@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-11-22T10:43:41.195167+00:00
-**Warnings:** 5924
+**Generated:** 2026-11-22T18:14:06.448332+00:00
+**Warnings:** 5926
 **Errors:** 331
 
 ## Issues
@@ -6192,6 +6192,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.24530
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/JoeLiu996
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/genrobot2025
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/axisrobotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceCode
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/zdbfv
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ACERobotics
@@ -6205,6 +6206,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Sharpa-Robotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/andrzejnovak
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/lerobot
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/spark-school
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/google
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/DAGroup-PKU
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/OpenFinMind

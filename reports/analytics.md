@@ -1,17 +1,17 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 93767
+**Total Entities Tracked**: 93778
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2912
-- **models**: 2114
+- **datasets**: 2915
+- **models**: 2119
 - **cs.CV**: 1739
-- **news**: 1455
-- **dataset**: 1262
+- **news**: 1456
+- **dataset**: 1264
 - **cs.CL**: 1116
 - **cs.AI**: 1110
 - **text-generation**: 1020
@@ -104,11 +104,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 32204
+- ****: 32212
 - **ArXiv**: 5658
 - **Hugging Face**: 2028
-- **OpenAI Blog**: 1440
-- **HuggingFace Datasets**: 262
+- **OpenAI Blog**: 1441
+- **HuggingFace Datasets**: 264
 - **GitHub Trending**: 60
 - **BAIR Blog**: 15
 - **Backend**: 10
@@ -148,12 +148,12 @@
 
 ## Top Tags
 
-- **region:us**: 358
+- **region:us**: 360
 - **library:datasets**: 98
 - **library:mlcroissant**: 98
 - **text-generation**: 97
 - **modality:text**: 90
-- **language:en**: 88
+- **language:en**: 89
 - **license:apache-2.0**: 85
 - **endpoints_compatible**: 82
 - **conversational**: 78
@@ -191,10 +191,10 @@
 - **pytorch**: 14
 - **source_datasets:original**: 14
 - **language:zh**: 13
+- **robotics**: 13
 - **size_categories:1K<n<10K**: 13
 - **custom_code**: 12
 - **format:json**: 12
-- **robotics**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11
 - **size_categories:100M<n<1B**: 11

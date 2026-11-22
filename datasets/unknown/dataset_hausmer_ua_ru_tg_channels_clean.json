@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c3ef741f7d7e4e0bf2cd0dd5104fe490e25e5d3c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUkrainian/Russian Telegram channels: news, official, tech, jobs (PII-clean)\n\t\n\nThe non-humour part of the Truha training corpus: Ukrainian and Russian news, regional news, official/military channels, tech and IT (DOU), job boards and blogs.\n1,312,360 posts from 110 public channels, everything in one train split (config all, the default), or one config per channel (config name = channel tag, split train). 1,311,699 rows (99.9%) carry the Telegram message id + link. 4,771 posts are… See the full description on the dataset page: https://huggingface.co/datasets/hausmer/ua-ru-tg-channels-clean.",
-  "downloads": 42094,
+  "downloads": 42986,
   "tags": [
     "task_categories:text-generation",
     "language:uk",

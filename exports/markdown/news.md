@@ -5706,6 +5706,11 @@
 - **URL**: [https://openai.com/index/people-first-ai-fund-grantees](https://openai.com/index/people-first-ai-fund-grantees)
 
 ## 
+- **ID**: rss_https://openai.com/index/perplexity-and-intelligence
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/perplexity-and-intelligence](https://openai.com/index/perplexity-and-intelligence)
+
+## 
 - **ID**: rss_https://openai.com/index/perplexity-improving-accuracy-with-astra
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/perplexity-improving-accuracy-with-astra](https://openai.com/index/perplexity-improving-accuracy-with-astra)

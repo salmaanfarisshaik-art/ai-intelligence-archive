@@ -1194,6 +1194,11 @@
   ],
   "412": [
     {
+      "entity_id": "dataset_groundedsi_robocap_10k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nvidia_physicalai_worldmodel_synthetic_warehouse_operations_scenes",
       "match_type": "exact",
       "score": 1.0
@@ -2707,6 +2712,13 @@
   "470k": [
     {
       "entity_id": "dataset_funtion_crowdhuman",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "471": [
+    {
+      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
       "match_type": "exact",
       "score": 1.0
     }
@@ -5377,6 +5389,11 @@
     },
     {
       "entity_id": "dataset_fpvlabs_stera_10m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_originlab_game_recordings_free_camera_v2",
       "match_type": "exact",
       "score": 1.5
     },
