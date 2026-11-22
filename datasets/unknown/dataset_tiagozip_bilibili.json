@@ -4,10 +4,10 @@
   "author": "tiagozip",
   "disabled": false,
   "gated": "auto",
-  "lastModified": "2026-11-21T06:17:58.000Z",
-  "likes": 6,
+  "lastModified": "2026-11-22T06:17:20.000Z",
+  "likes": 7,
   "private": false,
-  "sha": "c8ac20ba1cda30b57d22cddd0806ac4e7292658c",
+  "sha": "dfc5496ae0a5045b142f8389bd3a1284e9400e41",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tBilibili scrape\n\t\n\npublic videos, comments, comment threads and danmaku from Bilibili, scraped continuously since October 2026. comments, danmaku and stats history are uploaded every day, videos and the stats snapshot weekly.\nfrom datasets import load_dataset\n\ndanmaku = load_dataset(\"tiagozip/bilibili\", \"danmaku\", split=\"train\", streaming=True)\nvideos = load_dataset(\"tiagozip/bilibili\", \"videos\", split=\"train\", streaming=True)\n\n\n\t\n\t\t\n\t\n\t\n\t\tformat\n\t\n\n\n\t\n\t\t\nconfig\nnotes\n\n\n\t\t\nvideos… See the full description on the dataset page: https://huggingface.co/datasets/tiagozip/bilibili.",
   "downloads": 57702,
   "tags": [

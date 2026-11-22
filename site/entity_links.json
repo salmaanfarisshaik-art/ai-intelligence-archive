@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:50:29Z",
+  "generated_at": "2026-11-22T10:44:33Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -9,6 +9,11 @@
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
       "target_id": "hf_google_gemma-3-1b-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
+      "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
       "type": "derived_from"
     },
     {
@@ -205,6 +210,11 @@
       "source_id": "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
       "target_id": "hf_teknium_OpenHermes-2.5",
       "type": "trained_on"
+    },
+    {
+      "source_id": "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
+      "target_id": "hf_empero-ai_Qwen3.8-35B-A3B-Distill",
+      "type": "derived_from"
     },
     {
       "source_id": "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
@@ -2763,7 +2773,7 @@
     },
     {
       "source_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4",
-      "target_id": "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -3220,6 +3230,16 @@
       "source_id": "model_farbodtavakkoli_otel_llm_27b_it",
       "target_id": "hf_google_gemma-3-27b-it",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_farbodtavakkoli_otel_llm_32b_it",
+      "target_id": "hf_allenai_Olmo-3.1-32B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_farbodtavakkoli_otel_llm_32b_it",
+      "target_id": "hf_farbodtavakkoli_OTel-LLM",
+      "type": "trained_on"
     },
     {
       "source_id": "model_farbodtavakkoli_otel_llm_8_3b_it",
@@ -4549,6 +4569,11 @@
     {
       "source_id": "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf",
       "target_id": "hf_llmfan46_Ornith-1.0-35B-uncensored-heretic",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_llmfan46_qwen3_coder_next_uncensored_heretic_gguf",
+      "target_id": "hf_llmfan46_Qwen3-Coder-Next-Uncensored-Heretic",
       "type": "derived_from"
     },
     {
@@ -7707,6 +7732,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ovhaillm_olala_v1_0_mini_7a1b",
+      "target_id": "hf_OVHaiLLM_Olala-v1.0-mini-7A1B-SFT",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_owao_nanbeige4_2_3b_gguf",
       "target_id": "hf_Nanbeige_Nanbeige4.2-3B",
       "type": "derived_from"
@@ -9797,6 +9827,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_tokentinkerer_cyber_tiel_coder_35b_a3b_mtp_ttq_gguf",
+      "target_id": "hf_peculiar-ragdoll_Cyber-Tiel-Coder-35B-A3B-GGUF-MTP",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5",
       "target_id": "hf_lmsys_lmsys-chat-1m",
       "type": "trained_on"
@@ -9834,6 +9869,11 @@
     {
       "source_id": "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated",
       "target_id": "hf_yuxinlu1_gemma-4-12B-coder-fable5-composer2.5-v1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_trevorjs_gemma_4_12b_it_uncensored_gguf",
+      "target_id": "hf_TrevorJS_gemma-4-12B-it-uncensored",
       "type": "derived_from"
     },
     {

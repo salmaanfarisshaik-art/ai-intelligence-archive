@@ -133,6 +133,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b](https://huggingface.co/ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b)
 
+## DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF
+- **ID**: hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF](https://huggingface.co/DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF)
+- **Tags**: 15 AI Constructs, 27 reasoning modes, 5 Super AI Constructs, Agent AI Construct, Brainstorm AI Construct, Brainstorm Business AI Construct, Coder AI Construct, NEO Imatrix, NEO Imatrix MAX, Turbo-Brilliance, Universal Teacher AI Construct, ar, arxiv:2511.23404, base_model:LiquidAI/LFM2.5-24B-A2B, base_model:quantized:LiquidAI/LFM2.5-24B-A2B, conversational, de, edge, en, endpoints_compatible, es, finetune, fr, gguf, hi, id, imatrix, it, ja, ko, lfm2.5, license:other, liquid, moe, pl, pt, region:us, ru, text-generation, th, vi, zh
+
 ## DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF
 - **ID**: hf_DavidAU_Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF
 - **Source**: Hugging Face
@@ -2607,6 +2613,12 @@
 - **ID**: hf_echarlaix_tiny-random-PhiForCausalLM
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/echarlaix/tiny-random-PhiForCausalLM](https://huggingface.co/echarlaix/tiny-random-PhiForCausalLM)
+
+## empero-ai/Qwen3.8-35B-A3B-Distill-GGUF
+- **ID**: hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/empero-ai/Qwen3.8-35B-A3B-Distill-GGUF](https://huggingface.co/empero-ai/Qwen3.8-35B-A3B-Distill-GGUF)
+- **Tags**: base_model:empero-ai/Qwen3.8-35B-A3B-Distill, base_model:quantized:empero-ai/Qwen3.8-35B-A3B-Distill, conversational, distillation, empero-ai, en, endpoints_compatible, gated-deltanet, gguf, license:apache-2.0, llama.cpp, moe, quantized, qwen3.6, qwen3.8, reasoning, region:us, text-generation
 
 ## erwanf/gpt2-mini
 - **ID**: hf_erwanf_gpt2-mini

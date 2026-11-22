@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:50:29Z",
+  "generated_at": "2026-11-22T10:44:33Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -176,6 +176,9 @@
     ],
     "hf_Crownelius_Opus-4.6-Reasoning-2100x-formatted": [
       "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit"
+    ],
+    "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF": [
+      "hf_LiquidAI_LFM2.5-24B-A2B"
     ],
     "hf_DavidAU_Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B": [
       "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf"
@@ -665,6 +668,7 @@
       "model_liquidai_lfm2_5_230m"
     ],
     "hf_LiquidAI_LFM2.5-24B-A2B": [
+      "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
       "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf",
       "model_davidau_lfm2_5_24b_a2b_turbo_brilliance_50x_neo_max_imatrix_gguf",
       "model_liquidai_lfm2_5_24b_a2b_fp8",
@@ -775,6 +779,9 @@
     ],
     "hf_NovachronoAI_Nova-Synapse-Function-Calling": [
       "model_novachronoai_lfm2_5_1_2b_nova_function_calling_gguf"
+    ],
+    "hf_OVHaiLLM_Olala-v1.0-mini-7A1B-SFT": [
+      "model_ovhaillm_olala_v1_0_mini_7a1b"
     ],
     "hf_Olafangensan_GLM-4.7-Flash-heretic": [
       "model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf"
@@ -1499,6 +1506,7 @@
       "model_codemastercody3d_taardis_27b_full_ternary",
       "model_dealignai_bonsai_2_27b_1bit_crack_gguf",
       "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
+      "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4",
       "model_incoai_qwen3_8_27b_dflash2",
       "model_incoai_qwen3_8_27b_dflash2_gguf",
       "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
@@ -1666,6 +1674,9 @@
     "hf_TokenRhythm_NeoHorse-1-4B": [
       "model_tokenrhythm_neohorse_1_4b_gguf"
     ],
+    "hf_TrevorJS_gemma-4-12B-it-uncensored": [
+      "model_trevorjs_gemma_4_12b_it_uncensored_gguf"
+    ],
     "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored": [
       "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
       "model_aeon_7_gemma_4_e4b_it_uncensored_nvfp4"
@@ -1802,6 +1813,9 @@
     ],
     "hf_allenai_Olmo-3-7B-Think-DPO": [
       "model_allenai_olmo_3_7b_think"
+    ],
+    "hf_allenai_Olmo-3.1-32B-Instruct": [
+      "model_farbodtavakkoli_otel_llm_32b_it"
     ],
     "hf_allenai_Olmo-3.1-32B-Instruct-DPO": [
       "model_allenai_olmo_3_1_32b_instruct"
@@ -2326,8 +2340,12 @@
       "model_empero_ai_qwen3_8_2b_distill_gguf"
     ],
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill": [
+      "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
       "model_empero_ai_qwen3_8_35b_a3b_distill_gguf",
       "model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_gguf"
+    ],
+    "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF": [
+      "hf_empero-ai_Qwen3.8-35B-A3B-Distill"
     ],
     "hf_empero-ai_Qwen3.8-4B-Distill": [
       "model_empero_ai_qwen3_8_4b_distill_gguf"
@@ -2363,6 +2381,7 @@
     "hf_farbodtavakkoli_OTel-LLM": [
       "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
       "model_farbodtavakkoli_otel_llm_27b_it",
+      "model_farbodtavakkoli_otel_llm_32b_it",
       "model_farbodtavakkoli_otel_llm_8b_a1b_it",
       "model_farbodtavakkoli_otel_llm_e4b_it"
     ],
@@ -2567,7 +2586,6 @@
       "model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf"
     ],
     "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated": [
-      "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4",
       "model_lessthanthreeai_qwen3_8_27b_humanlike_chat_gguf",
       "model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4"
     ],
@@ -2738,6 +2756,9 @@
     ],
     "hf_llmfan46_Ornith-1.0-35B-uncensored-heretic": [
       "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf"
+    ],
+    "hf_llmfan46_Qwen3-Coder-Next-Uncensored-Heretic": [
+      "model_llmfan46_qwen3_coder_next_uncensored_heretic_gguf"
     ],
     "hf_llmfan46_Qwythos-9B-Claude-Mythos-5-1M-uncensored-heretic": [
       "model_llmfan46_qwythos_9b_claude_mythos_5_1m_uncensored_heretic_gguf"
@@ -3823,6 +3844,9 @@
     "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF": [
       "hf_zai-org_GLM-5.3-Flash",
       "model_peasantsmith_glm_5_3_flash_maya_m_derisked_iq2_s_gguf"
+    ],
+    "hf_peculiar-ragdoll_Cyber-Tiel-Coder-35B-A3B-GGUF-MTP": [
+      "model_tokentinkerer_cyber_tiel_coder_35b_a3b_mtp_ttq_gguf"
     ],
     "hf_pfnet_plamo-2.1-2b-cpt": [
       "model_pfnet_plamo_2_1_2b_vl"
@@ -5352,7 +5376,7 @@
       "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW"
     ],
     "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4": [
-      "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated"
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_dphn_dolphin_2_9_1_llama_3_70b": [
       "hf_Locutusque_function-calling-chatml",
@@ -5574,6 +5598,10 @@
     "model_farbodtavakkoli_otel_llm_27b_it": [
       "hf_farbodtavakkoli_OTel-LLM",
       "hf_google_gemma-3-27b-it"
+    ],
+    "model_farbodtavakkoli_otel_llm_32b_it": [
+      "hf_allenai_Olmo-3.1-32B-Instruct",
+      "hf_farbodtavakkoli_OTel-LLM"
     ],
     "model_farbodtavakkoli_otel_llm_8_3b_it": [
       "hf_EssentialAI_rnj-1-instruct"
@@ -6256,6 +6284,9 @@
     ],
     "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf": [
       "hf_llmfan46_Ornith-1.0-35B-uncensored-heretic"
+    ],
+    "model_llmfan46_qwen3_coder_next_uncensored_heretic_gguf": [
+      "hf_llmfan46_Qwen3-Coder-Next-Uncensored-Heretic"
     ],
     "model_llmfan46_qwythos_9b_claude_mythos_5_1m_uncensored_heretic_gguf": [
       "hf_llmfan46_Qwythos-9B-Claude-Mythos-5-1M-uncensored-heretic"
@@ -7526,6 +7557,9 @@
     "model_outsourc_e_qwen3_8_27b_unleashed_gguf": [
       "hf_JonathanColetti_Qwen3.8-27B-Uncensored"
     ],
+    "model_ovhaillm_olala_v1_0_mini_7a1b": [
+      "hf_OVHaiLLM_Olala-v1.0-mini-7A1B-SFT"
+    ],
     "model_owao_nanbeige4_2_3b_gguf": [
       "hf_Nanbeige_Nanbeige4.2-3B"
     ],
@@ -8590,6 +8624,9 @@
     "model_tokenrhythm_neohorse_1_4b_gguf": [
       "hf_TokenRhythm_NeoHorse-1-4B"
     ],
+    "model_tokentinkerer_cyber_tiel_coder_35b_a3b_mtp_ttq_gguf": [
+      "hf_peculiar-ragdoll_Cyber-Tiel-Coder-35B-A3B-GGUF-MTP"
+    ],
     "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5": [
       "hf_lmsys_lmsys-chat-1m",
       "hf_tokyotech-llm_Llama-3.1-Swallow-8B-v0.5",
@@ -8603,6 +8640,9 @@
     ],
     "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated": [
       "hf_yuxinlu1_gemma-4-12B-coder-fable5-composer2.5-v1"
+    ],
+    "model_trevorjs_gemma_4_12b_it_uncensored_gguf": [
+      "hf_TrevorJS_gemma-4-12B-it-uncensored"
     ],
     "model_trevorjs_gemma_4_26b_a4b_it_uncensored": [
       "hf_google_gemma-4-26B-A4B-it"

@@ -70841,6 +70841,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_miracl_miracl",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_miracl_miracl_corpus",
       "match_type": "exact",
       "score": 2.0
@@ -101373,6 +101378,13 @@
       "score": 3.0
     }
   ],
+  "olala": [
+    {
+      "entity_id": "model_ovhaillm_olala_v1_0_mini_7a1b",
+      "match_type": "exact",
+      "score": 6.5
+    }
+  ],
   "olat": [
     {
       "entity_id": "dataset_desmondlzy_bigs_data",
@@ -103604,6 +103616,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_farbodtavakkoli_otel_llm_32b_it",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "arxiv_2610.31624v1",
       "match_type": "exact",
       "score": 2.0
@@ -103769,6 +103786,11 @@
     },
     {
       "entity_id": "model_allenai_olmo_3_7b_think",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_farbodtavakkoli_otel_llm_32b_it",
       "match_type": "exact",
       "score": 1.5
     },
@@ -115532,6 +115554,11 @@
     },
     {
       "entity_id": "dataset_microsoft_rstar_coder",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_miracl_miracl",
       "match_type": "exact",
       "score": 2.0
     },
@@ -211431,6 +211458,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "model_farbodtavakkoli_otel_llm_32b_it",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_farbodtavakkoli_otel_llm_8b_a1b_it",
       "match_type": "exact",
       "score": 3.5
@@ -214275,11 +214307,6 @@
     },
     {
       "entity_id": "model_dicplay_rusmind_momentum",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -245870,6 +245897,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_miracl_miracl",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_miracl_miracl_corpus",
       "match_type": "exact",
       "score": 1.0
@@ -250418,6 +250450,20 @@
       "entity_id": "rss_https://openai.com/index/the-instruction-hierarchy",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "ovhai": [
+    {
+      "entity_id": "model_ovhaillm_olala_v1_0_mini_7a1b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "ovhaillm": [
+    {
+      "entity_id": "model_ovhaillm_olala_v1_0_mini_7a1b",
+      "match_type": "exact",
+      "score": 5.0
     }
   ],
   "ovis": [
