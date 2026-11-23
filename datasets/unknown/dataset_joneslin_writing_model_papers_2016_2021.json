@@ -9,7 +9,7 @@
   "private": false,
   "sha": "dbdb65ae0a7234334e565a351c11d992c8c2b16c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\twriting-model-papers-2016-2021\n\t\n\nPrivate snapshot of papers from 2016 through 2021 (2022 excluded), filtered to the venue catalog under venues/ in the writing_model project.\nPDFs are open-access only (arXiv, CVF, NeurIPS, PMLR, ACL Anthology, USENIX, JMLR). Paywalled publisher copies were not collected. The PDF tree stopped at a 48 GB disk budget.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\n\t\n\t\t\npath\ncontents\n\n\n\t\t\nmetadata/*.jsonl\none file per venue: title, year, authors, abstract, doi, arxiv_id… See the full description on the dataset page: https://huggingface.co/datasets/JonesLin/writing-model-papers-2016-2021.",
-  "downloads": 45531,
+  "downloads": 45311,
   "tags": [
     "task_categories:text-generation",
     "language:en",

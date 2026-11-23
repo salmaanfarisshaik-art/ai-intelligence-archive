@@ -1,0 +1,21 @@
+{
+  "_id": "6ab4693bd9c9df88f95761dd",
+  "id": "inductionlabs/frontier-ml-tasks",
+  "author": "inductionlabs",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-11-19T22:16:30.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "44e430c5afd23a99ea072a645a23ad37c6dd2d06",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tFrontier ML tasks\n\t\n\n🌐 Website | ⚓ Harbor Hub\nData for the tasks in induction-labs/frontier-ml.\nEach task has one folder:\n<slug>/public/     given to the coding agent verbatim, at /task/public\n<slug>/private/    held-out data for the trusted verifier, at /tests/private\n<slug>/artifacts/  optional starting files for the agent, at /artifacts\n<slug>/manifest.json  optional provenance summary\n\nTasks pin this repository by commit in tasks/<slug>/task.yaml. Starting model weights are… See the full description on the dataset page: https://huggingface.co/datasets/inductionlabs/frontier-ml-tasks.",
+  "downloads": 41302,
+  "tags": [
+    "license:other",
+    "region:us"
+  ],
+  "createdAt": "2026-09-24T00:05:15.000Z",
+  "key": "",
+  "unique_id": "dataset_inductionlabs_frontier_ml_tasks",
+  "schema_version": "1.0"
+}

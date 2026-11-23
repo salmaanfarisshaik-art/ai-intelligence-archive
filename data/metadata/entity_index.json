@@ -344720,13 +344720,8 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:imagefolder",
-      "library:datasets",
-      "library:mlcroissant",
       "license:cc-by-nc-sa-4.0",
-      "modality:image",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -348541,6 +348536,41 @@
     "local_path": "datasets/boltzgen/hf_ds_68d19889ef48faaef08b8710.json"
   },
   {
+    "id": "hf_ds_68d557964414197cfe5a942a",
+    "title": "HuggingFaceM4/FineVisionMax",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "agent",
+      "arxiv:2510.17269",
+      "format:optimized-parquet",
+      "format:parquet",
+      "language:en",
+      "language:zh",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:10M<n<100M",
+      "task_categories:image-text-to-text",
+      "vision"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/HuggingFaceM4",
+        "spaces/HuggingFaceM4"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/HuggingFaceM4/FineVisionMax",
+    "local_path": "datasets/huggingfacem4/hf_ds_68d557964414197cfe5a942a.json"
+  },
+  {
     "id": "hf_ds_68e91443c366e5879388a4d4",
     "title": "vyokky/GUI-360",
     "category": "dataset",
@@ -349027,19 +349057,13 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
-      "format:parquet",
       "leaderboards",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:pandas",
-      "library:polars",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -350866,6 +350890,25 @@
     "local_path": "datasets/inclusionai/hf_ds_6a4cbc564cdc8fc41b0f1b93.json"
   },
   {
+    "id": "hf_ds_6a4e75c877651a395ec5f760",
+    "title": "k9cli/video-vec2wav2-tokenizer-2",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/k9cli"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer-2",
+    "local_path": "datasets/k9cli/hf_ds_6a4e75c877651a395ec5f760.json"
+  },
+  {
     "id": "hf_ds_6a4f0a92e633070a2d287ef9",
     "title": "JoeLiu996/NatureBench",
     "category": "dataset",
@@ -351745,7 +351788,11 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "region:us"
+      "library:datasets",
+      "library:mlcroissant",
+      "modality:video",
+      "region:us",
+      "size_categories:n<1K"
     ],
     "links": {
       "related_models": [],
@@ -662802,6 +662849,21 @@
     },
     "source_url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
     "local_path": "prompts/openai-blog/rss_https___openai.com_business_learn_connect-internal-knowledge-from-google-drive.json"
+  },
+  {
+    "id": "rss_https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_business_learn_connected-intelligence-for-in-house-legal.json"
   },
   {
     "id": "rss_https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",

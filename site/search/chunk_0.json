@@ -1028,6 +1028,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ignf_fractal",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_internrobotics_internscenes",
       "match_type": "exact",
       "score": 1.0
@@ -4722,6 +4727,11 @@
   ],
   "02410": [
     {
+      "entity_id": "dataset_originlab_game_recordings_v4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "match_type": "exact",
       "score": 1.5
@@ -6058,6 +6068,13 @@
       "score": 1.5
     }
   ],
+  "03426": [
+    {
+      "entity_id": "dataset_originlab_game_recordings_v4",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "03461": [
     {
       "entity_id": "dataset_edinburgh_dawg_mmlu_redux_2_0",
@@ -7061,6 +7078,11 @@
   "04258": [
     {
       "entity_id": "dataset_originlab_game_recordings_free_camera_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_originlab_game_recordings_v4",
       "match_type": "exact",
       "score": 1.5
     }
@@ -8284,11 +8306,6 @@
       "entity_id": "hf_ds_Neomi26_cc12m-images-055",
       "match_type": "exact",
       "score": 3.0
-    },
-    {
-      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "05507": [
@@ -8299,6 +8316,11 @@
     }
   ],
   "05516": [
+    {
+      "entity_id": "model_intel_ai_deepseek_v4_1_flash_mxfp4_mixed_ct_autoround",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "model_leaderboardmodel1_kat_coder_v2_5_dev_autoround_w4a16_tuning",
       "match_type": "exact",
@@ -9027,6 +9049,11 @@
   "064": [
     {
       "entity_id": "alpaca_-3357942105025242172",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_battam_training_data_foundation",
       "match_type": "exact",
       "score": 1.0
     }
@@ -9789,6 +9816,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_anthropic_biomysterybench_full",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_charlielll_browsecomp_nvl72_eval_traces_0907",
       "match_type": "exact",
       "score": 1.0
@@ -9968,6 +10000,11 @@
   "07193": [
     {
       "entity_id": "dataset_originlab_game_recordings_free_camera_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_originlab_game_recordings_v4",
       "match_type": "exact",
       "score": 1.5
     }
@@ -11155,6 +11192,11 @@
     },
     {
       "entity_id": "alpaca_7192651284451858878",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
       "match_type": "exact",
       "score": 1.0
     },
@@ -12458,6 +12500,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_quanttrio_qwen3_30b_a3b_thinking_2507_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
       "match_type": "exact",
       "score": 1.5
@@ -13512,6 +13559,11 @@
     },
     {
       "entity_id": "dataset_originlab_game_recordings_free_camera_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_originlab_game_recordings_v4",
       "match_type": "exact",
       "score": 1.5
     }

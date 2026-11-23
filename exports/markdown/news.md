@@ -426,6 +426,11 @@
 - **URL**: [https://openai.com/business/learn/connect-internal-knowledge-from-google-drive](https://openai.com/business/learn/connect-internal-knowledge-from-google-drive)
 
 ## 
+- **ID**: rss_https://openai.com/business/learn/connected-intelligence-for-in-house-legal
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/connected-intelligence-for-in-house-legal](https://openai.com/business/learn/connected-intelligence-for-in-house-legal)
+
+## 
 - **ID**: rss_https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/learn/create-on-brand-visuals-with-image-generation](https://openai.com/business/learn/create-on-brand-visuals-with-image-generation)

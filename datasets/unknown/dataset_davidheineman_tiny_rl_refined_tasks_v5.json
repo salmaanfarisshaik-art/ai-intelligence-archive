@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8b161cc7836a06389aaa35d636afefd0572dc453",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tTiny RL refined tasks v5\n\t\n\nDevelopment study with 16M, 32M and 64M policies. Each initial task has exactly 2,097,152 SFT input prediction tokens followed by 65,536 RL samples. SFT supervision depends on the recipe; masks, weights and exact budgets are recorded in the training profiles. Whole-response Chat/DPO quality and the pinned Skywork 3B reward model score entire replies, including the supplied prefix. Noun endings are inherited teacher-data construction, never a… See the full description on the dataset page: https://huggingface.co/datasets/davidheineman/tiny-rl-refined-tasks-v5.",
-  "downloads": 53246,
+  "downloads": 73434,
   "tags": [
     "task_categories:text-generation",
     "language:en",

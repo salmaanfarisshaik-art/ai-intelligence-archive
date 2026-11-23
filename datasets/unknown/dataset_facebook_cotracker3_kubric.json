@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a23b6e6e332595c9d92944680a10415e93bfd1e1",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tKubric Dataset for CoTracker 3\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nThis dataset was specifically created for training CoTracker 3, a state-of-the-art point tracking model. The dataset was generated using the Kubric engine.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Specifications\n\t\n\n\nSize: ~6,000 sequences\nResolution: 512×512 pixels\nSequence Length: 120 frames per sequence\nCamera Movement: Carefully rendered with subtle camera motion to simulate realistic scenarios\nFormat: Generated using Kubric engine… See the full description on the dataset page: https://huggingface.co/datasets/facebook/CoTracker3_Kubric.",
-  "downloads": 66086,
+  "downloads": 66178,
   "tags": [
     "license:apache-2.0",
     "arxiv:2410.11831",

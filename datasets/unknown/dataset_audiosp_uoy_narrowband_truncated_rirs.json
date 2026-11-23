@@ -9,7 +9,7 @@
   "private": false,
   "sha": "0289092962e728c391f366e99874279bb70eed7e",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tNarrowband Truncated Room Impulse Response Collection\n\t\n\nnote that this page is in construction! updates will be appearing still\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nThis collection contains processed measured room impulse responses from open-access datasets. The processing involved:\n\nnarrowband frequency-dependent truncation to remove background noise,\nresampling to 48 kHz,\nconversion to float32.\n\nThe matrix below shows the median noise enrgy as well. It was calculated by taking a median of… See the full description on the dataset page: https://huggingface.co/datasets/audioSP-UoY/narrowband-truncated-rirs.",
-  "downloads": 59487,
+  "downloads": 68505,
   "tags": [
     "language:en",
     "license:other",

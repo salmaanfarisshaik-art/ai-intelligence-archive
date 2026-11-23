@@ -9,7 +9,7 @@
   "private": false,
   "sha": "dfcde2ed39298862e87c9cc7eb09601bea3840c8",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tBluesky scrape\n\t\n\nhundreds of millions of public posts from almost 6 million Bluesky accounts since November 2022, read from the firehose and updated monthly.\nfrom datasets import load_dataset\n\nposts = load_dataset(\"tiagozip/bluesky\", \"posts\", split=\"train\", streaming=True)\nprofiles = load_dataset(\"tiagozip/bluesky\", \"profiles\", split=\"train\")\n\n\n\t\n\t\t\n\t\n\t\n\t\tformat\n\t\n\n\n\t\n\t\t\nconfig\nrows\nnotes\n\n\n\t\t\nposts\n550M+\none file per month, data/posts/YYYY-MM.parquet\n\n\nfollows\n490M+\nfollow and… See the full description on the dataset page: https://huggingface.co/datasets/tiagozip/bluesky.",
-  "downloads": 53442,
+  "downloads": 54506,
   "tags": [
     "task_categories:text-classification",
     "license:other",

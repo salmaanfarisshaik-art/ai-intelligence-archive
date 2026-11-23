@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-11-23T07:19:02.992506+00:00
-**Warnings:** 5977
+**Generated:** 2026-11-23T19:51:16.045798+00:00
+**Warnings:** 5980
 **Errors:** 331
 
 ## Issues
@@ -6188,6 +6188,8 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ryanmarten
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/lioooox
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mvp-lab
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4
+- **[WARNING]** `cross_links`: Orphaned graph edge target: spaces/HuggingFaceM4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/vyokky
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/AiEDA
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/hasankursun
@@ -6240,6 +6242,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/3dcodeverse
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ilabai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/inclusionAI
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.24530
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/JoeLiu996
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/genrobot2025

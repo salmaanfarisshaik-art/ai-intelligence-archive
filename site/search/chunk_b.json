@@ -15826,6 +15826,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_intel_ai_deepseek_v4_1_flash_mxfp4_mixed_ct_autoround",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_internscience_agents_a1_4b_q4_k_m_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -17696,6 +17701,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_osaurusai_raptor_0_7_4b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_osllmai_community_llama_3_2_1b",
       "match_type": "exact",
       "score": 3.0
@@ -17957,6 +17967,11 @@
     },
     {
       "entity_id": "model_quanttrio_qwen3_235b_a22b_instruct_2507_awq",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_quanttrio_qwen3_30b_a3b_thinking_2507_awq",
       "match_type": "exact",
       "score": 3.0
     },
@@ -19002,6 +19017,11 @@
     },
     {
       "entity_id": "model_tensorfold_nvidia_nemotron_3_5_lightning_30b_a3b_mlx_4bit",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_thaurock_qwen3_5_122b_a10b_abliterated_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -49866,6 +49886,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_anthropic_biomysterybench_full",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_audiosp_uoy_narrowband_truncated_rirs",
       "match_type": "exact",
       "score": 1.0
@@ -50522,6 +50547,11 @@
     },
     {
       "entity_id": "hf_ds_68aefe4b74c4af3424207d2d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_68d557964414197cfe5a942a",
       "match_type": "exact",
       "score": 1.0
     },
@@ -71014,6 +71044,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mll_lab_embodied_exam_runs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nvidia_opencodeinstruct",
       "match_type": "exact",
       "score": 1.0
@@ -79906,6 +79941,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_mll_lab_embodied_exam_runs",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_nguha_legalbench",
       "match_type": "exact",
       "score": 2.5
@@ -81587,6 +81627,11 @@
     },
     {
       "entity_id": "dataset_hzxie_dom",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ignf_fractal",
       "match_type": "exact",
       "score": 1.0
     },
@@ -100645,6 +100690,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_osaurusai_raptor_0_7_4b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_pipecat_ai_phonellm_alpha_1",
       "match_type": "exact",
       "score": 3.0
@@ -107617,6 +107667,11 @@
       "entity_id": "dataset_pulmo_ncbi_genbank_complete",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_anthropic_biomysterybench_full",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "biolayer": [
@@ -107729,6 +107784,11 @@
     },
     {
       "entity_id": "arxiv_2608.05122v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_anthropic_biomysterybench_full",
       "match_type": "exact",
       "score": 1.0
     },
@@ -108421,6 +108481,13 @@
       "entity_id": "dataset_data_is_better_together_open_image_preferences_v1",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "biomysterybench": [
+    {
+      "entity_id": "dataset_anthropic_biomysterybench_full",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "bionic": [
@@ -111005,6 +111072,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_intel_ai_deepseek_v4_1_flash_mxfp4_mixed_ct_autoround",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_jackrong_mlx_qwopus3_5_9b_v3_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -111861,6 +111933,11 @@
     },
     {
       "entity_id": "model_quanttrio_qwen3_235b_a22b_instruct_2507_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_quanttrio_qwen3_30b_a3b_thinking_2507_awq",
       "match_type": "exact",
       "score": 1.5
     },
@@ -118830,6 +118907,11 @@
     },
     {
       "entity_id": "hf_ds_6887a1762cef2ff976d3eeeb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_68d557964414197cfe5a942a",
       "match_type": "exact",
       "score": 1.0
     },
@@ -155607,6 +155689,13 @@
       "score": 1.0
     }
   ],
+  "bruney": [
+    {
+      "entity_id": "rss_https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "brunswick": [
     {
       "entity_id": "alpaca_-5829327096767093022",
@@ -159821,6 +159910,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "match_type": "exact",
       "score": 1.0
     },
@@ -167563,6 +167657,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
       "match_type": "exact",
       "score": 1.0
@@ -174528,6 +174627,11 @@
     },
     {
       "entity_id": "dataset_ifm_txt360",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ignf_fractal",
       "match_type": "exact",
       "score": 1.0
     },
@@ -183617,6 +183721,11 @@
     },
     {
       "entity_id": "dataset_anonymousflare_flare",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_anthropic_biomysterybench_full",
       "match_type": "exact",
       "score": 1.5
     },
@@ -196887,6 +196996,11 @@
     },
     {
       "entity_id": "dataset_inclusionai_openaoe_2000h",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_inductionlabs_frontier_ml_tasks",
       "match_type": "exact",
       "score": 1.0
     },

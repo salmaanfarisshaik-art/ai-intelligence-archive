@@ -9,7 +9,7 @@
   "private": false,
   "sha": "1c5a63c0e1eefa24e80dd7152a0cf1a09ca0a4aa",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSaraiki LLM Benchmark v1.0\n\t\n\nA seven-task benchmark for evaluating language models in Saraiki (Jataki/Multani, Shahmukhi script).\n\nEvaluation only. Do not train on this dataset.\n\nMultiple-choice and math configs include a small dev split that serves as the few-shot examples (5 shots, or 8 for math). instruction_following and truthfulness_safety are 0-shot and have only a test split.\n\n\t\n\t\t\n\t\n\t\n\t\tTasks\n\t\n\n\n\t\n\t\t\nConfig\nSource (license)\nScoring\n\n\n\t\t\nknowledge\nMMLU, culturally neutral… See the full description on the dataset page: https://huggingface.co/datasets/themohal/saraiki-llm-bench.",
-  "downloads": 51014,
+  "downloads": 53455,
   "tags": [
     "task_categories:question-answering",
     "task_categories:multiple-choice",
