@@ -145,6 +145,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_afro_chai_fr_via_syndata_and_tc_2scft
+- **Source**: 
+
+## 
 - **ID**: dataset_agentica_org_deepscaler_preview_dataset
 - **Source**: 
 
@@ -1433,6 +1437,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bunqi_oanda_xauusd_gold
+- **Source**: 
+
+## 
 - **ID**: dataset_butterfree_indolepatlas
 - **Source**: 
 
@@ -2014,6 +2022,10 @@
 
 ## 
 - **ID**: dataset_datbui32979_datbui32979
+- **Source**: 
+
+## 
+- **ID**: dataset_davidheineman_tiny_rl_refined_tasks_v5
 - **Source**: 
 
 ## 
@@ -2853,6 +2865,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_frontieror_frontieror
+- **Source**: 
+
+## 
 - **ID**: dataset_frontisai_naturebench
 - **Source**: 
 
@@ -3178,6 +3194,10 @@
 
 ## 
 - **ID**: dataset_griffinlabs_interndata_a1_lerobot_v3_0_by_embodiment
+- **Source**: 
+
+## 
+- **ID**: dataset_groundedsi_robocap_10k
 - **Source**: 
 
 ## 
@@ -3630,6 +3650,10 @@
 
 ## 
 - **ID**: dataset_honeydatav2_honey_data_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_hongchenggao_engiworld_tasks
 - **Source**: 
 
 ## 
@@ -4141,6 +4165,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn10_content_20261107f663
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_2026042565c5
 - **Source**: 
 
@@ -4517,6 +4545,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_202611074c0c
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn13_content_202604254caa
 - **Source**: 
 
@@ -4702,6 +4734,10 @@
 
 ## 
 - **ID**: dataset_icdn13_content_20261022ca11
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_20261026c54a
 - **Source**: 
 
 ## 
@@ -6169,6 +6205,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_kyiphyuaung_tigas_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_kyutai_rocket_science
 - **Source**: 
 
@@ -7521,6 +7561,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nakasyou_captcha_like_suica
+- **Source**: 
+
+## 
 - **ID**: dataset_nam19955_nam19955
 - **Source**: 
 
@@ -8421,6 +8465,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_originlab_game_recordings_free_camera_v2
+- **Source**: 
+
+## 
 - **ID**: dataset_orionweller_generic_data_v2
 - **Source**: 
 
@@ -8958,6 +9006,10 @@
 
 ## 
 - **ID**: dataset_quincyu_robotwin_dynamic_27500
+- **Source**: 
+
+## 
+- **ID**: dataset_qwen_recreationbench
 - **Source**: 
 
 ## 
@@ -9941,6 +9993,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sulabhkatiyar_tinyasr_eval
+- **Source**: 
+
+## 
 - **ID**: dataset_sulabhkatiyar_tinyasr_shrutilipi
 - **Source**: 
 
@@ -10705,6 +10761,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_verolm_veromotion
+- **Source**: 
+
+## 
 - **ID**: dataset_vibrantlabsai_amnesty_qa
 - **Source**: 
 
@@ -11346,6 +11406,10 @@
 
 ## 
 - **ID**: dataset_yshh525_rho_internalize_v1_20261021
+- **Source**: 
+
+## 
+- **ID**: dataset_ytxfsgamerz_argus_dataset
 - **Source**: 
 
 ## 

@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": "auto",
   "lastModified": "2026-11-22T01:08:55.000Z",
-  "likes": 32,
+  "likes": 43,
   "private": false,
   "sha": "9fd56b77ccb8093393fd5cdfb43218126b7c7e1d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPolymarket Crypto Up/Down 5-Minute Markets: Raw WebSocket Capture\n\t\n\n\nA continuous recording of Polymarket's public WebSocket feeds for the rolling 5-minute \"Up or Down\"\ncrypto markets: the full order book and every trade of each market, plus the Chainlink price feed the\nmarkets settle on. Every frame is stored exactly as received with a local receive timestamp. Nothing\nis filtered, deduplicated, aggregated or resampled. A new UTC day is added every day.\n\n\t\n\t\t\n\n\n\n\n\t\t\nCoins\nBTC, ETH… See the full description on the dataset page: https://huggingface.co/datasets/polydata5/polymarket-updown-5m-ws.",
