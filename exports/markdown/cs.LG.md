@@ -145,6 +145,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.20705v5](http://arxiv.org/abs/2508.20705v5)
 
+## Beyond Output Faithfulness: Diagnosing and Mitigating Pathway Rerouting in Feature Attribution
+- **ID**: arxiv_2509.04588v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.04588v3](http://arxiv.org/abs/2509.04588v3)
+
 ## On the Separability of Information in Diffusion Models
 - **ID**: arxiv_2509.23937v5
 - **Source**: ArXiv
@@ -294,6 +299,11 @@
 - **ID**: arxiv_2602.04417v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.04417v2](http://arxiv.org/abs/2602.04417v2)
+
+## EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL
+- **ID**: arxiv_2602.04417v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04417v3](http://arxiv.org/abs/2602.04417v3)
 
 ## Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
 - **ID**: arxiv_2602.04663v3
@@ -559,6 +569,11 @@
 - **ID**: arxiv_2605.07032v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07032v3](http://arxiv.org/abs/2605.07032v3)
+
+## NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training
+- **ID**: arxiv_2605.08144v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.08144v3](http://arxiv.org/abs/2605.08144v3)
 
 ## Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why
 - **ID**: arxiv_2605.10889v2
@@ -2735,6 +2750,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31657v1](http://arxiv.org/abs/2610.31657v1)
 
+## Benchmarks Are Surprisingly Compaction-Friendly
+- **ID**: arxiv_2610.31778v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31778v2](http://arxiv.org/abs/2610.31778v2)
+
 ## PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets
 - **ID**: arxiv_2610.32864v1
 - **Source**: ArXiv
@@ -3219,4 +3239,19 @@
 - **ID**: arxiv_2611.26598v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26598v1](http://arxiv.org/abs/2611.26598v1)
+
+## Beyond Visual Fidelity: Comparing Categorical and Continuous World Models
+- **ID**: arxiv_2611.27870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27870v1](http://arxiv.org/abs/2611.27870v1)
+
+## SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement
+- **ID**: arxiv_2611.27919v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27919v1](http://arxiv.org/abs/2611.27919v1)
+
+## Model Carving: Training Transformers That Optimize Their Own Topology
+- **ID**: arxiv_2611.27962v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27962v1](http://arxiv.org/abs/2611.27962v1)
 

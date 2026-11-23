@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06464v1](http://arxiv.org/abs/2611.06464v1)
 
+## Augmentation of cardiovascular flow measurements with generative diffusion models
+- **ID**: arxiv_2611.27917v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27917v1](http://arxiv.org/abs/2611.27917v1)
+

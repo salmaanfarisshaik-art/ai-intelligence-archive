@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.13223v4",
+  "schema_version": "1.0",
+  "name": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.13223v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.13223v4",
+    "updated": "2026-11-20T17:43:02Z",
+    "published": "2026-11-09T20:51:21Z",
+    "title": "Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells",
+    "summary": "Reasoning models write a trace at every turn of a multi-turn tool session, and later turns read it. Upstream providers hold different retention constraints, so a request forwarded across issuers arrives with its history deleted, and its task cost remains unmeasured. This paper reports a direct, blind, multi-seed measurement of full history deletion in multi-turn tool calling, through three rendering conditions, a calibrated set of 72 valid experimental cells, a multi-seed protocol, and the official checker. The same deletion separates the models by direction and by magnitude, one class losing tens of points, another gaining, and a third unchanged, with the endpoint ordering reproduced across seeds and task subsets modulating the magnitude and, near zero, the sign. A re-dosed model preserves its success across the full deletion range, so the reading belongs to the model rather than the dose. Deletion sensitivity is a model-level property under an operational definition, measured under a fixed task family, scorer, and protocol, and a retrained model is a new model that a two-cell screen, one retention run and one deletion run, re-reads for the cost of two runs. Deletion sensitivity is thus a measurable property of the model, and the reading must enter routing as prior information rather than persist as an invisible default cost.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:43:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.13223v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

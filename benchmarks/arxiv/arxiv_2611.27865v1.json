@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.27865v1",
+  "schema_version": "1.0",
+  "name": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.27865v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.27865v1",
+    "updated": "2026-11-20T17:13:50Z",
+    "published": "2026-11-20T17:13:50Z",
+    "title": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+    "summary": "Specification-guided reinforcement learning (RL) translates formal specifications of desired behavior of agents into shaped rewards. This paper introduces SLICR, a significant paradigm shift that advances the state of the art to specification-guided RL in adversarial settings under partial observability. We employ Strategy Logic (SL), which allows explicit quantification over agents' strategies and uses the linear temporal logic (LTL) to specify the agents' objectives and constraints. This enables reasoning not only about how agents should act to satisfy a specification, but also about how they should respond to the strategies and behaviors of other agents. We evaluate SLICR on three popular benchmarks: Predator-Prey, Google Research Football, and our home-grown extension of SMAC-HARD, demonstrating its effectiveness, scalability, and ability to adapt to diverse adversarial strategies.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:13:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.27865v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

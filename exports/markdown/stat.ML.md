@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.18542v1](http://arxiv.org/abs/2611.18542v1)
 
+## Optimal Linear Regression Without a Variance
+- **ID**: arxiv_2611.27983v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27983v1](http://arxiv.org/abs/2611.27983v1)
+

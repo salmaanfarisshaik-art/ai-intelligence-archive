@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30186v2",
+  "schema_version": "1.0",
+  "name": "ScopeAct: Scoping Decision Models for Reliable Multi-Step Execution in Mobile GUI Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30186v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30186v2",
+    "updated": "2026-11-20T18:26:43Z",
+    "published": "2026-09-24T17:30:32Z",
+    "title": "ScopeAct: Scoping Decision Models for Reliable Multi-Step Execution in Mobile GUI Agents",
+    "summary": "Vision-language models (VLMs) enable mobile GUI agents to execute complex tasks, but frequent VLM invocations incur substantial latency and API costs. Prior work mitigates this overhead by delegating low-level action selection to lightweight decision models that choose among executable candidates. However, candidate selection alone lacks the task-level control needed to prevent premature termination and recover from failures, while candidates derived from accessibility trees (AXTrees) may not cover all actions required for task completion. To address these challenges, we introduce ScopeAct. This training-free mobile GUI agent framework combines frequent action selection with sparse VLM reasoning through the Delegation Contract and the Candidate Actions Builder. For task-level control, the Delegation Contract enables the VLM to plan subgoals with explicit completion criteria, recover from failures, and verify task completion. The decision model repeatedly selects actions to execute each subgoal without per-step VLM intervention, returning control to the VLM when execution stalls or final verification is required. For broader action coverage, the Candidate Actions Builder supplements AXTree-derived and system actions with VLM-provided text bindings for task-specific text entry and coordinates for widget-free interactions. Experiments on AndroidWorld demonstrate that ScopeAct achieves 1.7-4.8$\\times$ faster execution and 3.7-8.3$\\times$ lower API costs than six API-based baselines. ScopeAct requires only 5.3 and 4.6 VLM calls per task under the extended and official evaluation settings, respectively. Under the same settings, it attains 96.3% and 81.0% task success rates, surpassing the strongest baselines by 3.4 and 1.7 percentage points, respectively.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T18:26:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30186v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

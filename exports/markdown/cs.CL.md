@@ -845,6 +845,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.12227v2](http://arxiv.org/abs/2605.12227v2)
 
+## A categorical error sensitivity index (ISEC): A preventive ordinal decision-support measure for irrecoverable errors in manual data entry systems
+- **ID**: arxiv_2605.12328v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12328v2](http://arxiv.org/abs/2605.12328v2)
+
 ## The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale
 - **ID**: arxiv_2605.15011v3
 - **Source**: ArXiv
@@ -2310,6 +2315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11624v2](http://arxiv.org/abs/2608.11624v2)
 
+## Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus
+- **ID**: arxiv_2608.12149v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12149v4](http://arxiv.org/abs/2608.12149v4)
+
 ## Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge
 - **ID**: arxiv_2608.12218v1
 - **Source**: ArXiv
@@ -2574,6 +2584,11 @@
 - **ID**: arxiv_2608.21969v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21969v3](http://arxiv.org/abs/2608.21969v3)
+
+## From Exposure to Expectation: Frequency, Surprisal, and Language Across Development in Spanish
+- **ID**: arxiv_2608.22452v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.22452v2](http://arxiv.org/abs/2608.22452v2)
 
 ## Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation
 - **ID**: arxiv_2608.23152v2
@@ -5375,6 +5390,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12872v1](http://arxiv.org/abs/2611.12872v1)
 
+## Deletion Sensitivity Is a Property of the Model: A Three-Condition Measurement over 72 Valid Experimental Cells
+- **ID**: arxiv_2611.13223v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.13223v4](http://arxiv.org/abs/2611.13223v4)
+
 ## Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models
 - **ID**: arxiv_2611.14387v1
 - **Source**: ArXiv
@@ -5579,4 +5599,9 @@
 - **ID**: arxiv_2611.26584v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26584v1](http://arxiv.org/abs/2611.26584v1)
+
+## MemOnce: A Scalable Memory Architecture for Large Language Models
+- **ID**: arxiv_2611.27973v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27973v1](http://arxiv.org/abs/2611.27973v1)
 

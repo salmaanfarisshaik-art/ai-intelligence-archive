@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.27921v1",
+  "schema_version": "1.0",
+  "name": "ESSI: Computationally Efficient Semantic Search for Sparse Autoencoder Concepts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.27921v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.27921v1",
+    "updated": "2026-11-20T17:58:06Z",
+    "published": "2026-11-20T17:58:06Z",
+    "title": "ESSI: Computationally Efficient Semantic Search for Sparse Autoencoder Concepts",
+    "summary": "Sparse autoencoders (SAEs) decompose diffusion model activations into interpretable features, but steering a model with them requires identifying which features map to a given semantic concept, if any. Existing methods for this concept to feature task are expensive, relying on grid searches or repeated passes through the frozen UNet. We propose Efficient Semantic Sparse Identification (ESSI). Using segmentation masks to label SDXL activations as concept or non-concept, ESSI ranks SAE features and binary-searches for the smallest set on which a linear classifier still separates positive from negative samples while not falling below a performance threshold, then reuses that classifier to calibrate the steering strength. We evaluate the same selected features on both concept insertion and object unlearning. Compared with prior work, ESSI is as cheap or cheaper, and performs well on both insertion and removal.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:58:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.27921v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

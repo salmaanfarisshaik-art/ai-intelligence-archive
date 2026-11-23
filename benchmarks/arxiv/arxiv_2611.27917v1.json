@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.27917v1",
+  "schema_version": "1.0",
+  "name": "Augmentation of cardiovascular flow measurements with generative diffusion models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.27917v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "physics.flu-dyn",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.27917v1",
+    "updated": "2026-11-20T17:52:48Z",
+    "published": "2026-11-20T17:52:48Z",
+    "title": "Augmentation of cardiovascular flow measurements with generative diffusion models",
+    "summary": "Cardiovascular imaging offers several ways to measure blood flow, but each provides an incomplete, resolution-limited, or noisy view of the underlying dynamics. Reconstructing the missing information is inherently ambiguous because several flow fields may be compatible with the same observation. Here, we investigate generative diffusion models as tools for cardiovascular-flow generation and reconstruction using a fully controlled state-of-the-art dataset from a digital twin of a healthy human left heart. First, we show how unconditional samples reproduce the changing anatomy and the highly fluctuating statistical properties of the flow throughout the cardiac cycle. Second, we test the conditional inference of our generative model by reconstructing an entire 2D planar section of geometry and flow configurations from a limited portion. Repeated reconstructions allow us to represent a range of plausible completions, going beyond a single deterministic estimate, while their mean retains the principal features of the reference flow. Comparison with a Gaussian process regression baseline on the same reduced domain highlights the main advantage of diffusion models: their reconstructed ensembles capture a broader range of velocity and gradient fluctuations, better encompassing ground-truth features that the baseline distributions can miss. Our results provide a quantitative proof of concept for probabilistic reconstruction of incomplete cardiovascular-flow measurements and demonstrate the potential for groundbreaking applications to the augmentation of in-vivo cardiovascular imaging data.",
+    "primary_category": "physics.flu-dyn"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:52:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.27917v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

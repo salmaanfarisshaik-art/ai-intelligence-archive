@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.10853v1](http://arxiv.org/abs/2611.10853v1)
 
+## SPARC: Evidence-guided adaptive model composition for materials discovery
+- **ID**: arxiv_2611.19050v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.19050v2](http://arxiv.org/abs/2611.19050v2)
+

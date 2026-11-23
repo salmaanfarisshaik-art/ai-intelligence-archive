@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2610.35272v2",
+  "schema_version": "1.0",
+  "name": "The Voice on the Line",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.35272v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.35272v2",
+    "updated": "2026-11-20T17:35:00Z",
+    "published": "2026-10-26T11:46:17Z",
+    "title": "The Voice on the Line",
+    "summary": "A transcriber listening through one microphone also hears everyone near it. We train causal voice isolators that keep only the caller for a speech recogniser: masking transformers with 20 ms of latency that enroll the caller from the call itself. Short evaluation windows hide two failures that real calls expose: forgetting the caller when another voice talks alone for a while, and damaging a caller who is alone. Long calls with turns, memory beyond the attention window and real headset crosstalk address the first, at a cost to the second. WavLM-Large's own weights, made causal and trained inside the model, move that trade, and training windows cut from longer calls remove most of a lone caller's cold start. The release (555M parameters) makes 16.13% word errors on 60 s AMI windows, against 23.66% for VoxLock, the strongest open isolator, and 14.77% on average over nine test sets, against 18.04%; it is level on Krisp's benchmark, and a caller who is alone still loses more words than with VoxLock. Distilled without WavLM into 22.1M and 9.8M parameters, it runs live on one CPU thread inside a LiveKit agent, at 12.5% and 8.5% of a core per call, with 10.66% and 10.99% error on our development sets (the release 10.49%). In an agent that talks back, noise interrupts it 0.54 times a minute of its speech behind our agent model, which gates its output on a caller-presence head, against 1.18 for VoxLock. We open-source the models, with a LiveKit plugin, at https://huggingface.co/collections/Scicom-intl/voice-isolator.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:35:00Z",
+  "links": {
+    "related_models": [
+      "collections/Scicom-intl"
+    ],
+    "related_papers": [
+      "2610.35272v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -485,6 +485,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06869v3](http://arxiv.org/abs/2605.06869v3)
 
+## Hierarchical Task Network Planning with LLM-Generated Heuristics
+- **ID**: arxiv_2605.07707v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07707v3](http://arxiv.org/abs/2605.07707v3)
+
 ## RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking
 - **ID**: arxiv_2605.11151v3
 - **Source**: ArXiv
@@ -3610,6 +3615,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30186v1](http://arxiv.org/abs/2609.30186v1)
 
+## ScopeAct: Scoping Decision Models for Reliable Multi-Step Execution in Mobile GUI Agents
+- **ID**: arxiv_2609.30186v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30186v2](http://arxiv.org/abs/2609.30186v2)
+
 ## SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance
 - **ID**: arxiv_2609.30192v1
 - **Source**: ArXiv
@@ -3824,6 +3834,16 @@
 - **ID**: arxiv_2609.38147v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38147v1](http://arxiv.org/abs/2609.38147v1)
+
+## Multi-Task Self-Evolving Harnesses with the Agent as Its Own Optimizer
+- **ID**: arxiv_2609.38372v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38372v3](http://arxiv.org/abs/2609.38372v3)
+
+## UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement
+- **ID**: arxiv_2609.38721v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38721v2](http://arxiv.org/abs/2609.38721v2)
 
 ## Alleviating Hallucination in Reasoning Tasks with Training-Free Uncertainty-Guided Steering
 - **ID**: arxiv_2609.38962v2
@@ -5220,6 +5240,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.12865v1](http://arxiv.org/abs/2611.12865v1)
 
+## SafeRoute-MAS: Coverage-Aware and Risk-Calibrated Message Routing for Multi-Agent Scientific Reasoning
+- **ID**: arxiv_2611.13454v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.13454v2](http://arxiv.org/abs/2611.13454v2)
+
 ## Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models
 - **ID**: arxiv_2611.14382v1
 - **Source**: ArXiv
@@ -5400,6 +5425,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19215v1](http://arxiv.org/abs/2611.19215v1)
 
+## Regularizing Treatment Leakage for LLM-based Uplift Estimation
+- **ID**: arxiv_2611.20794v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.20794v4](http://arxiv.org/abs/2611.20794v4)
+
 ## Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety
 - **ID**: arxiv_2611.21520v1
 - **Source**: ArXiv
@@ -5549,4 +5579,34 @@
 - **ID**: arxiv_2611.26624v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26624v1](http://arxiv.org/abs/2611.26624v1)
+
+## SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning
+- **ID**: arxiv_2611.27865v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27865v1](http://arxiv.org/abs/2611.27865v1)
+
+## Integrating Generative Artificial Intelligence with Learning Style Models: Opportunities, Challenges, and Future Directions
+- **ID**: arxiv_2611.27868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27868v1](http://arxiv.org/abs/2611.27868v1)
+
+## Speculative Decoding Is Less Speculative Than You Think
+- **ID**: arxiv_2611.27891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27891v1](http://arxiv.org/abs/2611.27891v1)
+
+## The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search
+- **ID**: arxiv_2611.27899v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27899v1](http://arxiv.org/abs/2611.27899v1)
+
+## Functional Depth Is Learned: Isolating the Computation That Layers Produce Only Together
+- **ID**: arxiv_2611.27911v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27911v1](http://arxiv.org/abs/2611.27911v1)
+
+## BioEmu2: Scalable Emulation of Biomolecular Dynamics
+- **ID**: arxiv_2611.27924v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27924v1](http://arxiv.org/abs/2611.27924v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.06330v4",
+  "schema_version": "1.0",
+  "name": "S2WMamba: Modality-Specific Wavelet Decomposition with Learnable Detail Bands for Pansharpening",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.06330v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.06330v4",
+    "updated": "2026-11-20T17:28:03Z",
+    "published": "2025-12-06T07:15:12Z",
+    "title": "S2WMamba: Modality-Specific Wavelet Decomposition with Learnable Detail Bands for Pansharpening",
+    "summary": "Pansharpening reconstructs a high-resolution multispectral image from a high-resolution panchromatic (PAN) image and a low-resolution multispectral (MS) image. The MS bands carry the colour that must be preserved, but they enter most networks as an undifferentiated feature dimension, mixed with the spatial correction before any spectral decomposition is formed. We propose S2WMamba (spatial, spectral, wavelet, Mamba), which treats the spatial and the spectral axes with different transforms: a two-dimensional wavelet decomposition applied to a learned embedding of the PAN image isolates spatial edges and textures, while a one-dimensional wavelet decomposition applied along the spectral axis of the fused cue separates the spectral base shared by all bands from the band-specific variation. In both transforms the approximation (low-pass) filter is fixed and carries no learned parameters, and only the detail filters are learned. The two branches are coupled in one direction: the spatial branch first reconstructs a correction to the upsampled MS image, which then conditions the input of the spectral branch. A Mamba-based aggregator merges the two branch outputs. On the PanCollection benchmark, S2WMamba attains the best reduced-resolution PSNR on each of WorldView-3 (39.502 dB), GF2 (50.083 dB) and QuickBird (38.802 dB), and in full resolution its HQNR is within 0.011 of the best on every sensor. Ablations show that the benefit of the cascade lies entirely in its direction: reversing it yields the same accuracy as removing the coupling altogether. Code: github.com/KagUYa66/S2WMamba; benchmark: github.com/liangjiandeng/PanCollection.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:28:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.06330v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -235,6 +235,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27942v1](http://arxiv.org/abs/2610.27942v1)
 
+## The Voice on the Line
+- **ID**: arxiv_2610.35272v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35272v2](http://arxiv.org/abs/2610.35272v2)
+
 ## Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence
 - **ID**: arxiv_2610.37605v1
 - **Source**: ArXiv

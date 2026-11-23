@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.12149v4",
+  "schema_version": "1.0",
+  "name": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.12149v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.12149v4",
+    "updated": "2026-11-20T17:38:05Z",
+    "published": "2026-08-12T15:11:18Z",
+    "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
+    "summary": "We present the first systematic study of massive activations (MAs) in layer-interleaved Hybrid linear attention large language models (HLA LLMs), examining their architectural organization, training-time emergence, underlying mechanisms, and functional significance. Across five linear attention architectures, six hybridization configurations, and five input domains, we identify two architecture-aligned morphologies: pre-attention spikes (PAS) immediately before full attention and inter-spike plateaus (ISP) persisting through intervening linear attention layers. Denser full attention increasingly connects PAS through ISP, approaching the persistent MAs of conventional Transformers. This organization also recurs across 12 public checkpoints spanning 1.2B-397B parameters, covering linear attention and state-space hybrids. Controlled pretraining of Gated DeltaNet (GDN) hybrids up to 1.3B reveals early emergence and consolidation of both morphologies, alongside asymmetric gating effects. Specifically, full attention output gates strongly attenuate MA magnitudes without eliminating their organization, whereas removing GDN output gates yields modest amplification. Mechanistically, we develop a shared systematic-outlier account: PAS follows a localized write-sink-cancel process, while ISP is consistent with delayed cancellation. Functionally, our interventions show that deleting only the four largest-magnitude PAS coordinates at each full attention input reduces mean downstream accuracy by 21.9%-63.6% relative to normal inference. Moreover, reference-conditioned spike-to-plateau connection consistently improves mean real-world retrieval accuracy, yielding relative gains of 1.1%-12.6% without retraining. Our code is available at https://github.com/StartLuxLabs/Massive-Activations-HLA.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:38:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.12149v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

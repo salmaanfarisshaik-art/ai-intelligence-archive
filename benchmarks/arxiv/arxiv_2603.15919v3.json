@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.15919v3",
+  "schema_version": "1.0",
+  "name": "Sparse but Not Simpler: Pruning Makes a Vision Transformer's Weights More Modular, but Not Its Computation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.15919v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.15919v3",
+    "updated": "2026-11-20T17:30:54Z",
+    "published": "2026-03-16T21:13:49Z",
+    "title": "Sparse but Not Simpler: Pruning Makes a Vision Transformer's Weights More Modular, but Not Its Computation",
+    "summary": "Sparse networks are often expected to be easier to interpret, and language models trained with sparse weights have much smaller circuits than dense ones. We test whether pruning brings this benefit to vision transformers with IMPACT, an evaluation that compares dense and pruned models on weights, neurons, sparse-autoencoder features, class circuits and attribution maps, with a dense model finetuned without pruning as a control. Pruning makes the weights more modular, but no other level becomes simpler than the dense model. Decisions are compared through class circuits, the small sets of nodes behind the decision for one class, extracted so that circuits of different models are comparable. Restoring the weights that pruning removed from a class's dense circuit undoes most of that class's damage, far more than restoring as many weights elsewhere, so the circuits hold what each class depends on. Pruned circuits hold far fewer weights, but only because pruning removed weights everywhere; counted in nodes, they are no smaller and no less shared. Sparser or more modular weights are therefore no evidence of simpler decisions. At the other levels, finetuning alone changes the measures about as much as pruning does, so comparing the interpretability of compressed models needs a finetuned dense control.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:30:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.15919v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

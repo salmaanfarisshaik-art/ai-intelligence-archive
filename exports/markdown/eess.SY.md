@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21030v2](http://arxiv.org/abs/2604.21030v2)
 
+## What Graph Unlearning Cannot Erase: Physics-Induced Leakage of Cyberattack Information in Electric Vehicle Charging Networks
+- **ID**: arxiv_2606.19566v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19566v2](http://arxiv.org/abs/2606.19566v2)
+
 ## LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications
 - **ID**: arxiv_2607.18147v1
 - **Source**: ArXiv

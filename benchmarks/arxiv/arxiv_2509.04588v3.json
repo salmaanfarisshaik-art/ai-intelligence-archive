@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.04588v3",
+  "schema_version": "1.0",
+  "name": "Beyond Output Faithfulness: Diagnosing and Mitigating Pathway Rerouting in Feature Attribution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.04588v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.04588v3",
+    "updated": "2026-11-20T17:39:49Z",
+    "published": "2025-09-04T18:09:17Z",
+    "title": "Beyond Output Faithfulness: Diagnosing and Mitigating Pathway Rerouting in Feature Attribution",
+    "summary": "Insertion and deletion are standard metrics for evaluating feature\n  attributions by progressively adding or removing pixels. While they test\n  whether attributed features control a model output, they do not verify\n  whether they do so through the computation that supports the clean\n  prediction. We study this distinction with Ensemble Quantile Optimization (EQO),\n  a differentiable method that directly optimizes the insertion sequence.\n  On CNNs, Unconstrained EQO attains the highest insertion scores while departing\n  from clean representations and retaining its insertion score after channels\n  supporting the clean prediction are ablated. Together, these results reveal\n  pathway rerouting that output-only metrics cannot detect. On a Vision\n  Transformer, target predictions from black inputs and attention deviation\n  expose the same failure.\n  To address this, we introduce ClipGrad, a layer-wise gradient\n  filter that preserves clean activation trajectories during optimization.\n  ClipGrad suppresses rerouting exploits while maintaining high output\n  sensitivity across convolutional networks and Vision Transformers, and\n  token intervention confirms this mitigation on the Transformer. These\n  results show that output sensitivity is necessary but insufficient: a faithful\n  attribution must control the output through internal computation used for the\n  clean prediction.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:39:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.04588v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12328v2",
+  "schema_version": "1.0",
+  "name": "A categorical error sensitivity index (ISEC): A preventive ordinal decision-support measure for irrecoverable errors in manual data entry systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12328v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12328v2",
+    "updated": "2026-11-20T17:24:47Z",
+    "published": "2026-05-12T16:11:02Z",
+    "title": "A categorical error sensitivity index (ISEC): A preventive ordinal decision-support measure for irrecoverable errors in manual data entry systems",
+    "summary": "Data entry systems remain structurally vulnerable to categorical misclassifications, particularly in small and medium sized enterprises (SMEs). When nominal categories exhibit semantic or morphological proximity, human machine interaction may produce errors that are irrecoverable ex post. In the absence of automated input controls, manual data entry frequently generates irrecoverable categorical distortions that propagate into Key Performance Indicators (KPIs), thereby misleading managerial decision making. State of the art normalization tools typically evaluate semantic and morphological dimensions in isolation and rely heavily on standard dictionaries, rendering them ineffective for SME master data rich in custom SKUs, abbreviations, and domain-specific technical jargon. This paper introduces the Categorical Error Sensitivity Index (ISEC), an ordinal composite score designed to rank category pairs according to their structural susceptibility to confusion. ISEC integrates semantic distance (via word embeddings), custom weighted morphological transformation costs (through an adapted Damerau Levenshtein algorithm), and empirical frequency into a unified, mathematically robust preventive framework. By leveraging vector database architectures, ISEC reduces computational complexity, achieving approximately a 195x performance improvement over brute-force methods. Validated across three heterogeneous datasets: governmental judicial records, retail inventory, and a synthetic ISO coded metalworking catalog, ISEC provides a scalable and proactive data governance instrument that enables SMEs to detect latent structural risk embedded within their categorical data assets.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:24:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12328v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

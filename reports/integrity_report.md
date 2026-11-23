@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-11-23T00:01:34.417749+00:00
-**Warnings:** 5926
+**Generated:** 2026-11-23T07:19:02.992506+00:00
+**Warnings:** 5977
 **Errors:** 331
 
 ## Issues
@@ -545,6 +545,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2508.18694v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2508.20705v5
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2508.20766v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2509.04588v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2509.05512v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2509.07801v5
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2509.07996v4
@@ -659,6 +660,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.05126v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.05414v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.05610v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.06330v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.06438v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.06547v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2512.06547v4
@@ -755,6 +757,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.02304v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.03998v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.04417v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.04417v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.04663v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.04731v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.04802v3
@@ -878,6 +881,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.15220v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.15547v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.15553v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.15919v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.16410v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.16673v5
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.16749v3
@@ -1113,7 +1117,9 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.07398v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.07507v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.07695v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.07707v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.07721v3
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.08144v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.09018v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.09071v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.09995v2
@@ -1126,6 +1132,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.11986v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.12015v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.12227v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.12328v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.12380v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.12413v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.12608v3
@@ -1546,6 +1553,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.19336v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.19338v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.19341v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.19566v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.19625v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.19625v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.20122v2
@@ -1598,6 +1606,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.21359v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.21654v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.22030v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.22082v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.22338v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.22516v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.22673v2
@@ -2654,6 +2663,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.11624v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.11733v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.11907v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.12149v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.12198v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.12203v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.12209v1
@@ -3003,6 +3013,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.21567v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.21761v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.21969v3
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.22452v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.22462v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.22583v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2608.22923v2
@@ -4078,6 +4089,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30177v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30184v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30186v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30186v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30187v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30192v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30199v1
@@ -4105,6 +4117,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30264v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30266v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.30849v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.31248v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.31450v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.31451v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.31452v1
@@ -4279,9 +4292,11 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38178v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38180v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38256v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38372v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38612v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38612v3
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38627v3
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38721v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.38962v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.39514v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.39601v3
@@ -4290,6 +4305,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.39882v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.40124v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.40134v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.40195v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.40212v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.40219v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.40221v1
@@ -5188,6 +5204,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.31670v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.31671v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.31671v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.31778v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.31835v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.32024v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.32057v3
@@ -5252,6 +5269,8 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.34027v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.34028v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.34599v3
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.35272v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: collections/Scicom-intl
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.35733v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.35743v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2610.35753v1
@@ -5726,6 +5745,8 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.12884v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.12885v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.12886v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.13223v4
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.13454v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.14207v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.14380v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.14382v1
@@ -5841,6 +5862,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.18550v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.18553v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.18559v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.19050v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.19127v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.19135v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.19136v1
@@ -5873,6 +5895,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.19218v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.19745v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.20140v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.20794v4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.21479v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.21480v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.21485v1
@@ -5977,8 +6000,10 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.23226v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.23228v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.23229v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.23417v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.23958v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.24285v2
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.24738v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.24782v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.24785v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.24788v1
@@ -6045,6 +6070,32 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.26624v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.26627v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.26629v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27858v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27860v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27862v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27865v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27868v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27870v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27876v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27881v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27891v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27895v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27899v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27901v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27905v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27910v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27911v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27913v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27915v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27917v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27919v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27921v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27924v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27931v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27962v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27963v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27973v1
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2611.27983v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/uoft-cs
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/abisee
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tau

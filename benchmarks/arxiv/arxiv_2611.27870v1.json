@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.27870v1",
+  "schema_version": "1.0",
+  "name": "Beyond Visual Fidelity: Comparing Categorical and Continuous World Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.27870v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.27870v1",
+    "updated": "2026-11-20T17:15:30Z",
+    "published": "2026-11-20T17:15:30Z",
+    "title": "Beyond Visual Fidelity: Comparing Categorical and Continuous World Models",
+    "summary": "Visual world models can now generate compelling interactive worlds, but visual realism does not guarantee faithful dynamics. We systematically compare how categorical and continuous prediction shape learned dynamics under both next-token and iterative whole-frame generation. These choices are often bundled in approaches such as autoregressive token models and whole-frame flow matching. We design controlled 2D and 3D environments and evaluate dynamics validity, calibration, and visual quality. In 2D with lossless visual encoding, categorical models achieve higher rollout validity with less training compute, particularly for stochastic entities. Among categorical models, greedy decoding produces the highest rollout validity, while sampling from a next-token model yields the best-calibrated stochastic predictions. Failures in continuous models, such as disappearing game characters, echo those seen in more complex environments. Here, known dynamics let us measure their impact. In 3D, categorical models also achieve stronger long-horizon performance with less training compute. Even models with lossy tokenization remain competitive on semantic accuracy and FVD, despite lower next-frame RGB accuracy. Together, these findings make a strong case for categorical prediction as a compute-efficient route to learning world dynamics.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:15:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.27870v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

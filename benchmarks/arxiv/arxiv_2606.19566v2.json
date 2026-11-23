@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19566v2",
+  "schema_version": "1.0",
+  "name": "What Graph Unlearning Cannot Erase: Physics-Induced Leakage of Cyberattack Information in Electric Vehicle Charging Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19566v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.SY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19566v2",
+    "updated": "2026-11-20T18:34:22Z",
+    "published": "2026-06-17T20:09:16Z",
+    "title": "What Graph Unlearning Cannot Erase: Physics-Induced Leakage of Cyberattack Information in Electric Vehicle Charging Networks",
+    "summary": "Electric vehicle charging stations (EVCSs) can expose distribution feeders to cyberattacks. While machine learning methods, including graph neural networks (GNNs), can localize which bus is compromised, significant challenges remain in data sharing and model training. For example, data-sharing agreements grant EVCS operators the right to withdraw their charging power for privacy or security reasons from a deployed model, yet retraining from scratch on every request would repeat the full-retraining (FR) cost. To address this, we study graph unlearning (GU) for EVCS cyberattack localization, formulated as a feature-level unlearning problem on a graph-level multi-label classification task. We benchmark fine-tuning (FT) against two GU baselines on the IEEE 34-bus, 123-bus, and 8500-node distribution networks across three GNN backbones and cumulative unlearning scenarios. Experiments show that a GNN unlearned or retrained without the withdrawn power still localizes cyberattacks at the forgotten EVCSs. This physics-induced leakage floor arises because a cyberattack on an EVCS also shifts the voltages of electrically coupled buses. The distribution system operator can thus promise an EVCS operator that the deployed GNN model no longer uses its charging power data, but the voltages still reveal cyberattacks at its EVCS.",
+    "primary_category": "eess.SY"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T18:34:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19566v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

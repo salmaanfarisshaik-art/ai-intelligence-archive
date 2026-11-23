@@ -290,3 +290,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26531v1](http://arxiv.org/abs/2611.26531v1)
 
+## Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search
+- **ID**: arxiv_2611.27910v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27910v1](http://arxiv.org/abs/2611.27910v1)
+

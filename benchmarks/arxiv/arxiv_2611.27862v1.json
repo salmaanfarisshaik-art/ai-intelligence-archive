@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.27862v1",
+  "schema_version": "1.0",
+  "name": "OpenAHBU: Open-sourced Automatic Human Behaviour Understanding Toolkit Through Facial Behaviour Analysis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.27862v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.27862v1",
+    "updated": "2026-11-20T17:10:17Z",
+    "published": "2026-11-20T17:10:17Z",
+    "title": "OpenAHBU: Open-sourced Automatic Human Behaviour Understanding Toolkit Through Facial Behaviour Analysis",
+    "summary": "Automatic facial behaviour understanding (AFBU) is fundamental to various human-centred applications, yet existing academically available toolkits offer limited functionality, closed training pipelines, and weak generalisation. This paper presents OpenAHBU, a fully open-sourced, generalisable toolkit integrating 11 AFBU functions across three semantic levels: (i) short-term external facial attributes, including landmarks, blendshapes, Action Units, and expressions; (ii) short-term facial behaviour-related human psychological states, including valence/arousal and pain; and (iii) long-term facial behaviour-related psychological traits, including depression and personality. Particularly, we re-developed eight functions, where at least four deep learning models covering different computational complexities are developed for each function, providing flexible deployment on resource-constrained and high-throughput computing scenarios. More importantly, models of most functions are trained on a comprehensive corpus aggregating multiple academically available datasets, ensuring robust cross-dataset generalisability.In addition, we include a Synergistic Multi-task Enhancement (SMTE) module to efficiently and adaptively enhance each OpenAHBU function by leveraging the complementary cues contained in its most-related support function's predictions.Extensive evaluations demonstrate that our OpenAHBU outperformed existing open-source toolkits not only in functional coverage but also the predictive performances, while providing superior deployment flexibility across diverse computational scenarios.With fully publicly available training and inference scripts, pre-trained weights, user-friendly GUI, Python library, and cross-platform compatibility, our OpenAHBU provides a reproducible, scalable and extensible toolkit at https://github.com/OpenAHBU/OpenAHBU.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:10:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.27862v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

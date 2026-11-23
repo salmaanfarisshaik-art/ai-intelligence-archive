@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.22452v2",
+  "schema_version": "1.0",
+  "name": "From Exposure to Expectation: Frequency, Surprisal, and Language Across Development in Spanish",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.22452v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.22452v2",
+    "updated": "2026-11-20T17:41:32Z",
+    "published": "2026-08-23T15:02:29Z",
+    "title": "From Exposure to Expectation: Frequency, Surprisal, and Language Across Development in Spanish",
+    "summary": "Surprisal, the negative log-probability a language model assigns to a word given its preceding context, reliably predicts adult reading times. Does it contribute as much to explaining when children acquire individual words? Frequency reflects a learner's cumulative exposure to a word, whereas surprisal reflects how predictable a single occurrence is given its context. We investigate this question across two corpus-based studies of Spanish.\n  In Study 1, we modeled age of acquisition (AoA) for 225 Spanish nouns using lexical frequency and contextual diversity from child-directed speech, plus surprisal from three language models differing in architecture and training language (BETO, BERTIN, mGPT). Frequency strongly predicted AoA (r=-.597, p<.001); surprisal added little beyond frequency and word length, including in a naturalistic-context analysis.\n  In Study 2, we modeled adult fixation durations in the Chilean Spanish subsample of the Multilingual Eye-movement Corpus (MECO Wave 2), using mGPT surprisal alongside two independent frequency measures. Surprisal robustly predicted longer fixation durations after controlling for frequency and word length, consistent across both frequency sources. A matched word-type-level comparison showed the surprisal-behavior association was stronger in reading than in acquisition (z=3.63, p<.001).\n  The findings suggest cumulative lexical exposure and contextual predictability play different roles across the language trajectory: frequency is particularly informative about when early lexical representations are acquired, whereas surprisal captures moment-to-moment processing difficulty in an already-established linguistic system. We discuss this pattern in relation to usage-based and entrenchment-based accounts of lexical development and to the evaluation of language models as models of human language behavior.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:41:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.22452v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

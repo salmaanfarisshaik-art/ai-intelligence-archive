@@ -610,3 +610,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26601v1](http://arxiv.org/abs/2611.26601v1)
 
+## Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks
+- **ID**: arxiv_2611.27860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27860v1](http://arxiv.org/abs/2611.27860v1)
+

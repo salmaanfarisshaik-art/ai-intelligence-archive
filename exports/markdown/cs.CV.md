@@ -495,6 +495,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.05610v2](http://arxiv.org/abs/2512.05610v2)
 
+## S2WMamba: Modality-Specific Wavelet Decomposition with Learnable Detail Bands for Pansharpening
+- **ID**: arxiv_2512.06330v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.06330v4](http://arxiv.org/abs/2512.06330v4)
+
 ## AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars
 - **ID**: arxiv_2512.06438v4
 - **Source**: ArXiv
@@ -799,6 +804,11 @@
 - **ID**: arxiv_2603.15553v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.15553v2](http://arxiv.org/abs/2603.15553v2)
+
+## Sparse but Not Simpler: Pruning Makes a Vision Transformer's Weights More Modular, but Not Its Computation
+- **ID**: arxiv_2603.15919v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.15919v3](http://arxiv.org/abs/2603.15919v3)
 
 ## 3D MRI-Based Alzheimer's Disease Classification Using Multi-Modal 3D CNN with Leakage-Aware Subject-Level Evaluation
 - **ID**: arxiv_2603.17304v2
@@ -5465,6 +5475,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30245v1](http://arxiv.org/abs/2609.30245v1)
 
+## TailorGS: Made-to-Measure Density Control for 3D Gaussian Splatting
+- **ID**: arxiv_2609.31248v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31248v2](http://arxiv.org/abs/2609.31248v2)
+
 ## From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training
 - **ID**: arxiv_2609.31450v1
 - **Source**: ArXiv
@@ -5769,6 +5784,11 @@
 - **ID**: arxiv_2609.39601v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.39601v3](http://arxiv.org/abs/2609.39601v3)
+
+## MemLife: Curating and Reasoning over Long-Term Egocentric Video Memories
+- **ID**: arxiv_2609.40195v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40195v2](http://arxiv.org/abs/2609.40195v2)
 
 ## Recognition of Urbanized Areas in UAV-Derived Very-High-Resolution Visible-Light Imagery
 - **ID**: arxiv_2609.40212v1
@@ -8570,10 +8590,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23228v1](http://arxiv.org/abs/2611.23228v1)
 
+## Autoregressive View Model
+- **ID**: arxiv_2611.23417v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23417v2](http://arxiv.org/abs/2611.23417v2)
+
 ## DORMS: Image Segmentation via Depth-Ordered Region Merge Trees
 - **ID**: arxiv_2611.23958v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23958v2](http://arxiv.org/abs/2611.23958v2)
+
+## Jeveration: System One Models Now Generate
+- **ID**: arxiv_2611.24738v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24738v2](http://arxiv.org/abs/2611.24738v2)
 
 ## Read Together, Answer Apart: How Earlier Questions Help Vision-Language Models Look
 - **ID**: arxiv_2611.24785v1
@@ -8694,4 +8724,59 @@
 - **ID**: arxiv_2611.26629v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26629v1](http://arxiv.org/abs/2611.26629v1)
+
+## ENC-QA: A Diagnostic Benchmark for Vision-Language Models on Electronic Navigational Charts
+- **ID**: arxiv_2611.27858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27858v1](http://arxiv.org/abs/2611.27858v1)
+
+## OpenAHBU: Open-sourced Automatic Human Behaviour Understanding Toolkit Through Facial Behaviour Analysis
+- **ID**: arxiv_2611.27862v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27862v1](http://arxiv.org/abs/2611.27862v1)
+
+## LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT
+- **ID**: arxiv_2611.27876v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27876v1](http://arxiv.org/abs/2611.27876v1)
+
+## Interpretable Tissue Architecture Complements Pathology Foundation Models
+- **ID**: arxiv_2611.27881v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27881v1](http://arxiv.org/abs/2611.27881v1)
+
+## QuantStream3D: Geometry-Aligned Low-Bit KV Cache Quantization for Streaming Visual Geometry Transformers
+- **ID**: arxiv_2611.27901v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27901v1](http://arxiv.org/abs/2611.27901v1)
+
+## AnimalFarm: Auditing the Generation and Detection of Hateful Images Featuring Anthropomorphic Characters
+- **ID**: arxiv_2611.27905v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27905v1](http://arxiv.org/abs/2611.27905v1)
+
+## Star Panoptic Quality: Selectively Evaluating Split and Merged Instances
+- **ID**: arxiv_2611.27913v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27913v1](http://arxiv.org/abs/2611.27913v1)
+
+## StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning
+- **ID**: arxiv_2611.27915v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27915v1](http://arxiv.org/abs/2611.27915v1)
+
+## ESSI: Computationally Efficient Semantic Search for Sparse Autoencoder Concepts
+- **ID**: arxiv_2611.27921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27921v1](http://arxiv.org/abs/2611.27921v1)
+
+## DiTraR: Diverse Scorers and Transcript-Guided Re-ranking for Video Corpus Moment Retrieval
+- **ID**: arxiv_2611.27931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27931v1](http://arxiv.org/abs/2611.27931v1)
+
+## Non-penetrating World Models
+- **ID**: arxiv_2611.27963v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27963v1](http://arxiv.org/abs/2611.27963v1)
 

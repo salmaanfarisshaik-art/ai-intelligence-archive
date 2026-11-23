@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.18168v1](http://arxiv.org/abs/2606.18168v1)
 
+## CodeTeam: An LLM-Powered Multi-Agent Framework for Repository-Level Code Generation
+- **ID**: arxiv_2606.22082v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.22082v2](http://arxiv.org/abs/2606.22082v2)
+
 ## The Spec Growth Engine: Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development
 - **ID**: arxiv_2606.27045v2
 - **Source**: ArXiv
@@ -469,4 +474,9 @@
 - **ID**: arxiv_2611.26588v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26588v1](http://arxiv.org/abs/2611.26588v1)
+
+## TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?
+- **ID**: arxiv_2611.27895v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27895v1](http://arxiv.org/abs/2611.27895v1)
 

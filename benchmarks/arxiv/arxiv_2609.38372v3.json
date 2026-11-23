@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38372v3",
+  "schema_version": "1.0",
+  "name": "Multi-Task Self-Evolving Harnesses with the Agent as Its Own Optimizer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38372v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38372v3",
+    "updated": "2026-11-20T17:09:31Z",
+    "published": "2026-09-29T18:33:27Z",
+    "title": "Multi-Task Self-Evolving Harnesses with the Agent as Its Own Optimizer",
+    "summary": "A harness is the code around a language model agent that organizes prompts, calls tools, manages context, and controls execution. As models grow stronger, recent work has begun to let agents improve their own harnesses, a line of work known as self-evolving harnesses. In most existing methods, a separate proposer running on a human-designed harness modifies the solver's harness, and a separate harness is evolved for each benchmark. Real-world tasks come from many domains, so both the evolution and the evaluation of a harness should cover a diverse range of tasks. We propose a framework close to recursive self-improvement: the same frozen model, on the same version of the harness, first solves tasks as the solver and then, as the proposer, reads the complete run records and directly edits the harness that runs it. Each evolution batch draws tasks from five benchmarks in different domains. To measure generalization, training and held-out tasks are strictly separated, and we additionally evaluate on five out-of-distribution benchmarks not used in the first stage. The design borrows from deep learning training and has two stages, multi-task pretraining and continual training. Starting from a 49-line seed harness, the harnesses evolved by GLM-5.3 and GPT-5.6 Sol gain about 5 points on the in-distribution benchmarks. They are on par with Claude Code and Codex on these benchmarks, and the GPT-5.6 Sol harness is also on par with Codex on five out-of-distribution benchmarks. The weaker model of each family benefits less: GLM-5.3-Flash gains less than 2 points, and the harness evolved by GPT-5.6 Luna scores below the seed. Continued evolution on Claw-Eval in the second stage further improves GPT-5.6 Sol and GLM-5.3-Flash on its multimodal tasks. We also analyze where the gains come from and the mechanisms that emerged during evolution. Code: https://github.com/xqkkk/self-evolving-harness.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-23T07:18:45Z",
+  "last_updated": "2026-11-20T17:09:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38372v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
