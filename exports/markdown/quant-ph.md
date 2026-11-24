@@ -95,3 +95,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24798v1](http://arxiv.org/abs/2611.24798v1)
 
+## Estimating a Transition Point from Gibbs and Ground States
+- **ID**: arxiv_2611.29768v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29768v1](http://arxiv.org/abs/2611.29768v1)
+
+## When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study
+- **ID**: arxiv_2611.29793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29793v1](http://arxiv.org/abs/2611.29793v1)
+

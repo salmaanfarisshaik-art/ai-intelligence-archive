@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29732v1",
+  "schema_version": "1.0",
+  "name": "Reinforcement Learning from LLM-Generated (Suboptimal) Demonstrations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29732v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29732v1",
+    "updated": "2026-11-22T19:56:10Z",
+    "published": "2026-11-22T19:56:10Z",
+    "title": "Reinforcement Learning from LLM-Generated (Suboptimal) Demonstrations",
+    "summary": "Reinforcement learning (RL) has achieved substantial progress across many domains, but training an agent \\textit{tabula rasa} remains highly sample-inefficient. A common remedy is to initialize the agent using a neural network pretrained on demonstrations. However, collecting demonstrations is expensive, and the demonstrations themselves can be suboptimal. In this work, we use a large language model (LLM) to generate an advice policy that produces demonstration data with effectively no human cost. We use this data to warmstart a DQN agent, and use the advice policy itself to guide exploration during training. Because LLM-generated advice is often suboptimal, we further introduce a value warmstart method that initializes the agent to recognize promising states from the advice policy's behavior, without directly copying its actions. To characterize the robustness of this method, we systematically perturb individual sub-skills of an LLM-generated advice policy for a long-horizon, sparse-reward task. Degraded advice still meaningfully accelerates learning relative to unaided baselines. These results suggest that LLM-generated advice, though suboptimal, can be a cheap alternative to costly human demonstrations.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:56:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29732v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

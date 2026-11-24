@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.22586v4",
+  "schema_version": "1.0",
+  "name": "A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.22586v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.22586v4",
+    "updated": "2026-11-22T20:15:52Z",
+    "published": "2026-05-21T14:59:12Z",
+    "title": "A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models",
+    "summary": "Diffusion models have emerged as a leading framework for generative modeling, yet their mathematical foundations are often presented in separate treatments. This tutorial offers a unified, self-contained introduction organized into three parts. First, we construct a forward generative stochastic differential equation (SDE) that transports noise to data, marginalize over the clean data endpoint, and derive training objectives directly from the forward dynamics. Second, we begin with a conditional path from data to noise, marginalize it to obtain the forward process, and derive the corresponding reverse-time SDE and training objectives. Within this forward-reverse framework, we also establish the connection between denoising diffusion probabilistic models (DDPMs) and variance-preserving (VP) SDEs. Third, we review numerical methods for solving SDEs and discuss two approaches to guided generation: classifier guidance and classifier-free guidance.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T20:15:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.22586v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

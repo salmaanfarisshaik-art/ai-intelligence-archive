@@ -341,6 +341,11 @@
 - **URL**: [https://openai.com/business/customer-stories/revolut](https://openai.com/business/customer-stories/revolut)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/richpanel-ai-customer-support
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/richpanel-ai-customer-support](https://openai.com/business/customer-stories/richpanel-ai-customer-support)
+
+## 
 - **ID**: rss_https://openai.com/business/customer-stories/shield
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/customer-stories/shield](https://openai.com/business/customer-stories/shield)
@@ -4099,6 +4104,11 @@
 - **ID**: rss_https://openai.com/index/introducing-prism
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-prism](https://openai.com/index/introducing-prism)
+
+## 
+- **ID**: rss_https://openai.com/index/introducing-shirudo
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-shirudo](https://openai.com/index/introducing-shirudo)
 
 ## 
 - **ID**: rss_https://openai.com/index/introducing-simpleqa

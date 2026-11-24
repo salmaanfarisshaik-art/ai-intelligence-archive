@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.10580v2",
+  "schema_version": "1.0",
+  "name": "Form and Meaning in Intrinsic Multilingual Evaluations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.10580v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.10580v2",
+    "updated": "2026-11-22T18:58:57Z",
+    "published": "2026-01-15T16:53:40Z",
+    "title": "Form and Meaning in Intrinsic Multilingual Evaluations",
+    "summary": "Intrinsic evaluation metrics for conditional language models, such as perplexity or bits-per-character, are widely used in both mono- and multilingual settings. These metrics are rather straightforward to use and compare in monolingual setups, but rest on a number of assumptions in multilingual setups. One such assumption is that comparing the perplexity of CLMs on parallel sentences is indicative of their quality since the information content (here understood as the semantic meaning) is the same. However, the metrics are inherently measuring information content in the information-theoretic sense. We make this and other such assumptions explicit and discuss their implications. We perform experiments with six metrics on two multi-parallel corpora both with mono- and multilingual models. Ultimately, we find that current metrics are not universally comparable. We look at the form-meaning debate to provide some explanation for this.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T18:58:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.10580v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

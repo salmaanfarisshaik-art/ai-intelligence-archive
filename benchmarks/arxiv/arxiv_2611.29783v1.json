@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29783v1",
+  "schema_version": "1.0",
+  "name": "Beyond Language Optimization: Enhancing Visual Representations for Radiology Report Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29783v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29783v1",
+    "updated": "2026-11-22T21:32:18Z",
+    "published": "2026-11-22T21:32:18Z",
+    "title": "Beyond Language Optimization: Enhancing Visual Representations for Radiology Report Generation",
+    "summary": "Accurate chest X-ray radiology report generation (RRG) requires recognizing clinically relevant abnormalities and accurately describing them. Although Group Relative Policy Optimization (GRPO) improves the clinical accuracy of generated reports, our analyses suggest limited improvements in visual representations for abnormality recognition. To address this limitation, we propose a selective regional visual distillation framework that enhances visual representations of challenging abnormalities while preserving existing visual capabilities. Specifically, we train a region-aware teacher with targeted supervision on challenging anatomical regions to acquire complementary visual knowledge. Rather than transferring all teacher features, we verify their utility through regional feature replacement and select only those that improve the original student's performance. We further introduce a Spatially Gated Residual Adapter (SGRA) to distill these verified features while minimizing interference with the student's existing visual representations. Experiments on MIMIC-CXR and IU-Xray demonstrate improved clinical report accuracy and region-level abnormality recognition across different multimodal large language model backbones, while largely preserving performance on non-target findings.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T21:32:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29783v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

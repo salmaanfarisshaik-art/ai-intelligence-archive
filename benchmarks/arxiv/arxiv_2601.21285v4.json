@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.21285v4",
+  "schema_version": "1.0",
+  "name": "Zenith: Scaling up Ranking Models for Billion-scale Livestreaming Recommendation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.21285v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.21285v4",
+    "updated": "2026-11-22T20:38:27Z",
+    "published": "2026-01-29T05:36:49Z",
+    "title": "Zenith: Scaling up Ranking Models for Billion-scale Livestreaming Recommendation",
+    "summary": "Accurately capturing feature interactions is essential in recommender systems, and recent trends show that scaling up model capacity could be a key driver for next-level predictive performance. While prior work has explored various model architectures to capture multi-granularity feature interactions, relatively little attention has been paid to efficient feature handling and scaling model capacity without incurring excessive inference latency. In this paper, we address this challenge by presenting Zenith, a scalable and efficient ranking architecture that learns complex feature interactions with minimal runtime overhead. Zenith uses Sparse Mixture-of-Experts (SMoE) as a common capacity-scaling mechanism across feature interaction and long-sequence encoding, while adapting its parameterization to each token regime. The Feature Interaction Unit applies tokenwise attention and SMoE to a small, fixed set of high-dimensional Prime Tokens. In contrast, the Sequence Encoding Unit processes thousands of temporal tokens with SMoE-based query, key, and value projections and an SMoE-based feed-forward network. For the livestreaming-specific delayed-feedback problem, Zenith's Target Modeling Unit efficiently connects timely but incomplete short-horizon supervision with complete long-horizon supervision. Its real-world effectiveness is demonstrated through deployment on TikTok Live, a leading online livestreaming platform that attracts billions of users globally. Our online A/B test achieves gains of 9.93% in Quality Watch Session / User and 8.11% in Quality Watch Duration / User.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T20:38:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.21285v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

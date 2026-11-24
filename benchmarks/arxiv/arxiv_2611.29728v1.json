@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29728v1",
+  "schema_version": "1.0",
+  "name": "Reasoning Beyond Imitation: Observation Conditioned Distillation for Video LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29728v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29728v1",
+    "updated": "2026-11-22T19:47:22Z",
+    "published": "2026-11-22T19:47:22Z",
+    "title": "Reasoning Beyond Imitation: Observation Conditioned Distillation for Video LLMs",
+    "summary": "Reasoning distillation offers a promising approach to transfer temporal reasoning capabilities of powerful Video-LLMs to open-source student models. However, teacher and student Video-LLMs may construct different temporal observations from the same video due to the adoption of distinct video sampling pipelines. A reasoning trajectory valid under the teacher's observations may rely on evidence inaccessible to the student and thus cannot be directly executed based on the student's observations. We formalize this as a conditional target mismatch, thereby revealing the Reasoning Acquisition-Execution Gap. To bridge this gap, we propose an acquisition-to-execution framework that first distills teacher trajectories into a student reasoning prior and then further optimizes the execution capability of this prior across multiple observations. We further introduce Execution-Aware Reference Regularization, which retains the existing prior when it is executable under current observations, while allowing a greater degree of adaptive adjustment when it is not. Experiments across multiple Video-LLM backbones and six video reasoning benchmarks show that explicitly optimizing observation-conditioned execution consistently outperforms supervised distillation and standard RL-based optimization, with gains extending to held-out out-of-domain benchmarks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:47:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29728v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

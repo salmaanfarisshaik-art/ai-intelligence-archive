@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29712v1",
+  "schema_version": "1.0",
+  "name": "UniDR: Learning To Generate Anatomical Deformations From Images via Unified Diffusion Modeling and Registration",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29712v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29712v1",
+    "updated": "2026-11-22T19:25:49Z",
+    "published": "2026-11-22T19:25:49Z",
+    "title": "UniDR: Learning To Generate Anatomical Deformations From Images via Unified Diffusion Modeling and Registration",
+    "summary": "This paper presents a novel framework, Unified Diffusion modeling and Registration (UniDR), which learns to generate arbitrary anatomical deformations from images with preserved topology. Existing approaches often model the generative process separately from registration-based deformation estimation; hence making them prone to propagated errors from the registration stage. To address this limitation, we propose a unified paradigm based on a conditional diffusion model over deformation fields that are jointly optimized from the registration process. A principled registration-guided score-matching objective function is then introduced to align the diffusion process with the deformation distribution induced by registration. As a result, our UniDR establishes an explicit connection between generation and registration: the diffusion model enables exploration of the space of plausible anatomical deformations, whereas registration provides structured supervision for learning transformations consistent with observed images. Once trained, UniDR is able to sample diverse, anatomically plausible transformations conditioned on any single input image. We evaluate UniDR across multiple real-world applications and demonstrate its effectiveness in generating high-fidelity image samples compared to the state-of-the-art. Additionally, we demonstrate that these generated samples improve performance in downstream medical image analysis and vision tasks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:25:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29712v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

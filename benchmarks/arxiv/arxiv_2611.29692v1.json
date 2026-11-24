@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29692v1",
+  "schema_version": "1.0",
+  "name": "Grammar Sparsity Sets How Transformers Learn Random Languages",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29692v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29692v1",
+    "updated": "2026-11-22T18:54:54Z",
+    "published": "2026-11-22T18:54:54Z",
+    "title": "Grammar Sparsity Sets How Transformers Learn Random Languages",
+    "summary": "We study language acquisition by transformers trained on the Random Language Model: a synthetic hierarchical grammar with random production rules, whose sparsity is controlled by a single parameter and whose conditional entropies are known exactly. On depth-two grammars, we find that sparsity sets both the order and the speed of learning. Dense grammars are learnt one level at a time: a token is predicted from its sibling after $t\\propto V$ steps and from the full context only after $t\\propto V^{3}$, so the two stages are separated by a plateau that widens with $V$. Sparse grammars are learnt all at once, at $t\\propto\\sqrt V$, with a smaller exponent than even the first stage of a dense one. The exponents $1$ and $1/2$ already appear at depth one, where we derive them for a linear model trained with Adam.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T18:54:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29692v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -190,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.20766v2](http://arxiv.org/abs/2508.20766v2)
 
+## The Token Tax: Systematic Bias in Multilingual Tokenization
+- **ID**: arxiv_2509.05486v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.05486v2](http://arxiv.org/abs/2509.05486v2)
+
 ## SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP
 - **ID**: arxiv_2509.07801v5
 - **Source**: ArXiv
@@ -374,6 +379,11 @@
 - **ID**: arxiv_2601.10307v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.10307v2](http://arxiv.org/abs/2601.10307v2)
+
+## Form and Meaning in Intrinsic Multilingual Evaluations
+- **ID**: arxiv_2601.10580v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.10580v2](http://arxiv.org/abs/2601.10580v2)
 
 ## Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues
 - **ID**: arxiv_2601.12868v2
@@ -599,6 +609,11 @@
 - **ID**: arxiv_2604.00706v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00706v3](http://arxiv.org/abs/2604.00706v3)
+
+## Wired for Overconfidence: A Mechanistic Perspective on Inflated Verbalized Confidence in LLMs
+- **ID**: arxiv_2604.01457v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01457v4](http://arxiv.org/abs/2604.01457v4)
 
 ## ImplicitBBQ: Benchmarking Implicit Bias in Large Language Models through Characteristic Based Cues
 - **ID**: arxiv_2604.01925v3
@@ -924,6 +939,11 @@
 - **ID**: arxiv_2605.26356v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.26356v2](http://arxiv.org/abs/2605.26356v2)
+
+## Vectors Are Not Neutral: Sensitive-Information Inference from Exported LLM Representations in Summarization
+- **ID**: arxiv_2605.26433v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26433v2](http://arxiv.org/abs/2605.26433v2)
 
 ## VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild
 - **ID**: arxiv_2605.27882v2
@@ -1719,6 +1739,11 @@
 - **ID**: arxiv_2607.20410v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20410v1](http://arxiv.org/abs/2607.20410v1)
+
+## More Is Not More: What Matters for Opinion Diversity in LLM Simulations?
+- **ID**: arxiv_2607.20429v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20429v2](http://arxiv.org/abs/2607.20429v2)
 
 ## What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations
 - **ID**: arxiv_2607.21491v1
@@ -4240,6 +4265,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08781v1](http://arxiv.org/abs/2610.08781v1)
 
+## LLM Persuasion Is in the Eye of the Evaluation
+- **ID**: arxiv_2610.10232v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10232v2](http://arxiv.org/abs/2610.10232v2)
+
 ## CoTrace: Data Recipes for Training Terminal Agents with Harness-Model Co-Evolution
 - **ID**: arxiv_2610.10426v1
 - **Source**: ArXiv
@@ -5604,4 +5634,39 @@
 - **ID**: arxiv_2611.27973v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27973v1](http://arxiv.org/abs/2611.27973v1)
+
+## MERIT: Experience-Guided Memory for Long-Horizon Persona-Specific Persuasive Dialogue
+- **ID**: arxiv_2611.29679v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29679v1](http://arxiv.org/abs/2611.29679v1)
+
+## Do More Roles or Larger Models Improve LLM Fact-Checking? A Controlled Study on Fixed Evidence
+- **ID**: arxiv_2611.29687v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29687v1](http://arxiv.org/abs/2611.29687v1)
+
+## Grammar Sparsity Sets How Transformers Learn Random Languages
+- **ID**: arxiv_2611.29692v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29692v1](http://arxiv.org/abs/2611.29692v1)
+
+## Where Do Fact-Checking Errors Arise? Separating Retrieval, Search Control and Judgement in Evidence-Grounded Verification
+- **ID**: arxiv_2611.29697v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29697v1](http://arxiv.org/abs/2611.29697v1)
+
+## Refine, Don't Reinvent: RASA-Bench for Source-Grounded Hindi Prose Refinement
+- **ID**: arxiv_2611.29750v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29750v1](http://arxiv.org/abs/2611.29750v1)
+
+## Sánchez, Feijóo, or Abascal? Speaker Attribution and Ideological Congruence in LLM Personas Reading Posts on X of the Leaders of the Three Main Parties of the 29N General Election in Spain
+- **ID**: arxiv_2611.29765v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29765v1](http://arxiv.org/abs/2611.29765v1)
+
+## ComplexIF: A Challenging Multi-Turn, Multi-Constraint Instruction-Following Benchmark
+- **ID**: arxiv_2611.29775v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29775v1](http://arxiv.org/abs/2611.29775v1)
 

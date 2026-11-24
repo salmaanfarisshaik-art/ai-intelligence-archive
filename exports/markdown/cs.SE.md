@@ -480,3 +480,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27895v1](http://arxiv.org/abs/2611.27895v1)
 
+## ReqSeek: Transformer-Based Automatic Requirements Identification for Building Large Requirements Datasets
+- **ID**: arxiv_2611.29722v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29722v1](http://arxiv.org/abs/2611.29722v1)
+
+## Admitted Is Not Effective: Lessons from a Notary-Gated Retrospective Loop in an Agentic Pipeline
+- **ID**: arxiv_2611.29727v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29727v1](http://arxiv.org/abs/2611.29727v1)
+

@@ -1070,6 +1070,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.01234v2](http://arxiv.org/abs/2605.01234v2)
 
+## TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos
+- **ID**: arxiv_2605.01234v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01234v3](http://arxiv.org/abs/2605.01234v3)
+
 ## Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation
 - **ID**: arxiv_2605.02376v2
 - **Source**: ArXiv
@@ -8235,6 +8240,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.15789v2](http://arxiv.org/abs/2611.15789v2)
 
+## DuoJEPA: Cross-Modal Translation Between Unaligned Self-Supervised Embedding Spaces
+- **ID**: arxiv_2611.15968v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.15968v2](http://arxiv.org/abs/2611.15968v2)
+
 ## SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery
 - **ID**: arxiv_2611.17172v1
 - **Source**: ArXiv
@@ -8779,4 +8789,74 @@
 - **ID**: arxiv_2611.27963v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27963v1](http://arxiv.org/abs/2611.27963v1)
+
+## DeclareViT: Decoupling Early Classification from Feature Refinement with Exit Query for Efficient ViTs
+- **ID**: arxiv_2611.29674v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29674v1](http://arxiv.org/abs/2611.29674v1)
+
+## Ref2Light: From One Image to Interactive Glasses-Free 3D Characters
+- **ID**: arxiv_2611.29678v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29678v1](http://arxiv.org/abs/2611.29678v1)
+
+## HandiVid: A High-Quality Dataset for Hand-Driven Interactive Video Generation
+- **ID**: arxiv_2611.29693v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29693v1](http://arxiv.org/abs/2611.29693v1)
+
+## UniDR: Learning To Generate Anatomical Deformations From Images via Unified Diffusion Modeling and Registration
+- **ID**: arxiv_2611.29712v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29712v1](http://arxiv.org/abs/2611.29712v1)
+
+## ApexID: Hierarchical Learning for Multi-Species Animal Re-Identification
+- **ID**: arxiv_2611.29723v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29723v1](http://arxiv.org/abs/2611.29723v1)
+
+## Reasoning Beyond Imitation: Observation Conditioned Distillation for Video LLMs
+- **ID**: arxiv_2611.29728v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29728v1](http://arxiv.org/abs/2611.29728v1)
+
+## Seeing Beyond Names: Image-Grounded Concept Linking for Robust Vision-Language Recognition
+- **ID**: arxiv_2611.29735v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29735v1](http://arxiv.org/abs/2611.29735v1)
+
+## MISeg-Agent: A Human-in-the-Loop Agentic Framework for Error Diagnosis and Executable Prompt Review in 3D Medical Image Segmentation
+- **ID**: arxiv_2611.29741v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29741v1](http://arxiv.org/abs/2611.29741v1)
+
+## DREAM: Dual-Memory Reasoning for Anticipatory 3D Perception in Autonomous Driving
+- **ID**: arxiv_2611.29753v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29753v1](http://arxiv.org/abs/2611.29753v1)
+
+## DictaRashi: A State-of-the-Art OCR Model For Rashi Script
+- **ID**: arxiv_2611.29760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29760v1](http://arxiv.org/abs/2611.29760v1)
+
+## CivicBench: Robust Detection of AI-Generated Political Video
+- **ID**: arxiv_2611.29766v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29766v1](http://arxiv.org/abs/2611.29766v1)
+
+## S1Arena-MM: Which Multimodal Decisions Can Be Left to System 1?
+- **ID**: arxiv_2611.29773v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29773v1](http://arxiv.org/abs/2611.29773v1)
+
+## Beyond Language Optimization: Enhancing Visual Representations for Radiology Report Generation
+- **ID**: arxiv_2611.29783v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29783v1](http://arxiv.org/abs/2611.29783v1)
+
+## A Cascaded Framework with a Cross-Attention-Guided Mamba-CNN Model for Pre- and Post-Treatment Glioma Segmentation
+- **ID**: arxiv_2611.29792v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29792v1](http://arxiv.org/abs/2611.29792v1)
 

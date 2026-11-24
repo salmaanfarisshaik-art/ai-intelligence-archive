@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29735v1",
+  "schema_version": "1.0",
+  "name": "Seeing Beyond Names: Image-Grounded Concept Linking for Robust Vision-Language Recognition",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29735v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29735v1",
+    "updated": "2026-11-22T20:03:26Z",
+    "published": "2026-11-22T20:03:26Z",
+    "title": "Seeing Beyond Names: Image-Grounded Concept Linking for Robust Vision-Language Recognition",
+    "summary": "A zero-shot vision-language classifier is highly sensitive to the class names it receives. Even when images remain unchanged, replacing familiar labels with synonyms, abbreviations, or ontology terms can significantly alter predictions. We investigate this \\emph{vocabulary shift} using a leakage-free evaluation protocol across Tiny ImageNet, ImageNet-R, ImageNet-A, and ImageNetV2. With CLIP ViT-B/16, alternative class names reduce top-1 accuracy by $14.8$--$17.6$ percentage points. To address this issue, we propose \\emph{image-grounded concept linking}, a training-free method that maps class names to visual concepts and uses a reliability gate to improve predictions. The method outperforms a template ensemble across all four datasets, achieving a pooled gain of $1.8$ points. We further evaluate five vision-language backbones across four datasets. Our method improves performance in $16$ of $20$ backbone--dataset combinations, with no significantly negative results. It also reduces pooled negative log-likelihood across all five backbones. Stronger text linking and transductive refinement provide no consistent improvements, suggesting that accurate visual class-name linking remains the main challenge. A second CLIP ViT-B/16 seed confirms the improvement on ImageNetV2, but not on ImageNet-A.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T20:03:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29735v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

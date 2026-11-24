@@ -280,6 +280,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
 
+## Zenith: Scaling up Ranking Models for Billion-scale Livestreaming Recommendation
+- **ID**: arxiv_2601.21285v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.21285v4](http://arxiv.org/abs/2601.21285v4)
+
 ## Understanding and Learning Prediction Targets in Diffusion Models
 - **ID**: arxiv_2601.21419v3
 - **Source**: ArXiv
@@ -570,6 +575,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07032v3](http://arxiv.org/abs/2605.07032v3)
 
+## Unsolvability Ceiling in Multi-LLM Routing: An Empirical Study of Evaluation Artifacts
+- **ID**: arxiv_2605.07395v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07395v2](http://arxiv.org/abs/2605.07395v2)
+
 ## NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training
 - **ID**: arxiv_2605.08144v3
 - **Source**: ArXiv
@@ -664,6 +674,11 @@
 - **ID**: arxiv_2605.22142v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22142v3](http://arxiv.org/abs/2605.22142v3)
+
+## A Tutorial on Diffusion Theory: From Differential Equations to Diffusion Models
+- **ID**: arxiv_2605.22586v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.22586v4](http://arxiv.org/abs/2605.22586v4)
 
 ## Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability
 - **ID**: arxiv_2605.25225v2
@@ -1159,6 +1174,11 @@
 - **ID**: arxiv_2607.22489v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22489v1](http://arxiv.org/abs/2607.22489v1)
+
+## Spectral-Aware Analytic Class-Incremental Learning for Long-Tailed Distributions
+- **ID**: arxiv_2607.22931v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22931v2](http://arxiv.org/abs/2607.22931v2)
 
 ## Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects
 - **ID**: arxiv_2607.24645v1
@@ -2074,6 +2094,11 @@
 - **ID**: arxiv_2609.28442v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28442v1](http://arxiv.org/abs/2609.28442v1)
+
+## The Sequential Price of Continual Learning
+- **ID**: arxiv_2609.29674v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.29674v3](http://arxiv.org/abs/2609.29674v3)
 
 ## Minimally Invasive Steering of Language Models
 - **ID**: arxiv_2609.30218v1
@@ -3215,6 +3240,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24782v1](http://arxiv.org/abs/2611.24782v1)
 
+## Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations
+- **ID**: arxiv_2611.24782v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.24782v2](http://arxiv.org/abs/2611.24782v2)
+
 ## Bias-Only Training Dynamics in ReLU Networks
 - **ID**: arxiv_2611.24797v1
 - **Source**: ArXiv
@@ -3254,4 +3284,19 @@
 - **ID**: arxiv_2611.27962v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27962v1](http://arxiv.org/abs/2611.27962v1)
+
+## Loop-Count Schedules in Looped Transformers: An Empirical Study
+- **ID**: arxiv_2611.29704v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29704v1](http://arxiv.org/abs/2611.29704v1)
+
+## Why Units Die in the Layer After a Frozen Random Encoder, and What the Number of Live Units Measures
+- **ID**: arxiv_2611.29752v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29752v1](http://arxiv.org/abs/2611.29752v1)
+
+## Selecting Stable Sampling Dynamics for Compositional Diffusion: A Feynman-Kac Weight Reduction
+- **ID**: arxiv_2611.29764v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29764v1](http://arxiv.org/abs/2611.29764v1)
 

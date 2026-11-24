@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20231v1](http://arxiv.org/abs/2608.20231v1)
 
+## Rethinking Discovery Research with AI: The promise of transdisciplinarity and the danger of reductionism
+- **ID**: arxiv_2611.29729v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29729v1](http://arxiv.org/abs/2611.29729v1)
+

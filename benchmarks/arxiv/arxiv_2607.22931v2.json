@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.22931v2",
+  "schema_version": "1.0",
+  "name": "Spectral-Aware Analytic Class-Incremental Learning for Long-Tailed Distributions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.22931v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.22931v2",
+    "updated": "2026-11-22T19:01:22Z",
+    "published": "2026-07-24T22:12:15Z",
+    "title": "Spectral-Aware Analytic Class-Incremental Learning for Long-Tailed Distributions",
+    "summary": "Analytic Continual Learning (ACL) offers a computationally efficient alternative to gradient-based approaches. Recent ACL methods are based on Recursive Least Squares (RLS) and have achieved the state-of-the-art results compared to other alternatives. However, they falter significantly in Class-Incremental Learning scenarios characterized by Long-Tailed distributions. While the ill-conditioning of the autocorrelation (Gram) matrix is a known limitation of RLS, we demonstrate that class imbalance exacerbates this issue into a distinct spectral pathology: \"tail\" classes suffer from severe spectral collapse, rendering their subspaces numerically indistinguishable from noise. Standard Ridge Regression ($L_2$) fails to address this effectively as it applies isotropic regularization - a uniform penalty that is insufficient to stabilize the tail without over-shrinking the head. To address this, we propose Geometry-Spectral Rectification (GSR), a theoretically grounded framework that treats long-tailed learning as a spectral regularization problem. Unlike standard isotropic regularization (Ridge) which uniformly penalizes all eigenvalues, GSR acts as an anisotropic spectral filter, selectively inflating the collapsed eigenvalues of tail classes. We construct a structured, data-dependent spectral perturbation matrix $Δ$ that selectively inflates collapsed tail eigen-directions of the Gram matrix. Theoretical analysis proves that GSR guarantees an improved stable rank for the Gram matrix, ensuring numerical stability. Extensive experiments show that GSR establishes a new state-of-the-art for analytic CIL, offering a superior trade-off between computational efficiency and robust generalization in long-tailed settings.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:01:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.22931v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

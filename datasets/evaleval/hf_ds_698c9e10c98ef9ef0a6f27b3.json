@@ -26,7 +26,13 @@
       "annotations_creators:machine-generated",
       "source_datasets:original",
       "license:mit",
-      "size_categories:10K<n<100K",
+      "size_categories:1K<n<10K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
       "arxiv:2606.14516",
       "region:us",
       "evaluation",
@@ -40,7 +46,7 @@
     "createdAt": "2026-02-11T15:19:44.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-23T19:51:01.925034+00:00",
+  "retrieval_timestamp": "2026-11-24T04:37:07.685247+00:00",
   "last_updated": "2026-11-23T17:11:15.000Z",
   "links": {
     "related_models": [

@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07932v2](http://arxiv.org/abs/2506.07932v2)
 
+## SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation
+- **ID**: arxiv_2508.00782v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.00782v2](http://arxiv.org/abs/2508.00782v2)
+
 ## Real-Time Neural Hair G-Buffer Anti-Aliasing
 - **ID**: arxiv_2605.17557v3
 - **Source**: ArXiv

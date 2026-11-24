@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20429v2",
+  "schema_version": "1.0",
+  "name": "More Is Not More: What Matters for Opinion Diversity in LLM Simulations?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20429v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20429v2",
+    "updated": "2026-11-22T20:00:45Z",
+    "published": "2026-05-10T00:52:25Z",
+    "title": "More Is Not More: What Matters for Opinion Diversity in LLM Simulations?",
+    "summary": "Large language models are increasingly used to simulate diverse human opinions in open-ended tasks such as synthetic surveys, focus group modeling, and public opinion prediction. However, LLM outputs exhibit systematic opinion homogenization, and a simulation cannot reproduce a population's opinion distribution without first covering its range of viewpoints. Interventions to increase diversity are evaluated in isolation with incomparable metrics and are typically deployed and upgraded simultaneously, making it difficult to attribute gains to specific components. We design a factorial experiment that separates two primary intervention dimensions: input conditioning (operationalized through persona depth) and interaction architecture. We evaluate all conditions on 100 real-user open-ended questions across 7 models, measuring diversity with multiple complementary metrics. Our findings challenge several common assumptions. First, more persona detail does not monotonically increase diversity. The initial step of persona conditioning already captures the majority of the gain, while further elaboration with demographic detail does not consistently improve and can reduce diversity on some models; a blinded human evaluation of matched Role and Basic responses points in the same direction. Second, rather than seeking a single best interaction architecture, we find that different architectures explore largely non-overlapping opinion regions. Combining multiple architectures yields broader coverage than optimizing any one. Third, commonly attempted low-cost alternatives such as raising sampling temperature and adding diversity instructions produce negligible effects compared to structured interventions. Overall, our results indicate that, within the tested settings, diversity does not scale along any single dimension but is sensitive to the structural form and combination of interventions.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T20:00:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20429v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

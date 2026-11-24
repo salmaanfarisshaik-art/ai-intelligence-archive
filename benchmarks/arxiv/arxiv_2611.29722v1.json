@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29722v1",
+  "schema_version": "1.0",
+  "name": "ReqSeek: Transformer-Based Automatic Requirements Identification for Building Large Requirements Datasets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29722v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29722v1",
+    "updated": "2026-11-22T19:41:50Z",
+    "published": "2026-11-22T19:41:50Z",
+    "title": "ReqSeek: Transformer-Based Automatic Requirements Identification for Building Large Requirements Datasets",
+    "summary": "Large, diverse, and high-quality datasets are significant for advancing AI in requirements engineering, yet automated identification of requirements from Software Requirement Specifications (SRS) remains a challenge. Automatic Requirements Identification (ARI) methods demonstrate limited generalization to unseen documents across heterogeneous SRSs. This work presents ReqSeek, a transformer-based, domain-agnostic ARI model for recognizing ISO 29148-style requirements in SRS documents, supporting dataset construction. We curated the Automatic Requirements Identification Dataset (ARID), comprising 2,396 training instances from 23 heterogeneous SRSs, and fine-tuned four transformer architectures. RoBERTa was selected as the base model for ReqSeek and achieved 95% precision, recall, F1, and F0.89 on the held-out evaluation set. Exploratory human-model benchmarking showed performance comparable to humans while requiring substantially less prediction time than manual annotation. Post-hoc evaluation on out-of-domain (OoD) SRSs provided evidence of requirement identification beyond ARID. Robustness analysis demonstrated ReqSeek's insensitivity to minor linguistic variations while maintaining sensitivity to major ISO 29148-style violations. We applied ReqSeek to construct the Software Requirements Dataset (SwaRD), identifying 10,201 ISO 29148-style requirements from 231 industrial SRSs. SwaRD aligns with textual and semantic properties of human-curated datasets while exceeding them in scale and domain diversity. Our results suggest that transformer-based ARI can provide precise and generalizable requirements identification.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:41:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29722v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

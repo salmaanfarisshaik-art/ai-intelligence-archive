@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.00782v2",
+  "schema_version": "1.0",
+  "name": "SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.00782v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.00782v2",
+    "updated": "2026-11-22T18:32:04Z",
+    "published": "2025-08-01T17:05:04Z",
+    "title": "SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation",
+    "summary": "Audio-driven video generation aims to synthesize realistic videos that align with input audio recordings, akin to the human ability to visualize scenes from auditory input. However, existing approaches predominantly focus on exploring semantic information, such as the classes of sounding sources present in the audio, limiting their ability to generate videos with accurate content and spatial composition. In contrast, we humans can not only naturally identify the semantic categories of sounding sources but also determine their deeply encoded spatial attributes, including locations and movement directions. This useful information can be elucidated by considering specific spatial indicators derived from the inherent physical properties of sound, such as loudness or frequency. As prior methods largely ignore this factor, we present SpA2V, the first framework explicitly exploits these spatial auditory cues from audios to generate videos with high semantic and spatial correspondence. SpA2V decomposes the generation process into two stages: 1) Audio-guided Video Planning: We meticulously adapt a state-of-the-art MLLM for a novel task of harnessing spatial and semantic cues from input audio to construct Video Scene Layouts (VSLs). This serves as an intermediate representation to bridge the gap between the audio and video modalities. 2) Layout-grounded Video Generation: We develop an efficient and effective approach to seamlessly integrate VSLs as conditional guidance into pre-trained diffusion models, enabling VSL-grounded video generation in a training-free manner. Extensive experiments demonstrate that SpA2V excels in generating realistic videos with semantic and spatial alignment to the input audios.",
+    "primary_category": "cs.GR"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T18:32:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.00782v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

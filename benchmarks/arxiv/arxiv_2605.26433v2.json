@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.26433v2",
+  "schema_version": "1.0",
+  "name": "Vectors Are Not Neutral: Sensitive-Information Inference from Exported LLM Representations in Summarization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.26433v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.26433v2",
+    "updated": "2026-11-22T19:02:17Z",
+    "published": "2026-05-26T01:38:13Z",
+    "title": "Vectors Are Not Neutral: Sensitive-Information Inference from Exported LLM Representations in Summarization",
+    "summary": "Large language model (LLM) summarization systems may pass compact vector representations of private inputs to downstream retrieval, monitoring, audit, or analytic workflows. Even when source documents remain access-restricted, derived vectors may be handled under different access controls and still support sensitive-information inference, creating a residual information-disclosure risk. We study this issue in clinical discharge-summary generation as a high-stakes case study, using electronic health record (EHR)-recorded race as a controlled sensitive-label audit. We audit two artifacts that a system might retain or expose to downstream components: the final prompt-token hidden state and the mean-pooled prompt representation. Our results show that reducing recoverability of the case-study sensitive label from one exported artifact does not necessarily reduce recoverability from another. As a mitigation case study, we introduce SurfaceLoRA, an exported-vector-targeted parameter-efficient fine-tuning method that uses a gradient-reversal discriminator attached to a designated exported vector. Under a balanced five-way probing protocol, SurfaceLoRA reduces EHR-recorded race recoverability from the targeted final-token artifact toward chance while preserving summarization utility, yet recoverability remains substantially higher from untargeted pooled artifacts. These findings show that privacy auditing and mitigation should be performed on the exact vector artifact retained or exposed to downstream components.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:02:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.26433v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

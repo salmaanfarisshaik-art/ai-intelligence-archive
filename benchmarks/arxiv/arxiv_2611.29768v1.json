@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29768v1",
+  "schema_version": "1.0",
+  "name": "Estimating a Transition Point from Gibbs and Ground States",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29768v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29768v1",
+    "updated": "2026-11-22T21:00:58Z",
+    "published": "2026-11-22T21:00:58Z",
+    "title": "Estimating a Transition Point from Gibbs and Ground States",
+    "summary": "We study how observed many-body system size affects the number of state copies needed to estimate a zero-temperature first-order transition point. The unknown Hamiltonian has bounded, translation-invariant on-site and nearest-neighbour interactions on a 3D cubic lattice with local dimension three. The field coupling is known, and all models share a known boundary field penalizing one local level. The limiting order parameter is uniformly separated across the transition. Each query returns an independently prepared Gibbs or ground state at an adaptive field and system size.\n  For error $ε$ and fixed confidence, we prove an exponential separation between two size caps at the same temperature. There are absolute constants $0<c_0<C$ and $c_1>0$ such that, at inverse temperature $β=c_1/ε$, restricting side lengths to $L\\le c_0/ε$ requires $\\exp(Ω(1/ε))$ copies in worst-case expectation, even with collective measurements. Allowing $L\\le C/ε$ permits $O(\\log^2(1/ε))$ copies and $O(ε^{-3})$ total spins, using local measurements and polynomial classical postprocessing. The minimax expected total spin count is $Θ(ε^{-3})$ uniformly for $β\\ge c_1/ε$. At fixed positive temperature it is $Θ_β(ε^{-2})$, attained from one- and eight-site Gibbs states followed by exponential classical computation. For ground-state copies it is $Θ(ε^{-3})$.\n  The lower bound uses a three-state ferromagnet whose boundary suppresses the sector carrying transition information. A spanning-forest argument and edge-boundary counting control its Gibbs weight uniformly over fields and allowed sizes, and a trace-distance hybrid argument handles adaptive learners with quantum memory. The upper bound combines finite-volume free-energy estimates, concavity and local order-parameter measurements.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T21:00:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29768v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

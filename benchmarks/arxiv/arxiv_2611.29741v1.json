@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29741v1",
+  "schema_version": "1.0",
+  "name": "MISeg-Agent: A Human-in-the-Loop Agentic Framework for Error Diagnosis and Executable Prompt Review in 3D Medical Image Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29741v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29741v1",
+    "updated": "2026-11-22T20:10:04Z",
+    "published": "2026-11-22T20:10:04Z",
+    "title": "MISeg-Agent: A Human-in-the-Loop Agentic Framework for Error Diagnosis and Executable Prompt Review in 3D Medical Image Segmentation",
+    "summary": "Despite the strong performance of modern medical image segmentation models, their predictions can still contain localized errors that compromise segmentation quality. Identifying and correcting these errors is therefore essential for improving the reliability of existing segmentation results. While interactive segmentation models enable targeted corrections, identifying potential errors, determining where to intervene, and evaluating corrective actions remain challenging. Moreover, each correction changes the current mask, requiring subsequent error diagnosis and recommendations to adapt accordingly. To address these challenges, we propose MISeg-Agent, a human-in-the-loop agentic framework that diagnoses segmentation errors and provides evidence-based correction recommendations. MISeg-Agent first selects a suitable pretrained segmentation model based on benchmark performance and computational requirements. Given its predicted mask, the framework identifies potential missing and excess foreground regions and recommends suspicious slices and corrective points for review. The framework then evaluates candidate point prompts using an interactive segmentation model and presents the resulting corrections for human verification before applying them. By operating directly on images and predicted masks, the error diagnosis process remains independent of the underlying segmentation model architecture. Evaluations on CT datasets demonstrate that MISeg-Agent improves initial segmentation results and produces final masks closely aligned with reference annotations. By integrating adaptive error diagnosis with validated correction recommendations, MISeg-Agent provides an interpretable approach to identifying and reducing residual errors in existing medical image segmentations.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T20:10:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29741v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

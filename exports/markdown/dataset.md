@@ -92,7 +92,7 @@
 - **ID**: hf_ds_621ffdd236468d709f1835cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images)
-- **Tags**: license:cc-by-nc-sa-4.0, region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image, region:us, size_categories:n<1K
 
 ## huggingface-course/documentation-images
 - **ID**: hf_ds_621ffdd236468d709f1835d5
@@ -932,7 +932,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, format:parquet, leaderboards, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1100,7 +1100,7 @@
 - **ID**: hf_ds_69cec888d6ad2ec885b60a97
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset](https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset)
-- **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, modality:tabular, modality:text, region:us, size_categories:1M<n<10M
+- **Tags**: license:cc-by-4.0, region:us
 
 ## Williamsanderson/MedQA-Darija-MultiLingual
 - **ID**: hf_ds_69cf1925c61c6c0fbb866b5d

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29687v1",
+  "schema_version": "1.0",
+  "name": "Do More Roles or Larger Models Improve LLM Fact-Checking? A Controlled Study on Fixed Evidence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29687v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29687v1",
+    "updated": "2026-11-22T18:47:32Z",
+    "published": "2026-11-22T18:47:32Z",
+    "title": "Do More Roles or Larger Models Improve LLM Fact-Checking? A Controlled Study on Fixed Evidence",
+    "summary": "A fact-checking system can spend more computation on a claim by using a larger model, by asking the same model several times, or by a multi-role Tribunal: two roles propose quoted findings, code checks the quotations, an auditor that does not see the proposed relation judges each one, and code derives the verdict or abstains. We compare these options on identical fixed evidence, without retrieval: 300 AVeriTeC claims, each with its annotated question--answer items mixed with items written for other claims, read by judges of four open-weights models from three families, a vote of five, and six assignments of models to the Tribunal's roles. The 9B judge was right on 186 claims and the 27B judge of the same family on 156; the larger judges declined to decide far more often and were no more accurate when they decided. The vote reached 196 and the 9B judge with its verdict replaced by Tribunal certificates 195, at a similar cost; the Tribunal alone reached 153 to 164, because it abstained on almost half of the claims. A hearing's outcome followed the auditor's model and was nearly indifferent to the proposers'. A larger auditor, or one of another family, made certificates neither more often correct (77% to 81%) nor more independent of the judge. As a replacement, certificates improved every judge by 3 to 10 points and overturned four to five in a hundred of its correct verdicts. With the annotated evidence withheld, judges and Tribunal still decided on 7% to 14% of the claims.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T18:47:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29687v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

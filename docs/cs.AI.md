@@ -442,6 +442,7 @@
 | [Fed-Universe: A Semantic-Geometric-Topological-Human (S-G-T-H) Stack for Negotiated Alignment in Federated Systems](http://arxiv.org/abs/2610.34009v1) | ArXiv |  | 1 |
 | [FedReady: Bounded Agents for Federation Formation](http://arxiv.org/abs/2611.03586v1) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
+| [Fin-RSI: A Unified Library of Financial Skills, Checks, and Self-Improvement for LLM Agents](http://arxiv.org/abs/2611.29716v1) | ArXiv |  | 1 |
 | [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v1) | ArXiv |  | 1 |
 | [Fine-Grained Japanese Clinical Named Entity Recognition: A Controlled Comparison of BERT and Open-Weight Large Language Models](http://arxiv.org/abs/2611.22219v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
@@ -735,6 +736,7 @@
 | [Ownership in AI-Assisted Everyday Tasks](http://arxiv.org/abs/2609.20658v1) | ArXiv |  | 1 |
 | [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](http://arxiv.org/abs/2608.14441v1) | ArXiv |  | 1 |
 | [PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations](http://arxiv.org/abs/2611.12307v2) | ArXiv |  | 1 |
+| [PACE: More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs](http://arxiv.org/abs/2611.17610v2) | ArXiv |  | 1 |
 | [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](http://arxiv.org/abs/2610.18784v1) | ArXiv |  | 1 |
 | [Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson](http://arxiv.org/abs/2608.18531v2) | ArXiv |  | 1 |
 | [Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference](http://arxiv.org/abs/2606.07897v2) | ArXiv |  | 1 |
@@ -824,6 +826,7 @@
 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](http://arxiv.org/abs/2608.03972v1) | ArXiv |  | 1 |
 | [Regularizing Treatment Leakage for LLM-based Uplift Estimation](http://arxiv.org/abs/2611.20794v4) | ArXiv |  | 1 |
 | [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](http://arxiv.org/abs/2610.32851v1) | ArXiv |  | 1 |
+| [Reinforcement Learning from LLM-Generated (Suboptimal) Demonstrations](http://arxiv.org/abs/2611.29732v1) | ArXiv |  | 1 |
 | [Reinforcing Agentic Creativity in Scientific Ideation with Night Science](http://arxiv.org/abs/2609.35706v1) | ArXiv |  | 1 |
 | [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](http://arxiv.org/abs/2609.02749v1) | ArXiv |  | 1 |
 | [Report: Progressive Disclosure of Agent Skills](http://arxiv.org/abs/2609.35692v1) | ArXiv |  | 1 |
@@ -1108,6 +1111,7 @@
 | [Which Differences Matter? Controlled Tests of Rule Transfer, Joint Reliability, and Information Use in Decision Models](http://arxiv.org/abs/2610.30045v1) | ArXiv |  | 1 |
 | [Who Improves the Robot? Toward Physical Recursive Self-Improvement](http://arxiv.org/abs/2610.18842v1) | ArXiv |  | 1 |
 | [Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration](http://arxiv.org/abs/2610.31579v1) | ArXiv |  | 1 |
+| [Who Sent It or How It Moved? Sender Shortcuts in Cryptocurrency Anti-Money-Laundering Benchmarks, Audited on Elliptic2 and Elliptic++](http://arxiv.org/abs/2611.29744v1) | ArXiv |  | 1 |
 | [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](http://arxiv.org/abs/2609.05346v1) | ArXiv |  | 1 |
 | [Who Verifies the Tools? How Warped Formatters Mislead Agents and Their Verifiers](http://arxiv.org/abs/2610.32110v2) | ArXiv |  | 1 |
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |

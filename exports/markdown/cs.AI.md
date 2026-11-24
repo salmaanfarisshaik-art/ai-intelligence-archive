@@ -5340,6 +5340,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17323v1](http://arxiv.org/abs/2611.17323v1)
 
+## PACE: More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs
+- **ID**: arxiv_2611.17610v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.17610v2](http://arxiv.org/abs/2611.17610v2)
+
 ## LECAT: Measuring LLM Category Learning from Pretraining Data
 - **ID**: arxiv_2611.18419v1
 - **Source**: ArXiv
@@ -5609,4 +5614,19 @@
 - **ID**: arxiv_2611.27924v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27924v1](http://arxiv.org/abs/2611.27924v1)
+
+## Fin-RSI: A Unified Library of Financial Skills, Checks, and Self-Improvement for LLM Agents
+- **ID**: arxiv_2611.29716v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29716v1](http://arxiv.org/abs/2611.29716v1)
+
+## Reinforcement Learning from LLM-Generated (Suboptimal) Demonstrations
+- **ID**: arxiv_2611.29732v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29732v1](http://arxiv.org/abs/2611.29732v1)
+
+## Who Sent It or How It Moved? Sender Shortcuts in Cryptocurrency Anti-Money-Laundering Benchmarks, Audited on Elliptic2 and Elliptic++
+- **ID**: arxiv_2611.29744v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29744v1](http://arxiv.org/abs/2611.29744v1)
 

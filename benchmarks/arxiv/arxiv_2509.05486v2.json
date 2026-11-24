@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.05486v2",
+  "schema_version": "1.0",
+  "name": "The Token Tax: Systematic Bias in Multilingual Tokenization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.05486v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.05486v2",
+    "updated": "2026-11-22T21:09:50Z",
+    "published": "2025-09-05T20:20:51Z",
+    "title": "The Token Tax: Systematic Bias in Multilingual Tokenization",
+    "summary": "Tokenization inefficiency is associated with structural disadvantages for morphologically complex, low-resource languages, inflating compute resources and reducing accuracy. We evaluate 11 large language models (LLMs) on AfriMMLU (5 subjects; 16 African languages); for the 10 models whose fertility we could compute, higher token fertility is associated with lower accuracy: all 50 model--subject slopes are negative, 24 are significant at p<0.05, and 12 remain significant after false-discovery-rate correction. We further find that reasoning models (e.g., DeepSeek R1, o1) have the highest average accuracy and the smallest English-African gaps among the models evaluated. In terms of economics, a doubling in tokens results in quadrupled training cost and time, underscoring the \"token tax\" faced by many languages. These results motivate morphologically aware tokenization, fair pricing, and multilingual benchmarks for equitable natural language processing (NLP).",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T21:09:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.05486v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

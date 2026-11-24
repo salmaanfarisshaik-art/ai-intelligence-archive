@@ -1360,3 +1360,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26613v1](http://arxiv.org/abs/2611.26613v1)
 
+## Into My Arms: Structured reinforcement learning for autonomous transport of objects and humans
+- **ID**: arxiv_2611.29771v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29771v1](http://arxiv.org/abs/2611.29771v1)
+

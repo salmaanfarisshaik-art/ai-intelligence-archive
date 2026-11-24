@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.17610v2",
+  "schema_version": "1.0",
+  "name": "PACE: More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.17610v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.17610v2",
+    "updated": "2026-11-22T19:04:19Z",
+    "published": "2026-11-13T00:18:25Z",
+    "title": "PACE: More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+    "summary": "Multi-agent language model evaluations often compare a communicating system with a single greedy pass, which confounds coordination with extra samples and test-time compute. We introduce Parity-Aware Compute Evaluation (PACE): a six-dimensional resource vector, four baseline categories, and a directional rule that credits a gain only against a baseline using at least as much of the declared resources and rules a gain out against any baseline using no more. We audit 9 published studies. Across the 72 deduplicated baseline cells that report both a greedy and a sampled baseline, the sampling gap, by which the sampled baseline lowers the multi-agent difference, averages -0.036 with studies weighted equally (negative in 64 cells), and 53 of the 123 paired contrasts that beat a greedy pass become nonpositive against the sampled baseline. Against sampled or budget-matched baselines the mean difference is -0.042; all eight Category B/C study means are negative and the one Category D study is positive. In a controlled experiment with an open-weight model, debate and mixture-of-agents do not clear the equal-token self-consistency frontier on MMLU-Pro (debate -0.015); on Hidden Profile, split-view debate exceeds a lower-budget pool yet trails content-mismatched placebo and four-choice chance. We release a seven-item checklist, an evaluation card, and command-line utilities.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T19:04:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.17610v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

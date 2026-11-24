@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.29679v1",
+  "schema_version": "1.0",
+  "name": "MERIT: Experience-Guided Memory for Long-Horizon Persona-Specific Persuasive Dialogue",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.29679v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.29679v1",
+    "updated": "2026-11-22T18:33:17Z",
+    "published": "2026-11-22T18:33:17Z",
+    "title": "MERIT: Experience-Guided Memory for Long-Horizon Persona-Specific Persuasive Dialogue",
+    "summary": "Effective long-horizon persuasion in recurring goal-oriented settings requires more than factual memory: it must track how a user's trust, negotiation behavior, and strategic receptiveness evolve across interactions. Existing persuasive dialogue systems are largely single-session, static, and unimodal, while cross-session memory systems, though temporally aware, retain only factual content and overlook persuasion-specific dynamics. We propose MERIT (Memory-augmented Experience-Rationale for Iterative Temporal persuasion), which pairs a graph-based memory of four persuasion-specific memory types with a per-persona experience rationale library that records which strategies succeed for each user and why. Together they enable adaptive persuasion through prompt composition alone, with no parameter updates. To support this setting, we introduce PERSIST (PERSona-driven InSurance Interactions over Time), a dataset of 60 curated personas spanning 10+ years of motor insurance renewal interactions, with probabilistic life events that shift negotiation behavior and receptiveness across sessions, verified through strict human-in-the-loop annotation. MERIT surpasses memory and experience-based baselines on every metric across two policy backbones, reaching persuasive-appeal scores of 4.10 and 4.74 (out of 5).",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T04:37:00Z",
+  "last_updated": "2026-11-22T18:33:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.29679v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

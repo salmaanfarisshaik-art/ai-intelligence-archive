@@ -615,3 +615,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27860v1](http://arxiv.org/abs/2611.27860v1)
 
+## Lightweight Spectral Subspace Filtering for Trojan-Resilient AI Inference Engines
+- **ID**: arxiv_2611.29734v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29734v1](http://arxiv.org/abs/2611.29734v1)
+

@@ -2780,6 +2780,10 @@
 - **ID**: model_inflatebot_mn_12b_mag_mell_r1
 - **Source**: 
 
+## intel-ai/DeepSeek-V4.1-Flash-MXFP4-Mixed-CT-AutoRound
+- **ID**: model_intel_ai_deepseek_v4_1_flash_mxfp4_mixed_ct_autoround
+- **Source**: 
+
 ## internlm/Intern-S1-Pro
 - **ID**: model_internlm_intern_s1_pro
 - **Source**: 
@@ -5384,6 +5388,10 @@
 - **ID**: model_osaurusai_diplodocus_preview_gguf
 - **Source**: 
 
+## OsaurusAI/Raptor-0.7-4B-GGUF
+- **ID**: model_osaurusai_raptor_0_7_4b_gguf
+- **Source**: 
+
 ## osllmai-community/Llama-3.2-1B
 - **ID**: model_osllmai_community_llama_3_2_1b
 - **Source**: 
@@ -5702,6 +5710,10 @@
 
 ## QuantTrio/Qwen3-235B-A22B-Instruct-2507-AWQ
 - **ID**: model_quanttrio_qwen3_235b_a22b_instruct_2507_awq
+- **Source**: 
+
+## QuantTrio/Qwen3-30B-A3B-Thinking-2507-AWQ
+- **ID**: model_quanttrio_qwen3_30b_a3b_thinking_2507_awq
 - **Source**: 
 
 ## QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ
@@ -7090,6 +7102,10 @@
 
 ## TensorFold/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-MLX-4bit
 - **ID**: model_tensorfold_nvidia_nemotron_3_5_lightning_30b_a3b_mlx_4bit
+- **Source**: 
+
+## Thaurock/Qwen3.5-122B-A10B-abliterated-GGUF
+- **ID**: model_thaurock_qwen3_5_122b_a10b_abliterated_gguf
 - **Source**: 
 
 ## Thaurock/Qwen3-Coder-30B-A3B-Instruct-abliterated-GGUF
