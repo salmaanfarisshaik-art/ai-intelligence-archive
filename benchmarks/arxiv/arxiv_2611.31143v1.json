@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31143v1",
+  "schema_version": "1.0",
+  "name": "Head Anything: Correspondence-Guided Joint Generation of 3D Heads from Few Images",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31143v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31143v1",
+    "updated": "2026-11-23T18:14:49Z",
+    "published": "2026-11-23T18:14:49Z",
+    "title": "Head Anything: Correspondence-Guided Joint Generation of 3D Heads from Few Images",
+    "summary": "Large image-to-3D generators recover detailed heads from a single photograph but treat every image as a new object. For several images of one person, they hallucinate unseen regions independently without using information from the other images. We present Head Anything, which generates detailed head meshes from a few images with changing expressions and viewpoints. Instead of training a multi-image prior, we turn a pretrained single-image generator with a native 3D latent space into a joint generator that denoises all images together. Since global attention between images is hard to learn from scarce 3D head data, lightweight correspondence-attention adapters let every 3D token attend only to its corresponding points in the other images. We obtain correspondences by fitting a neural parametric head model to the generator's own single-image outputs, requiring no ground truth at test time. Training on both ground-truth and fitted correspondences makes the adapters robust to fitting errors. Each mesh stays pixel-aligned with its own image and borrows the unseen regions from all others. On head scans, Head Anything lowers the head Chamfer distance of the best image-to-3D generator by 32% and its cross-frame inconsistency by 47%, and its meshes improve face tracking. Code and models will be released.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:14:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31143v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

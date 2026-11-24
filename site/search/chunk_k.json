@@ -160,6 +160,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "hf_lightseekorg_kimi-k2.5-eagle3-mla",
       "match_type": "exact",
       "score": 2.0
@@ -291,6 +296,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_kindlingai_glm_5_3_exlr8_k2_k3_k4",
       "match_type": "exact",
       "score": 2.0
@@ -343,6 +353,11 @@
       "entity_id": "model_aeon_7_gemma_4_12b_it_aeon_abliterated_k4_bf16",
       "match_type": "exact",
       "score": 3.5
+    },
+    {
+      "entity_id": "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "model_kindlingai_glm_5_3_exlr8_k2_k3_k4",
@@ -2395,6 +2410,11 @@
   ],
   "kblueleaf": [
     {
+      "entity_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_kblueleaf_tipo_500m",
       "match_type": "exact",
       "score": 3.5
@@ -3168,6 +3188,11 @@
     },
     {
       "entity_id": "arxiv_2611.06854v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_harness_hub_termgrade_train_harbor",
       "match_type": "exact",
       "score": 2.0
     },
@@ -11561,6 +11586,11 @@
   ],
   "kindlingai": [
     {
+      "entity_id": "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_kindlingai_glm_5_3_exlr8_k2_k3_k4",
       "match_type": "exact",
       "score": 2.0
@@ -13573,6 +13603,11 @@
     },
     {
       "entity_id": "dataset_internrobotics_omniworld",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6af5ee05f9e1e18cb55478eb",
       "match_type": "exact",
       "score": 1.0
     }
@@ -16267,6 +16302,11 @@
     },
     {
       "entity_id": "arxiv_2611.24932v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31190v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -22013,6 +22053,13 @@
       "entity_id": "model_skt_kogpt2_base_v2",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "kohaku": [
+    {
+      "entity_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "kohlberg": [

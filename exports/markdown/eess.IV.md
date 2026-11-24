@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.26236v2](http://arxiv.org/abs/2606.26236v2)
 
+## Complete virtual unwrapping and reading of a rolled Herculaneum papyrus
+- **ID**: arxiv_2606.29085v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29085v2](http://arxiv.org/abs/2606.29085v2)
+
 ## Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function
 - **ID**: arxiv_2607.12586v3
 - **Source**: ArXiv
@@ -119,6 +124,11 @@
 - **ID**: arxiv_2611.09854v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.09854v1](http://arxiv.org/abs/2611.09854v1)
+
+## Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level
+- **ID**: arxiv_2611.09854v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.09854v2](http://arxiv.org/abs/2611.09854v2)
 
 ## How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?
 - **ID**: arxiv_2611.21532v1

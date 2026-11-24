@@ -1365,3 +1365,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29771v1](http://arxiv.org/abs/2611.29771v1)
 
+## RUIBench: What Makes a Good Robot-Use Interface?
+- **ID**: arxiv_2611.31115v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31115v1](http://arxiv.org/abs/2611.31115v1)
+
+## WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models
+- **ID**: arxiv_2611.31126v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31126v1](http://arxiv.org/abs/2611.31126v1)
+

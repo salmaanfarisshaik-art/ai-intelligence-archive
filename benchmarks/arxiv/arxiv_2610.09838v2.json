@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.09838v2",
+  "schema_version": "1.0",
+  "name": "Fully Interpretable Minimal Transformers: From Geometry to Algorithm",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.09838v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.09838v2",
+    "updated": "2026-11-23T18:40:26Z",
+    "published": "2026-10-07T11:01:54Z",
+    "title": "Fully Interpretable Minimal Transformers: From Geometry to Algorithm",
+    "summary": "We present a framework for building and interpreting minimal transformer models. By constraining a transformer's embedding dimension and head size to 2, we enable full two-dimensional visualization of its internal representations. Embeddings, query/key/value transforms, attention outputs, residual streams, and decision boundaries can all be seen directly. Our central claim is that the learned geometry implies an algorithm. The arrangement of points and boundaries in R^2 can be read as a step-by-step procedure. We train a transformer on a simple task where it must produce the most recently observed even number whenever the '+' operator appears in a sequence of digits. Once trained, we visually walk through every step of the transformer's computation. We show how the model embeds the tokens and their respective positions in the sequence, transforms them via the Q, K, and V matrices, uses the dot product between the Q and K representations to form the attention matrix, and uses the attention matrix to select values that move the representation of each input token embedding to the region of the domain of the output layer that will correctly predict the next token. We introduce a suite of interpretability visualizations that make the algorithmic interpretation of this procedure explicit. Our framework offers a pedagogical and experimental testbed to explore how transformers use information geometry to implement next-token prediction.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:40:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.09838v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

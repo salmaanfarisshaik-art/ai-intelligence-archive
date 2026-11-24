@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31128v1",
+  "schema_version": "1.0",
+  "name": "CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31128v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31128v1",
+    "updated": "2026-11-23T18:00:20Z",
+    "published": "2026-11-23T18:00:20Z",
+    "title": "CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion",
+    "summary": "We introduce CrownFusion, a latent diffusion model to generate 3D dental crown designs from geometry images, a 2D-grid encoding of surface coordinates. Departing from traditional approaches that use point clouds, our \"CrownImage\" representation not only unlocks the full power of image-based generative architectures, but also preserves fine geometric detail by operating at far higher spatial resolutions than point clouds to alleviate smoothing artifacts in the 3D generation. Conditioned on jointly learned embeddings of the surrounding dentition, our probabilistic diffusion model produces anatomically plausible crowns with morphological variations tailored to individual patient cases. To accommodate multiple valid designs, we propose an occlusal fit metric based on proximity to the antagonist teeth. We evaluate our method through quantitative experiments and qualitative studies involving expert testimonials. We also release the FDI 16 Crown Dataset, comprising 11,513 annotated intra-oral scans, to support future research in dental CAD.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:00:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31128v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

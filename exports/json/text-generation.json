@@ -7325,6 +7325,36 @@
     "local_path": "models/katuni4ka/hf_katuni4ka_tiny-random-phi3.json"
   },
   {
+    "id": "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
+    "title": "kindlingai/glm-5.3-exlr8-k2-k3-k4",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "base_model:finetune:zai-org/GLM-5.3-BF16",
+      "base_model:zai-org/GLM-5.3-BF16",
+      "conversational",
+      "exl3",
+      "gb10",
+      "glm",
+      "glm_moe_dsa",
+      "license:other",
+      "moe",
+      "quantized",
+      "region:us",
+      "tensor-parallel",
+      "text-generation",
+      "trellis"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4",
+    "local_path": "models/kindlingai/hf_kindlingai_glm-5.3-exlr8-k2-k3-k4.json"
+  },
+  {
     "id": "hf_kmhf_hf-moshiko",
     "title": "kmhf/hf-moshiko",
     "category": "text-generation",

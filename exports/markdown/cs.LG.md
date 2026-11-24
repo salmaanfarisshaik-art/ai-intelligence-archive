@@ -395,6 +395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.10009v2](http://arxiv.org/abs/2603.10009v2)
 
+## Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation
+- **ID**: arxiv_2603.11045v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.11045v3](http://arxiv.org/abs/2603.11045v3)
+
 ## Scaling Reasoning Efficiently via Relaxed On-Policy Distillation
 - **ID**: arxiv_2603.11137v2
 - **Source**: ArXiv
@@ -2055,6 +2060,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24985v1](http://arxiv.org/abs/2609.24985v1)
 
+## Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices
+- **ID**: arxiv_2609.25645v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.25645v3](http://arxiv.org/abs/2609.25645v3)
+
 ## A Spectral Theory of Grokking: Weight Decay induces Feature Learning
 - **ID**: arxiv_2609.26679v1
 - **Source**: ArXiv
@@ -2360,6 +2370,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08743v1](http://arxiv.org/abs/2610.08743v1)
 
+## Fully Interpretable Minimal Transformers: From Geometry to Algorithm
+- **ID**: arxiv_2610.09838v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.09838v2](http://arxiv.org/abs/2610.09838v2)
+
 ## Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds
 - **ID**: arxiv_2610.10411v1
 - **Source**: ArXiv
@@ -2619,6 +2634,11 @@
 - **ID**: arxiv_2610.25844v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.25844v2](http://arxiv.org/abs/2610.25844v2)
+
+## Which Model for Which Role? Cost-Efficient Pareto Recommendation for LLM Agentic Workflows
+- **ID**: arxiv_2610.26676v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26676v3](http://arxiv.org/abs/2610.26676v3)
 
 ## Next Best Action: Causal Constrained Offline RL for Business Action Targeting
 - **ID**: arxiv_2610.26817v1
@@ -3299,4 +3319,19 @@
 - **ID**: arxiv_2611.29764v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29764v1](http://arxiv.org/abs/2611.29764v1)
+
+## Attention Temperature Confounds Zero-Shot Context Extension
+- **ID**: arxiv_2611.31113v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31113v1](http://arxiv.org/abs/2611.31113v1)
+
+## Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training
+- **ID**: arxiv_2611.31166v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31166v1](http://arxiv.org/abs/2611.31166v1)
+
+## Learning Neurovascular Codes for EEG-to-fMRI Synthesis
+- **ID**: arxiv_2611.31194v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31194v1](http://arxiv.org/abs/2611.31194v1)
 

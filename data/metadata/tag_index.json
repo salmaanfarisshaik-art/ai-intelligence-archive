@@ -139,7 +139,8 @@
     "hf_ds_67ce486ea3edca9b3349a097",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_68a7fb1964bbb2ec688d1af2",
-    "hf_ds_6acca32f6fa844eabec4e77b"
+    "hf_ds_6acca32f6fa844eabec4e77b",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "M3-VOS": [
     "hf_ds_6a622c79b2821966cdd3c17a"
@@ -926,6 +927,9 @@
   "arxiv:2611.06817": [
     "hf_ds_6ae993485240eb6b7ac68d30"
   ],
+  "arxiv:2611.21938": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
   "at-t": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
@@ -1126,6 +1130,9 @@
   "base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2": [
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
+  "base_model:finetune:zai-org/GLM-5.3-BF16": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
+  ],
   "base_model:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
@@ -1216,6 +1223,9 @@
   ],
   "base_model:ukisai/Swift-1.5-Qwen3.8-27b": [
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
+  "base_model:zai-org/GLM-5.3-BF16": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
   ],
   "base_model:zai-org/GLM-5.3-Flash": [
     "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
@@ -1429,6 +1439,7 @@
     "hf_google_gemma-3-1b-it",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
     "hf_ibm-granite_granite-4.1-8b",
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
@@ -1661,6 +1672,9 @@
   "dataset:teknium/OpenHermes-2.5": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
+  "datasets": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
   "datatrove": [
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
@@ -1795,7 +1809,8 @@
   ],
   "dexterous-manipulation": [
     "hf_ds_69d2b3f8bbf83b1a4bb7eae4",
-    "hf_ds_6aba2c7aa8842e5c1f6e6ca4"
+    "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "dflash": [
     "hf_RadixArk_Kimi-K3-DSpark"
@@ -1909,10 +1924,12 @@
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a5466cdd7c4631ab9b28b80",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "egocentric-video": [
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "electrical-engineering": [
     "hf_ds_6ad4893ea6e143550bed4f47"
@@ -1925,7 +1942,8 @@
     "hf_ds_6a2109cc17dad4ca26c80eb7",
     "hf_ds_6a5466cdd7c4631ab9b28b80",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "empero-ai": [
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF"
@@ -2145,6 +2163,9 @@
     "hf_distilbert_distilgpt2",
     "hf_openai-community_gpt2"
   ],
+  "exl3": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
+  ],
   "express": [
     "advanced-expressjs-middleware-boilerplate",
     "expressjs-middleware-boilerplate"
@@ -2183,7 +2204,8 @@
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "first-person": [
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "fish": [
     "hf_ds_66674f5483de542b724d771e"
@@ -2197,7 +2219,6 @@
     "hf_ds_68179ef58e267618d9e7bc61"
   ],
   "format:imagefolder": [
-    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_679255cc5a8e868cbe62569f",
@@ -2272,6 +2293,7 @@
     "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69c94788f69be9b927cace92",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a153f136ea5882878c26693",
@@ -2355,6 +2377,9 @@
   "gated-deltanet": [
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF"
   ],
+  "gb10": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
+  ],
   "gemma": [
     "hf_google_gemma-3-270m"
   ],
@@ -2420,12 +2445,14 @@
     "secure-github-actions-cicd-pipeline"
   ],
   "glm": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "glm4_moe_lite": [
     "hf_zai-org_GLM-4.7-Flash"
   ],
   "glm_moe_dsa": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_zai-org_GLM-5-FP8",
     "hf_zai-org_GLM-5.2",
     "hf_zai-org_GLM-5.2-FP8",
@@ -2496,6 +2523,9 @@
   "hand-motion": [
     "hf_ds_6ae993485240eb6b7ac68d30"
   ],
+  "hand-object-interaction": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
   "hand-pose": [
     "hf_ds_6a4cbc564cdc8fc41b0f1b93"
   ],
@@ -2529,6 +2559,9 @@
   ],
   "huggingface": [
     "serverless-inference-api"
+  ],
+  "human-demonstrations": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "human-intervention": [
     "hf_ds_6a2109cc17dad4ca26c80eb7"
@@ -2590,7 +2623,11 @@
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a5485bf73e76a43b79498f6",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
-    "hf_ds_6aba2c7aa8842e5c1f6e6ca4"
+    "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
+  "imu": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "indoor 3D scene dataset": [
     "hf_ds_66293ead0326d8c0fc899ac0"
@@ -3180,7 +3217,8 @@
     "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6ad4893ea6e143550bed4f47",
-    "hf_ds_6aed4ceaf1e7b1fa855ce572"
+    "hf_ds_6aed4ceaf1e7b1fa855ce572",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "language:eng": [
     "hf_ds_688209a61f4d0375592760e0"
@@ -4635,7 +4673,8 @@
     "hf_ds_6a5485bf73e76a43b79498f6",
     "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "lfm2.5": [
     "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF"
@@ -4688,7 +4727,6 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f1825d5",
-    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
@@ -4750,6 +4788,7 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69c94788f69be9b927cace92",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69dae1cf769d72f81f71c82c",
     "hf_ds_69dea0a636a3f56ff6f91b7f",
@@ -4772,9 +4811,9 @@
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
-    "hf_ds_6ada2ff08f0f9c17f60ebac9",
     "hf_ds_6ae8bd4111b278c45dfbe88c",
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "library:harbor": [
     "hf_ds_6ad4893ea6e143550bed4f47"
@@ -4800,7 +4839,6 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f1825d5",
-    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
@@ -4862,6 +4900,7 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69c94788f69be9b927cace92",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69dae1cf769d72f81f71c82c",
     "hf_ds_69dea0a636a3f56ff6f91b7f",
@@ -4884,7 +4923,6 @@
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
-    "hf_ds_6ada2ff08f0f9c17f60ebac9",
     "hf_ds_6ae8bd4111b278c45dfbe88c",
     "hf_ds_6ae993485240eb6b7ac68d30"
   ],
@@ -4916,6 +4954,7 @@
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69bd10117ce15b06bbea0357",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f7105853a9164999100b0b",
@@ -4982,6 +5021,7 @@
     "hf_ds_69a64e75c02ff4af5432f62a",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69c94788f69be9b927cace92",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f7105853a9164999100b0b",
@@ -5057,6 +5097,7 @@
     "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_68beb76057ea4f948c293200",
     "hf_ds_68c6d459d95ef41da81c9b41",
+    "hf_ds_69109b3f0570b41ffe28a6ea",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6937cb3e145e00d96aa5338c",
     "hf_ds_69920596d401600ba4b9a839",
@@ -5123,7 +5164,8 @@
     "hf_ds_6a382f6fa519cd301493b37b",
     "hf_ds_6a429172c50c64cfb0a54dfb",
     "hf_ds_6acca32f6fa844eabec4e77b",
-    "hf_ds_6ad4893ea6e143550bed4f47"
+    "hf_ds_6ad4893ea6e143550bed4f47",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "license:cc-by-nc-4.0": [
     "hf_ds_67d6a013de70b91cc5a7a8f6",
@@ -5200,6 +5242,7 @@
     "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_6356b19985da6f13863228bd",
     "hf_ds_636a1b69f2f9ec4289c4c19e",
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_63ea428f5de6361c8dd3cbcf",
@@ -5288,6 +5331,7 @@
     "hf_ds_6ad82fcedf69b48f86bb012f",
     "hf_ds_6adf714965d27a395f029c31",
     "hf_facebook_opt-125m",
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
@@ -5366,11 +5410,15 @@
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a5466cdd7c4631ab9b28b80",
-    "hf_ds_6a7460ebf3031d8573c2fe30"
+    "hf_ds_6a7460ebf3031d8573c2fe30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "mano": [
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
+  ],
+  "manual-work": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "map": [
     "hf_ds_6a9b618da26f068ce99f0512"
@@ -5497,7 +5545,6 @@
   "modality:image": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f1825d5",
-    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_657f09ec3e3b5bea663e53c3",
@@ -5554,6 +5601,7 @@
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69be6056f46b7dff732d8c53",
     "hf_ds_69c94788f69be9b927cace92",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a153f136ea5882878c26693",
@@ -5633,6 +5681,7 @@
     "hf_ds_69b53151d3cc52f95d53bcbb",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69be6056f46b7dff732d8c53",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69dae1cf769d72f81f71c82c",
     "hf_ds_69dea0a636a3f56ff6f91b7f",
@@ -5651,6 +5700,7 @@
     "hf_ds_6a60568ac2d6c31b7f81bdc8",
     "hf_ds_6a702b9b89beb4ee925c3e28",
     "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6a9ea0a77ac9cae1afea0d24",
     "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6ac0e3e0aadad5e0492a39f0",
     "hf_ds_6ae993485240eb6b7ac68d30"
@@ -5684,8 +5734,8 @@
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
     "hf_ds_6acca32f6fa844eabec4e77b",
-    "hf_ds_6ada2ff08f0f9c17f60ebac9",
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "model-evaluation": [
     "hf_ds_698c9e10c98ef9ef0a6f27b3"
@@ -5704,7 +5754,8 @@
     "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_antirez_deepseek-v4-gguf",
-    "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF"
+    "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
   ],
   "mongodb": [
     "advanced-mongodb-aggregation-pipeline-builder",
@@ -5940,6 +5991,9 @@
   "physical": [
     "hf_ds_6a622c79b2821966cdd3c17a"
   ],
+  "physical-ai": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
   "physics": [
     "hf_ds_692ecca11aad0a1d75ac057c",
     "hf_ds_6abe7b0d6fa702d077c7dadf"
@@ -6072,6 +6126,7 @@
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_antirez_deepseek-v4-gguf",
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
@@ -6192,6 +6247,9 @@
     "automated-redis-caching-layer-implementation",
     "redis-caching-layer-implementation"
   ],
+  "region:eu": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
   "region:us": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -6263,6 +6321,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_62e81d0e55744b69f18e254c",
+    "hf_ds_6356b19985da6f13863228bd",
     "hf_ds_636a1b69f2f9ec4289c4c19e",
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_63977bb96bdef8095268ded0",
@@ -6379,6 +6438,7 @@
     "hf_ds_68e91443c366e5879388a4d4",
     "hf_ds_68f06f7cd53a33b04ceebb08",
     "hf_ds_6901510f85821f56ae6f5438",
+    "hf_ds_69109b3f0570b41ffe28a6ea",
     "hf_ds_691cad435bb68b24ef7ba828",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_692ecca11aad0a1d75ac057c",
@@ -6489,6 +6549,7 @@
     "hf_ds_6a96f1b1177b511ec1b92935",
     "hf_ds_6a9b618da26f068ce99f0512",
     "hf_ds_6a9d8e54cb1f70afa752542c",
+    "hf_ds_6a9ea0a77ac9cae1afea0d24",
     "hf_ds_6aa585f5e13985455758f8eb",
     "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
@@ -6517,6 +6578,7 @@
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
     "hf_ibm-granite_granite-4.1-8b",
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
@@ -6575,7 +6637,8 @@
     "hf_ds_67ce486ea3edca9b3349a097"
   ],
   "robot-learning": [
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "robot-manipulation": [
     "hf_ds_6a5485bf73e76a43b79498f6"
@@ -6600,7 +6663,8 @@
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
-    "hf_ds_6acca32f6fa844eabec4e77b"
+    "hf_ds_6acca32f6fa844eabec4e77b",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "rocm": [
     "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
@@ -6787,7 +6851,8 @@
     "hf_ds_6a18ded575c463d5aecfcf4d",
     "hf_ds_6a2109cc17dad4ca26c80eb7",
     "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6aba2c7aa8842e5c1f6e6ca4"
+    "hf_ds_6aba2c7aa8842e5c1f6e6ca4",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "size_categories:100M<n<1B": [
     "hf_ds_62e81d0e55744b69f18e254c",
@@ -6887,6 +6952,7 @@
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_69c2419dda894d8e5757461f",
+    "hf_ds_69cec888d6ad2ec885b60a97",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a34c6065edc6bacb0b36213",
     "hf_ds_6a409561222ffbb14f69924c",
@@ -6894,7 +6960,6 @@
   ],
   "size_categories:n<1K": [
     "hf_ds_621ffdd236468d709f1825d5",
-    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_657f09ec3e3b5bea663e53c3",
@@ -6920,8 +6985,8 @@
     "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a702b9b89beb4ee925c3e28",
     "hf_ds_6a96f1b1177b511ec1b92935",
-    "hf_ds_6ad4893ea6e143550bed4f47",
-    "hf_ds_6ada2ff08f0f9c17f60ebac9"
+    "hf_ds_6a9ea0a77ac9cae1afea0d24",
+    "hf_ds_6ad4893ea6e143550bed4f47"
   ],
   "size_categories:n>1T": [
     "hf_ds_66e4b270f5579b829f4c18eb",
@@ -6936,6 +7001,9 @@
     "hf_ds_6a2ec08ae425e2822f53fef3",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a5466cdd7c4631ab9b28b80"
+  ],
+  "skilled-work": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "skywater130 process": [
     "hf_ds_68f06f7cd53a33b04ceebb08"
@@ -7017,7 +7085,8 @@
     "hf_ds_63ea428f5de6361c8dd3cbcf",
     "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_698c9e10c98ef9ef0a6f27b3",
-    "hf_ds_6a18ded575c463d5aecfcf4d"
+    "hf_ds_6a18ded575c463d5aecfcf4d",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "source_datasets:oscar": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -7227,7 +7296,8 @@
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a8c52a903fa052d1016eb4a",
     "hf_ds_6acca32f6fa844eabec4e77b",
-    "hf_ds_6ae993485240eb6b7ac68d30"
+    "hf_ds_6ae993485240eb6b7ac68d30",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "task_categories:summarization": [
     "hf_ds_621ffdd236468d709f181dba"
@@ -7318,7 +7388,11 @@
   "task_categories:video-classification": [
     "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
+  ],
+  "task_categories:video-text-to-text": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "task_categories:visual-question-answering": [
     "hf_ds_6826807a875b575a7ab09a99",
@@ -7404,6 +7478,9 @@
   "teleoperation": [
     "hf_ds_6a2109cc17dad4ca26c80eb7",
     "hf_ds_6a307dae8e258cbed418ec58"
+  ],
+  "tensor-parallel": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
   ],
   "tensorboard": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
@@ -7492,6 +7569,7 @@
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
     "hf_ibm-granite_granite-4.1-8b",
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
@@ -7704,6 +7782,9 @@
   "transformers.js": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "trellis": [
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4"
+  ],
   "trilingual": [
     "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
@@ -7755,7 +7836,8 @@
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_6a622c79b2821966cdd3c17a",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "video-generation": [
     "hf_ds_69f638c8ebff1de2d6753093"
@@ -7789,7 +7871,8 @@
   "vla": [
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
-    "hf_ds_6a5466cdd7c4631ab9b28b80"
+    "hf_ds_6a5466cdd7c4631ab9b28b80",
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "vllm": [
     "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
@@ -7830,6 +7913,9 @@
   ],
   "world-action-model": [
     "hf_ds_6ae993485240eb6b7ac68d30"
+  ],
+  "world-model": [
+    "hf_ds_6af5ee05f9e1e18cb55478eb"
   ],
   "xarm": [
     "hf_ds_67ce486ea3edca9b3349a097"

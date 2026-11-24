@@ -110,6 +110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.13570v2](http://arxiv.org/abs/2509.13570v2)
 
+## Roundtable Policy: Confidence-Weighted-Consensus Aggregation Improves Multi-Agent-System Reasoning
+- **ID**: arxiv_2509.16839v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.16839v3](http://arxiv.org/abs/2509.16839v3)
+
 ## EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model
 - **ID**: arxiv_2509.22407v3
 - **Source**: ArXiv
@@ -3545,6 +3550,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26911v2](http://arxiv.org/abs/2609.26911v2)
 
+## TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents
+- **ID**: arxiv_2609.26911v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26911v3](http://arxiv.org/abs/2609.26911v3)
+
 ## Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence
 - **ID**: arxiv_2609.27664v1
 - **Source**: ArXiv
@@ -5629,4 +5639,49 @@
 - **ID**: arxiv_2611.29744v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29744v1](http://arxiv.org/abs/2611.29744v1)
+
+## Self-Upgrading Embodied Agents
+- **ID**: arxiv_2611.31117v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31117v1](http://arxiv.org/abs/2611.31117v1)
+
+## Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences
+- **ID**: arxiv_2611.31132v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31132v1](http://arxiv.org/abs/2611.31132v1)
+
+## Habitats: A Framework for Open-Ended Evolution of Agent Objectives
+- **ID**: arxiv_2611.31160v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31160v1](http://arxiv.org/abs/2611.31160v1)
+
+## When Does Overriding the Majority Vote Help?
+- **ID**: arxiv_2611.31165v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31165v1](http://arxiv.org/abs/2611.31165v1)
+
+## Reducing Order Sensitivity in Decision Models
+- **ID**: arxiv_2611.31174v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31174v1](http://arxiv.org/abs/2611.31174v1)
+
+## Needwise: Generation-Free Conversational Recommendation from Need-Level Typed Decisions
+- **ID**: arxiv_2611.31175v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31175v1](http://arxiv.org/abs/2611.31175v1)
+
+## Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL
+- **ID**: arxiv_2611.31190v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31190v1](http://arxiv.org/abs/2611.31190v1)
+
+## Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning
+- **ID**: arxiv_2611.31215v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31215v1](http://arxiv.org/abs/2611.31215v1)
+
+## Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ
+- **ID**: arxiv_2611.31228v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31228v1](http://arxiv.org/abs/2611.31228v1)
 

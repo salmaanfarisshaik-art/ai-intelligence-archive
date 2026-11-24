@@ -1020,6 +1020,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.04483v2](http://arxiv.org/abs/2606.04483v2)
 
+## DeliChess: A Multi-party Dialogue Dataset for Deliberation in Chess Puzzle Solving
+- **ID**: arxiv_2606.04987v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.04987v3](http://arxiv.org/abs/2606.04987v3)
+
 ## Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models
 - **ID**: arxiv_2606.05087v2
 - **Source**: ArXiv
@@ -5625,6 +5630,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24936v1](http://arxiv.org/abs/2611.24936v1)
 
+## Frontier models need only one text to unmask its human or AI author
+- **ID**: arxiv_2611.26216v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26216v2](http://arxiv.org/abs/2611.26216v2)
+
 ## Represented but misread: Post-training changes how language models read out what they represent
 - **ID**: arxiv_2611.26584v1
 - **Source**: ArXiv
@@ -5669,4 +5679,24 @@
 - **ID**: arxiv_2611.29775v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29775v1](http://arxiv.org/abs/2611.29775v1)
+
+## Look Back, Draft Ahead: Corrective Prefix Attention for Parallel Speculative Decoding
+- **ID**: arxiv_2611.31112v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31112v1](http://arxiv.org/abs/2611.31112v1)
+
+## Serialization and the Character-System: Measuring Narrative Concentration in French Fiction (1800--1940)
+- **ID**: arxiv_2611.31133v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31133v1](http://arxiv.org/abs/2611.31133v1)
+
+## Deneb-Vritra: Descriptions, Edges and Names Examined by Blocking Via Restoring Token Representations and Attention
+- **ID**: arxiv_2611.31139v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31139v1](http://arxiv.org/abs/2611.31139v1)
+
+## ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents
+- **ID**: arxiv_2611.31198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31198v1](http://arxiv.org/abs/2611.31198v1)
 

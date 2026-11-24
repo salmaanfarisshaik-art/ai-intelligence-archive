@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31164v1",
+  "schema_version": "1.0",
+  "name": "Analyzing and Improving FlowMap Distillation of Autoregressive Video Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31164v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31164v1",
+    "updated": "2026-11-23T18:24:33Z",
+    "published": "2026-11-23T18:24:33Z",
+    "title": "Analyzing and Improving FlowMap Distillation of Autoregressive Video Models",
+    "summary": "FlowMap distillation offers a natural route to few-step generative modeling by directly learning a teacher's denoising trajectories. Yet for autoregressive (AR) video generation, existing few-step models still rely on distribution matching distillation (DMD) to remain competitive, sacrificing sample diversity and requiring a large bidirectional teacher. In this work, we analyze what limits standalone AR FlowMap distillation and introduce two complementary guidance mechanisms to close this gap: (1) anti-drifting guidance, which helps the AR teacher correct drifted student rollouts by training an auxiliary model to mimic student drift and using it as a negative guidance branch; and (2) motion-aware guidance, which makes motion easier for a FlowMap student to learn by locating motion patches and selectively applying skip-layer guidance. Empirically, our approach applies to $π$-Flow, MeanFlow, and consistency distillation with 1.3B AR teachers, improving generation quality and reducing drift over 30 s rollouts. Notably, our 4-step $π$-Flow students match DMD students distilled from 14B teachers on VBench while preserving the sample diversity of their AR teachers, demonstrating that pure FlowMap distillation is effective for few-step autoregressive video generation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:24:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31164v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

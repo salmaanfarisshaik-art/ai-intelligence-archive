@@ -620,3 +620,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29734v1](http://arxiv.org/abs/2611.29734v1)
 
+## FATCAT: Fault Injection Attacks Targeting Chip-level Alignment
+- **ID**: arxiv_2611.31129v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31129v1](http://arxiv.org/abs/2611.31129v1)
+

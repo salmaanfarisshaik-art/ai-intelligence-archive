@@ -1293,6 +1293,11 @@
       "entity_id": "arxiv_2610.31636v1",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_syvai_danish_passport_photos_synthetic",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "841": [
@@ -1662,11 +1667,6 @@
       "entity_id": "dataset_hkustenterprize_rm26_engineer_exchange",
       "match_type": "exact",
       "score": 2.0
-    },
-    {
-      "entity_id": "dataset_anamnesis_data_clinical_trials_history",
-      "match_type": "exact",
-      "score": 1.0
     },
     {
       "entity_id": "dataset_battam_training_data_foundation",
@@ -4215,6 +4215,16 @@
       "entity_id": "model_roneneldan_tinystories_8m",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_djrhails_sharetrawl",
+      "match_type": "exact",
+      "score": 1.0
     },
     {
       "entity_id": "dataset_nodemind_shadow_o_logits_20b",

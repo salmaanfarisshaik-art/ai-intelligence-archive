@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31112v1",
+  "schema_version": "1.0",
+  "name": "Look Back, Draft Ahead: Corrective Prefix Attention for Parallel Speculative Decoding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31112v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31112v1",
+    "updated": "2026-11-23T17:52:33Z",
+    "published": "2026-11-23T17:52:33Z",
+    "title": "Look Back, Draft Ahead: Corrective Prefix Attention for Parallel Speculative Decoding",
+    "summary": "Parallel speculative decoders propose an entire token block at once, yet one early inconsistency can cause the target to reject its remaining suffix. We introduce Corrective Prefix Attention (CPA), which combines prefix-aware selection with autoregressive supervision to improve these parallel drafts. CPA lets each candidate attend to earlier choices within the block. Fixed candidate shortlists allow all pairwise interactions to be computed before selection, reducing the sequential walk to table lookups, accumulation and lightweight scoring rather than repeated neural evaluations. An auxiliary autoregressive loss trains the shared backbone on clean prefixes without adding an inference pass. Across eight math, code and dialogue benchmarks with Qwen3-4B and Qwen3-8B targets on Ascend NPUs, CPA commits 13--15\\% more tokens per verification round than DSpark and 25--26\\% more than DFlash. Its mean speedups reach $3.35\\times$ and $3.37\\times$ under greedy decoding and $2.86\\times$ under sampling for both targets. Ablations support both components, while capacity sweeps demonstrate that greater acceptance alone does not guarantee faster decoding. These results motivate correcting parallel proposals with causal information while keeping sequential computation inexpensive.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T17:52:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31112v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -499,6 +499,7 @@
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v2) | ArXiv |  | 1 |
 | [Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model](http://arxiv.org/abs/2609.20358v1) | ArXiv |  | 1 |
 | [Generative Latent Priors for Interpreting and Steering Protein Language Models](http://arxiv.org/abs/2611.09818v1) | ArXiv |  | 2 |
+| [Genome-to-Image Translation: Reconstructing Escherichia coli Morphology from Genomic Sequences](http://arxiv.org/abs/2611.31132v1) | ArXiv |  | 1 |
 | [GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks](http://arxiv.org/abs/2608.07411v1) | ArXiv |  | 1 |
 | [GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving](http://arxiv.org/abs/2610.12391v1) | ArXiv |  | 1 |
 | [Gibson Env: Real-World Perception for Embodied Agents](http://arxiv.org/abs/1808.10654v2) | ArXiv |  | 1 |
@@ -515,6 +516,7 @@
 | [Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems](http://arxiv.org/abs/2608.19140v1) | ArXiv |  | 1 |
 | [Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents](http://arxiv.org/abs/2609.26760v1) | ArXiv |  | 1 |
 | [GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms](http://arxiv.org/abs/2610.30017v1) | ArXiv |  | 1 |
+| [Habitats: A Framework for Open-Ended Evolution of Agent Objectives](http://arxiv.org/abs/2611.31160v1) | ArXiv |  | 1 |
 | [Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching](http://arxiv.org/abs/2605.29055v2) | ArXiv |  | 1 |
 | [Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1) | ArXiv |  | 1 |
 | [Harmonizing AI Safety Thresholds](http://arxiv.org/abs/2607.16112v1) | ArXiv |  | 1 |
@@ -578,6 +580,7 @@
 | [Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization](http://arxiv.org/abs/2609.35443v3) | ArXiv |  | 1 |
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
 | [Keeping LLM Agents on Procedure: Executable Finite-State Control for Long-Horizon Instruction Fidelity](http://arxiv.org/abs/2611.10884v1) | ArXiv |  | 1 |
+| [Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL](http://arxiv.org/abs/2611.31190v1) | ArXiv |  | 1 |
 | [KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents](http://arxiv.org/abs/2610.22331v1) | ArXiv |  | 1 |
 | [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1) | ArXiv |  | 1 |
 | [Knowing When to Intervene: Causal Evaluation of AI Agents](http://arxiv.org/abs/2611.09792v1) | ArXiv |  | 1 |
@@ -588,6 +591,7 @@
 | [KV$^2$: A Self-Refining KV Cache](http://arxiv.org/abs/2610.03198v1) | ArXiv |  | 1 |
 | [KV-Kaizen: Learning Context-Adaptive Cache Compression Choices](http://arxiv.org/abs/2609.37988v2) | ArXiv |  | 1 |
 | [LABEL: Literature Asymmetry between Efficacy and Limits in Drug Knowledge and Language Models](http://arxiv.org/abs/2611.19166v1) | ArXiv |  | 1 |
+| [Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ](http://arxiv.org/abs/2611.31228v1) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1) | ArXiv |  | 1 |
 | [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
@@ -697,6 +701,7 @@
 | [MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education](http://arxiv.org/abs/2609.19088v1) | ArXiv |  | 1 |
 | [nanoMuse: An Open-Source Personal Agent for Every Device You Own](http://arxiv.org/abs/2610.08699v1) | ArXiv |  | 1 |
 | [Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](http://arxiv.org/abs/2609.05385v1) | ArXiv |  | 1 |
+| [Needwise: Generation-Free Conversational Recommendation from Need-Level Typed Decisions](http://arxiv.org/abs/2611.31175v1) | ArXiv |  | 1 |
 | [NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning](http://arxiv.org/abs/2606.19279v1) | ArXiv |  | 1 |
 | [Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](http://arxiv.org/abs/2607.13220v2) | ArXiv |  | 1 |
 | [Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior](http://arxiv.org/abs/2609.17064v1) | ArXiv |  | 1 |
@@ -823,6 +828,7 @@
 | [Reconfiguring Procedural Knowledge for Compositional Robot Skill Adaptation](http://arxiv.org/abs/2611.22174v1) | ArXiv |  | 1 |
 | [Recurrent GraphNeural NetworkswithSet-BasedAggregation](http://arxiv.org/abs/2609.15932v1) | ArXiv |  | 1 |
 | [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) | ArXiv |  | 1 |
+| [Reducing Order Sensitivity in Decision Models](http://arxiv.org/abs/2611.31174v1) | ArXiv |  | 1 |
 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](http://arxiv.org/abs/2608.03972v1) | ArXiv |  | 1 |
 | [Regularizing Treatment Leakage for LLM-based Uplift Estimation](http://arxiv.org/abs/2611.20794v4) | ArXiv |  | 1 |
 | [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](http://arxiv.org/abs/2610.32851v1) | ArXiv |  | 1 |
@@ -850,6 +856,7 @@
 | [RoboJEPA: Scaling Robotic Latent World Models](http://arxiv.org/abs/2610.10515v1) | ArXiv |  | 1 |
 | [Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk](http://arxiv.org/abs/2608.19073v1) | ArXiv |  | 1 |
 | [Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents](http://arxiv.org/abs/2610.30041v1) | ArXiv |  | 1 |
+| [Roundtable Policy: Confidence-Weighted-Consensus Aggregation Improves Multi-Agent-System Reasoning](http://arxiv.org/abs/2509.16839v3) | ArXiv |  | 1 |
 | [RSI-Prime: Training Models to Train Models](http://arxiv.org/abs/2611.23138v1) | ArXiv |  | 1 |
 | [RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization](http://arxiv.org/abs/2610.29491v1) | ArXiv |  | 1 |
 | [Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](http://arxiv.org/abs/2608.20237v1) | ArXiv |  | 1 |
@@ -890,6 +897,7 @@
 | [Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](http://arxiv.org/abs/2609.30177v1) | ArXiv |  | 1 |
 | [Searching for "Harmful Refusal": A Psychometric Audit of an AI Safety Benchmark](http://arxiv.org/abs/2610.12409v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
+| [Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning](http://arxiv.org/abs/2611.31215v1) | ArXiv |  | 1 |
 | [Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency](http://arxiv.org/abs/2609.31460v1) | ArXiv |  | 1 |
 | [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
@@ -898,6 +906,7 @@
 | [Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](http://arxiv.org/abs/2606.00232v2) | ArXiv |  | 1 |
 | [Self-Evolving Agent Harness](http://arxiv.org/abs/2610.18813v1) | ArXiv |  | 1 |
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
+| [Self-Upgrading Embodied Agents](http://arxiv.org/abs/2611.31117v1) | ArXiv |  | 1 |
 | [SemantEq: Faithful Bidirectional Equivalence of Formal Statements](http://arxiv.org/abs/2610.32919v1) | ArXiv |  | 1 |
 | [Semantic Observability for Autonomous Systems Diagnostics](http://arxiv.org/abs/2610.28611v1) | ArXiv |  | 1 |
 | [Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction](http://arxiv.org/abs/2609.17100v1) | ArXiv |  | 1 |
@@ -1051,6 +1060,7 @@
 | [Turbo Harness: Instance-Adaptive Harness Optimization](http://arxiv.org/abs/2609.40330v1) | ArXiv |  | 1 |
 | [Twin: Playing an Unknown Game with a Test-Time Digital Twin](http://arxiv.org/abs/2608.14490v1) | ArXiv |  | 1 |
 | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](http://arxiv.org/abs/2609.26911v2) | ArXiv |  | 1 |
+| [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](http://arxiv.org/abs/2609.26911v3) | ArXiv |  | 1 |
 | [Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](http://arxiv.org/abs/2504.09772v3) | ArXiv |  | 1 |
 | [TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology](http://arxiv.org/abs/2606.19245v1) | ArXiv |  | 1 |
 | [Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It](http://arxiv.org/abs/2609.26758v1) | ArXiv |  | 1 |
@@ -1098,6 +1108,7 @@
 | [When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning](http://arxiv.org/abs/2608.31118v1) | ArXiv |  | 1 |
 | [When Does Confidence Reveal Problem Difficulty?](http://arxiv.org/abs/2611.19173v1) | ArXiv |  | 1 |
 | [When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning](http://arxiv.org/abs/2605.06772v2) | ArXiv |  | 1 |
+| [When Does Overriding the Majority Vote Help?](http://arxiv.org/abs/2611.31165v1) | ArXiv |  | 1 |
 | [When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation](http://arxiv.org/abs/2609.01519v1) | ArXiv |  | 1 |
 | [When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning](http://arxiv.org/abs/2606.16995v1) | ArXiv |  | 1 |
 | [When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Diagnostic for Machine Collectives](http://arxiv.org/abs/2608.03722v2) | ArXiv |  | 1 |

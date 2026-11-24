@@ -581,13 +581,8 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:imagefolder",
-      "library:datasets",
-      "library:mlcroissant",
       "license:cc-by-nc-sa-4.0",
-      "modality:image",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -1078,6 +1073,24 @@
     },
     "source_url": "https://huggingface.co/datasets/bigscience/evaluation-results",
     "local_path": "datasets/bigscience/hf_ds_62e81d0e55744b69f18e254c.json"
+  },
+  {
+    "id": "hf_ds_6356b19985da6f13863228bd",
+    "title": "hf-doc-build/doc-build",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/hf-doc-build/doc-build",
+    "local_path": "datasets/hf-doc-build/hf_ds_6356b19985da6f13863228bd.json"
   },
   {
     "id": "hf_ds_636a1b69f2f9ec4289c4c19e",
@@ -4504,6 +4517,26 @@
     "local_path": "datasets/jzr99/hf_ds_6901510f85821f56ae6f5438.json"
   },
   {
+    "id": "hf_ds_69109b3f0570b41ffe28a6ea",
+    "title": "builddotai/Egocentric-10K",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/builddotai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/builddotai/Egocentric-10K",
+    "local_path": "datasets/builddotai/hf_ds_69109b3f0570b41ffe28a6ea.json"
+  },
+  {
     "id": "hf_ds_691cad435bb68b24ef7ba828",
     "title": "gradio/frontend",
     "category": "dataset",
@@ -5652,8 +5685,16 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
       "license:cc-by-4.0",
-      "region:us"
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [
@@ -7354,6 +7395,25 @@
     "local_path": "datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json"
   },
   {
+    "id": "hf_ds_6a9ea0a77ac9cae1afea0d24",
+    "title": "sanket3dx/medicine_db",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "modality:text",
+      "region:us",
+      "size_categories:n<1K"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/sanket3dx/medicine_db",
+    "local_path": "datasets/sanket3dx/hf_ds_6a9ea0a77ac9cae1afea0d24.json"
+  },
+  {
     "id": "hf_ds_6aa585f5e13985455758f8eb",
     "title": "sjkhfuk/fofo",
     "category": "dataset",
@@ -7652,11 +7712,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:video",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -7783,6 +7839,56 @@
     },
     "source_url": "https://huggingface.co/datasets/IaLoverSpaghetti/LocaIAinHTML",
     "local_path": "datasets/ialoverspaghetti/hf_ds_6af4258a4d4515274af21b61.json"
+  },
+  {
+    "id": "hf_ds_6af5ee05f9e1e18cb55478eb",
+    "title": "HubLabs/HubEgo-100K",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "LeRobot",
+      "arxiv:2611.21938",
+      "datasets",
+      "dexterous-manipulation",
+      "egocentric",
+      "egocentric-video",
+      "embodied-ai",
+      "first-person",
+      "hand-object-interaction",
+      "human-demonstrations",
+      "imitation-learning",
+      "imu",
+      "language:en",
+      "lerobot",
+      "library:datasets",
+      "license:cc-by-4.0",
+      "manipulation",
+      "manual-work",
+      "modality:video",
+      "physical-ai",
+      "region:eu",
+      "robot-learning",
+      "robotics",
+      "size_categories:100K<n<1M",
+      "skilled-work",
+      "source_datasets:original",
+      "task_categories:robotics",
+      "task_categories:video-classification",
+      "task_categories:video-text-to-text",
+      "video",
+      "vla",
+      "world-model"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/HubLabs"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/HubLabs/HubEgo-100K",
+    "local_path": "datasets/hublabs/hf_ds_6af5ee05f9e1e18cb55478eb.json"
   },
   {
     "id": "hf_ds_ACCC1380_private-model",

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.05965v2",
+  "schema_version": "1.0",
+  "name": "EditThinker: Enhancing Image Editors via Iterative Reasoning with a Plug-and-Play VLM",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.05965v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.05965v2",
+    "updated": "2026-11-23T18:45:13Z",
+    "published": "2025-12-05T18:58:09Z",
+    "title": "EditThinker: Enhancing Image Editors via Iterative Reasoning with a Plug-and-Play VLM",
+    "summary": "Image editors can produce realistic images while still failing to satisfy the requested changes. Improving their instruction following requires identifying these failures and translating visual feedback into instructions that the editor can execute. We introduce EditThinker, an 8B vision-language model (VLM) that enhances existing image editors through iterative reasoning while keeping their weights fixed. EditThinker jointly critiques semantic consistency and visual quality, reasons about editing failures, and refines the instruction in a structured response. It interacts with the editor through a Critique-Refine-Repeat loop, providing a plug-and-play interface for feedback-driven editing. Learning effective refinements requires more than imitating plausible expert suggestions: the instructions must work with the capabilities of the underlying editor. We therefore combine supervised fine-tuning on expert demonstrations with reinforcement learning from executed editing outcomes, using format, critic, and edit rewards. To support this training, we construct ThinkEdit-167k, a dataset of 167k step-wise samples with unified supervision for critique, reasoning, and instruction refinement. Across four tested editors, EditThinker improves overall scores on GEdit-Bench-EN, ImgEdit-Bench, RISE-Bench, and KRIS-Bench. Ablations examine the joint model design, data allocation, and training across VLM backbones. In our GEdit round-budget study, refinement achieves higher scores with fewer editor calls than best-of-N selection. We will release our data construction framework, datasets, and models.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:45:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.05965v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

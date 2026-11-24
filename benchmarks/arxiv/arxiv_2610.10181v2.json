@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.10181v2",
+  "schema_version": "1.0",
+  "name": "Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.10181v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.10181v2",
+    "updated": "2026-11-23T18:19:36Z",
+    "published": "2026-10-07T14:48:54Z",
+    "title": "Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection",
+    "summary": "Robots operating in dynamic environments require reliable detection of how their surroundings change over time. Existing learning-based methods largely rely on pairwise 2D image features, which struggle under large viewpoint changes and occlusions, are sensitive to noise, and show limited generalization across domains, while explicit 3D approaches typically require costly offline optimization. We show that the implicit 3D knowledge of Geometric Foundation Models (GFMs) provides a strong basis for addressing these limitations. We introduce Argos, which adapts GFM features for joint scene change detection and 3D reconstruction. To address data scarcity and take a step toward a foundation model for scene change detection, we introduce a large-scale benchmark comprising two synthetic datasets and one real-world dataset, and train jointly across diverse datasets to improve cross-domain generalization. We further introduce Argos-SLAM, a real-time system designed for robotics, which performs online change detection and change-aware 4D mapping. Across benchmarks, our framework substantially outperforms existing baselines, with gains of up to 42.01% in change IoU and 27.91% in F1, while supporting scalable deployment in changing real-world environments.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:19:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.10181v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

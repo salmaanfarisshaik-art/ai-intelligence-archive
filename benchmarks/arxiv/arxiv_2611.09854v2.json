@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.09854v2",
+  "schema_version": "1.0",
+  "name": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.09854v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.09854v2",
+    "updated": "2026-11-23T18:59:46Z",
+    "published": "2026-11-06T18:36:50Z",
+    "title": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
+    "summary": "The Global Ecosystem Dynamics Investigation (GEDI) mission measures three-dimensional forest structure with a LiDAR instrument aboard the International Space Station. GEDI observations have geolocation errors of about 10 m, which cause misalignment with other remote sensing data and reduce the accuracy of downstream tasks. Matching GEDI ground elevations against high-resolution digital terrain models (DTMs) from airborne LiDAR is one way to correct these errors, but such DTMs exist in few regions. To widen this method's applicability, we super-resolved a more widely available low-resolution DTM for elevation matching. We ask whether a super-resolved DTM yields the same correction as a 1 m-resolution airborne LiDAR DTM and, if not, why. In steep forests of western Japan, we super-resolved an existing 10 m-resolution DTM to 1 m. Additionally fusing a global 30 m-resolution DTM from a different source substantially improved the accuracy. Using the resulting DTM, we corrected GEDI observation positions first by a single offset per ground track, then point by point. For most tracks, the per-track corrections nearly agreed with those from the airborne LiDAR DTM. Point-by-point corrections, however, did not agree. This was because the error of the generated DTM was close to the elevation differences that point-by-point correction must resolve, and most of this error lay at scales that even a 10 m-resolution DTM can represent. Under similar conditions, a super-resolved DTM may be usable in place of a 1 m-resolution DTM for per-track correction, but improving the accuracy, or using it for point-by-point correction as well, requires reducing the error at these scales rather than reproducing fine relief.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:59:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.09854v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

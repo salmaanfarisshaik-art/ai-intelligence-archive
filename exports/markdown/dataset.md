@@ -92,7 +92,7 @@
 - **ID**: hf_ds_621ffdd236468d709f1835cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images)
-- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image, region:us, size_categories:n<1K
+- **Tags**: license:cc-by-nc-sa-4.0, region:us
 
 ## huggingface-course/documentation-images
 - **ID**: hf_ds_621ffdd236468d709f1835d5
@@ -129,6 +129,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/bigscience/evaluation-results](https://huggingface.co/datasets/bigscience/evaluation-results)
 - **Tags**: region:us, size_categories:100M<n<1B, task_categories:other
+
+## hf-doc-build/doc-build
+- **ID**: hf_ds_6356b19985da6f13863228bd
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/hf-doc-build/doc-build](https://huggingface.co/datasets/hf-doc-build/doc-build)
+- **Tags**: license:mit, region:us
 
 ## hf-doc-build/doc-build-dev
 - **ID**: hf_ds_636a1b69f2f9ec4289c4c19e
@@ -826,6 +832,12 @@
 - **URL**: [https://huggingface.co/datasets/jzr99/mesh4d_dataset](https://huggingface.co/datasets/jzr99/mesh4d_dataset)
 - **Tags**: library:datasets, library:mlcroissant, modality:3d, modality:image, region:us, size_categories:100K<n<1M
 
+## builddotai/Egocentric-10K
+- **ID**: hf_ds_69109b3f0570b41ffe28a6ea
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/builddotai/Egocentric-10K](https://huggingface.co/datasets/builddotai/Egocentric-10K)
+- **Tags**: license:apache-2.0, region:us
+
 ## gradio/frontend
 - **ID**: hf_ds_691cad435bb68b24ef7ba828
 - **Source**: HuggingFace Datasets
@@ -1100,7 +1112,7 @@
 - **ID**: hf_ds_69cec888d6ad2ec885b60a97
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset](https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset)
-- **Tags**: license:cc-by-4.0, region:us
+- **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, modality:tabular, modality:text, region:us, size_categories:1M<n<10M
 
 ## Williamsanderson/MedQA-Darija-MultiLingual
 - **ID**: hf_ds_69cf1925c61c6c0fbb866b5d
@@ -1492,6 +1504,12 @@
 - **URL**: [https://huggingface.co/datasets/numix/balises-openwindmap-pyrenees](https://huggingface.co/datasets/numix/balises-openwindmap-pyrenees)
 - **Tags**: region:us
 
+## sanket3dx/medicine_db
+- **ID**: hf_ds_6a9ea0a77ac9cae1afea0d24
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/sanket3dx/medicine_db](https://huggingface.co/datasets/sanket3dx/medicine_db)
+- **Tags**: modality:text, region:us, size_categories:n<1K
+
 ## sjkhfuk/fofo
 - **ID**: hf_ds_6aa585f5e13985455758f8eb
 - **Source**: HuggingFace Datasets
@@ -1574,7 +1592,7 @@
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
-- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## miniiohinkimsavol/copyright-detection-videos
 - **ID**: hf_ds_6adf714965d27a395f029c31
@@ -1605,6 +1623,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/IaLoverSpaghetti/LocaIAinHTML](https://huggingface.co/datasets/IaLoverSpaghetti/LocaIAinHTML)
 - **Tags**: region:us
+
+## HubLabs/HubEgo-100K
+- **ID**: hf_ds_6af5ee05f9e1e18cb55478eb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/HubLabs/HubEgo-100K](https://huggingface.co/datasets/HubLabs/HubEgo-100K)
+- **Tags**: LeRobot, arxiv:2611.21938, datasets, dexterous-manipulation, egocentric, egocentric-video, embodied-ai, first-person, hand-object-interaction, human-demonstrations, imitation-learning, imu, language:en, lerobot, library:datasets, license:cc-by-4.0, manipulation, manual-work, modality:video, physical-ai, region:eu, robot-learning, robotics, size_categories:100K<n<1M, skilled-work, source_datasets:original, task_categories:robotics, task_categories:video-classification, task_categories:video-text-to-text, video, vla, world-model
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

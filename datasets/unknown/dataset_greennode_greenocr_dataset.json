@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8cd6e2caa18f4581dc17d325aa0d9f0704163bf1",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tGreenOCR-Dataset\n\t\n\nSynthetic document pages for training OCR / document-parsing models, mainly Vietnamese with an English counterpart. Each page comes with\nexact ground truth (block polygons and content) and a ready-to-train target in the LightOnOCR-3 grounding format. The pages are rendered,\nnot real scans; the augment parts are degraded variants (scan / phone / old-paper look).\nEvery type has three parts: vi and en (clean pages) and augment (degraded pages, Vietnamese and… See the full description on the dataset page: https://huggingface.co/datasets/GreenNode/GreenOCR-Dataset.",
-  "downloads": 49757,
+  "downloads": 49759,
   "tags": [
     "task_categories:image-to-text",
     "task_categories:image-text-to-text",

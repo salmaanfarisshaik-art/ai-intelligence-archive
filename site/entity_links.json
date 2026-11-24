@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:38:24Z",
+  "generated_at": "2026-11-24T15:32:07Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -234,6 +234,11 @@
     {
       "source_id": "hf_google_gemma-3-1b-it",
       "target_id": "hf_google_gemma-3-1b-pt",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
+      "target_id": "hf_zai-org_GLM-5.3-BF16",
       "type": "derived_from"
     },
     {
@@ -4249,6 +4254,31 @@
     {
       "source_id": "model_kblueleaf_tipo_500m_ft",
       "target_id": "hf_laion_conceptual-captions-12m-webdataset",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "target_id": "hf_CaptionEmporium_coyo-hd-11m-llavanext",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "target_id": "hf_CaptionEmporium_laion-coco-13m-molmo-d-7b",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "target_id": "hf_KBlueLeaf_danbooru-8M-qwen3.5-caption",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "target_id": "hf_KBlueLeaf_danbooru2023-metadata-database",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
+      "target_id": "hf_pixparse_cc12m-wds",
       "type": "trained_on"
     },
     {
@@ -11059,6 +11089,11 @@
     {
       "source_id": "model_xhtoken_spark_x2_6_1_7b_gguf",
       "target_id": "hf_XHToken_Spark-X2.6-1.7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_xhtoken_spark_x2_6_4b",
+      "target_id": "hf_XHToken_Spark-X2.6-4B-Base",
       "type": "derived_from"
     },
     {

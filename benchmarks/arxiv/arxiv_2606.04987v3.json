@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.04987v3",
+  "schema_version": "1.0",
+  "name": "DeliChess: A Multi-party Dialogue Dataset for Deliberation in Chess Puzzle Solving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.04987v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.04987v3",
+    "updated": "2026-11-23T18:35:59Z",
+    "published": "2026-06-03T15:08:46Z",
+    "title": "DeliChess: A Multi-party Dialogue Dataset for Deliberation in Chess Puzzle Solving",
+    "summary": "Multi-party dialogue is a critical setting for studying collaborative reasoning and decision-making, yet existing datasets rarely focus on structured, reasoning-intensive tasks. We introduce DeliChess, a dataset of group deliberation dialogues in which participants collaboratively solve multiple-choice chess puzzles. Participants first answer independently, then engage in multi-party deliberation and revise their individual answers. The dataset comprises 107 sessions containing 321 puzzle discussions across 24 unique positions, with full transcripts, pre- and post-deliberation choices, and utterance-level annotations of communicative function, epistemic stance, and usefulness in supporting deliberation. Our analyses show that greater diversity in initial solution quality is associated with larger gains, while answer trajectories reveal how deliberation can recover, discover, or lose strong answers. Cases in which groups surpass every independent answer are associated with sustained reasoning and epistemic openness. We further propose a diagnostic action-selection task: the tested LLMs show limited exact agreement with human-attested helpful actions, while ranked predictions reveal partial alignment. Overall, our dataset provides a testbed for modelling group reasoning, dialogue dynamics, and conditions for effective deliberation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:35:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.04987v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

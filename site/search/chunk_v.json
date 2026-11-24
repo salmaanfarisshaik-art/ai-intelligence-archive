@@ -395,6 +395,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_nvidia_nemotron_post_training_dataset_v1",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "hf_ds_6a80b0577ce7785d1c42af57",
       "match_type": "exact",
       "score": 5.0
@@ -1150,6 +1155,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_harness_hub_termgrade_train_harbor",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ise_uiuc_magicoder_evol_instruct_110k",
       "match_type": "exact",
       "score": 1.0
@@ -1211,6 +1221,11 @@
     },
     {
       "entity_id": "dataset_mylyu_m4raw_brain",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_nemotron_cc_code_v1",
       "match_type": "exact",
       "score": 1.0
     },
@@ -1841,6 +1856,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_nvidia_nemotron_cc_code_v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_scaleai_swe_bench_pro",
       "match_type": "exact",
       "score": 2.0
@@ -2067,6 +2087,11 @@
     },
     {
       "entity_id": "model_jiunsong_supergemma4_26b_uncensored_gguf_v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_kblueleaf_tipo_v2_1_1b_a200m",
       "match_type": "exact",
       "score": 2.0
     },
@@ -3605,6 +3630,13 @@
     },
     {
       "entity_id": "dataset_spcl_arxiv_for_fanns_medium",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "v6": [
+    {
+      "entity_id": "dataset_syvai_danish_passport_photos_synthetic",
       "match_type": "exact",
       "score": 1.0
     }
@@ -5842,6 +5874,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_syvai_danish_passport_photos_synthetic",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_tau_commonsense_qa",
       "match_type": "exact",
       "score": 1.0
@@ -6598,6 +6635,11 @@
     },
     {
       "entity_id": "arxiv_2611.17316v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_yifishbossman_financial_analyst_data_full",
       "match_type": "exact",
       "score": 2.0
     },
@@ -8317,6 +8359,11 @@
     },
     {
       "entity_id": "hf_ds_6804d9b810dede0a63020b0a",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69109b3f0570b41ffe28a6ea",
       "match_type": "exact",
       "score": 1.0
     },
@@ -23550,6 +23597,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.26911v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2609.28471v1",
       "match_type": "exact",
       "score": 2.0
@@ -27915,6 +27967,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_polyai_banking77",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by_dcae",
       "match_type": "exact",
       "score": 1.0
@@ -29034,6 +29091,11 @@
     },
     {
       "entity_id": "arxiv_2512.03424v4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2512.05965v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -30243,6 +30305,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.25645v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2609.26249v2",
       "match_type": "exact",
       "score": 2.0
@@ -30879,6 +30946,26 @@
     },
     {
       "entity_id": "arxiv_2611.29712v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31139v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31185v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31225v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31233v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -35282,6 +35369,21 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.31164v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31184v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31239v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_alibaba_velldepth_mma_safetybench",
       "match_type": "exact",
       "score": 2.0
@@ -35353,6 +35455,11 @@
     },
     {
       "entity_id": "hf_ds_6a580014dab1978b184dc4a0",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_6af5ee05f9e1e18cb55478eb",
       "match_type": "exact",
       "score": 2.0
     },
@@ -35618,6 +35725,11 @@
     },
     {
       "entity_id": "dataset_kkail8_uginstomni",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lakonik_blog_media",
       "match_type": "exact",
       "score": 1.5
     },
@@ -35948,16 +36060,6 @@
     },
     {
       "entity_id": "dataset_usc_psi_lab_humanoid_everyday",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_visionhdstream_data_vision_01",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_visionhdstream_data_vision_02",
       "match_type": "exact",
       "score": 1.5
     },
@@ -36813,6 +36915,11 @@
     },
     {
       "entity_id": "hf_ds_68a7fb1964bbb2ec688d1af2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69109b3f0570b41ffe28a6ea",
       "match_type": "exact",
       "score": 1.0
     },
@@ -39356,6 +39463,11 @@
     },
     {
       "entity_id": "arxiv_2611.23417v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31156v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -42991,6 +43103,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2606.29085v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2608.28468v1",
       "match_type": "exact",
       "score": 2.0
@@ -44506,6 +44623,11 @@
     },
     {
       "entity_id": "dataset_theusamaaslam_urdu_callsqa_private",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69109b3f0570b41ffe28a6ea",
       "match_type": "exact",
       "score": 1.0
     },
@@ -46060,6 +46182,26 @@
     },
     {
       "entity_id": "arxiv_2611.29735v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31126v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31215v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31237v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31238v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -54186,6 +54328,11 @@
       "entity_id": "arxiv_2608.19490v2",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.31240v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "vllm": [
@@ -54958,6 +55105,11 @@
     },
     {
       "entity_id": "arxiv_2506.12374v4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2512.05965v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -59115,6 +59267,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.31165v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-2651485805571227285",
       "match_type": "exact",
       "score": 1.0
@@ -60266,6 +60423,13 @@
       "entity_id": "alpaca_-553826522443978213",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "vritra": [
+    {
+      "entity_id": "arxiv_2611.31139v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "vro": [

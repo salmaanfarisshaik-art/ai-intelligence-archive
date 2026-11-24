@@ -1,0 +1,23 @@
+{
+  "_id": "67d1c6ef5e3f34422f94901f",
+  "id": "nvidia/PhysicalAI-Robotics-Manipulation-SingleArm",
+  "author": "nvidia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-05-15T05:52:37.000Z",
+  "likes": 20,
+  "private": false,
+  "sha": "73c00c18e7ca108e91846294b20a1d7cd5de9340",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Description:\n\t\n\nPhysicalAI-Robotics-Manipulation-SingeArm is a collection of datasets of automatic generated motions of a Franka Panda robot performing operations such as block stacking, opening cabinets and drawers. The dataset was generated in IsaacSim leveraging task and motion planning algorithms to find solutions to the tasks automatically [1, 3]. The environments are table-top scenes where the object layouts and asset textures are procedurally generated [2].This… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-Manipulation-SingleArm.",
+  "downloads": 51610,
+  "tags": [
+    "task_categories:robotics",
+    "license:cc-by-4.0",
+    "region:us",
+    "robotics"
+  ],
+  "createdAt": "2025-03-12T17:39:59.000Z",
+  "key": "",
+  "unique_id": "dataset_nvidia_physicalai_robotics_manipulation_singlearm",
+  "schema_version": "1.0"
+}

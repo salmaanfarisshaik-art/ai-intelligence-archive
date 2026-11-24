@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18102v1](http://arxiv.org/abs/2607.18102v1)
 
+## IDP AutoOpt: Agent-Driven Optimization of Document Processing Pipeline Configurations
+- **ID**: arxiv_2607.26075v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26075v3](http://arxiv.org/abs/2607.26075v3)
+
 ## Improving Item Discoverability in e-Commerce Search via Related Intent Generation
 - **ID**: arxiv_2607.27172v1
 - **Source**: ArXiv
@@ -294,4 +299,9 @@
 - **ID**: arxiv_2611.27910v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27910v1](http://arxiv.org/abs/2611.27910v1)
+
+## CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting
+- **ID**: arxiv_2611.31185v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31185v1](http://arxiv.org/abs/2611.31185v1)
 

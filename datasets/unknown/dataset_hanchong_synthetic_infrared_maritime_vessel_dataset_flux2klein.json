@@ -9,7 +9,7 @@
   "private": false,
   "sha": "487006c07cea133291f7b9d4fb8cd93f80cf7dd6",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSynthetic Infrared Maritime Vessel Dataset (FLUX2-Klein)\n\t\n\nRGB maritime vessel images translated to synthetic infrared via a DreamBooth-finetuned FLUX.2-Klein-4B.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\nsynthetic-infrared-maritime-vessel-dataset-flux2klein/\n├── in-distribution/\n│   ├── train/{C00,C02,...}/*.jpg\n│   ├── val/{C00,C02,...}/*.jpg\n│   ├── test/{C00,C02,...}/*.jpg\n│   ├── labels.txt\n│   └── selected-metadata-{train,val,test}.json\n└── out-of-distribution/\n    ├── val/{C01,C03,C06… See the full description on the dataset page: https://huggingface.co/datasets/hanchong/synthetic-infrared-maritime-vessel-dataset-flux2klein.",
-  "downloads": 87945,
+  "downloads": 87947,
   "tags": [
     "task_categories:image-classification",
     "size_categories:100K<n<1M",

@@ -1,0 +1,29 @@
+{
+  "_id": "68895c3182e38006a8e9aa94",
+  "id": "nvidia/Nemotron-Post-Training-Dataset-v1",
+  "author": "nvidia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-08-25T20:03:33.000Z",
+  "likes": 200,
+  "private": false,
+  "sha": "74e23eb6f830fef4a9e96a92f6f6262214cbb9a8",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tNemotron-Post-Training-Dataset-v1 Release\n\t\n\nThis dataset is a compilation of SFT data that supports improvements of math, code, stem, general reasoning, and tool calling capabilities of the original Llama instruct model Llama-3.3-Nemotron-Super-49B-v1.5. \nLlama-3.3-Nemotron-Super-49B-v1.5 is an LLM which is a derivative of Meta Llama-3.3-70B-Instruct (AKA the reference model).\nLlama-3.3-Nemotron-Super-49B-v1.5 offers a great tradeoff between model accuracy and efficiency.… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/Nemotron-Post-Training-Dataset-v1.",
+  "downloads": 41901,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:10M<n<100M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2505.00949",
+    "region:us"
+  ],
+  "createdAt": "2025-07-29T23:41:37.000Z",
+  "key": "",
+  "unique_id": "dataset_nvidia_nemotron_post_training_dataset_v1",
+  "schema_version": "1.0"
+}

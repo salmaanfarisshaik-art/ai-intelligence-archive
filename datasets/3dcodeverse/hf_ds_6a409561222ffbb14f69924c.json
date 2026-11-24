@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "3dcodeverse/3dcodeverse-2m",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t3DCodeVerse-2M\n\t\n\nA large-scale corpus of standalone, executable 3D code — Blender Python, CadQuery, GLSL, Three.js, OpenSCAD and URDF — released with the paper\n3DCodeVerse: Exploring 3D Worlds as Code.\n📄 Paper · 🤗 Paper page · 🌐 Project page · 💻 Code · 🧩 Collection\nEach program is packaged with the files it needs to run in its declared environment, plus rendered views,\ncaptions (instruction / detailed description / construction procedure) and, where available, meshes and… See the full description on the dataset page: https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m.",
-  "size": "1489798",
+  "size": "1430485",
   "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -14,12 +14,12 @@
     "author": "3dcodeverse",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-11-16T10:09:15.000Z",
+    "lastModified": "2026-11-24T04:47:28.000Z",
     "likes": 81,
     "private": false,
-    "sha": "1d3935d94760922ef7a55f4a1a3e19a3b90ec702",
+    "sha": "83f5e6815ed5d2bce6fd4cb6dedcb7743d14fd0e",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t3DCodeVerse-2M\n\t\n\nA large-scale corpus of standalone, executable 3D code — Blender Python, CadQuery, GLSL, Three.js, OpenSCAD and URDF — released with the paper\n3DCodeVerse: Exploring 3D Worlds as Code.\n📄 Paper · 🤗 Paper page · 🌐 Project page · 💻 Code · 🧩 Collection\nEach program is packaged with the files it needs to run in its declared environment, plus rendered views,\ncaptions (instruction / detailed description / construction procedure) and, where available, meshes and… See the full description on the dataset page: https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m.",
-    "downloads": 1489798,
+    "downloads": 1430485,
     "tags": [
       "task_categories:text-to-3d",
       "task_categories:image-to-3d",
@@ -44,8 +44,8 @@
     "createdAt": "2026-06-28T03:30:41.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-11-23T19:51:01.925034+00:00",
-  "last_updated": "2026-11-16T10:09:15.000Z",
+  "retrieval_timestamp": "2026-11-24T15:31:18.924483+00:00",
+  "last_updated": "2026-11-24T04:47:28.000Z",
   "links": {
     "related_models": [
       "datasets/3dcodeverse"

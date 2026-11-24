@@ -495,6 +495,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.05610v2](http://arxiv.org/abs/2512.05610v2)
 
+## EditThinker: Enhancing Image Editors via Iterative Reasoning with a Plug-and-Play VLM
+- **ID**: arxiv_2512.05965v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.05965v2](http://arxiv.org/abs/2512.05965v2)
+
 ## S2WMamba: Modality-Specific Wavelet Decomposition with Learnable Detail Bands for Pansharpening
 - **ID**: arxiv_2512.06330v4
 - **Source**: ArXiv
@@ -6215,6 +6220,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08791v1](http://arxiv.org/abs/2610.08791v1)
 
+## Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection
+- **ID**: arxiv_2610.10181v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10181v2](http://arxiv.org/abs/2610.10181v2)
+
 ## Rubix: Global Correspondence-Free Point Set Alignment through Assignment Geometry
 - **ID**: arxiv_2610.10408v1
 - **Source**: ArXiv
@@ -8859,4 +8869,89 @@
 - **ID**: arxiv_2611.29792v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29792v1](http://arxiv.org/abs/2611.29792v1)
+
+## CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion
+- **ID**: arxiv_2611.31128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31128v1](http://arxiv.org/abs/2611.31128v1)
+
+## SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification
+- **ID**: arxiv_2611.31135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31135v1](http://arxiv.org/abs/2611.31135v1)
+
+## HoloSplat: Real-Time Token Streaming for Feed-Forward Human Reconstruction
+- **ID**: arxiv_2611.31140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31140v1](http://arxiv.org/abs/2611.31140v1)
+
+## Head Anything: Correspondence-Guided Joint Generation of 3D Heads from Few Images
+- **ID**: arxiv_2611.31143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31143v1](http://arxiv.org/abs/2611.31143v1)
+
+## Tokens as Locality-Preserving Anchors: Scalable Novel View Synthesis with Target-Adaptive Token Routing
+- **ID**: arxiv_2611.31156v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31156v1](http://arxiv.org/abs/2611.31156v1)
+
+## SPROUT: Predicting Objective-Grounded Prompt Utility for Efficient Text-to-Image Preference Tuning
+- **ID**: arxiv_2611.31163v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31163v1](http://arxiv.org/abs/2611.31163v1)
+
+## Analyzing and Improving FlowMap Distillation of Autoregressive Video Models
+- **ID**: arxiv_2611.31164v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31164v1](http://arxiv.org/abs/2611.31164v1)
+
+## On-Policy Codec Distillation for Efficient All-in-One Video Generation
+- **ID**: arxiv_2611.31184v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31184v1](http://arxiv.org/abs/2611.31184v1)
+
+## WorldLatent: A Unified 4D Latent Space for World Perception and Generation
+- **ID**: arxiv_2611.31209v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31209v1](http://arxiv.org/abs/2611.31209v1)
+
+## LeJEPA Features Are Not Isotropic, and Should Not Be
+- **ID**: arxiv_2611.31216v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31216v1](http://arxiv.org/abs/2611.31216v1)
+
+## CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans
+- **ID**: arxiv_2611.31222v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31222v1](http://arxiv.org/abs/2611.31222v1)
+
+## Self-Supervised Dataset Distillation via Mutual Information Maximization
+- **ID**: arxiv_2611.31225v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31225v1](http://arxiv.org/abs/2611.31225v1)
+
+## TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming
+- **ID**: arxiv_2611.31233v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31233v1](http://arxiv.org/abs/2611.31233v1)
+
+## Let Vision-Language Models Generate Images through Their Representations
+- **ID**: arxiv_2611.31237v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31237v1](http://arxiv.org/abs/2611.31237v1)
+
+## Modern Self-Supervised Vision Transformers Are Pareidolic
+- **ID**: arxiv_2611.31238v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31238v1](http://arxiv.org/abs/2611.31238v1)
+
+## Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory
+- **ID**: arxiv_2611.31239v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31239v1](http://arxiv.org/abs/2611.31239v1)
+
+## Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action
+- **ID**: arxiv_2611.31240v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31240v1](http://arxiv.org/abs/2611.31240v1)
 

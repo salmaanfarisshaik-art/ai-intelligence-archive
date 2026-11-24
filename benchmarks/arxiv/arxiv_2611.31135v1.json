@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31135v1",
+  "schema_version": "1.0",
+  "name": "SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31135v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31135v1",
+    "updated": "2026-11-23T18:06:09Z",
+    "published": "2026-11-23T18:06:09Z",
+    "title": "SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification",
+    "summary": "Multi-label remote sensing scene classification remains a challenging task due to complex spatial-spectral patterns, extreme class imbalance, and inter-label dependencies that are often insufficiently modeled. To address these challenges, we introduce a Semantic-Relational Cross-Window Dual-Graph Network (SRCWDNet), which integrates three key modules: (1) a Cross-Window Attention module that captures local and global visual context through learnable global tokens; (2) a Dual Label-Graph module that adaptively combines statistical co-occurrence graphs and learned semantic-embedding graphs to facilitate label-relational reasoning; and (3) a Neural Classifier Chain that sequentially predicts labels to exploit inter-label dependencies. Evaluated using five-fold cross-validation and trained with an Asymmetric-Graph-Consistency loss, SRCWDNet achieves accuracies of 98.93% and 96.53%, with corresponding F1-scores of 0.9365 and 0.8723 on the MLRSNet and China-MAS50k datasets, respectively, outperforming CNN, transformer, and lightweight baselines. These findings demonstrate that jointly modeling visual attention and adaptive label correlations can substantially improve multi-label remote sensing scene classification, particularly under long-tailed class distributions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:06:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31135v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -3108,6 +3108,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/katuni4ka/tiny-random-phi3](https://huggingface.co/katuni4ka/tiny-random-phi3)
 
+## kindlingai/glm-5.3-exlr8-k2-k3-k4
+- **ID**: hf_kindlingai_glm-5.3-exlr8-k2-k3-k4
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4](https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4)
+- **Tags**: base_model:finetune:zai-org/GLM-5.3-BF16, base_model:zai-org/GLM-5.3-BF16, conversational, exl3, gb10, glm, glm_moe_dsa, license:other, moe, quantized, region:us, tensor-parallel, text-generation, trellis
+
 ## kmhf/hf-moshiko
 - **ID**: hf_kmhf_hf-moshiko
 - **Source**: Hugging Face

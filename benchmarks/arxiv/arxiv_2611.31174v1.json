@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31174v1",
+  "schema_version": "1.0",
+  "name": "Reducing Order Sensitivity in Decision Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31174v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31174v1",
+    "updated": "2026-11-23T18:31:54Z",
+    "published": "2026-11-23T18:31:54Z",
+    "title": "Reducing Order Sensitivity in Decision Models",
+    "summary": "Decision models are emerging as fast components of larger AI systems. Yet recent decision models, such as Jev, process options sequentially, leading to different predictions based on their ordering. Across ten open- and closed-source decision models, we find that \\emph{order-sensitivity} is pervasive, causing substantial accuracy degradation and unreliable decision-making. These effects become more pronounced as the number of options grows and can compound across multi-step decisions. To address this problem, we systematically compare eight methods for mitigating order sensitivity in terms of robustness, predictive accuracy, and inference efficiency. Among these methods, we find that \\emph{tree attention} is a surprisingly effective and efficient method. It achieves order invariance by processing options as parallel branches of a shared context. When used during training, it matches the baseline's average accuracy. Applied to the baseline without retraining, it also eliminates order sensitivity with only a 1.1-point drop in accuracy. Our findings demonstrate that order invariance can be enforced directly in decision models with little or no loss in predictive accuracy.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:31:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31174v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

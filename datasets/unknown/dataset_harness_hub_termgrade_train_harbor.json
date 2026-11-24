@@ -1,0 +1,21 @@
+{
+  "_id": "6af40846c7be8058481e9e85",
+  "id": "harness-hub/termgrade-train-harbor",
+  "author": "harness-hub",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-11-11T06:17:48.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "151205e3714d8d1cec6b7d5770d344853e11d7aa",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tTermGrade train (Harbor tasks for HF sandboxes)\n\t\n\n904 tasks of ai-and/termgrade-environments\n(Apache-2.0), converted to run on one published image, docker.io/ybelkada/termgrade-base:v1: each task's setup.sh runs when its sandbox starts\n(see prepare_termgrade.py).\n\nRead by launcher_eval.py / launcher_train.py as --split <this repo>@<revision>.\nContains the hidden tests and reference solutions. Keep this repository private, and keep it out of any training\ndata.\n\n",
+  "downloads": 41910,
+  "tags": [
+    "license:apache-2.0",
+    "region:us"
+  ],
+  "createdAt": "2026-11-11T06:16:38.000Z",
+  "key": "",
+  "unique_id": "dataset_harness_hub_termgrade_train_harbor",
+  "schema_version": "1.0"
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:38:24Z",
+  "generated_at": "2026-11-24T15:32:08Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -134,7 +134,11 @@
     ],
     "hf_CaptionEmporium_coyo-hd-11m-llavanext": [
       "model_kblueleaf_tipo_500m",
-      "model_kblueleaf_tipo_500m_ft"
+      "model_kblueleaf_tipo_500m_ft",
+      "model_kblueleaf_tipo_v2_1_1b_a200m"
+    ],
+    "hf_CaptionEmporium_laion-coco-13m-molmo-d-7b": [
+      "model_kblueleaf_tipo_v2_1_1b_a200m"
     ],
     "hf_CarperAI_pilev2-dev": [
       "model_stabilityai_stablelm_3b_4e1t"
@@ -588,9 +592,13 @@
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF": [
       "hf_Qwen_Qwen3.8-27B"
     ],
+    "hf_KBlueLeaf_danbooru-8M-qwen3.5-caption": [
+      "model_kblueleaf_tipo_v2_1_1b_a200m"
+    ],
     "hf_KBlueLeaf_danbooru2023-metadata-database": [
       "model_kblueleaf_tipo_500m",
-      "model_kblueleaf_tipo_500m_ft"
+      "model_kblueleaf_tipo_500m_ft",
+      "model_kblueleaf_tipo_v2_1_1b_a200m"
     ],
     "hf_KRAFTON_Raon-1-mini-preview": [
       "model_krafton_raon_1_mini_preview_gguf"
@@ -1743,6 +1751,9 @@
       "model_sc117_spark_x2_6_4b_abliterated_fit_gguf",
       "model_xhtoken_spark_x2_6_4b_gguf"
     ],
+    "hf_XHToken_Spark-X2.6-4B-Base": [
+      "model_xhtoken_spark_x2_6_4b"
+    ],
     "hf_XingChen-AGI_Xing4.0-29B-A4B": [
       "model_venastine_research_xing4_0_29b_a4b_gguf"
     ],
@@ -2736,6 +2747,9 @@
     ],
     "hf_karpathy_fineweb-edu-100b-shuffle": [
       "model_neuralcrew_neutrino_instruct"
+    ],
+    "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4": [
+      "hf_zai-org_GLM-5.3-BF16"
     ],
     "hf_kldzj_gpt-oss-120b-heretic-v2": [
       "model_bartowski_kldzj_gpt_oss_120b_heretic_v2_gguf"
@@ -3859,6 +3873,9 @@
     "hf_pile-of-law_pile-of-law": [
       "model_bsc_lt_salamandra_7b_instruct"
     ],
+    "hf_pixparse_cc12m-wds": [
+      "model_kblueleaf_tipo_v2_1_1b_a200m"
+    ],
     "hf_poolside_Laguna-S-2.1": [
       "model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf",
       "model_myric_laguna_s_2_1_apex_gguf",
@@ -4268,6 +4285,7 @@
       "model_unsloth_glm_5_3_gguf"
     ],
     "hf_zai-org_GLM-5.3-BF16": [
+      "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
       "model_inferact_glm_5_3_nvfp4",
       "model_kindlingai_glm_5_3_exlr8_k2_k3_k4",
       "model_radixark_glm_5_3_nvfp4"
@@ -6114,6 +6132,13 @@
       "hf_KBlueLeaf_danbooru2023-metadata-database",
       "hf_graph-based-captions_GBC10M",
       "hf_laion_conceptual-captions-12m-webdataset"
+    ],
+    "model_kblueleaf_tipo_v2_1_1b_a200m": [
+      "hf_CaptionEmporium_coyo-hd-11m-llavanext",
+      "hf_CaptionEmporium_laion-coco-13m-molmo-d-7b",
+      "hf_KBlueLeaf_danbooru-8M-qwen3.5-caption",
+      "hf_KBlueLeaf_danbooru2023-metadata-database",
+      "hf_pixparse_cc12m-wds"
     ],
     "model_kenpath_svara_tts_v1": [
       "hf_IndicTTS",
@@ -9228,6 +9253,9 @@
     ],
     "model_xhtoken_spark_x2_6_1_7b_gguf": [
       "hf_XHToken_Spark-X2.6-1.7B"
+    ],
+    "model_xhtoken_spark_x2_6_4b": [
+      "hf_XHToken_Spark-X2.6-4B-Base"
     ],
     "model_xhtoken_spark_x2_6_4b_gguf": [
       "hf_XHToken_Spark-X2.6-4B"

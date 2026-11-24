@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.25645v3",
+  "schema_version": "1.0",
+  "name": "Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.25645v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.25645v3",
+    "updated": "2026-11-23T18:59:48Z",
+    "published": "2026-09-22T03:56:43Z",
+    "title": "Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices",
+    "summary": "Exhaustively evaluating every candidate LLM configuration on every benchmark item to identify a high-performing one is costly. We formulate configuration selection as a cost-aware Bayesian bandit problem and propose GittinsEval, inspired by Bayesian-optimal Gittins-index policies for Markov chain selection. We augment this policy with a separate anytime recommendation rule over both fully and partially evaluated configurations, using an LCB-style score to account for posterior uncertainty. GittinsEval is computationally efficient, requiring only lightweight online updates after offline precomputation. Across tasks with varying numbers of candidates and examples, GittinsEval is consistently competitive, with particularly strong gains over the Bayesian optimization baselines on few-candidate large-example benchmarks and over cost-unaware frequentist baselines on large-candidate tasks. Crucially, GittinsEval often attains near-zero simple regret using only 1%-2% of the exhaustive-evaluation cost; it also offers a stopping rule that typically triggers at 1%-10% with an appropriate cost--quality tradeoff parameter.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-24T15:31:13Z",
+  "last_updated": "2026-11-23T18:59:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.25645v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
