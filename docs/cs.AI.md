@@ -199,6 +199,7 @@
 | [Atria Dawn: The Dawn of Agentic Superintelligence](http://arxiv.org/abs/2609.15818v1) | ArXiv |  | 1 |
 | [Atria Dawn: The Dawn of Agentic Superintelligence](http://arxiv.org/abs/2609.15818v2) | ArXiv |  | 1 |
 | [AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](http://arxiv.org/abs/2608.02569v1) | ArXiv |  | 1 |
+| [Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges](http://arxiv.org/abs/2611.33065v1) | ArXiv |  | 1 |
 | [AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization](http://arxiv.org/abs/2608.21292v1) | ArXiv |  | 1 |
 | [Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks](http://arxiv.org/abs/2611.12816v1) | ArXiv |  | 1 |
 | [Automated reproducibility assessments in the social and behavioral sciences using large language models](http://arxiv.org/abs/2606.13670v1) | ArXiv |  | 1 |
@@ -349,6 +350,7 @@
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
 | [DelegateEval: Evaluating Platforms for Personal External Service Agents](http://arxiv.org/abs/2611.07508v2) | ArXiv |  | 1 |
 | [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
+| [Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance](http://arxiv.org/abs/2611.33098v1) | ArXiv |  | 1 |
 | [Depth as Time in One-Step Generative Models](http://arxiv.org/abs/2610.03626v1) | ArXiv |  | 1 |
 | [Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1) | ArXiv |  | 1 |
 | [Designing Transformers for Continuous Diffusion Language Models](http://arxiv.org/abs/2610.22330v1) | ArXiv |  | 1 |
@@ -357,6 +359,8 @@
 | [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](http://arxiv.org/abs/2604.01151v3) | ArXiv |  | 1 |
 | [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | ArXiv |  | 1 |
 | [DiabAgent: Toward Agentic Physiological Control](http://arxiv.org/abs/2611.03601v1) | ArXiv |  | 1 |
+| [Diagnosing and Improving Probabilistic Reasoning in Large Language Models](http://arxiv.org/abs/2609.38005v4) | ArXiv |  | 1 |
+| [Differential Proteomics to Symbolic Rules: An Audit of SHAP Guidance in Lung Adenocarcinoma](http://arxiv.org/abs/2611.29989v2) | ArXiv |  | 1 |
 | [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1) | ArXiv |  | 1 |
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1) | ArXiv |  | 1 |
@@ -542,6 +546,7 @@
 | [HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling](http://arxiv.org/abs/2610.12393v1) | ArXiv |  | 1 |
 | [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](http://arxiv.org/abs/2610.08966v2) | ArXiv |  | 1 |
 | [Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation](http://arxiv.org/abs/2606.26502v4) | ArXiv |  | 1 |
+| [Hybrid AI for AI-Native RAN Control: A Functional Perspective](http://arxiv.org/abs/2611.33035v1) | ArXiv |  | 1 |
 | [HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](http://arxiv.org/abs/2610.03574v1) | ArXiv |  | 1 |
 | [HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data](http://arxiv.org/abs/2610.27941v1) | ArXiv |  | 1 |
 | [HyScale: Scaling Long-Context Training for Learned Sparse Attention](http://arxiv.org/abs/2610.32057v3) | ArXiv |  | 1 |
@@ -667,6 +672,7 @@
 | [Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So](http://arxiv.org/abs/2606.18144v1) | ArXiv |  | 1 |
 | [MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents](http://arxiv.org/abs/2608.01742v2) | ArXiv |  | 1 |
 | [MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use](http://arxiv.org/abs/2608.20202v1) | ArXiv |  | 1 |
+| [MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing](http://arxiv.org/abs/2611.33119v1) | ArXiv |  | 1 |
 | [MFG: Multi-turn Feedback Guided Molecular Optimization](http://arxiv.org/abs/2610.18851v1) | ArXiv |  | 1 |
 | [MidTool: Mid-training Data Synthesis for Agentic Tool Use](http://arxiv.org/abs/2608.20314v1) | ArXiv |  | 1 |
 | [MillBill: A Machining Agent with Geometric Feedback](http://arxiv.org/abs/2611.22565v2) | ArXiv |  | 1 |
@@ -826,6 +832,7 @@
 | [RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing](http://arxiv.org/abs/2610.10507v1) | ArXiv |  | 1 |
 | [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](http://arxiv.org/abs/2608.31077v1) | ArXiv |  | 1 |
 | [Reconfiguring Procedural Knowledge for Compositional Robot Skill Adaptation](http://arxiv.org/abs/2611.22174v1) | ArXiv |  | 1 |
+| [RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis](http://arxiv.org/abs/2611.33022v1) | ArXiv |  | 1 |
 | [Recurrent GraphNeural NetworkswithSet-BasedAggregation](http://arxiv.org/abs/2609.15932v1) | ArXiv |  | 1 |
 | [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) | ArXiv |  | 1 |
 | [Reducing Order Sensitivity in Decision Models](http://arxiv.org/abs/2611.31174v1) | ArXiv |  | 1 |
@@ -984,6 +991,7 @@
 | [TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information](http://arxiv.org/abs/2610.37571v1) | ArXiv |  | 1 |
 | [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models](http://arxiv.org/abs/2609.05333v1) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |
+| [Temporal Conditioning for Human Behavioral Cloning in Chess](http://arxiv.org/abs/2611.33106v1) | ArXiv |  | 1 |
 | [TEPA: Revoking Stale Memories for Conflict-Robust Language Agents](http://arxiv.org/abs/2608.07429v1) | ArXiv |  | 1 |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](http://arxiv.org/abs/2609.04148v1) | ArXiv |  | 1 |
 | [Test-Time Compute Scales Better with Parallel Agent Teams](http://arxiv.org/abs/2611.09798v1) | ArXiv |  | 1 |
@@ -1065,6 +1073,7 @@
 | [TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology](http://arxiv.org/abs/2606.19245v1) | ArXiv |  | 1 |
 | [Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It](http://arxiv.org/abs/2609.26758v1) | ArXiv |  | 1 |
 | [Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG](http://arxiv.org/abs/2611.18464v1) | ArXiv |  | 1 |
+| [Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence](http://arxiv.org/abs/2611.33086v1) | ArXiv |  | 1 |
 | [UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement](http://arxiv.org/abs/2609.38721v2) | ArXiv |  | 1 |
 | [Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets](http://arxiv.org/abs/2608.21319v1) | ArXiv |  | 1 |
 | [UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20089v1) | ArXiv |  | 1 |

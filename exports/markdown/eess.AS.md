@@ -100,3 +100,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40505v1](http://arxiv.org/abs/2610.40505v1)
 
+## ClusterVAD: Threshold-Free Unsupervised Voice Activity Detection with Pre-Trained Neural Representations
+- **ID**: arxiv_2611.33059v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33059v1](http://arxiv.org/abs/2611.33059v1)
+

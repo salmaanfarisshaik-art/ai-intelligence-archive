@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33061v1",
+  "schema_version": "1.0",
+  "name": "SUPRA: Synthesizing Amyloid PET from MRI and Plasma Biomarkers with an Explicit Regional SUVR Prior",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33061v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33061v1",
+    "updated": "2026-11-24T18:03:54Z",
+    "published": "2026-11-24T18:03:54Z",
+    "title": "SUPRA: Synthesizing Amyloid PET from MRI and Plasma Biomarkers with an Explicit Regional SUVR Prior",
+    "summary": "Amyloid positron emission tomography (PET) quantifies brain amyloid-$β$ as a standardized uptake value ratio (SUVR), but is costly and not widely available. Structural magnetic resonance imaging (MRI) is routine, and plasma biomarkers such as phosphorylated tau 217 (p-tau217) are becoming practical. Synthesizing amyloid PET from MRI alone is ill-posed, because brain anatomy reveals little about amyloid burden. We present SUPRA (SUVR prior-guided amyloid synthesis), which divides this task between MRI and plasma biomarkers. A regression maps the plasma panel to regional SUVR levels, painted onto the subject's MRI segmentation as an explicit prior. A 3D network then adds a residual correction guided by MRI. The output is in absolute SUVR, and the model also runs on p-tau217 alone. On the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort (111 test pairs), SUPRA reaches a peak signal-to-noise ratio (PSNR) of 23.4 dB, against at most 20.7 dB for four published models, and rank correlations of 0.56 to 0.67 with true SUVR in the composite cortex, an early-accumulation region and the striatum, against at most 0.24. In a second, cognitively unimpaired cohort with other plasma platforms (143 test pairs), it reaches 22.8 dB and 0.32 to 0.61, against at most 21.4 dB and 0.20. Its area under the curve for amyloid positivity is 0.91 and 0.82, against at most 0.63. Ablations show that plasma supplies the amyloid information and the network the image quality. Combining MRI with a blood test yields synthetic amyloid PET that is realistic and tracks burden across regions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:03:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33061v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

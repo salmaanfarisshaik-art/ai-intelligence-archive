@@ -2395,6 +2395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12387v2](http://arxiv.org/abs/2608.12387v2)
 
+## GEM: A Generative Embedding Model Bridging Reasoning and Retrieval
+- **ID**: arxiv_2608.13200v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13200v3](http://arxiv.org/abs/2608.13200v3)
+
 ## Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity
 - **ID**: arxiv_2608.13484v1
 - **Source**: ArXiv
@@ -5015,6 +5020,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37651v1](http://arxiv.org/abs/2610.37651v1)
 
+## GEPA-Curator: Curated Learning for Self Improving Agents
+- **ID**: arxiv_2610.37651v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37651v2](http://arxiv.org/abs/2610.37651v2)
+
 ## DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers
 - **ID**: arxiv_2610.37826v2
 - **Source**: ArXiv
@@ -5430,6 +5440,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.13223v4](http://arxiv.org/abs/2611.13223v4)
 
+## Visual Similarity in Adult Word Extension and Artificial Word Learning
+- **ID**: arxiv_2611.14116v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.14116v2](http://arxiv.org/abs/2611.14116v2)
+
 ## Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models
 - **ID**: arxiv_2611.14387v1
 - **Source**: ArXiv
@@ -5544,6 +5559,11 @@
 - **ID**: arxiv_2611.19202v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.19202v1](http://arxiv.org/abs/2611.19202v1)
+
+## Offline-First Quantized AI: Design and Evaluation of an On-Device Maternal-Health Assistant for Low-Connectivity Environments
+- **ID**: arxiv_2611.20012v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.20012v2](http://arxiv.org/abs/2611.20012v2)
 
 ## Embedding Cosine Measures Text Length Before It Measures Homogenization
 - **ID**: arxiv_2611.21519v1
@@ -5699,4 +5719,34 @@
 - **ID**: arxiv_2611.31198v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31198v1](http://arxiv.org/abs/2611.31198v1)
+
+## SALSA: Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment
+- **ID**: arxiv_2611.33030v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33030v1](http://arxiv.org/abs/2611.33030v1)
+
+## Worth the Wait? How Response Time and Streaming Shape Judgments of Generative AI Answers and Chatbot Engagement
+- **ID**: arxiv_2611.33050v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33050v1](http://arxiv.org/abs/2611.33050v1)
+
+## FOL-Proof: Verifying LLM Text-to-Logic Translations via Deterministic Semantics
+- **ID**: arxiv_2611.33078v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33078v1](http://arxiv.org/abs/2611.33078v1)
+
+## AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design
+- **ID**: arxiv_2611.33093v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33093v1](http://arxiv.org/abs/2611.33093v1)
+
+## SAG-Mem-1.0 Technical Report
+- **ID**: arxiv_2611.33124v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33124v1](http://arxiv.org/abs/2611.33124v1)
+
+## CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies
+- **ID**: arxiv_2611.33148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33148v1](http://arxiv.org/abs/2611.33148v1)
 

@@ -3805,6 +3805,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.37988v2](http://arxiv.org/abs/2609.37988v2)
 
+## Diagnosing and Improving Probabilistic Reasoning in Large Language Models
+- **ID**: arxiv_2609.38005v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38005v4](http://arxiv.org/abs/2609.38005v4)
+
 ## Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs
 - **ID**: arxiv_2609.38070v1
 - **Source**: ArXiv
@@ -5640,6 +5645,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29744v1](http://arxiv.org/abs/2611.29744v1)
 
+## Differential Proteomics to Symbolic Rules: An Audit of SHAP Guidance in Lung Adenocarcinoma
+- **ID**: arxiv_2611.29989v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29989v2](http://arxiv.org/abs/2611.29989v2)
+
 ## Self-Upgrading Embodied Agents
 - **ID**: arxiv_2611.31117v1
 - **Source**: ArXiv
@@ -5684,4 +5694,39 @@
 - **ID**: arxiv_2611.31228v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31228v1](http://arxiv.org/abs/2611.31228v1)
+
+## RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis
+- **ID**: arxiv_2611.33022v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33022v1](http://arxiv.org/abs/2611.33022v1)
+
+## Hybrid AI for AI-Native RAN Control: A Functional Perspective
+- **ID**: arxiv_2611.33035v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33035v1](http://arxiv.org/abs/2611.33035v1)
+
+## Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges
+- **ID**: arxiv_2611.33065v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33065v1](http://arxiv.org/abs/2611.33065v1)
+
+## Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence
+- **ID**: arxiv_2611.33086v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33086v1](http://arxiv.org/abs/2611.33086v1)
+
+## Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance
+- **ID**: arxiv_2611.33098v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33098v1](http://arxiv.org/abs/2611.33098v1)
+
+## Temporal Conditioning for Human Behavioral Cloning in Chess
+- **ID**: arxiv_2611.33106v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33106v1](http://arxiv.org/abs/2611.33106v1)
+
+## MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing
+- **ID**: arxiv_2611.33119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33119v1](http://arxiv.org/abs/2611.33119v1)
 

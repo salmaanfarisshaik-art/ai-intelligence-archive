@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17185v1](http://arxiv.org/abs/2611.17185v1)
 
+## Read My Lips: Context-aware Lip Reading Using Language and Audio-Visual Models
+- **ID**: arxiv_2611.33117v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33117v1](http://arxiv.org/abs/2611.33117v1)
+

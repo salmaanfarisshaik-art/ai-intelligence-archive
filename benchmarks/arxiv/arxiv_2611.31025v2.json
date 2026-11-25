@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.31025v2",
+  "schema_version": "1.0",
+  "name": "Token Pruning Needs a Protected Sink Token: Coherent Spatial Aggregation in Vision Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.31025v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.31025v2",
+    "updated": "2026-11-24T18:50:20Z",
+    "published": "2026-11-23T17:06:00Z",
+    "title": "Token Pruning Needs a Protected Sink Token: Coherent Spatial Aggregation in Vision Transformers",
+    "summary": "Vision Transformers (ViTs) are a predominant architecture for computer vision, with token reduction emerging as a popular paradigm to improve their efficiency. Prior work compares reduction algorithms, but not how models respond to them, nor how their response changes with model depth. We propose Monte Carlo Token Pruning (MCTP), which estimates each token's impact on the prediction when tokens are explicitly removed during the forward pass. Applying MCTP to recent pretrained models, we observe that most, such as DINOv3, maintain a similar ranking of token importance at every depth (high Coherent Aggregation), while SigLIP 2 does not. This coherence requires predictions to survive pruning, which depends on keeping high-norm \"sink\" tokens: prefix tokens are kept by design, while prefix-free SigLIP 2 forms them on patch tokens, which pruning may remove. We show that in removing DINOv3's prefix tokens, its predictions and coherence collapse, while protecting only 5 tokens for SigLIP 2 cuts the token impact outside the object's bounding box by up to 62%. Beyond this, MCTP offers a post-hoc method to evaluate how a pretrained ViT responds to pruning, and suggests that token reduction methods should keep \"sinks\".",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:50:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.31025v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -75,3 +75,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.17466v2](http://arxiv.org/abs/2611.17466v2)
 
+## On the Creation of Object-Centric Event Logs from Patient Journeys
+- **ID**: arxiv_2611.33074v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33074v1](http://arxiv.org/abs/2611.33074v1)
+

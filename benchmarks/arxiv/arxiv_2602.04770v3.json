@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.04770v3",
+  "schema_version": "1.0",
+  "name": "Generative Modeling via Drifting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.04770v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.04770v3",
+    "updated": "2026-11-24T18:45:31Z",
+    "published": "2026-02-04T17:06:49Z",
+    "title": "Generative Modeling via Drifting",
+    "summary": "Generative modeling can be formulated as learning a mapping f such that its pushforward distribution matches the data distribution. The pushforward behavior can be carried out iteratively at inference time, e.g., in diffusion/flow-based models. In this paper, we propose Drifting Models, a new generative modeling paradigm that evolves the pushforward distribution during training and naturally admits one-step inference. We introduce a drifting field that governs the sample movement and achieves equilibrium when the distributions match. This leads to a training objective that allows the neural network optimizer to evolve the distribution. In experiments, our one-step generator achieves state-of-the-art one-step results on ImageNet 256x256, with FID 1.54 in latent space and 1.61 in pixel space. We hope that our work opens up new opportunities for high-quality one-step generation.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:45:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.04770v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

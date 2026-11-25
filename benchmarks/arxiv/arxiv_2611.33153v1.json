@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33153v1",
+  "schema_version": "1.0",
+  "name": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33153v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33153v1",
+    "updated": "2026-11-24T18:59:08Z",
+    "published": "2026-11-24T18:59:08Z",
+    "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+    "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine the model via reinforcement learning on 2.9K human-corrected clips, using fine-grained feedback that directly evaluates utterance timing, speaker grouping, and speaker binding. On DiaDemBench, which we extend with utterance-level timestamps and subtitle redaction, both DiaCap with off-the-shelf transcripts and its end-to-end variant DiaCap-E2E achieve strong results. Specifically, DiaCap performs on par with Gemini 4 Argon in audiovisual diarization while clearly outperforming it in timestamp accuracy (76.59 vs. 42.76 TIME). It also maintains strong diarization on multilingual and minute-long videos, and transfers to audiovisual question answering.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:59:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33153v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -315,6 +315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.04663v3](http://arxiv.org/abs/2602.04663v3)
 
+## Generative Modeling via Drifting
+- **ID**: arxiv_2602.04770v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04770v3](http://arxiv.org/abs/2602.04770v3)
+
 ## Constrained Group Relative Policy Optimization
 - **ID**: arxiv_2602.05863v4
 - **Source**: ArXiv
@@ -2370,6 +2375,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08743v1](http://arxiv.org/abs/2610.08743v1)
 
+## Convex-Concave Reinforcement Learning
+- **ID**: arxiv_2610.09108v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.09108v2](http://arxiv.org/abs/2610.09108v2)
+
 ## Fully Interpretable Minimal Transformers: From Geometry to Algorithm
 - **ID**: arxiv_2610.09838v2
 - **Source**: ArXiv
@@ -2459,6 +2469,11 @@
 - **ID**: arxiv_2610.16822v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.16822v2](http://arxiv.org/abs/2610.16822v2)
+
+## SPLICE: Sparse Physics Library Identification and Compositional Expansion
+- **ID**: arxiv_2610.17029v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.17029v2](http://arxiv.org/abs/2610.17029v2)
 
 ## Cross-View Time-Frequency Diffusion for Extreme-Aware Time-Series Generation
 - **ID**: arxiv_2610.17407v2
@@ -2915,6 +2930,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42030v1](http://arxiv.org/abs/2610.42030v1)
 
+## Sparse Autoencoder Attribution Graphs Are Decided at the Margin
+- **ID**: arxiv_2611.00606v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00606v3](http://arxiv.org/abs/2611.00606v3)
+
 ## Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime
 - **ID**: arxiv_2611.03526v1
 - **Source**: ArXiv
@@ -3334,4 +3354,24 @@
 - **ID**: arxiv_2611.31194v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31194v1](http://arxiv.org/abs/2611.31194v1)
+
+## Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?
+- **ID**: arxiv_2611.33031v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33031v1](http://arxiv.org/abs/2611.33031v1)
+
+## Latent Merger: Latent-Space Composition of Hypernetwork-Generated LoRAs
+- **ID**: arxiv_2611.33048v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33048v1](http://arxiv.org/abs/2611.33048v1)
+
+## Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions
+- **ID**: arxiv_2611.33111v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33111v1](http://arxiv.org/abs/2611.33111v1)
+
+## A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit
+- **ID**: arxiv_2611.33133v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33133v1](http://arxiv.org/abs/2611.33133v1)
 

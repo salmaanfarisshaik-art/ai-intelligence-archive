@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33124v1",
+  "schema_version": "1.0",
+  "name": "SAG-Mem-1.0 Technical Report",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33124v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33124v1",
+    "updated": "2026-11-24T18:51:29Z",
+    "published": "2026-11-24T18:51:29Z",
+    "title": "SAG-Mem-1.0 Technical Report",
+    "summary": "Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing approaches often rely on derived memory representations or persistent relational structures, introducing construction costs and potentially losing source details. We present SAG-Mem, a conversational memory framework that preserves complete dialogue messages in non-overlapping chunks and discovers complementary evidence through query-time lexical expansion. Memory construction requires no model inference, using a lexical index without LLM-based extraction, summarization, or semantic relation construction. At query time, BM25 retrieves initial candidates, an evidence evaluator identifies useful chunks, and lexical cues from selected evidence guide an additional retrieval round. Retrieved dialogue is further annotated with calendar interpretations of supported relative-time expressions, preserving the original wording and temporal granularity. We also introduce SAG-Mem-Lite, an alternative configuration that replaces evidence scoring with embedding-based candidate scoring, achieving lower operational cost than Full Context and all memory-based baselines across both benchmarks with low query latency. On LoCoMo and LongMemEval, SAG-Mem achieves overall scores of 83.08 and 80.20, respectively, the highest among the evaluated methods on both benchmarks. On LongMemEval, it exceeds the strongest compared baseline by 7.20 points. SAG-Mem-Lite achieves scores of 77.09 and 77.20, respectively. These results support dialogue preservation and evidence-guided retrieval expansion as an effective design for long-term conversational memory.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:51:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33124v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

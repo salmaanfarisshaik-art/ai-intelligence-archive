@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2608.13200v3",
+  "schema_version": "1.0",
+  "name": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.13200v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13200v3",
+    "updated": "2026-11-24T17:58:51Z",
+    "published": "2026-08-13T13:03:49Z",
+    "title": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+    "summary": "Modern LLMs excel at reasoning and instruction following, enabling users to express increasingly complex information needs. However, existing retrievers largely rely on matching surface-level relevance, creating a growing gap between the evolving nature of user queries and how the queries are interpreted by retrievers. In this paper, we present GEM, a generative embedding model that augments retrieval by leveraging its internal knowledge to reason about user intent and relevance criteria prior to embedding. GEM unifies generation and embedding in a sequential manner, where encoding can be conceptually viewed as processing only one additional token during autoregressive generation. Unlike conventional query expansion, GEM learns to produce embeddings aligned with its reasoning, moving beyond surface-level matching. Furthermore, the generative nature allows GEM to be prompted like standard instruction-tuned LLMs and enables test-time compute scaling for retrieval. Compared with a non-reasoning variant of the same backbone, GEM achieves approximately 35% relative improvement in nDCG@10 on BRIGHT, a benchmark of challenging queries requiring reasoning, and 70% in p-MRR on FollowIR, a benchmark evaluating retrievers' ability to understand and follow user instructions. Our results demonstrate the effectiveness of activating an embedding model's internal reasoning capabilities to improve retrieval. Our code and model are publicly available at https://github.com/ZhlSh17/GEM and https://huggingface.co/gem-search/GEM-4B, respectively.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T17:58:51Z",
+  "links": {
+    "related_models": [
+      "gem-search/GEM-4B"
+    ],
+    "related_papers": [
+      "2608.13200v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1375,3 +1375,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31126v1](http://arxiv.org/abs/2611.31126v1)
 
+## iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction
+- **ID**: arxiv_2611.33141v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33141v1](http://arxiv.org/abs/2611.33141v1)
+
+## ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification
+- **ID**: arxiv_2611.33143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33143v1](http://arxiv.org/abs/2611.33143v1)
+
+## OmniAct: One Policy, One Million Embodiments
+- **ID**: arxiv_2611.33158v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33158v1](http://arxiv.org/abs/2611.33158v1)
+

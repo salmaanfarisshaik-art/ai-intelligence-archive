@@ -1574,7 +1574,7 @@
 - **ID**: hf_ds_6ad4893ea6e143550bed4f47
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/google/physical-engineerings-last-exam](https://huggingface.co/datasets/google/physical-engineerings-last-exam)
-- **Tags**: agents, arxiv:2610.30537, benchmark, benchmark:eval-yaml, benchmark:official, civil-engineering, electrical-engineering, engineering, harbor, language:en, library:harbor, license:cc-by-4.0, mechanical-engineering, modality:document, region:us, size_categories:n<1K, structural-engineering, task_categories:question-answering, task_categories:text-generation
+- **Tags**: agents, arxiv:2610.30537, benchmark, benchmark:eval-yaml, benchmark:official, civil-engineering, electrical-engineering, engineering, format:parquet, harbor, language:en, library:datasets, library:harbor, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, mechanical-engineering, modality:document, modality:tabular, modality:text, region:us, size_categories:n<1K, structural-engineering, task_categories:question-answering, task_categories:text-generation
 
 ## sjkhfuk1/foffo
 - **ID**: hf_ds_6ad73b2611ffd4dabac49e74

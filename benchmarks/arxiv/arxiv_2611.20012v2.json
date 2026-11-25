@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.20012v2",
+  "schema_version": "1.0",
+  "name": "Offline-First Quantized AI: Design and Evaluation of an On-Device Maternal-Health Assistant for Low-Connectivity Environments",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.20012v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.20012v2",
+    "updated": "2026-11-24T18:28:36Z",
+    "published": "2026-11-15T13:42:56Z",
+    "title": "Offline-First Quantized AI: Design and Evaluation of an On-Device Maternal-Health Assistant for Low-Connectivity Environments",
+    "summary": "Offline language models could extend access to maternal-health information where internet connectivity is unreliable, but deployment requires both clinically appropriate responses and feasible local execution. This study evaluated an Android assistant using ready-made quantized models, a clinically validated local knowledge package, conversation history, and optional local retrieval. Gemma 4 E2B and Qwen3.5 0.8B were compared on 45 conversations and 312 turns per configuration. Gemma retained context more consistently, whereas Qwen generated faster and used less memory. Clinician assessment of 150 Gemma responses across nine clinical domains yielded a mean quality score of 3.80/4, with 147 responses meeting the acceptance criterion. In 74 matched RAG-on/off questions, 11 RAG-on answers improved, 52 were comparable, four were degraded by returned content, and seven were lower-rated without clear evidence that retrieval caused the difference. Full-cohort mean differences were small and uncertain. In a sensitivity analysis excluding flagged cases, RAG-on had descriptively higher mean usefulness, safety, correctness, and actionability in the conditional 70-pair subset excluding the four flagged pairs from both conditions. Physical- device testing demonstrated offline responses on a 6 GB Android handset, with a 14.3 s median latency, alongside successful reconnection synchronization in the integrated application. Together, the findings characterize the integrated offline maternal-health assistant within the designed and tested benchmark, retrieval pipeline, and handset conditions.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:28:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.20012v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

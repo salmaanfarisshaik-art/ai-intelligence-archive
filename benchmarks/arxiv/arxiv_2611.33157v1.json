@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33157v1",
+  "schema_version": "1.0",
+  "name": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33157v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33157v1",
+    "updated": "2026-11-24T18:59:42Z",
+    "published": "2026-11-24T18:59:42Z",
+    "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+    "summary": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a different decomposition in every view. We introduce PointX, a simple feed-forward model that predicts intrinsics per 3D surface point instead. A multi-view transformer encodes a set of unposed images, and for any queried surface point, PointX pools the point's tokens across the views in which it appears and decodes the point's intrinsics once. Each point of a 3D reconstruction of the scene, such as a point cloud or a mesh, thus receives a single prediction, which is exactly consistent across views by construction and enables view-consistent relighting and editing. The same model also predicts per-view maps, from one image or many, by querying the point seen at every pixel. These maps agree across views up to the precision of the estimated geometry and correspondences. PointX is significantly more consistent than existing methods, while remaining competitive in accuracy from a single image and improving as views are added. Project page: https://pointx-paper.github.io/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-25T09:32:10Z",
+  "last_updated": "2026-11-24T18:59:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33157v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -8595,6 +8595,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.23211v1](http://arxiv.org/abs/2611.23211v1)
 
+## Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving
+- **ID**: arxiv_2611.23211v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.23211v3](http://arxiv.org/abs/2611.23211v3)
+
 ## EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification
 - **ID**: arxiv_2611.23212v1
 - **Source**: ArXiv
@@ -8870,6 +8875,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29792v1](http://arxiv.org/abs/2611.29792v1)
 
+## Token Pruning Needs a Protected Sink Token: Coherent Spatial Aggregation in Vision Transformers
+- **ID**: arxiv_2611.31025v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31025v2](http://arxiv.org/abs/2611.31025v2)
+
 ## CrownFusion: 3D Dental Crown Generation Using Geometry Images and Latent Diffusion
 - **ID**: arxiv_2611.31128v1
 - **Source**: ArXiv
@@ -8950,8 +8960,78 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31239v1](http://arxiv.org/abs/2611.31239v1)
 
+## Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory
+- **ID**: arxiv_2611.31239v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.31239v2](http://arxiv.org/abs/2611.31239v2)
+
 ## Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action
 - **ID**: arxiv_2611.31240v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31240v1](http://arxiv.org/abs/2611.31240v1)
+
+## SHARPnP: Self-Supervised and Plug-and-Play Hyperspectral Super-Resolution from Real Noisy Unaligned Camera Measurements
+- **ID**: arxiv_2611.33032v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33032v1](http://arxiv.org/abs/2611.33032v1)
+
+## Linear Probes Can Guide: Training-Free Control of Representation Generators
+- **ID**: arxiv_2611.33037v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33037v1](http://arxiv.org/abs/2611.33037v1)
+
+## Spectrify: Framework for Hyperspectral Image Generation Using Computer Graphics
+- **ID**: arxiv_2611.33042v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33042v1](http://arxiv.org/abs/2611.33042v1)
+
+## SUPRA: Synthesizing Amyloid PET from MRI and Plasma Biomarkers with an Explicit Regional SUVR Prior
+- **ID**: arxiv_2611.33061v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33061v1](http://arxiv.org/abs/2611.33061v1)
+
+## The Radar-based Activities of Daily Living (R-ADL) Dataset
+- **ID**: arxiv_2611.33088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33088v1](http://arxiv.org/abs/2611.33088v1)
+
+## EventDiffusion: Learning Native Event Stream Distribution from Videos
+- **ID**: arxiv_2611.33096v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33096v1](http://arxiv.org/abs/2611.33096v1)
+
+## BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation
+- **ID**: arxiv_2611.33135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33135v1](http://arxiv.org/abs/2611.33135v1)
+
+## Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action
+- **ID**: arxiv_2611.33137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33137v1](http://arxiv.org/abs/2611.33137v1)
+
+## Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild
+- **ID**: arxiv_2611.33145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33145v1](http://arxiv.org/abs/2611.33145v1)
+
+## One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography
+- **ID**: arxiv_2611.33147v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33147v1](http://arxiv.org/abs/2611.33147v1)
+
+## BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles
+- **ID**: arxiv_2611.33151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33151v1](http://arxiv.org/abs/2611.33151v1)
+
+## DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning
+- **ID**: arxiv_2611.33153v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33153v1](http://arxiv.org/abs/2611.33153v1)
+
+## PointX: Multi-View Consistent Intrinsics by Querying Surface Points
+- **ID**: arxiv_2611.33157v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33157v1](http://arxiv.org/abs/2611.33157v1)
 

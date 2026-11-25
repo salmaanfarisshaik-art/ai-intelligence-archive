@@ -305,3 +305,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31185v1](http://arxiv.org/abs/2611.31185v1)
 
+## Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems
+- **ID**: arxiv_2611.33036v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33036v1](http://arxiv.org/abs/2611.33036v1)
+
