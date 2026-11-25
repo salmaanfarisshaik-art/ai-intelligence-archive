@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:33:35Z",
+  "generated_at": "2026-11-25T19:46:20Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -39,6 +39,11 @@
     {
       "source_id": "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
       "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_OsaurusAI_Diplodocus-preview-GGUF",
+      "target_id": "hf_IFM_K2-Horizon-7B",
       "type": "derived_from"
     },
     {
@@ -1627,6 +1632,21 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Midtrain-Data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-MoVA-36B-A4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Pretrain-Data",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_bartowski_kldzj_gpt_oss_120b_heretic_v2_gguf",
       "target_id": "hf_kldzj_gpt-oss-120b-heretic-v2",
       "type": "derived_from"
@@ -2770,6 +2790,11 @@
       "source_id": "model_distilbert_distilgpt2",
       "target_id": "hf_openwebtext",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4",
+      "target_id": "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8",
+      "type": "derived_from"
     },
     {
       "source_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf",
@@ -5867,6 +5892,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_mradermacher_gemma_4_31b_heretic_i1_gguf",
+      "target_id": "hf_Luni_Gemma-4-31B-Heretic",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_mratsim_glm_4_32b_0414_w4a16_gptq",
       "target_id": "hf_mit-han-lab_pile-val-backup",
       "type": "trained_on"
@@ -8058,6 +8088,11 @@
     },
     {
       "source_id": "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_prism_ml_ternary_bonsai_2_5_27b_gguf",
       "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },

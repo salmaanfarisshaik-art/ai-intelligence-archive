@@ -43,6 +43,11 @@
   ],
   "q2": [
     {
+      "entity_id": "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_pyrodog_deepseek_v4_1_flash_uncensored_dwarfstar_q2",
       "match_type": "exact",
       "score": 3.5
@@ -1177,6 +1182,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_oxfengyuan_stock_dataset",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "hf_ds_6aed4ceaf1e7b1fa855ce572",
       "match_type": "exact",
       "score": 6.0
@@ -1489,6 +1499,11 @@
   "qua": [
     {
       "entity_id": "alpaca_8237946180582183376",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_qud_technologies_quranic_universal_ayahs",
       "match_type": "exact",
       "score": 1.0
     }
@@ -5982,6 +5997,13 @@
       "score": 1.0
     }
   ],
+  "quantizations": [
+    {
+      "entity_id": "dataset_modelpulse_model_pulse_data",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "quantized": [
     {
       "entity_id": "model_redhatai_phi_4_quantized_w4a16",
@@ -7489,6 +7511,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_kldzj_gpt_oss_120b_heretic_v2_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -8080,6 +8107,11 @@
     },
     {
       "entity_id": "model_dima6312_flint_40b_a2_5b_abliterated_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -9019,6 +9051,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_mradermacher_gemma_4_31b_heretic_i1_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_mratsim_glm_4_32b_0414_w4a16_gptq",
       "match_type": "exact",
       "score": 1.5
@@ -9355,6 +9392,11 @@
     },
     {
       "entity_id": "model_prism_ml_ternary_bonsai_2_27b_gguf_dev",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_prism_ml_ternary_bonsai_2_5_27b_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -11647,6 +11689,11 @@
       "entity_id": "arxiv_2604.23733v2",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_qud_technologies_quranic_universal_ayahs",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "que": [
@@ -13568,6 +13615,11 @@
     },
     {
       "entity_id": "dataset_derek_thomas_scienceqa",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "dataset_mike33_polychartqa",
       "match_type": "exact",
       "score": 6.5
     },
@@ -15627,6 +15679,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_lego_x_terminal_lego_15k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_lhpku20010120_omni_edu",
       "match_type": "exact",
       "score": 1.5
@@ -15908,6 +15965,11 @@
     },
     {
       "entity_id": "dataset_voilaj_swiss_caselaw",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_vyber07_cyber_security",
       "match_type": "exact",
       "score": 1.5
     },
@@ -18348,6 +18410,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_bespokelabs_bespoke_stratos_17k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_cais_hle",
       "match_type": "exact",
       "score": 1.0
@@ -18438,6 +18505,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_lego_x_terminal_lego_15k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lhoestq_custom_squad",
       "match_type": "exact",
       "score": 1.0
@@ -18484,6 +18556,11 @@
     },
     {
       "entity_id": "dataset_microsoft_ms_marco",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mike33_polychartqa",
       "match_type": "exact",
       "score": 1.0
     },
@@ -19149,6 +19226,11 @@
     },
     {
       "entity_id": "dataset_locuslab_tofu",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_modelpulse_model_pulse_data",
       "match_type": "exact",
       "score": 1.0
     },
@@ -22966,6 +23048,13 @@
       "score": 1.5
     }
   ],
+  "qur": [
+    {
+      "entity_id": "dataset_qud_technologies_quranic_universal_ayahs",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "quran": [
     {
       "entity_id": "dataset_zaibihassan_quranic_recitation_data",
@@ -22974,6 +23063,11 @@
     },
     {
       "entity_id": "dataset_authenticilm_shamela4_full_db",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_qud_technologies_quranic_universal_ayahs",
       "match_type": "exact",
       "score": 1.5
     },
@@ -23008,6 +23102,11 @@
       "entity_id": "dataset_zaibihassan_quranic_recitation_data",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_qud_technologies_quranic_universal_ayahs",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "quranicmmlu": [
@@ -25466,6 +25565,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_prism_ml_ternary_bonsai_2_5_27b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_prismor_prompt_guard_1_5b",
       "match_type": "exact",
       "score": 3.0
@@ -25822,6 +25926,11 @@
     },
     {
       "entity_id": "arxiv_2606.18112v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_bespokelabs_bespoke_stratos_17k",
       "match_type": "exact",
       "score": 2.0
     },
@@ -31085,6 +31194,11 @@
     },
     {
       "entity_id": "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_prism_ml_ternary_bonsai_2_5_27b_gguf",
       "match_type": "exact",
       "score": 3.0
     },

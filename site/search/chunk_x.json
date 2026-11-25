@@ -1180,6 +1180,13 @@
       "score": 1.0
     }
   ],
+  "xiegeo": [
+    {
+      "entity_id": "dataset_xiegeo_uspto_mol",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "xin": [
     {
       "entity_id": "dataset_bigscience_evaluation_results",
@@ -1704,6 +1711,13 @@
     },
     {
       "entity_id": "dataset_huggingfacefw_fineweb_2",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "xnr": [
+    {
+      "entity_id": "dataset_kapturecx_bolaindia",
       "match_type": "exact",
       "score": 1.5
     }
@@ -2422,6 +2436,11 @@
     },
     {
       "entity_id": "model_autotrust_glm_5_3_flash_gguf_dgx_spark",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4",
       "match_type": "exact",
       "score": 1.5
     },

@@ -1,0 +1,31 @@
+{
+  "_id": "6a5e54861823dc43556476d7",
+  "id": "zr-zhang/MLLM-Generated-Image-Detection-Dataset",
+  "author": "zr-zhang",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-06T20:19:27.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "651a325f0ece2744c21d6c68280d2aaac227177b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tMLLM-Generated Image Dataset\n\t\n\nThis dataset contains real and AI-generated image samples organized for binary MLLM-generated image detection.\nPaper | Code\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nWe construct an MLLM-generated image detection benchmark from GPT Image2 and Nano Banana2. This benchmark covers texture-dominated, structure-dominated, and hybrid-dominated. It is designed to evaluate detector performance under the new challenges introduced by large-scale image generation models.… See the full description on the dataset page: https://huggingface.co/datasets/zr-zhang/MLLM-Generated-Image-Detection-Dataset.",
+  "downloads": 43536,
+  "tags": [
+    "task_categories:image-classification",
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "arxiv:2608.01258",
+    "region:us",
+    "AIGC-detection",
+    "image-forensics",
+    "MLLM-Generated"
+  ],
+  "createdAt": "2026-07-20T17:01:58.000Z",
+  "key": "",
+  "unique_id": "dataset_zr_zhang_mllm_generated_image_detection_dataset",
+  "schema_version": "1.0"
+}

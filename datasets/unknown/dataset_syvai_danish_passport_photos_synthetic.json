@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f2939662a59adea93c7cae652fc5ff299c176c88",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSynthetic passport-style photos\n\t\n\nThis manually gated dataset contains the synthetic-image corpus used for the\nexperiment-91 interim-84 v6 classifier. It has 23,745 train and 1,124 dev\nphotos. The dev split is the model-selection validation split, not an independent\nowner test set. No citizen photos or owner-test images are included.\nEach row has the exact image bytes, a SHA-256 image ID, source (the generating\nmodel or source dataset), source_detail (the original frozen source… See the full description on the dataset page: https://huggingface.co/datasets/syvai/danish-passport-photos-synthetic.",
-  "downloads": 42363,
+  "downloads": 43890,
   "tags": [
     "size_categories:10K<n<100K",
     "format:parquet",

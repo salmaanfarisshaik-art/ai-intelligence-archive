@@ -5,11 +5,11 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-11-18T10:34:34.000Z",
-  "likes": 3,
+  "likes": 4,
   "private": false,
   "sha": "cc7d4b4f90155d917e1ff4d161d7baf222aeacf9",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRamanBench Dataset Mirror\n\t\n\n⚠️ RESEARCH MIRROR ONLY — All datasets are provided for research/educational purposes. Original copyrights remain with original authors. See Sources & Licenses below.\n\nA unified mirror of 94 Raman spectroscopy datasets from the RamanBench benchmark. Wide-format Parquet files for fast, reliable access.\n\n\t\n\t\t\n\t\n\t\n\t\tQuick Start\n\t\n\nfrom raman_bench import RamanBenchmark\n\n# Fast mirror access (default)\nbench = RamanBenchmark(… See the full description on the dataset page: https://huggingface.co/datasets/HTW-KI-Werkstatt/RamanBench.",
-  "downloads": 43000,
+  "downloads": 45608,
   "tags": [
     "task_categories:tabular-classification",
     "task_categories:tabular-regression",

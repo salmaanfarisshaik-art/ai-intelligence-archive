@@ -6528,6 +6528,10 @@
 - **ID**: model_redhatai_llama_3_3_70b_instruct_fp8_dynamic
 - **Source**: 
 
+## RedHatAI/Llama-3.3-70B-Instruct-NVFP4
+- **ID**: model_redhatai_llama_3_3_70b_instruct_nvfp4
+- **Source**: 
+
 ## RedHatAI/Meta-Llama-3.1-70B-Instruct-FP8
 - **ID**: model_redhatai_meta_llama_3_1_70b_instruct_fp8
 - **Source**: 

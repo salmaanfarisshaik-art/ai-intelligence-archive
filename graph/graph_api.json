@@ -30676,7 +30676,7 @@
       "target": "2610.28480"
     }
   ],
-  "generated_at": "2026-11-25T09:32:28.444746+00:00",
+  "generated_at": "2026-11-25T19:45:34.768395+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -181182,6 +181182,11 @@
     },
     {
       "category": "text-generation",
+      "id": "hf_OsaurusAI_Diplodocus-preview-GGUF",
+      "label": "OsaurusAI/Diplodocus-preview-GGUF"
+    },
+    {
+      "category": "text-generation",
       "id": "hf_QuantFactory_Meta-Llama-3-8B-Instruct-GGUF",
       "label": "QuantFactory/Meta-Llama-3-8B-Instruct-GGUF"
     },
@@ -199969,6 +199974,11 @@
       "category": "models",
       "id": "model_redhatai_llama_3_3_70b_instruct_fp8_dynamic",
       "label": "RedHatAI/Llama-3.3-70B-Instruct-FP8-dynamic"
+    },
+    {
+      "category": "models",
+      "id": "model_redhatai_llama_3_3_70b_instruct_nvfp4",
+      "label": "RedHatAI/Llama-3.3-70B-Instruct-NVFP4"
     },
     {
       "category": "models",
@@ -500883,5 +500893,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 6135,
-  "total_nodes": 94040
+  "total_nodes": 94042
 }

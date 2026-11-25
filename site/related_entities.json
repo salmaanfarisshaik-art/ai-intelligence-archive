@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:33:35Z",
+  "generated_at": "2026-11-25T19:46:20Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -464,20 +464,24 @@
       "model_bartowski_dolphin3_0_llama3_1_8b_gguf"
     ],
     "hf_IFM_K2-Horizon-7B": [
+      "hf_OsaurusAI_Diplodocus-preview-GGUF",
       "model_ifm_k2_horizon_7b_gguf",
       "model_ifm_k2_horizon_7b_uno",
       "model_osaurusai_diplodocus_preview_gguf"
     ],
     "hf_IFM_K2-Horizon-Midtrain-Data": [
+      "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
       "model_ifm_k2_horizon_7b",
       "model_ifm_k2_horizon_7b_gguf",
       "model_ifm_k2_horizon_mova_36b_a4b_gguf"
     ],
     "hf_IFM_K2-Horizon-MoVA-36B-A4B": [
+      "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
       "model_ifm_k2_horizon_mova_36b_a4b_gguf",
       "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf"
     ],
     "hf_IFM_K2-Horizon-Pretrain-Data": [
+      "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
       "model_ifm_k2_horizon_7b",
       "model_ifm_k2_horizon_7b_gguf",
       "model_ifm_k2_horizon_mova_36b_a4b_gguf"
@@ -719,6 +723,9 @@
       "model_dphn_dolphin_2_9_1_llama_3_70b",
       "model_dphn_dolphin_2_9_1_yi_1_5_34b"
     ],
+    "hf_Luni_Gemma-4-31B-Heretic": [
+      "model_mradermacher_gemma_4_31b_heretic_i1_gguf"
+    ],
     "hf_Ma7ee7_Qwen3.8_4B_Distilled": [
       "model_ma7ee7_qwen3_8_4b_distilled_gguf"
     ],
@@ -825,6 +832,9 @@
     ],
     "hf_OpenMed_Medical-Reasoning-SFT-GPT-OSS-120B": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
+    ],
+    "hf_OsaurusAI_Diplodocus-preview-GGUF": [
+      "hf_IFM_K2-Horizon-7B"
     ],
     "hf_OsaurusAI_Raptor-0.7-4B-BF16": [
       "model_osaurusai_raptor_0_7_4b_gguf"
@@ -1538,6 +1548,7 @@
       "model_prism_ml_ternary_bonsai_2_27b_gguf",
       "model_prism_ml_ternary_bonsai_2_27b_gguf_dev",
       "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
+      "model_prism_ml_ternary_bonsai_2_5_27b_gguf",
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
       "model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf",
@@ -3808,7 +3819,8 @@
       "model_distilbert_distilgpt2"
     ],
     "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8": [
-      "model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf"
+      "model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf",
+      "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4"
     ],
     "hf_orcarouter_Qwen3.8-27B-Uncensored": [
       "model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored"
@@ -4833,6 +4845,11 @@
     "model_bartowski_hy3_gguf": [
       "hf_tencent_Hy3"
     ],
+    "model_bartowski_k2_horizon_mova_36b_a4b_gguf": [
+      "hf_IFM_K2-Horizon-Midtrain-Data",
+      "hf_IFM_K2-Horizon-MoVA-36B-A4B",
+      "hf_IFM_K2-Horizon-Pretrain-Data"
+    ],
     "model_bartowski_kldzj_gpt_oss_120b_heretic_v2_gguf": [
       "hf_kldzj_gpt-oss-120b-heretic-v2"
     ],
@@ -5397,6 +5414,9 @@
     ],
     "model_distilbert_distilgpt2": [
       "hf_openwebtext"
+    ],
+    "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4": [
+      "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8"
     ],
     "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf": [
       "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW"
@@ -6935,6 +6955,9 @@
     "model_model_safetensors_l3_aethora_15b": [
       "hf_TheSkullery_Aether-Lite-V1.2"
     ],
+    "model_mradermacher_gemma_4_31b_heretic_i1_gguf": [
+      "hf_Luni_Gemma-4-31B-Heretic"
+    ],
     "model_mratsim_glm_4_32b_0414_w4a16_gptq": [
       "hf_mit-han-lab_pile-val-backup",
       "hf_zai-org_GLM-4-32B-0414"
@@ -7730,6 +7753,9 @@
       "hf_Qwen_Qwen3.8-27B"
     ],
     "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit": [
+      "hf_Qwen_Qwen3.8-27B"
+    ],
+    "model_prism_ml_ternary_bonsai_2_5_27b_gguf": [
       "hf_Qwen_Qwen3.8-27B"
     ],
     "model_prism_ml_ternary_bonsai_8b_gguf": [

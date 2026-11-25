@@ -986,6 +986,9 @@
   "base_model:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "base_model:IFM/K2-Horizon-7B": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF"
+  ],
   "base_model:LiquidAI/LFM2.5-24B-A2B": [
     "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF"
   ],
@@ -1160,6 +1163,9 @@
   ],
   "base_model:quantized:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
+  ],
+  "base_model:quantized:IFM/K2-Horizon-7B": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF"
   ],
   "base_model:quantized:LiquidAI/LFM2.5-24B-A2B": [
     "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF"
@@ -1402,6 +1408,7 @@
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
@@ -1844,6 +1851,9 @@
   "documentation": [
     "hf_ds_636a1b69f2f9ec4289c4c19e"
   ],
+  "documents": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF"
+  ],
   "doi:10.57967/hf/0039": [
     "hf_openai-community_gpt2"
   ],
@@ -1957,6 +1967,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-0.5B-Instruct",
@@ -2000,6 +2011,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
@@ -2186,6 +2198,7 @@
     "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
   ],
   "finance": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_ds_69c2419dda894d8e5757461f"
   ],
   "financial-statements": [
@@ -2425,6 +2438,7 @@
     "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
@@ -2611,6 +2625,7 @@
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_DavidAU_LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
@@ -2693,6 +2708,9 @@
   ],
   "jsonl": [
     "hf_ds_6a80b0577ce7785d1c42af57"
+  ],
+  "k2_horizon": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF"
   ],
   "k8s": [
     "enterprise-kubernetes-deployment-manifest",
@@ -5064,6 +5082,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
@@ -5396,6 +5415,7 @@
   ],
   "llama.cpp": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
     "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_prism-ml_Bonsai-27B-gguf",
@@ -6146,6 +6166,7 @@
   ],
   "quantized": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_antirez_deepseek-v4-gguf",
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
     "hf_kindlingai_glm-5.3-exlr8-k2-k3-k4",
@@ -6259,6 +6280,7 @@
   ],
   "reasoning": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_empero-ai_Qwen3.8-35B-A3B-Distill-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
@@ -6284,6 +6306,7 @@
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-0.5B-Instruct",
@@ -7141,6 +7164,9 @@
   "speech-commands": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
+  "spreadsheets": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF"
+  ],
   "sql": [
     "interactive-sqlalchemy-model-generator",
     "optimized-postgresql-schema-optimizer",
@@ -7544,6 +7570,7 @@
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
+    "hf_OsaurusAI_Diplodocus-preview-GGUF",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-0.5B-Instruct",
@@ -7711,6 +7738,9 @@
   ],
   "tool-calling": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
+  ],
+  "tool-use": [
+    "hf_OsaurusAI_Diplodocus-preview-GGUF"
   ],
   "tracking": [
     "hf_ds_692ecca11aad0a1d75ac057c"

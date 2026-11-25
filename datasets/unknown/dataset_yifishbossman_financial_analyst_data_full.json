@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d16be984b73673c0db594cd33f777af1bff0babb",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tfinancial-analyst-data-full\n\t\n\nA-share historical price + valuation data packaged for financial-analyst —\nthe 14-agent single-stock deep-dive research workstation.\nPublished: 2026-05-24\nPreset: full — 全 A 股完整包 (含历史退市股). 量化研究员 / 重度用户. lite 全 + TDX 历年财报原始 zip (用户跑 import_tdx_financial.py 解) + F10 原始文本 (公司大事/龙虎榜/主力追踪/最新提示 .txt).\nSize: ~14.1 GB\n\n\t\n\t\t\n\t\n\t\n\t\tWhat's included\n\t\n\n\n5450 stocks daily OHLCV + 7 valuation fields (PE/PB/PS/DV/MV/CIRC_MV/turnover_rate)\nDate range (daily):… See the full description on the dataset page: https://huggingface.co/datasets/yifishbossman/financial-analyst-data-full.",
-  "downloads": 54399,
+  "downloads": 54273,
   "tags": [
     "task_categories:time-series-forecasting",
     "task_categories:tabular-classification",

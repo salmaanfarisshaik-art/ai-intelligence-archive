@@ -1,0 +1,31 @@
+{
+  "_id": "678f6b0c2705196b8a1c6c86",
+  "id": "bespokelabs/Bespoke-Stratos-17k",
+  "author": "bespokelabs",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-01-31T00:00:38.000Z",
+  "likes": 367,
+  "private": false,
+  "sha": "9e9adba943911a9fc44dffcb30aaa18dc96ae6df",
+  "description": "\n    \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tBespoke-Stratos-17k\n\t\n\nWe replicated and improved the Berkeley Sky-T1 data pipeline using SFT distillation data \nfrom DeepSeek-R1 to create Bespoke-Stratos-17k -- a reasoning dataset of questions, reasoning traces, and answers. \nThis data was used to train:\n\nBespoke-Stratos-32B, a 32B reasoning model which is a fine-tune of Qwen-2.5-32B-Instruct\nBespoke-Stratos-7B, a 7B reasoning model which is a fine-tune of Qwen-2.5-7B-Instruct.\n\n\n \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tMetrics for… See the full description on the dataset page: https://huggingface.co/datasets/bespokelabs/Bespoke-Stratos-17k.",
+  "downloads": 42687,
+  "tags": [
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "curator",
+    "synthetic"
+  ],
+  "createdAt": "2025-01-21T09:38:20.000Z",
+  "key": "",
+  "unique_id": "dataset_bespokelabs_bespoke_stratos_17k",
+  "schema_version": "1.0"
+}

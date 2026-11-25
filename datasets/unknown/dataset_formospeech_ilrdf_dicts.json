@@ -1,0 +1,28 @@
+{
+  "_id": "6a978f8202b5b0934f84fb25",
+  "id": "formospeech/ilrdf_dicts",
+  "author": "formospeech",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-13T12:17:22.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "55b7cf235e255c929ae0b3a4faaadebedfcae287",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Information\n\t\n\n\nCorpus: ilrdf_dicts\nStatus: Public (Gated)\n\nSubset Stats\n\n\t\n\t\t\nSubset\nTrain (Samples / Hours)\nEval (Samples / Hours)\n\n\n\t\t\nami-x-skl\n5,473 / 7.34\n0 / 0.00\n\n\nbnn-x-isbk\n8,685 / 11.28\n0 / 0.00\n\n\nckv\n8,236 / 9.66\n0 / 0.00\n\n\ndru-x-ngdr\n10,454 / 13.38\n0 / 0.00\n\n\npwn-x-vnrn\n5,348 / 7.94\n0 / 0.00\n\n\npyu-x-pym\n7,052 / 9.36\n0 / 0.00\n\n\nssf\n6,269 / 8.13\n0 / 0.00\n\n\nsxr\n4,094 / 6.35\n0 / 0.00\n\n\nszy\n5,354 / 7.25\n0 / 0.00\n\n\ntao\n6,098 / 5.29\n0 / 0.00\n\n\ntay-x-sql\n6,170 / 8.67\n0… See the full description on the dataset page: https://huggingface.co/datasets/formospeech/ilrdf_dicts.",
+  "downloads": 41554,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:audio",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-09-02T02:52:50.000Z",
+  "key": "",
+  "unique_id": "dataset_formospeech_ilrdf_dicts",
+  "schema_version": "1.0"
+}

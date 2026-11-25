@@ -1,0 +1,26 @@
+{
+  "_id": "6ae0bedb29c50b448ad94de5",
+  "id": "syncster-data/economic-data",
+  "author": "syncster-data",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-11-09T01:40:29.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "10990903244941e14a354db9882057f32968a2a7",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tEconomic Data\n\t\n\nOpen economic and financial time series, packaged as zstd Parquet tables. Each folder has its own README with a one-line loader and a catalog.parquet (id, title, units, frequency, seasonal adjustment, category, country, first/last date, description, license, source) where applicable.\n\n\t\n\t\t\n\t\n\t\n\t\tSection index\n\t\n\n\n\t\n\t\t\nfolder\ncontents\n\n\n\t\t\nfred/\nFRED series (about 853k in the catalog) and observations\n\n\ninternational/\nabout 360k series from national and… See the full description on the dataset page: https://huggingface.co/datasets/syncster-data/economic-data.",
+  "downloads": 43390,
+  "tags": [
+    "license:other",
+    "region:us",
+    "economics",
+    "macroeconomics",
+    "time-series",
+    "finance",
+    "parquet"
+  ],
+  "createdAt": "2026-10-27T15:10:19.000Z",
+  "key": "",
+  "unique_id": "dataset_syncster_data_economic_data",
+  "schema_version": "1.0"
+}

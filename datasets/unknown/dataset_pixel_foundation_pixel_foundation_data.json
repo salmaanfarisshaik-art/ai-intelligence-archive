@@ -1,0 +1,28 @@
+{
+  "_id": "6af41538e53dd13fc3fbedc1",
+  "id": "pixel-foundation/pixel-foundation-data",
+  "author": "pixel-foundation",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-14T06:14:26.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "eebb90d9a13901446ddd33d378f5fa1995f5f319",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tpixel-foundation data\n\t\n\nProcessed training / evaluation data of the pixel-foundation project: vision tasks\n(perception, low-level, 3D) whose outputs are encoded as RGB images and learned by\nimage-generation / editing models. Each subset = one source dataset, in a unified\nrecord format with the raw ground truth (boxes, masks, depth in meters, normals, flow,\ndisparity, camera, ...). The RGB encoding of targets is done online at training time;\nthe preview column shows one such… See the full description on the dataset page: https://huggingface.co/datasets/pixel-foundation/pixel-foundation-data.",
+  "downloads": 43038,
+  "tags": [
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-11-11T07:11:52.000Z",
+  "key": "",
+  "unique_id": "dataset_pixel_foundation_pixel_foundation_data",
+  "schema_version": "1.0"
+}

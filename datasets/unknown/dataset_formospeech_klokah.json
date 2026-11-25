@@ -1,0 +1,28 @@
+{
+  "_id": "6a978c77465379eac42e6ad0",
+  "id": "formospeech/klokah",
+  "author": "formospeech",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-14T07:25:22.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "70ebc0bce26d2b0d8b435deff1dbb840e0789a8d",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Information\n\t\n\n\nCorpus: klokah\nStatus: Public (Gated)\n\nSubset Stats\n\n\t\n\t\t\nSubset\nTrain (Samples / Hours)\nEval (Samples / Hours)\n\n\n\t\t\nami-x-frng\n9,432 / 11.11\n870 / 1.65\n\n\nami-x-iams\n9,036 / 10.59\n827 / 1.44\n\n\nami-x-pld\n8,473 / 9.64\n821 / 1.59\n\n\nami-x-pswl\n10,523 / 14.02\n1,478 / 2.78\n\n\nami-x-skl\n9,489 / 10.70\n891 / 1.73\n\n\nbnn-x-bkh\n7,928 / 8.14\n857 / 1.27\n\n\nbnn-x-bnz\n7,682 / 8.19\n872 / 1.38\n\n\nbnn-x-isbk\n14,069 / 18.82\n1,458 / 2.97\n\n\nbnn-x-td\n8,938 / 10.01\n829 / 1.51… See the full description on the dataset page: https://huggingface.co/datasets/formospeech/klokah.",
+  "downloads": 42523,
+  "tags": [
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:audio",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-09-02T02:39:51.000Z",
+  "key": "",
+  "unique_id": "dataset_formospeech_klokah",
+  "schema_version": "1.0"
+}

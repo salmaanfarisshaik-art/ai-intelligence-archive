@@ -1,0 +1,20 @@
+{
+  "_id": "674fe9eabcb8010cb4274d39",
+  "id": "xiegeo/uspto-mol",
+  "author": "xiegeo",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-04-12T08:25:10.000Z",
+  "likes": 5,
+  "private": false,
+  "sha": "7e6b2aa0154c3da84be1c3313daee925c4d9f778",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tAn intermediate dataset for US molecular patent grants\n\t\n\nRetrieves patent grant data from USPTO weekly releases bulkdata.uspto.gov/data/patent/grant/redbook/{year} and keeps only patents with .mol files for downstream data mining use cases.\nCompared to existing work such as [https://github.com/learningmatter-mit/PatentChem/tree/main]. We keep all files of a patent grant, especially .til image files. We also share the data as a git lfs repo instead of a single .zip file to allow… See the full description on the dataset page: https://huggingface.co/datasets/xiegeo/uspto-mol.",
+  "downloads": 42111,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2024-12-04T05:34:34.000Z",
+  "key": "",
+  "unique_id": "dataset_xiegeo_uspto_mol",
+  "schema_version": "1.0"
+}

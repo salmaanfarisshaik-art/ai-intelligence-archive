@@ -931,6 +931,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/OrionStarAI/Orion-14B-Chat](https://huggingface.co/OrionStarAI/Orion-14B-Chat)
 
+## OsaurusAI/Diplodocus-preview-GGUF
+- **ID**: hf_OsaurusAI_Diplodocus-preview-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/OsaurusAI/Diplodocus-preview-GGUF](https://huggingface.co/OsaurusAI/Diplodocus-preview-GGUF)
+- **Tags**: base_model:IFM/K2-Horizon-7B, base_model:quantized:IFM/K2-Horizon-7B, conversational, documents, en, endpoints_compatible, finance, gguf, imatrix, k2_horizon, license:apache-2.0, llama.cpp, quantized, reasoning, region:us, spreadsheets, text-generation, tool-use
+
 ## QuantFactory/Meta-Llama-3-8B-Instruct-GGUF
 - **ID**: hf_QuantFactory_Meta-Llama-3-8B-Instruct-GGUF
 - **Source**: Hugging Face

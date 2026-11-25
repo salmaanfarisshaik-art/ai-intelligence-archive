@@ -342798,6 +342798,40 @@
     "local_path": "models/orionstarai/hf_OrionStarAI_Orion-14B-Chat.json"
   },
   {
+    "id": "hf_OsaurusAI_Diplodocus-preview-GGUF",
+    "title": "OsaurusAI/Diplodocus-preview-GGUF",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "base_model:IFM/K2-Horizon-7B",
+      "base_model:quantized:IFM/K2-Horizon-7B",
+      "conversational",
+      "documents",
+      "en",
+      "endpoints_compatible",
+      "finance",
+      "gguf",
+      "imatrix",
+      "k2_horizon",
+      "license:apache-2.0",
+      "llama.cpp",
+      "quantized",
+      "reasoning",
+      "region:us",
+      "spreadsheets",
+      "text-generation",
+      "tool-use"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/OsaurusAI/Diplodocus-preview-GGUF",
+    "local_path": "models/osaurusai/hf_OsaurusAI_Diplodocus-preview-GGUF.json"
+  },
+  {
     "id": "hf_QuantFactory_Meta-Llama-3-8B-Instruct-GGUF",
     "title": "QuantFactory/Meta-Llama-3-8B-Instruct-GGUF",
     "category": "text-generation",
@@ -387515,6 +387549,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/redhatai/model_redhatai_llama_3_3_70b_instruct_fp8_dynamic.json"
+  },
+  {
+    "id": "model_redhatai_llama_3_3_70b_instruct_nvfp4",
+    "title": "RedHatAI/Llama-3.3-70B-Instruct-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/redhatai/model_redhatai_llama_3_3_70b_instruct_nvfp4.json"
   },
   {
     "id": "model_redhatai_meta_llama_3_1_70b_instruct_fp8",
