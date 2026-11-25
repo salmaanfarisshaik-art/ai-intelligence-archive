@@ -2984,6 +2984,10 @@
 - **ID**: model_jonathancoletti_qwen3_8_27b_uncensored_gguf
 - **Source**: 
 
+## JSon-AI/Qwen3.8-Flash-Next-Basalt-Uncensored
+- **ID**: model_json_ai_qwen3_8_flash_next_basalt_uncensored
+- **Source**: 
+
 ## julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF
 - **ID**: model_julianmb_qwen_3_8_27b_rocmfp4_fast_gguf
 - **Source**: 
@@ -3038,6 +3042,10 @@
 
 ## KBlueLeaf/TIPO-500M-ft
 - **ID**: model_kblueleaf_tipo_500m_ft
+- **Source**: 
+
+## KBlueLeaf/TIPO-v2.1-1B-A200M
+- **ID**: model_kblueleaf_tipo_v2_1_1b_a200m
 - **Source**: 
 
 ## kenpath/svara-tts-v1
@@ -8194,6 +8202,10 @@
 
 ## XHToken/Spark-X2.6-1.7B-GGUF
 - **ID**: model_xhtoken_spark_x2_6_1_7b_gguf
+- **Source**: 
+
+## XHToken/Spark-X2.6-4B
+- **ID**: model_xhtoken_spark_x2_6_4b
 - **Source**: 
 
 ## XHToken/Spark-X2.6-4B-GGUF

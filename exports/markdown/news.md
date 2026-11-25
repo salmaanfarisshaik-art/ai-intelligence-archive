@@ -316,6 +316,11 @@
 - **URL**: [https://openai.com/business/customer-stories/blue-j](https://openai.com/business/customer-stories/blue-j)
 
 ## 
+- **ID**: rss_https://openai.com/business/customer-stories/clay-plugins-openai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/clay-plugins-openai](https://openai.com/business/customer-stories/clay-plugins-openai)
+
+## 
 - **ID**: rss_https://openai.com/business/customer-stories/gondola
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/customer-stories/gondola](https://openai.com/business/customer-stories/gondola)
@@ -334,6 +339,16 @@
 - **ID**: rss_https://openai.com/business/customer-stories/holidays-extras-codex
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/customer-stories/holidays-extras-codex](https://openai.com/business/customer-stories/holidays-extras-codex)
+
+## 
+- **ID**: rss_https://openai.com/business/customer-stories/ifood
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/ifood](https://openai.com/business/customer-stories/ifood)
+
+## 
+- **ID**: rss_https://openai.com/business/customer-stories/intentful-dots
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/customer-stories/intentful-dots](https://openai.com/business/customer-stories/intentful-dots)
 
 ## 
 - **ID**: rss_https://openai.com/business/customer-stories/revolut
@@ -3214,6 +3229,11 @@
 - **ID**: rss_https://openai.com/index/gpt-6-for-everyone
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/gpt-6-for-everyone](https://openai.com/index/gpt-6-for-everyone)
+
+## 
+- **ID**: rss_https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)
 
 ## 
 - **ID**: rss_https://openai.com/index/gpt-oss-model-card
@@ -6264,6 +6284,11 @@
 - **ID**: rss_https://openai.com/index/searchgpt-prototype
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/searchgpt-prototype](https://openai.com/index/searchgpt-prototype)
+
+## 
+- **ID**: rss_https://openai.com/index/searching-for-distant-planets-with-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/searching-for-distant-planets-with-astra](https://openai.com/index/searching-for-distant-planets-with-astra)
 
 ## 
 - **ID**: rss_https://openai.com/index/securing-our-frontier-model-training-environment

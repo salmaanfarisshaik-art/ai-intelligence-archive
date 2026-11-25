@@ -92,7 +92,7 @@
 - **ID**: hf_ds_621ffdd236468d709f1835cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images)
-- **Tags**: license:cc-by-nc-sa-4.0, region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image, region:us, size_categories:n<1K
 
 ## huggingface-course/documentation-images
 - **ID**: hf_ds_621ffdd236468d709f1835d5
@@ -1592,7 +1592,7 @@
 - **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
-- **Tags**: region:us
+- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
 
 ## miniiohinkimsavol/copyright-detection-videos
 - **ID**: hf_ds_6adf714965d27a395f029c31
@@ -1628,7 +1628,7 @@
 - **ID**: hf_ds_6af5ee05f9e1e18cb55478eb
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HubLabs/HubEgo-100K](https://huggingface.co/datasets/HubLabs/HubEgo-100K)
-- **Tags**: LeRobot, arxiv:2611.21938, datasets, dexterous-manipulation, egocentric, egocentric-video, embodied-ai, first-person, hand-object-interaction, human-demonstrations, imitation-learning, imu, language:en, lerobot, library:datasets, license:cc-by-4.0, manipulation, manual-work, modality:video, physical-ai, region:eu, robot-learning, robotics, size_categories:100K<n<1M, skilled-work, source_datasets:original, task_categories:robotics, task_categories:video-classification, task_categories:video-text-to-text, video, vla, world-model
+- **Tags**: LeRobot, arxiv:2611.21938, datasets, dexterous-manipulation, egocentric, egocentric-video, embodied-ai, first-person, format:parquet, hand-object-interaction, human-demonstrations, imitation-learning, imu, language:en, lerobot, library:dask, library:datasets, library:lerobot, library:mlcroissant, library:polars, license:cc-by-4.0, manipulation, manual-work, modality:tabular, modality:text, modality:timeseries, modality:video, physical-ai, region:eu, robot-learning, robotics, size_categories:1B<n<10B, skilled-work, source_datasets:original, task_categories:robotics, task_categories:video-classification, task_categories:video-text-to-text, video, vla, world-model
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

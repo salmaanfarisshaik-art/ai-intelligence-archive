@@ -2209,6 +2209,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_djrhails_sharetrawl
+- **Source**: 
+
+## 
 - **ID**: dataset_dl3dv_dl3dv_all_2k
 - **Source**: 
 
@@ -3253,6 +3257,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gyung_lfm2_terminal_sft_processed
+- **Source**: 
+
+## 
 - **ID**: dataset_hadro_green_books_thumbnails
 - **Source**: 
 
@@ -3378,6 +3386,10 @@
 
 ## 
 - **ID**: dataset_harleyda_app_bin
+- **Source**: 
+
+## 
+- **ID**: dataset_harness_hub_termgrade_train_harbor
 - **Source**: 
 
 ## 
@@ -6285,6 +6297,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lakonik_blog_media
+- **Source**: 
+
+## 
 - **ID**: dataset_lakoreai_stgram_mfn_dcase2020_dev
 - **Source**: 
 
@@ -6386,6 +6402,10 @@
 
 ## 
 - **ID**: dataset_lerobot_libero
+- **Source**: 
+
+## 
+- **ID**: dataset_lerobot_libero_assets
 - **Source**: 
 
 ## 
@@ -7673,6 +7693,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_neheller_kits_challenge_imaging
+- **Source**: 
+
+## 
 - **ID**: dataset_neigezhu_china_a_share_1min_ohlcv
 - **Source**: 
 
@@ -7933,11 +7957,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nvidia_nemotron_cc_code_v1
+- **Source**: 
+
+## 
 - **ID**: dataset_nvidia_nemotron_cc_math_v1
 - **Source**: 
 
 ## 
 - **ID**: dataset_nvidia_nemotron_cc_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_nemotron_post_training_dataset_v1
 - **Source**: 
 
 ## 
@@ -8006,6 +8038,10 @@
 
 ## 
 - **ID**: dataset_nvidia_physicalai_robotics_manipulation_kitchen_demos
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_physicalai_robotics_manipulation_singlearm
 - **Source**: 
 
 ## 
@@ -8830,6 +8866,10 @@
 
 ## 
 - **ID**: dataset_poloclub_diffusiondb
+- **Source**: 
+
+## 
+- **ID**: dataset_polyai_banking77
 - **Source**: 
 
 ## 
@@ -9781,6 +9821,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_simplescaling_s1k_1_1
+- **Source**: 
+
+## 
 - **ID**: dataset_simplyyousef_american_sign_language_dataset
 - **Source**: 
 
@@ -10186,6 +10230,10 @@
 
 ## 
 - **ID**: dataset_sysuyy_imgedit
+- **Source**: 
+
+## 
+- **ID**: dataset_syvai_danish_passport_photos_synthetic
 - **Source**: 
 
 ## 
@@ -11398,6 +11446,10 @@
 
 ## 
 - **ID**: dataset_yifengzhu_hf_libero_datasets
+- **Source**: 
+
+## 
+- **ID**: dataset_yifishbossman_financial_analyst_data_full
 - **Source**: 
 
 ## 
