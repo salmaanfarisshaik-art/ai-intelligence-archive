@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.21934v6",
+  "schema_version": "1.0",
+  "name": "Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.21934v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.21934v6",
+    "updated": "2026-11-25T18:27:27Z",
+    "published": "2025-03-27T19:21:05Z",
+    "title": "Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad",
+    "summary": "Recent mathematical benchmarks indicate that large language models (LLMs) achieve strong performance in mathematical competitions such as AIME, with leading models attaining scores comparable to or exceeding those of top human participants. However, these benchmarks evaluate models solely based on final numerical answers, neglecting rigorous reasoning and proof generation which are essential for real-world mathematical tasks. To address this, we introduce a comprehensive evaluation of full-solution reasoning for challenging mathematical problems. Using expert human annotators, we evaluated several state-of-the-art reasoning models on the six problems from the 2025 USAMO within hours of their release. Our results show that all tested models struggle significantly, with none exceeding a score of 30%, and most achieving only trivial scores below 5%. Through a detailed analysis of reasoning traces, we identify the most common failure modes and find several unwanted artifacts arising from the optimization strategies employed during model training. Overall, our results underscore the limitations of current LLMs in tasks requiring deep mathematical understanding and emphasize the need for significant advances in reasoning and proof generation capabilities.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-26T11:53:52Z",
+  "last_updated": "2026-11-25T18:27:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.21934v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

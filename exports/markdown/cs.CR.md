@@ -635,3 +635,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33741v1](http://arxiv.org/abs/2611.33741v1)
 
+## A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom
+- **ID**: arxiv_2611.34868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34868v1](http://arxiv.org/abs/2611.34868v1)
+

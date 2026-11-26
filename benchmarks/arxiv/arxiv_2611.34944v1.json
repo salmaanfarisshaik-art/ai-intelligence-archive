@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.34944v1",
+  "schema_version": "1.0",
+  "name": "AnyCam: Anything Can Represent Camera for Video Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.34944v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.34944v1",
+    "updated": "2026-11-25T18:59:59Z",
+    "published": "2026-11-25T18:59:59Z",
+    "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+    "summary": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene, remains difficult. Existing methods condition either on camera parameters, which are scale-ambiguous in monocular video, or on explicit geometry such as warped point clouds or depth, which breaks down under large viewpoint changes. We present AnyCam, a method that represents the camera with an anchor object in the scene: we reconstruct it in 3D and render it along the target trajectory, a camera signal that is scale-aware, view-complete and easy to specify relative to the object. A video diffusion model transfers the content and dynamics of the source video to the new viewpoint. Its H-Concat layout aligns source and target frames in time, so the model can be distilled into AnyCam-AR, a streaming few-step generator for on-the-fly camera control. Both models are trained on paired videos with pixel-aligned anchor renderings from multi-camera videos and static-scene captures. Experiments on diverse datasets and trajectories show that AnyCam performs favorably against camera-controlled video generation and 3D reconstruction methods in camera control and visual quality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-26T11:53:52Z",
+  "last_updated": "2026-11-25T18:59:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.34944v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

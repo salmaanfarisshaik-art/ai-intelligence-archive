@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.16702v2",
+  "schema_version": "1.0",
+  "name": "Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.16702v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.16702v2",
+    "updated": "2026-11-25T18:40:46Z",
+    "published": "2026-02-18T18:49:56Z",
+    "title": "Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents",
+    "summary": "Vision-language (VL) agents increasingly combine extended reasoning with ex ternal visual tools. Yet long traces can drift from the image as generated text accumulates, while directly inserting tool outputs can turn one incorrect detection into a persistent premise. We ask how inference-time computation can improve reasoning without surrendering control to the tool. We propose Saliency-Aware Principle Selection (SAP), a training-free method that evolves compact reason ing principles rather than lengthening a single token trajectory. Each principle generates independent routes from the original image and prompt. A frozen ground ing tool scores whether objects cited along these routes are visually supported; agreement, diversity, and uncertainty further control drift, collapse, and overcon fidence. The tool supplies selection evidence but never writes the reasoning or answer. Across object-hallucination benchmarks, SAP consistently improves vi sually grounded prediction under a unified model and decoding budget. Broader evaluations spanning reasoning, knowledge, OCR, documents, diagrams, and real world imagery show that this gain does not come at the expense of general VL capability. Cross-architecture and model-scale experiments further demonstrate that the principle-selection mechanism transfers beyond a single backbone, while controlled ablations confirm that both multi-route exploration and evolutionary se lection are necessary. Because routes run in parallel, SAP also reduces serial latency relative to an equally long chain. Together, these results show that scaling over governed reasoning behaviors can preserve visual evidence more effectively than simply extending the chain.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-26T11:53:52Z",
+  "last_updated": "2026-11-25T18:40:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.16702v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

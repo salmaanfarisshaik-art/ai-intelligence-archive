@@ -105,6 +105,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.15242v3](http://arxiv.org/abs/2503.15242v3)
 
+## Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad
+- **ID**: arxiv_2503.21934v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.21934v6](http://arxiv.org/abs/2503.21934v6)
+
 ## ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark
 - **ID**: arxiv_2505.23851v3
 - **Source**: ArXiv
@@ -5660,6 +5665,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.24936v1](http://arxiv.org/abs/2611.24936v1)
 
+## AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators
+- **ID**: arxiv_2611.26073v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.26073v2](http://arxiv.org/abs/2611.26073v2)
+
 ## Frontier models need only one text to unmask its human or AI author
 - **ID**: arxiv_2611.26216v2
 - **Source**: ArXiv
@@ -5794,4 +5804,29 @@
 - **ID**: arxiv_2611.33747v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33747v1](http://arxiv.org/abs/2611.33747v1)
+
+## Proverbs As A Window On Collective Prescriptions
+- **ID**: arxiv_2611.34832v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34832v1](http://arxiv.org/abs/2611.34832v1)
+
+## DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents
+- **ID**: arxiv_2611.34852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34852v1](http://arxiv.org/abs/2611.34852v1)
+
+## $μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents
+- **ID**: arxiv_2611.34920v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34920v1](http://arxiv.org/abs/2611.34920v1)
+
+## Diverse Alternative Reasoning Traces for Hard Math Problems
+- **ID**: arxiv_2611.34928v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34928v1](http://arxiv.org/abs/2611.34928v1)
+
+## Tokenisation is not in APX
+- **ID**: arxiv_2611.34938v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34938v1](http://arxiv.org/abs/2611.34938v1)
 

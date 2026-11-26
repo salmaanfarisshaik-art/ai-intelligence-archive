@@ -230,6 +230,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.01208v5](http://arxiv.org/abs/2512.01208v5)
 
+## Network of Theseus (like the ship)
+- **ID**: arxiv_2512.04198v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.04198v2](http://arxiv.org/abs/2512.04198v2)
+
 ## The Universal Weight Subspace Hypothesis
 - **ID**: arxiv_2512.05117v3
 - **Source**: ArXiv
@@ -914,6 +919,11 @@
 - **ID**: arxiv_2606.25975v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.25975v2](http://arxiv.org/abs/2606.25975v2)
+
+## The Curse of Multiple Mediators: Hidden Interaction Effects in Activation Patching
+- **ID**: arxiv_2606.27510v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27510v2](http://arxiv.org/abs/2606.27510v2)
 
 ## Machine-learnable Sets
 - **ID**: arxiv_2606.28947v2
@@ -2345,6 +2355,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06387v2](http://arxiv.org/abs/2610.06387v2)
 
+## Frozen Factor or Spectral Band? In LoRA, the Factor Matters More at Low Rank
+- **ID**: arxiv_2610.06621v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06621v2](http://arxiv.org/abs/2610.06621v2)
+
 ## BRANCH-MoE: Balance-Aware Tree Routing for Large Embedding Models
 - **ID**: arxiv_2610.06725v1
 - **Source**: ArXiv
@@ -2709,6 +2724,11 @@
 - **ID**: arxiv_2610.28602v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28602v1](http://arxiv.org/abs/2610.28602v1)
+
+## STAR-XPC: Set Transformer for Estimating X-ray Transmission in Polymer Composites
+- **ID**: arxiv_2610.28709v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28709v2](http://arxiv.org/abs/2610.28709v2)
 
 ## Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions
 - **ID**: arxiv_2610.29476v1
@@ -3374,4 +3394,29 @@
 - **ID**: arxiv_2611.33133v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33133v1](http://arxiv.org/abs/2611.33133v1)
+
+## From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events
+- **ID**: arxiv_2611.34858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34858v1](http://arxiv.org/abs/2611.34858v1)
+
+## Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits
+- **ID**: arxiv_2611.34887v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34887v1](http://arxiv.org/abs/2611.34887v1)
+
+## Mixture-of-Loops Transformer
+- **ID**: arxiv_2611.34923v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34923v1](http://arxiv.org/abs/2611.34923v1)
+
+## Attack Policy Selection can Mislead Monitor Evaluators
+- **ID**: arxiv_2611.34934v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34934v1](http://arxiv.org/abs/2611.34934v1)
+
+## Can image generation help visual reasoning? An empirical study
+- **ID**: arxiv_2611.34935v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34935v1](http://arxiv.org/abs/2611.34935v1)
 

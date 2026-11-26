@@ -1395,3 +1395,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33722v1](http://arxiv.org/abs/2611.33722v1)
 
+## Real2SimLab: A Unified Platform for Real-to-Simulation Transfer
+- **ID**: arxiv_2611.34849v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34849v1](http://arxiv.org/abs/2611.34849v1)
+
+## RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies
+- **ID**: arxiv_2611.34864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34864v1](http://arxiv.org/abs/2611.34864v1)
+
+## FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation
+- **ID**: arxiv_2611.34884v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34884v1](http://arxiv.org/abs/2611.34884v1)
+
+## Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs
+- **ID**: arxiv_2611.34914v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34914v1](http://arxiv.org/abs/2611.34914v1)
+

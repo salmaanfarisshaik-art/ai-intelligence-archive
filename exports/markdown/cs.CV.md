@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/1804.08328v2](http://arxiv.org/abs/1804.08328v2)
 
+## Point2SSM++: Self-Supervised Learning of Anatomical Shape Models from Point Clouds
+- **ID**: arxiv_2405.09707v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2405.09707v2](http://arxiv.org/abs/2405.09707v2)
+
 ## VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset
 - **ID**: arxiv_2407.18245v3
 - **Source**: ArXiv
@@ -725,6 +730,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.15819v2](http://arxiv.org/abs/2602.15819v2)
 
+## Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents
+- **ID**: arxiv_2602.16702v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.16702v2](http://arxiv.org/abs/2602.16702v2)
+
 ## Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting
 - **ID**: arxiv_2602.18314v2
 - **Source**: ArXiv
@@ -1010,6 +1020,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.20012v2](http://arxiv.org/abs/2604.20012v2)
 
+## When the Prior Is Wrong: Probing Misspecified Diffusion Priors in Inverse Problems
+- **ID**: arxiv_2604.21066v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.21066v3](http://arxiv.org/abs/2604.21066v3)
+
 ## ICPR 2026 Competition on Low-Resolution License Plate Recognition
 - **ID**: arxiv_2604.22506v2
 - **Source**: ArXiv
@@ -1169,6 +1184,11 @@
 - **ID**: arxiv_2605.15760v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15760v2](http://arxiv.org/abs/2605.15760v2)
+
+## Invaria: Learning Scale and Density Invariance in Point Clouds via Next-Resolution Prediction
+- **ID**: arxiv_2605.15923v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15923v2](http://arxiv.org/abs/2605.15923v2)
 
 ## Accelerating Rectified Flow Models via Trajectory-Aware Caching
 - **ID**: arxiv_2605.16789v2
@@ -9144,4 +9164,104 @@
 - **ID**: arxiv_2611.33751v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33751v1](http://arxiv.org/abs/2611.33751v1)
+
+## Diffusion Steering via Adaptive Reward Estimation and Resampling
+- **ID**: arxiv_2611.34839v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34839v1](http://arxiv.org/abs/2611.34839v1)
+
+## Probing Visual Idiosyncrasies in Text-to-Image Models
+- **ID**: arxiv_2611.34843v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34843v1](http://arxiv.org/abs/2611.34843v1)
+
+## TIDE-Flow: Fine-Grained Temporal Evidence and Structured Displacement Matching for Spike Optical Flow
+- **ID**: arxiv_2611.34854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34854v1](http://arxiv.org/abs/2611.34854v1)
+
+## DocDUR-Net: Degradation-Aware Unified Document Image Restoration
+- **ID**: arxiv_2611.34860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34860v1](http://arxiv.org/abs/2611.34860v1)
+
+## BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding
+- **ID**: arxiv_2611.34862v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34862v1](http://arxiv.org/abs/2611.34862v1)
+
+## Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation
+- **ID**: arxiv_2611.34863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34863v1](http://arxiv.org/abs/2611.34863v1)
+
+## Towards Closing the Performance Gap in Cross-Modal Place Recognition
+- **ID**: arxiv_2611.34877v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34877v1](http://arxiv.org/abs/2611.34877v1)
+
+## Stranger Things: When Objects Appear Without Their Typical Neighbors
+- **ID**: arxiv_2611.34881v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34881v1](http://arxiv.org/abs/2611.34881v1)
+
+## What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video
+- **ID**: arxiv_2611.34894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34894v1](http://arxiv.org/abs/2611.34894v1)
+
+## Enhancing Maritime Domain Awareness using Latent Space Representations
+- **ID**: arxiv_2611.34899v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34899v1](http://arxiv.org/abs/2611.34899v1)
+
+## ProbFaS: Probabilistic Video Frame Selection for MLLMs via Multi-Fidelity Calibration
+- **ID**: arxiv_2611.34903v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34903v1](http://arxiv.org/abs/2611.34903v1)
+
+## Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation
+- **ID**: arxiv_2611.34907v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34907v1](http://arxiv.org/abs/2611.34907v1)
+
+## LiveVAE: Causal Window Attention Makes Efficient Streaming Video VAE
+- **ID**: arxiv_2611.34912v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34912v1](http://arxiv.org/abs/2611.34912v1)
+
+## High-Fidelity Image Matting with Pixel-Space Diffusion Transformers
+- **ID**: arxiv_2611.34929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34929v1](http://arxiv.org/abs/2611.34929v1)
+
+## DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and Motion Segmentation
+- **ID**: arxiv_2611.34931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34931v1](http://arxiv.org/abs/2611.34931v1)
+
+## A Mesh for Every Moment
+- **ID**: arxiv_2611.34939v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34939v1](http://arxiv.org/abs/2611.34939v1)
+
+## LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies
+- **ID**: arxiv_2611.34940v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34940v1](http://arxiv.org/abs/2611.34940v1)
+
+## Improving and Expanding Video Editing Capabilities Without Videos
+- **ID**: arxiv_2611.34941v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34941v1](http://arxiv.org/abs/2611.34941v1)
+
+## Tracking Any Point with Agentic Visual Reasoning
+- **ID**: arxiv_2611.34943v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34943v1](http://arxiv.org/abs/2611.34943v1)
+
+## AnyCam: Anything Can Represent Camera for Video Generation
+- **ID**: arxiv_2611.34944v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34944v1](http://arxiv.org/abs/2611.34944v1)
 

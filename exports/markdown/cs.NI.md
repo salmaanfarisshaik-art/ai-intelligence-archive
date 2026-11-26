@@ -1,5 +1,10 @@
 # Cs.Ni Export
 
+## AI Lifecycle-Aware Feasibility Framework for Split-RIC Orchestration in NTN O-RAN
+- **ID**: arxiv_2603.23252v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.23252v2](http://arxiv.org/abs/2603.23252v2)
+
 ## Exploiting Overlapping Fields of View for Redundancy-Aware Uplink Transmission in Vehicular 6G
 - **ID**: arxiv_2606.31715v3
 - **Source**: ArXiv
@@ -54,4 +59,9 @@
 - **ID**: arxiv_2610.40586v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40586v1](http://arxiv.org/abs/2610.40586v1)
+
+## Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning
+- **ID**: arxiv_2611.34942v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34942v1](http://arxiv.org/abs/2611.34942v1)
 

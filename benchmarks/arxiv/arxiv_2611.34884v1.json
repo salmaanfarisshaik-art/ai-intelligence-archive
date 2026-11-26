@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.34884v1",
+  "schema_version": "1.0",
+  "name": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.34884v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.34884v1",
+    "updated": "2026-11-25T18:40:47Z",
+    "published": "2026-11-25T18:40:47Z",
+    "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+    "summary": "Dexterity is, at its core, finger-level control, yet existing dexterous manipulation and human-object interaction (HOI) generation methods rarely let one specify how an interaction is performed: five-fingered hands are often reduced to grippers, or finger usage is copied from individual human demonstrations. We present FineDex, a framework that makes finger-level intent both expressible and executable. FineDex learns coordinated human body, hand, and object motions that follow fine-grained instructions on hand selection, individual fingers, and contacts with articulated objects. To bridge generation and execution, FineDex leverages generated interactions as actionable priors for an agent that discovers physically feasible contact strategies through practice in a physics-based digital twin. By adapting at test time without per-instance retraining, FineDex generalizes across fine-grained instructions and object configurations. Experiments demonstrate state-of-the-art HOI generation quality and fine-grained controllability, substantial improvements in dexterous manipulation success, and successful deployment on a real dexterous humanoid robot.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-26T11:53:52Z",
+  "last_updated": "2026-11-25T18:40:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.34884v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

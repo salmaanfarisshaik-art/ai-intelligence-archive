@@ -495,3 +495,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29727v1](http://arxiv.org/abs/2611.29727v1)
 
+## How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches
+- **ID**: arxiv_2611.34875v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34875v1](http://arxiv.org/abs/2611.34875v1)
+

@@ -1463,11 +1463,6 @@
       "entity_id": "dataset_bangumibase_onepiece",
       "match_type": "exact",
       "score": 1.0
-    },
-    {
-      "entity_id": "dataset_battam_training_data_foundation",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "30341": [
@@ -2596,12 +2591,12 @@
   ],
   "312": [
     {
-      "entity_id": "alpaca_-1460242131841487314",
+      "entity_id": "dataset_battam_training_data_foundation",
       "match_type": "exact",
-      "score": 1.0
+      "score": 2.0
     },
     {
-      "entity_id": "dataset_battam_training_data_foundation",
+      "entity_id": "alpaca_-1460242131841487314",
       "match_type": "exact",
       "score": 1.0
     },
@@ -2619,6 +2614,13 @@
       "entity_id": "dataset_m_a_p_pin_200m",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "31268": [
+    {
+      "entity_id": "model_jetbrains_mellum2_1_12b_a2_5b_thinking",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "313": [
@@ -9544,6 +9546,21 @@
     },
     {
       "entity_id": "arxiv_2611.33728v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.34862v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.34914v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.34940v1",
       "match_type": "exact",
       "score": 2.0
     },

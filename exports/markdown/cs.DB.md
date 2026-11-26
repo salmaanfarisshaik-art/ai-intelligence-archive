@@ -80,3 +80,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33074v1](http://arxiv.org/abs/2611.33074v1)
 
+## Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation
+- **ID**: arxiv_2611.34870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34870v1](http://arxiv.org/abs/2611.34870v1)
+

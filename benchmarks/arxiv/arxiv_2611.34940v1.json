@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.34940v1",
+  "schema_version": "1.0",
+  "name": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.34940v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.34940v1",
+    "updated": "2026-11-25T18:59:46Z",
+    "published": "2026-11-25T18:59:46Z",
+    "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+    "summary": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controllability and complex facial light transport, we factorize avatar synthesis into an animatable 3D intrinsic Gaussian proxy and a causal autoregressive neural shader. This proxy disentangles canonical geometry and reflectance attributes, rapidly rasterizing deformed Gaussians into view- and motion-consistent PBR buffers. Conditioned on these buffers, our neural shader formulates forward rendering as a conditional video diffusion process, bypassing explicit PBR computation to synthesize realistic shading effects under target illumination. We achieve real-time streaming through heterogeneous distillation from a pretrained multi-step bidirectional relighting teacher to a two-step causal autoregressive neural shader, inheriting broad synthetic lighting priors while minimizing conditioning and decoding latency. To further specialize these priors to human heads, we construct a hybrid relighting dataset for domain-specific fine-tuning, capturing authentic facial dynamics and physically grounded light transport. Extensive experiments show that our framework enables 3D-controllable, real-time portrait animation and relighting, outperforming state-of-the-art methods in visual fidelity, motion control, and lighting accuracy.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-26T11:53:52Z",
+  "last_updated": "2026-11-25T18:59:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.34940v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

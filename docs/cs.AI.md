@@ -600,6 +600,7 @@
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows](http://arxiv.org/abs/2610.03564v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
+| [Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering](http://arxiv.org/abs/2611.34841v1) | ArXiv |  | 1 |
 | [KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry](http://arxiv.org/abs/2610.37655v1) | ArXiv |  | 1 |
 | [KV$^2$: A Self-Refining KV Cache](http://arxiv.org/abs/2610.03198v1) | ArXiv |  | 1 |
 | [KV-Kaizen: Learning Context-Adaptive Cache Compression Choices](http://arxiv.org/abs/2609.37988v2) | ArXiv |  | 1 |

@@ -5795,3 +5795,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33748v1](http://arxiv.org/abs/2611.33748v1)
 
+## Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering
+- **ID**: arxiv_2611.34841v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.34841v1](http://arxiv.org/abs/2611.34841v1)
+
