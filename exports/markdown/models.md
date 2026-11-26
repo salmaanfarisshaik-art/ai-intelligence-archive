@@ -1040,6 +1040,10 @@
 - **ID**: model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid
 - **Source**: 
 
+## BlinkDL/rwkv7-g1
+- **ID**: model_blinkdl_rwkv7_g1
+- **Source**: 
+
 ## BlinkDL/rwkv-4-pile-14b
 - **ID**: model_blinkdl_rwkv_4_pile_14b
 - **Source**: 
@@ -2942,6 +2946,10 @@
 
 ## JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q8_0
 - **ID**: model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0
+- **Source**: 
+
+## JetBrains/Mellum2.1-12B-A2.5B-Thinking
+- **ID**: model_jetbrains_mellum2_1_12b_a2_5b_thinking
 - **Source**: 
 
 ## JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
