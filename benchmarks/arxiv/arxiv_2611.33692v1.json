@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33692v1",
+  "schema_version": "1.0",
+  "name": "Rethinking Sequential Locate-Then-Edit: Optimality and Stability",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33692v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33692v1",
+    "updated": "2026-11-25T02:58:13Z",
+    "published": "2026-11-25T02:58:13Z",
+    "title": "Rethinking Sequential Locate-Then-Edit: Optimality and Stability",
+    "summary": "The Locate-Then-Edit framework enables efficient knowledge updates in large language models without requiring full retraining. Recent research has increasingly focused on sequential editing, where knowledge arrives continuously and the model is updated incrementally. However, existing sequential methods commonly suffer from catastrophic forgetting and model collapse after only a few hundred edits. In contrast, batch editing - which jointly optimizes all edits and yields the optimal solution under a specified editing objective - can support tens of thousands of edits with high edit efficacy while preserving the model's general capabilities, resulting in a substantial performance gap between the two editing paradigms. In this paper, we demonstrate that this gap can be closed via a batch-equivalent sequential editing approach. Moreover, we investigate the underlying mechanism of model degradation in existing sequential methods by analyzing the convergence behavior of weight perturbations as edits accumulate. Our analysis reveals that current methods typically exhibit linear or logarithmic growth in perturbation, whereas the proposed batch-equivalent method achieves time-invariant growth, thereby theoretically guaranteeing long-term stability and preserving the integrity of pretrained knowledge throughout massive-scale sequential editing.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T02:58:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33692v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -640,6 +640,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.00462v5](http://arxiv.org/abs/2602.00462v5)
 
+## HPC: Hierarchical Point-based Latent Representation for Streaming Dynamic Gaussian Splatting Compression
+- **ID**: arxiv_2602.00671v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00671v2](http://arxiv.org/abs/2602.00671v2)
+
 ## Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
 - **ID**: arxiv_2602.01391v2
 - **Source**: ArXiv
@@ -3489,6 +3494,11 @@
 - **ID**: arxiv_2608.12313v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12313v1](http://arxiv.org/abs/2608.12313v1)
+
+## AVA-Encoder: Learning to Represent Videos via Reconstruction-Driven Agentic Self-Evolution
+- **ID**: arxiv_2608.12313v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12313v4](http://arxiv.org/abs/2608.12313v4)
 
 ## StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization
 - **ID**: arxiv_2608.12314v1
@@ -8045,6 +8055,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.08486v1](http://arxiv.org/abs/2611.08486v1)
 
+## MotionCore: A Latent Neural Simulator for Video Generation with Rigid-Body Dynamics
+- **ID**: arxiv_2611.08904v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08904v3](http://arxiv.org/abs/2611.08904v3)
+
 ## Evaluating Anterior Cruciate Ligament Risk of Injury Using a Graph Convolutional Autoencoder
 - **ID**: arxiv_2611.09724v2
 - **Source**: ArXiv
@@ -8525,6 +8540,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.22212v1](http://arxiv.org/abs/2611.22212v1)
 
+## MedImgAnnotator: batch wise medical image annotation and preprocessing tool
+- **ID**: arxiv_2611.22450v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.22450v2](http://arxiv.org/abs/2611.22450v2)
+
 ## MAVE: Reconstructing Editable 3D Blockouts from Film Shots
 - **ID**: arxiv_2611.22464v2
 - **Source**: ArXiv
@@ -8805,6 +8825,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27963v1](http://arxiv.org/abs/2611.27963v1)
 
+## Align the Pair, Not the Sample: Representation Alignment for Faster and Better One-Step Generators
+- **ID**: arxiv_2611.29547v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29547v2](http://arxiv.org/abs/2611.29547v2)
+
 ## DeclareViT: Decoupling Early Classification from Feature Refinement with Exit Query for Efficient ViTs
 - **ID**: arxiv_2611.29674v1
 - **Source**: ArXiv
@@ -8874,6 +8899,11 @@
 - **ID**: arxiv_2611.29792v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.29792v1](http://arxiv.org/abs/2611.29792v1)
+
+## CineAct: Interaction-State Agents for Playable, Branching Film Generation
+- **ID**: arxiv_2611.30613v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.30613v2](http://arxiv.org/abs/2611.30613v2)
 
 ## Token Pruning Needs a Protected Sink Token: Coherent Spatial Aggregation in Vision Transformers
 - **ID**: arxiv_2611.31025v2
@@ -8970,6 +9000,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31240v1](http://arxiv.org/abs/2611.31240v1)
 
+## EditText: Structure-Aware Generation and Selective Visual Transport for Fine-Grained Text Editing
+- **ID**: arxiv_2611.32134v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.32134v2](http://arxiv.org/abs/2611.32134v2)
+
 ## SHARPnP: Self-Supervised and Plug-and-Play Hyperspectral Super-Resolution from Real Noisy Unaligned Camera Measurements
 - **ID**: arxiv_2611.33032v1
 - **Source**: ArXiv
@@ -9034,4 +9069,79 @@
 - **ID**: arxiv_2611.33157v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33157v1](http://arxiv.org/abs/2611.33157v1)
+
+## Linear-Time Online Visual Geometry Transformer with Hybrid Architecture
+- **ID**: arxiv_2611.33650v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33650v1](http://arxiv.org/abs/2611.33650v1)
+
+## Fine-Grained Ego-Vehicle Action Recognition from Driving Video
+- **ID**: arxiv_2611.33654v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33654v1](http://arxiv.org/abs/2611.33654v1)
+
+## Recall4D: Forgetting, Not Misalignment, Limits Long-Horizon Feed-Forward 4D Reconstruction
+- **ID**: arxiv_2611.33655v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33655v1](http://arxiv.org/abs/2611.33655v1)
+
+## Look at What Matters: Learning Lesion Prototypes from Severity Labels for Domain-Generalized Diabetic Retinopathy Grading
+- **ID**: arxiv_2611.33671v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33671v1](http://arxiv.org/abs/2611.33671v1)
+
+## MOVR-SAR: A Multi-resolution SAR Registration Dataset under Orbit-crossing and View-variant Imaging Differences
+- **ID**: arxiv_2611.33673v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33673v1](http://arxiv.org/abs/2611.33673v1)
+
+## WorldUAV: Scaling UAV Data Synthesis via World Models
+- **ID**: arxiv_2611.33682v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33682v1](http://arxiv.org/abs/2611.33682v1)
+
+## Read Before You Use: Improving Visual Memory Utilization in Vision-Language Models
+- **ID**: arxiv_2611.33687v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33687v1](http://arxiv.org/abs/2611.33687v1)
+
+## GeoTex: Geometry-as-Texture Encoding and History-Grounded 4D Occupancy Forecasting
+- **ID**: arxiv_2611.33693v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33693v1](http://arxiv.org/abs/2611.33693v1)
+
+## Efficient Scene-Distribution-Aware Second-Order Optimization for 3D Gaussian Splatting
+- **ID**: arxiv_2611.33698v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33698v1](http://arxiv.org/abs/2611.33698v1)
+
+## Nepali Currency Denomination Classification Using Convolutional Neural Networks (CNNs) and MobileNetV2: An Experimental Comparison
+- **ID**: arxiv_2611.33713v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33713v1](http://arxiv.org/abs/2611.33713v1)
+
+## VTK-Bench: A Diagnostic Benchmark for Distinguishing Language Priors and Text Modal Bias in Visual Language Models
+- **ID**: arxiv_2611.33725v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33725v1](http://arxiv.org/abs/2611.33725v1)
+
+## DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation
+- **ID**: arxiv_2611.33734v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33734v1](http://arxiv.org/abs/2611.33734v1)
+
+## Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning
+- **ID**: arxiv_2611.33749v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33749v1](http://arxiv.org/abs/2611.33749v1)
+
+## Spectral Colorimetry Based on GMoE for Temperature Measurement in Explosion Fields
+- **ID**: arxiv_2611.33750v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33750v1](http://arxiv.org/abs/2611.33750v1)
+
+## VAPOR: Improving Multimodal Reasoning with Sparse Visual Updates
+- **ID**: arxiv_2611.33751v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33751v1](http://arxiv.org/abs/2611.33751v1)
 

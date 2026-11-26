@@ -700,6 +700,10 @@
 - **ID**: model_bartowski_hy3_gguf
 - **Source**: 
 
+## bartowski/K2-Horizon-MoVA-36B-A4B-GGUF
+- **ID**: model_bartowski_k2_horizon_mova_36b_a4b_gguf
+- **Source**: 
+
 ## bartowski/kldzj_gpt-oss-120b-heretic-v2-GGUF
 - **ID**: model_bartowski_kldzj_gpt_oss_120b_heretic_v2_gguf
 - **Source**: 
@@ -1690,6 +1694,10 @@
 
 ## distilbert/distilgpt2
 - **ID**: model_distilbert_distilgpt2
+- **Source**: 
+
+## DogContext/GLM-5.3-Flash-Uncensored-Q2-ds4
+- **ID**: model_dogcontext_glm_5_3_flash_uncensored_q2_ds4
 - **Source**: 
 
 ## dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v2-GGUF
@@ -4468,6 +4476,10 @@
 - **ID**: model_moonshotai_moonlight_16b_a3b_instruct
 - **Source**: 
 
+## mradermacher/Gemma-4-31B-Heretic-i1-GGUF
+- **ID**: model_mradermacher_gemma_4_31b_heretic_i1_gguf
+- **Source**: 
+
 ## mratsim/GLM-4-32B-0414.w4a16-gptq
 - **ID**: model_mratsim_glm_4_32b_0414_w4a16_gptq
 - **Source**: 
@@ -5634,6 +5646,10 @@
 
 ## prism-ml/Ternary-Bonsai-2-27B-mlx-2bit
 - **ID**: model_prism_ml_ternary_bonsai_2_27b_mlx_2bit
+- **Source**: 
+
+## prism-ml/Ternary-Bonsai-2.5-27B-GGUF
+- **ID**: model_prism_ml_ternary_bonsai_2_5_27b_gguf
 - **Source**: 
 
 ## prism-ml/Ternary-Bonsai-8B-gguf

@@ -1121,6 +1121,18 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_banned_historical_archives_dagongbao
+- **Source**: 
+
+## 
+- **ID**: dataset_banned_historical_archives_hkgongshangribao
+- **Source**: 
+
+## 
+- **ID**: dataset_banned_historical_archives_hkgongshangwanbao
+- **Source**: 
+
+## 
 - **ID**: dataset_banned_historical_archives_low_priority
 - **Source**: 
 
@@ -1222,6 +1234,10 @@
 
 ## 
 - **ID**: dataset_bertie77_x2c
+- **Source**: 
+
+## 
+- **ID**: dataset_bespokelabs_bespoke_stratos_17k
 - **Source**: 
 
 ## 
@@ -1558,6 +1574,10 @@
 
 ## 
 - **ID**: dataset_ceval_ceval_exam
+- **Source**: 
+
+## 
+- **ID**: dataset_cfdml_transportbench
 - **Source**: 
 
 ## 
@@ -2841,6 +2861,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_formospeech_ilrdf_dicts
+- **Source**: 
+
+## 
+- **ID**: dataset_formospeech_klokah
+- **Source**: 
+
+## 
 - **ID**: dataset_foursquare_fsq_os_places
 - **Source**: 
 
@@ -2946,6 +2974,10 @@
 
 ## 
 - **ID**: dataset_gair_darwin_cc
+- **Source**: 
+
+## 
+- **ID**: dataset_gair_storage_uae_core_assets
 - **Source**: 
 
 ## 
@@ -3438,6 +3470,10 @@
 
 ## 
 - **ID**: dataset_hebrish_noisy_condition_sentences
+- **Source**: 
+
+## 
+- **ID**: dataset_hebrish_yiddish_sentences
 - **Source**: 
 
 ## 
@@ -3962,6 +3998,10 @@
 
 ## 
 - **ID**: dataset_huseyincavus_physionet_ecg_arrhythmia_1_0_0
+- **Source**: 
+
+## 
+- **ID**: dataset_huseyincavus_visdrone2019_vid
 - **Source**: 
 
 ## 
@@ -5433,6 +5473,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_idegen_csts
+- **Source**: 
+
+## 
 - **ID**: dataset_idoco_popvqa
 - **Source**: 
 
@@ -5813,6 +5857,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jasonxf_synthurbansat_20k
+- **Source**: 
+
+## 
 - **ID**: dataset_jasperai_monet
 - **Source**: 
 
@@ -6073,6 +6121,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_kapturecx_bolaindia
+- **Source**: 
+
+## 
 - **ID**: dataset_karlquant_k1rl_checkpoints
 - **Source**: 
 
@@ -6130,6 +6182,10 @@
 
 ## 
 - **ID**: dataset_khtao_openmind
+- **Source**: 
+
+## 
+- **ID**: dataset_khushhiii08_idd_detection_for_yolo
 - **Source**: 
 
 ## 
@@ -6365,7 +6421,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lego_x_terminal_lego_15k
+- **Source**: 
+
+## 
 - **ID**: dataset_lejurobotics_let_base_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_lemas_project_lemas_dataset_train
 - **Source**: 
 
 ## 
@@ -6466,6 +6530,10 @@
 
 ## 
 - **ID**: dataset_liang12121_dreamzero_egoverse_360_pretrain
+- **Source**: 
+
+## 
+- **ID**: dataset_lianghsun_tw_legal_oa_corpus
 - **Source**: 
 
 ## 
@@ -7241,6 +7309,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mike33_polychartqa
+- **Source**: 
+
+## 
 - **ID**: dataset_mingde_polargb
 - **Source**: 
 
@@ -7438,6 +7510,10 @@
 
 ## 
 - **ID**: dataset_model_metadata_code_python_files
+- **Source**: 
+
+## 
+- **ID**: dataset_modelpulse_model_pulse_data
 - **Source**: 
 
 ## 
@@ -8585,7 +8661,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_oxfengyuan_stock_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_p2samapa_p2_etf_samba_models
+- **Source**: 
+
+## 
+- **ID**: dataset_pablovela5620_assembly101_720p
 - **Source**: 
 
 ## 
@@ -8741,6 +8825,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_phields_a_share_l2_trades
+- **Source**: 
+
+## 
 - **ID**: dataset_philippesaade_wikidata_vectors_0_2
 - **Source**: 
 
@@ -8818,6 +8906,10 @@
 
 ## 
 - **ID**: dataset_pinelab_manufacet_1k
+- **Source**: 
+
+## 
+- **ID**: dataset_pixel_foundation_pixel_foundation_data
 - **Source**: 
 
 ## 
@@ -9070,6 +9162,10 @@
 
 ## 
 - **ID**: dataset_quantfeatures_hyperliquid_live_features
+- **Source**: 
+
+## 
+- **ID**: dataset_qud_technologies_quranic_universal_ayahs
 - **Source**: 
 
 ## 
@@ -9689,6 +9785,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sevenaigmbh_math_lighteval
+- **Source**: 
+
+## 
 - **ID**: dataset_shadena_mathnet
 - **Source**: 
 
@@ -9989,6 +10089,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_squarefk_fractal
+- **Source**: 
+
+## 
 - **ID**: dataset_sraimund_mappool
 - **Source**: 
 
@@ -10214,6 +10318,10 @@
 
 ## 
 - **ID**: dataset_syn4d_syn4d
+- **Source**: 
+
+## 
+- **ID**: dataset_syncster_data_economic_data
 - **Source**: 
 
 ## 
@@ -11025,6 +11133,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vyber07_cyber_security
+- **Source**: 
+
+## 
 - **ID**: dataset_w8yi_tcga_wsi_uni2h_features
 - **Source**: 
 
@@ -11286,6 +11398,10 @@
 
 ## 
 - **ID**: dataset_xiaowu0162_longmemeval_cleaned
+- **Source**: 
+
+## 
+- **ID**: dataset_xiegeo_uspto_mol
 - **Source**: 
 
 ## 
@@ -11725,6 +11841,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_zhaoweiwang_image_collection
+- **Source**: 
+
+## 
 - **ID**: dataset_zhenzhiwang_humanvid
 - **Source**: 
 
@@ -11786,6 +11906,10 @@
 
 ## 
 - **ID**: dataset_zongowo111_v2_crypto_ohlcv_data
+- **Source**: 
+
+## 
+- **ID**: dataset_zr_zhang_mllm_generated_image_detection_dataset
 - **Source**: 
 
 ## 

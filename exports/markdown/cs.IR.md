@@ -310,3 +310,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33036v1](http://arxiv.org/abs/2611.33036v1)
 
+## Structure-Aware Multimodal Retrieval Under Data Scarcity, Privacy Constraints and Out-of-Domain Content
+- **ID**: arxiv_2611.33649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33649v1](http://arxiv.org/abs/2611.33649v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.36914v4",
+  "schema_version": "1.0",
+  "name": "Can Language Models Learn to Forecast Stock Prices?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.36914v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.36914v4",
+    "updated": "2026-11-25T02:46:21Z",
+    "published": "2026-09-29T07:34:39Z",
+    "title": "Can Language Models Learn to Forecast Stock Prices?",
+    "summary": "We build BETA, a chronological sandbox over S&P 500 stocks in which a model calls tools to retrieve prices, indicators, and news available up to a decision date, and then forecasts the stock's future return. Evaluating frontier models in this sandbox reveals three systematic weaknesses: their scores decline as the test period approaches the present while a simple momentum baseline stays stable, they predict gains far more often than gains occur, and they predict moves much smaller than those that are realized. We then train models directly in the sandbox. We first fine-tune on filtered, hindsight-generated tool-use trajectories for historical tasks judged predictable from the evidence available at the time, teaching the model how to investigate a stock. We then apply reinforcement learning with rewards based on realized returns. During RL, long investigations frequently exceed the context window. We therefore introduce a selective compaction tool that allows the model to compress chosen portions of its interaction history. We address these challenges with Context-Aligned Turn-Level PPO, which uses a turn-level critic and computes policy updates using each turn's actual context. The resulting models, which we call AURA, substantially reduce all three weaknesses. Training improves the 8B model's score from 24.0 to 47.0 and the 30B model's from 27.4 to 54.7, with the latter surpassing all evaluated frontier models on our benchmark and achieving its largest margin on the most recent test period. These scores describe tasks selected for alignment between the available evidence and the realized return. Across all 412 candidates in the latest period, the trained 30B model still leads (35.17), while the trained 8B model scores below momentum (25.91 versus 28.33).",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T02:46:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.36914v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

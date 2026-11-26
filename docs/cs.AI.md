@@ -193,6 +193,7 @@
 | [Artificial Id: Drive and Persistent Alignment in Agentic AI](http://arxiv.org/abs/2609.11911v1) | ArXiv |  | 1 |
 | [ASH: Agents that Self-Hone in Long-Horizon Worlds](http://arxiv.org/abs/2605.14211v6) | ArXiv |  | 1 |
 | [Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving](http://arxiv.org/abs/2611.09791v1) | ArXiv |  | 1 |
+| [Asset4D-Bench: Benchmarking Coding Agents for Editable 3D and 4D Reconstruction](http://arxiv.org/abs/2611.33728v1) | ArXiv |  | 1 |
 | [Associative Emotional Learning in Convolutional Neural Networks](http://arxiv.org/abs/2607.19327v1) | ArXiv |  | 1 |
 | [AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs](http://arxiv.org/abs/2608.26004v1) | ArXiv |  | 1 |
 | [Atomic Units of X: The Compression Layer of Intelligence](http://arxiv.org/abs/2607.12634v2) | ArXiv |  | 1 |
@@ -265,6 +266,7 @@
 | [Can LLMs Discover Scientific Laws in Real and Parallel Worlds?](http://arxiv.org/abs/2609.01552v1) | ArXiv |  | 1 |
 | [Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](http://arxiv.org/abs/2611.18514v1) | ArXiv |  | 1 |
 | [Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark](http://arxiv.org/abs/2611.15225v2) | ArXiv |  | 1 |
+| [Can Vision-Language Models Synthesize Executable Game-Playing Programs?](http://arxiv.org/abs/2611.27741v2) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
 | [Can We Trust Item Response Theory for AI Evaluation?](http://arxiv.org/abs/2607.15190v1) | ArXiv |  | 1 |
 | [Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning](http://arxiv.org/abs/2608.20271v1) | ArXiv |  | 1 |
@@ -409,6 +411,7 @@
 | [Estimating Uncertain Spatial Relationships in Robotics](http://arxiv.org/abs/1304.3111v2) | ArXiv |  | 1 |
 | [Et Tu, Brute? Economic Misalignment in Personal AI Agents](http://arxiv.org/abs/2609.24927v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
+| [EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning](http://arxiv.org/abs/2611.33706v1) | ArXiv |  | 1 |
 | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](http://arxiv.org/abs/2606.30219v4) | ArXiv |  | 1 |
 | [Evaluating and Understanding Scheming Propensity in LLM Agents](http://arxiv.org/abs/2603.01608v3) | ArXiv |  | 1 |
 | [Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning](http://arxiv.org/abs/2611.14419v1) | ArXiv |  | 1 |
@@ -442,12 +445,14 @@
 | [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](http://arxiv.org/abs/2607.26034v1) | ArXiv |  | 1 |
 | [Fara-1.5: Scalable Learning Environments for Computer Use Agents](http://arxiv.org/abs/2606.20785v2) | ArXiv |  | 1 |
 | [FARMS: A Verifiable Foundation for Automated Computational Science](http://arxiv.org/abs/2610.40560v1) | ArXiv |  | 1 |
+| [Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token](http://arxiv.org/abs/2611.33679v1) | ArXiv |  | 1 |
 | [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1) | ArXiv |  | 1 |
 | [Fed-Universe: A Semantic-Geometric-Topological-Human (S-G-T-H) Stack for Negotiated Alignment in Federated Systems](http://arxiv.org/abs/2610.34009v1) | ArXiv |  | 1 |
 | [FedReady: Bounded Agents for Federation Formation](http://arxiv.org/abs/2611.03586v1) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
 | [Fin-RSI: A Unified Library of Financial Skills, Checks, and Self-Improvement for LLM Agents](http://arxiv.org/abs/2611.29716v1) | ArXiv |  | 1 |
 | [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v1) | ArXiv |  | 1 |
+| [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v3) | ArXiv |  | 1 |
 | [Fine-Grained Japanese Clinical Named Entity Recognition: A Controlled Comparison of BERT and Open-Weight Large Language Models](http://arxiv.org/abs/2611.22219v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
 | [First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint](http://arxiv.org/abs/2605.02827v2) | ArXiv |  | 1 |
@@ -570,6 +575,7 @@
 | [Intentmaking and Sensemaking: Human Interaction with AI-Guided Mathematical Discovery](http://arxiv.org/abs/2605.05921v2) | ArXiv |  | 1 |
 | [Interaction Creates Dynamical AI Behavior Absent in Isolation](http://arxiv.org/abs/2608.07457v1) | ArXiv |  | 1 |
 | [Interactive Memory Learning for Long-Term Conversations](http://arxiv.org/abs/2609.17088v1) | ArXiv |  | 1 |
+| [Interactive Proofs as a Unified Framework for Evaluating and Leveraging Verifiable Proof Generation by LLM Agents](http://arxiv.org/abs/2611.33676v1) | ArXiv |  | 1 |
 | [Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](http://arxiv.org/abs/2607.25904v1) | ArXiv |  | 1 |
 | [Internal Pluralism and the Limits of Pairwise Comparisons](http://arxiv.org/abs/2607.02672v2) | ArXiv |  | 1 |
 | [InterPol: De-anonymizing LM Arena via Interpolated Preference Learning](http://arxiv.org/abs/2603.15220v2) | ArXiv |  | 1 |
@@ -581,10 +587,12 @@
 | [Jev-Mobile: Jev as an Executor for Mobile GUI Agents](http://arxiv.org/abs/2609.30186v1) | ArXiv |  | 1 |
 | [Jeva: System One Models from First Principles](http://arxiv.org/abs/2610.18773v1) | ArXiv |  | 1 |
 | [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](http://arxiv.org/abs/2611.05263v1) | ArXiv |  | 1 |
+| [JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses](http://arxiv.org/abs/2611.33735v1) | ArXiv |  | 1 |
 | [JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs](http://arxiv.org/abs/2610.03296v1) | ArXiv |  | 1 |
 | [Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization](http://arxiv.org/abs/2609.35443v3) | ArXiv |  | 1 |
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
 | [Keeping LLM Agents on Procedure: Executable Finite-State Control for Long-Horizon Instruction Fidelity](http://arxiv.org/abs/2611.10884v1) | ArXiv |  | 1 |
+| [KeyDeck: Multi-Paper-to-Slide Generation via Cross-Paper Synthesis and Reference-Guided Personalization](http://arxiv.org/abs/2611.33715v1) | ArXiv |  | 1 |
 | [Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL](http://arxiv.org/abs/2611.31190v1) | ArXiv |  | 1 |
 | [KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents](http://arxiv.org/abs/2610.22331v1) | ArXiv |  | 1 |
 | [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1) | ArXiv |  | 1 |
@@ -745,6 +753,7 @@
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v1) | ArXiv |  | 1 |
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v2) | ArXiv |  | 1 |
 | [Ownership in AI-Assisted Everyday Tasks](http://arxiv.org/abs/2609.20658v1) | ArXiv |  | 1 |
+| [P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity](http://arxiv.org/abs/2611.33707v1) | ArXiv |  | 1 |
 | [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](http://arxiv.org/abs/2608.14441v1) | ArXiv |  | 1 |
 | [PACE-ECG: Patient-Aware Contrastive ECG Pretraining; Leveraging Longitudinal Structure for Transferable Representations](http://arxiv.org/abs/2611.12307v2) | ArXiv |  | 1 |
 | [PACE: More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs](http://arxiv.org/abs/2611.17610v2) | ArXiv |  | 1 |
@@ -779,6 +788,7 @@
 | [Polynomial Denoisers on the Image Manifold: Volterra Networks for Self-Contained Pixel Diffusion](http://arxiv.org/abs/2611.10857v1) | ArXiv |  | 1 |
 | [Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers](http://arxiv.org/abs/2608.07436v1) | ArXiv |  | 1 |
 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](http://arxiv.org/abs/2607.20268v1) | ArXiv |  | 1 |
+| [PowerFix: Physics-Guided Iterative Repair for LLM-Assisted Power Converter Design](http://arxiv.org/abs/2611.33712v1) | ArXiv |  | 1 |
 | [Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In](http://arxiv.org/abs/2610.40588v1) | ArXiv |  | 1 |
 | [Precision on Demand: Escalating Weight Bits at Uncertain Decoding Steps in a Small Local Model](http://arxiv.org/abs/2611.14418v1) | ArXiv |  | 1 |
 | [Predictor-Guided Latent Space Codon Optimization for Maximizing Protein Expression](http://arxiv.org/abs/2610.03098v2) | ArXiv |  | 1 |
@@ -837,6 +847,7 @@
 | [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) | ArXiv |  | 1 |
 | [Reducing Order Sensitivity in Decision Models](http://arxiv.org/abs/2611.31174v1) | ArXiv |  | 1 |
 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](http://arxiv.org/abs/2608.03972v1) | ArXiv |  | 1 |
+| [REFORGE: LLM-Assisted RTL Bug Repair with Structured Context and Verification Feedback](http://arxiv.org/abs/2611.33748v1) | ArXiv |  | 1 |
 | [Regularizing Treatment Leakage for LLM-based Uplift Estimation](http://arxiv.org/abs/2611.20794v4) | ArXiv |  | 1 |
 | [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](http://arxiv.org/abs/2610.32851v1) | ArXiv |  | 1 |
 | [Reinforcement Learning from LLM-Generated (Suboptimal) Demonstrations](http://arxiv.org/abs/2611.29732v1) | ArXiv |  | 1 |
@@ -939,6 +950,7 @@
 | [SkillNet: Create, Evaluate, and Connect AI Skills](http://arxiv.org/abs/2603.04448v2) | ArXiv |  | 1 |
 | [SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent](http://arxiv.org/abs/2608.07449v1) | ArXiv |  | 1 |
 | [SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning](http://arxiv.org/abs/2609.17019v1) | ArXiv |  | 1 |
+| [SlicePlanner: Logic-Guided Agentic AI for Online QoS-Aware Network Slicing in Open RAN](http://arxiv.org/abs/2611.33664v1) | ArXiv |  | 1 |
 | [SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2611.27865v1) | ArXiv |  | 1 |
 | [sLTN: Structural Logic Tensor Networks](http://arxiv.org/abs/2608.11136v1) | ArXiv |  | 1 |
 | [SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v3) | ArXiv |  | 1 |
@@ -1110,6 +1122,7 @@
 | [What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models](http://arxiv.org/abs/2610.31576v1) | ArXiv |  | 1 |
 | [What Moves a LoCoMo Score? Memory Context, Answer Prompts and Judges](http://arxiv.org/abs/2611.19199v1) | ArXiv |  | 1 |
 | [What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence](http://arxiv.org/abs/2609.21924v1) | ArXiv |  | 1 |
+| [WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation](http://arxiv.org/abs/2611.33745v1) | ArXiv |  | 1 |
 | [When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding](http://arxiv.org/abs/2608.16801v1) | ArXiv |  | 1 |
 | [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
 | [When Clinical Judgment Becomes a Predictive Shortcut: Two Questions Clinical AI Must Answer Before Deployment](http://arxiv.org/abs/2609.25852v2) | ArXiv |  | 1 |

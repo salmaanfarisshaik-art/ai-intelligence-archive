@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33687v1",
+  "schema_version": "1.0",
+  "name": "Read Before You Use: Improving Visual Memory Utilization in Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33687v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33687v1",
+    "updated": "2026-11-25T02:53:43Z",
+    "published": "2026-11-25T02:53:43Z",
+    "title": "Read Before You Use: Improving Visual Memory Utilization in Vision-Language Models",
+    "summary": "Multimodal memory enables long-horizon vision-language agents to preserve and retrieve past experiences. While prior research has focused on memory construction and retrieval, effectively using the provided memory remains a challenge for vision-language models (VLMs). We find that VLMs often fail to answer downstream questions even when sufficient multimodal evidence is provided. To investigate why VLMs struggle, we replace memory images with reference captions and observe substantial performance gains, suggesting difficulties in reading visual evidence directly. However, model-generated captions may omit critical information, limiting this approach in practice. These limitations motivate a closer examination of memory utilization, revealing failures in both evidence reading and downstream question answering. Building on this distinction, we propose \\textbf{MemRU}, a two-stage training framework that improves evidence reading through supervised fine-tuning (Read SFT) and downstream evidence utilization through Group Relative Policy Optimization (Use GRPO). Experimental results demonstrate that our 8B model generalizes across three unseen multimodal memory systems, outperforming Qwen3-VL-32B and approaching GPT-5-mini.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T02:53:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33687v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

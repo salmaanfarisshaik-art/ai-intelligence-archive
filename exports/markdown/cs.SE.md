@@ -480,6 +480,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.27895v1](http://arxiv.org/abs/2611.27895v1)
 
+## Fixed or Deleted? External Feedback Lets Cheaper AI Coding Agents Repair Rule Violations
+- **ID**: arxiv_2611.29162v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.29162v2](http://arxiv.org/abs/2611.29162v2)
+
 ## ReqSeek: Transformer-Based Automatic Requirements Identification for Building Large Requirements Datasets
 - **ID**: arxiv_2611.29722v1
 - **Source**: ArXiv

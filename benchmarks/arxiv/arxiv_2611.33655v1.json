@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33655v1",
+  "schema_version": "1.0",
+  "name": "Recall4D: Forgetting, Not Misalignment, Limits Long-Horizon Feed-Forward 4D Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33655v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33655v1",
+    "updated": "2026-11-25T02:22:11Z",
+    "published": "2026-11-25T02:22:11Z",
+    "title": "Recall4D: Forgetting, Not Misalignment, Limits Long-Horizon Feed-Forward 4D Reconstruction",
+    "summary": "Feed-forward 4D trackers recover camera motion, depth, and point trajectories from short video clips, but chaining windows over long videos degrades their accuracy. We find that replacing inter-window alignment with ground-truth transforms leaves tracking error essentially unchanged. Static-point error instead grows with time since last observation: repeatedly predicting a static point from windows that no longer observe it corrupts previously recovered geometry. We call this failure forgetting. Merely retaining the last observed positions of unseen points reduces error by 26% on PointOdyssey without modifying the tracker. We introduce Recall4D, a training-free framework that augments a frozen tracker with a persistent world state and sparse motion anchors. Static points retain their world-space positions outside the camera view and are refined by averaging observations decoded at sparse keyframes while in view. For dynamic objects, the tracker decodes sparse representative anchors, while geometric skinning propagates their displacements to dense queries. Across two long-horizon benchmarks, Recall4D improves the accuracy of its backbone while running 7.6-9.0$\\times$ faster, and its accuracy gains carry over to five further backbones and three other long-sequence tasks, demonstrating its generality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T02:22:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33655v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.33707v1",
+  "schema_version": "1.0",
+  "name": "P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.33707v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.33707v1",
+    "updated": "2026-11-25T03:20:47Z",
+    "published": "2026-11-25T03:20:47Z",
+    "title": "P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity",
+    "summary": "Skill learning has become an important way to improve agent performance. However, agent trajectories often contain sensitive information and cannot be shared across clients, hindering collaborative skill learning. To tackle this issue, federated skill learning (FSL) has emerged as a solution by distilling trajectories into compact skill representations and uploading them to a central server for sharing. However, existing FSL methods typically share skills based on skill similarity without considering their contributions to heterogeneous tasks across clients, thereby degrading agent performance. To address this challenge, we propose P-FedSkill, a personalized FSL framework that comprises three key components: local skill extraction (LSE), personalized skill selection (PSS), and task-aware skill routing (TASR). Specifically, LSE first extracts skill patches (i.e., task applicability conditions and execution strategies) and task execution outcomes from trajectories. PSS then uses these outcomes to evaluate each skill patch's performance on client tasks and incorporates its task applicability condition to construct a personalized skill set for each client. Finally, TASR adaptively selects a task-relevant subset of skill patches based on their applicability conditions to guide agent execution. We further provide a theoretical guarantee for personalized skill selection in P-FedSkill, and extensive experiments also demonstrate its effectiveness.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T03:20:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.33707v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

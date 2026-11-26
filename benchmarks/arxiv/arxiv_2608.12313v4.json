@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.12313v4",
+  "schema_version": "1.0",
+  "name": "AVA-Encoder: Learning to Represent Videos via Reconstruction-Driven Agentic Self-Evolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.12313v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.12313v4",
+    "updated": "2026-11-25T03:22:29Z",
+    "published": "2026-08-12T17:58:02Z",
+    "title": "AVA-Encoder: Learning to Represent Videos via Reconstruction-Driven Agentic Self-Evolution",
+    "summary": "Agentic video creation systems remain far from cinematic-grade quality: their underlying models struggle to plan how story, characters, visuals, and sound fit together, and high-quality creation trajectories to learn such planning abilities are scarce. Finished human films embody this knowledge, but in a tightly coupled audiovisual form that agents cannot directly read or manipulate. We propose the Agentic Video \"Auto-Encoder\" (AVA-Encoder), which works backward from human films, turning them into agent-native video representations with reconstruction itself as the sole supervision. It encodes a film into a Film Knowledge Graph (Film KG) of structured-text nodes, typed dependency edges, and linked multimodal assets, then regenerates the film from this graph with a fixed decoder. Crucially, by distilling reconstruction residuals into textual gradients, AVA-Encoder drives a dual-loop self-evolution: an outer loop autonomously discovers a generalizable encoding strategy entirely from unlabeled videos, while an inner loop refines each video's Film KG at test time. AVA-Encoder improves reconstruction fidelity by 20.9 percentage points over the strongest baseline, and its autonomously learned strategy outperforms a human-tuned strategy using 70% fewer prompt tokens. Our representations drive three downstream breakthroughs: (1) Film KGs enable coordinated graph-based editing and (2) improve one-shot video generation across four open-source frameworks, while (3) fine-tuning agents on our reverse-engineered trajectories boosts video creation quality by 38.7%. We release the framework and a dataset of 500 Film KGs with over 27,000 creation trajectories.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T03:22:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.12313v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

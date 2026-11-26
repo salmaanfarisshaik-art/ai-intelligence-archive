@@ -3770,6 +3770,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35744v1](http://arxiv.org/abs/2609.35744v1)
 
+## FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents
+- **ID**: arxiv_2609.35744v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35744v3](http://arxiv.org/abs/2609.35744v3)
+
 ## 
 - **ID**: arxiv_2609.36927v1
 - **Source**: ArXiv
@@ -5600,6 +5605,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.26624v1](http://arxiv.org/abs/2611.26624v1)
 
+## Can Vision-Language Models Synthesize Executable Game-Playing Programs?
+- **ID**: arxiv_2611.27741v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.27741v2](http://arxiv.org/abs/2611.27741v2)
+
 ## SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning
 - **ID**: arxiv_2611.27865v1
 - **Source**: ArXiv
@@ -5729,4 +5739,59 @@
 - **ID**: arxiv_2611.33119v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33119v1](http://arxiv.org/abs/2611.33119v1)
+
+## SlicePlanner: Logic-Guided Agentic AI for Online QoS-Aware Network Slicing in Open RAN
+- **ID**: arxiv_2611.33664v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33664v1](http://arxiv.org/abs/2611.33664v1)
+
+## Interactive Proofs as a Unified Framework for Evaluating and Leveraging Verifiable Proof Generation by LLM Agents
+- **ID**: arxiv_2611.33676v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33676v1](http://arxiv.org/abs/2611.33676v1)
+
+## Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token
+- **ID**: arxiv_2611.33679v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33679v1](http://arxiv.org/abs/2611.33679v1)
+
+## EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning
+- **ID**: arxiv_2611.33706v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33706v1](http://arxiv.org/abs/2611.33706v1)
+
+## P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity
+- **ID**: arxiv_2611.33707v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33707v1](http://arxiv.org/abs/2611.33707v1)
+
+## PowerFix: Physics-Guided Iterative Repair for LLM-Assisted Power Converter Design
+- **ID**: arxiv_2611.33712v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33712v1](http://arxiv.org/abs/2611.33712v1)
+
+## KeyDeck: Multi-Paper-to-Slide Generation via Cross-Paper Synthesis and Reference-Guided Personalization
+- **ID**: arxiv_2611.33715v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33715v1](http://arxiv.org/abs/2611.33715v1)
+
+## Asset4D-Bench: Benchmarking Coding Agents for Editable 3D and 4D Reconstruction
+- **ID**: arxiv_2611.33728v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33728v1](http://arxiv.org/abs/2611.33728v1)
+
+## JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses
+- **ID**: arxiv_2611.33735v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33735v1](http://arxiv.org/abs/2611.33735v1)
+
+## WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation
+- **ID**: arxiv_2611.33745v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33745v1](http://arxiv.org/abs/2611.33745v1)
+
+## REFORGE: LLM-Assisted RTL Bug Repair with Structured Context and Verification Feedback
+- **ID**: arxiv_2611.33748v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33748v1](http://arxiv.org/abs/2611.33748v1)
 

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2402.04012v3](http://arxiv.org/abs/2402.04012v3)
 
+## Predictive Coding Implemented as a Hardware Substrate Computes Gradients faster than Backpropagation
+- **ID**: arxiv_2603.18066v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18066v3](http://arxiv.org/abs/2603.18066v3)
+
 ## Evolving Ensemble of Agents
 - **ID**: arxiv_2605.09018v4
 - **Source**: ArXiv

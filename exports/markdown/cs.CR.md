@@ -60,6 +60,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14211v3](http://arxiv.org/abs/2602.14211v3)
 
+## AESP: A Human-Sovereign Economic Protocol for AI Agents with Privacy-Preserving Settlement
+- **ID**: arxiv_2603.00318v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.00318v2](http://arxiv.org/abs/2603.00318v2)
+
 ## Authenticated Contradictions from Desynchronized Provenance and Watermarking
 - **ID**: arxiv_2603.02378v3
 - **Source**: ArXiv
@@ -624,4 +629,9 @@
 - **ID**: arxiv_2611.31129v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.31129v1](http://arxiv.org/abs/2611.31129v1)
+
+## FlashProve-Next: Verifiable Inference for Production LLM APIs
+- **ID**: arxiv_2611.33741v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33741v1](http://arxiv.org/abs/2611.33741v1)
 

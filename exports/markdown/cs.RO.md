@@ -1390,3 +1390,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33158v1](http://arxiv.org/abs/2611.33158v1)
 
+## Practice Makes Fluent: Learning to Use Earlier Predictions in Looped Models
+- **ID**: arxiv_2611.33722v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33722v1](http://arxiv.org/abs/2611.33722v1)
+

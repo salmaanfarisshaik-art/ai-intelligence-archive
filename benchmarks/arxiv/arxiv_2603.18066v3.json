@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.18066v3",
+  "schema_version": "1.0",
+  "name": "Predictive Coding Implemented as a Hardware Substrate Computes Gradients faster than Backpropagation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.18066v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.NE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.18066v3",
+    "updated": "2026-11-25T02:58:41Z",
+    "published": "2026-03-18T03:07:19Z",
+    "title": "Predictive Coding Implemented as a Hardware Substrate Computes Gradients faster than Backpropagation",
+    "summary": "Backpropagation has enabled modern deep learning but is difficult to realize as an online, fully distributed hardware system due to global error propagation, separate phases, and centralized memory. Predictive coding is an alternative learning algorithm with similar dynamics to backpropagation that arises from local prediction error dynamics. This paper shows that predictive coding can be instantiated as a discrete time digital hardware substrate, with local memory and computation, no instruction set architecture, and one physical core for each predictive-coding neuron. Each core stores its own activity and weights, communicates with the cores that it's connected to, and performs local gradient updates. By updating neuron cores concurrently, the architecture computes a network update in O(J+K) clock cycles. For dense layers of width n, this is O(n) cycles per update, compared with O(n^2) connection operations processed serially. This result is retained with scaling to larger predictive coding networks, demonstrating a decisive theoretical advantage for predictive coding instantiated in hardware.",
+    "primary_category": "cs.NE"
+  },
+  "retrieval_timestamp": "2026-11-26T02:38:43Z",
+  "last_updated": "2026-11-25T02:58:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.18066v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

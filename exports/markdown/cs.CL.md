@@ -1780,6 +1780,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21570v1](http://arxiv.org/abs/2607.21570v1)
 
+## MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+- **ID**: arxiv_2607.21570v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21570v2](http://arxiv.org/abs/2607.21570v2)
+
 ## Surprisal Theory is Tautological (without Rational Grounding)
 - **ID**: arxiv_2607.21574v1
 - **Source**: ArXiv
@@ -3955,6 +3960,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35769v1](http://arxiv.org/abs/2609.35769v1)
 
+## Can Language Models Learn to Forecast Stock Prices?
+- **ID**: arxiv_2609.36914v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36914v4](http://arxiv.org/abs/2609.36914v4)
+
 ## 
 - **ID**: arxiv_2609.36931v1
 - **Source**: ArXiv
@@ -5749,4 +5759,39 @@
 - **ID**: arxiv_2611.33148v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.33148v1](http://arxiv.org/abs/2611.33148v1)
+
+## Verifiable but Not Predictable: What Sentence Embeddings Know About Propositional Decomposition
+- **ID**: arxiv_2611.33668v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33668v1](http://arxiv.org/abs/2611.33668v1)
+
+## Rethinking Knowledge Distillation for Diffusion Language Models
+- **ID**: arxiv_2611.33670v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33670v1](http://arxiv.org/abs/2611.33670v1)
+
+## Refusal Is Not Scored: A Coverage Limit in Content-Based Bias Evaluation
+- **ID**: arxiv_2611.33690v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33690v1](http://arxiv.org/abs/2611.33690v1)
+
+## Rethinking Sequential Locate-Then-Edit: Optimality and Stability
+- **ID**: arxiv_2611.33692v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33692v1](http://arxiv.org/abs/2611.33692v1)
+
+## Sports Agent: A Self-Evolving System for Conversational Data Analytics
+- **ID**: arxiv_2611.33700v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33700v1](http://arxiv.org/abs/2611.33700v1)
+
+## NORMCRAFT: Cultural Norm Generation for Context-Aware Language Model Alignment
+- **ID**: arxiv_2611.33726v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33726v1](http://arxiv.org/abs/2611.33726v1)
+
+## Tells of a Lying Machine: Analyzing LLM-Generated Strategic Dialogue in Chinese Werewolf
+- **ID**: arxiv_2611.33747v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.33747v1](http://arxiv.org/abs/2611.33747v1)
 
