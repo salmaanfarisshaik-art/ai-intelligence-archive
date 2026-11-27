@@ -2793,7 +2793,12 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:json",
       "language:en",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
       "modality:tabular",
       "modality:text",
@@ -3588,8 +3593,12 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:imagefolder",
+      "library:datasets",
+      "library:mlcroissant",
       "modality:image",
-      "region:us"
+      "region:us",
+      "size_categories:10K<n<100K"
     ],
     "links": {
       "related_models": [],
@@ -4387,8 +4396,16 @@
     "source": "HuggingFace Datasets",
     "tags": [
       "arxiv:2509.23661",
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
-      "region:us"
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:10M<n<100M"
     ],
     "links": {
       "related_models": [
@@ -4961,13 +4978,19 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
+      "format:parquet",
       "leaderboards",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
       "license:mit",
       "meta-evaluation",
+      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:10K<n<100K",
+      "size_categories:1K<n<10K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -6658,43 +6681,6 @@
   },
   {
     "id": "hf_ds_6a409561222ffbb14f69924c",
-    "title": "3dcodeverse/3dcodeverse-2m",
-    "category": "dataset",
-    "source": "HuggingFace Datasets",
-    "tags": [
-      "3d",
-      "arxiv:2610.22341",
-      "blender",
-      "cadquery",
-      "code-generation",
-      "glsl",
-      "language:en",
-      "license:cc-by-nc-sa-4.0",
-      "modality:3d",
-      "modality:image",
-      "openscad",
-      "procedural-3d",
-      "region:us",
-      "size_categories:1M<n<10M",
-      "task_categories:image-to-3d",
-      "task_categories:text-generation",
-      "task_categories:text-to-3d",
-      "threejs",
-      "urdf"
-    ],
-    "links": {
-      "related_models": [
-        "datasets/3dcodeverse"
-      ],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    },
-    "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
-    "local_path": "datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json"
-  },
-  {
-    "id": "hf_ds_6a409561222ffbb14f69924c",
     "title": "ilabai/3dcodeverse",
     "category": "dataset",
     "source": "HuggingFace Datasets",
@@ -6725,6 +6711,45 @@
     },
     "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
     "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "3dcodeverse/3dcodeverse-2m",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "blender",
+      "cadquery",
+      "code-generation",
+      "glsl",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:tabular",
+      "modality:text",
+      "openscad",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-generation",
+      "task_categories:text-to-3d",
+      "threejs",
+      "urdf"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/3dcodeverse"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
+    "local_path": "datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json"
   },
   {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",
@@ -7594,11 +7619,20 @@
       "LeRobot",
       "arxiv:2609.36416",
       "bimanual-manipulation",
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:lerobot",
+      "library:mlcroissant",
+      "library:polars",
       "license:cc-by-4.0",
+      "modality:tabular",
+      "modality:text",
+      "modality:timeseries",
       "modality:video",
       "region:us",
       "robotics",
-      "size_categories:10K<n<100K",
+      "size_categories:100M<n<1B",
       "subtask-annotations",
       "task_categories:robotics",
       "vision-language-action"

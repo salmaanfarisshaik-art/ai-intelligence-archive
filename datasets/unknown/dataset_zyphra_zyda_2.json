@@ -14,7 +14,10 @@
     "task_categories:text-generation",
     "language:en",
     "license:odc-by",
-    "size_categories:n>1T",
+    "size_categories:1B<n<10B",
+    "modality:tabular",
+    "modality:text",
+    "modality:timeseries",
     "region:us"
   ],
   "createdAt": "2024-09-13T21:45:20.000Z",

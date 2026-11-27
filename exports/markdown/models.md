@@ -196,6 +196,10 @@
 - **ID**: model_alennnndy_qwen3_6_27b_awq_4bit
 - **Source**: 
 
+## Aleph-Alpha/Kolibri-1.1-GGUF
+- **ID**: model_aleph_alpha_kolibri_1_1_gguf
+- **Source**: 
+
 ## Alibaba-NLP/gte-Qwen2-1.5B-instruct
 - **ID**: model_alibaba_nlp_gte_qwen2_1_5b_instruct
 - **Source**: 
@@ -1704,6 +1708,10 @@
 - **ID**: model_dogcontext_glm_5_3_flash_uncensored_q2_ds4
 - **Source**: 
 
+## dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-Novel
+- **ID**: model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_novel
+- **Source**: 
+
 ## dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v2-GGUF
 - **ID**: model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf
 - **Source**: 
@@ -2700,6 +2708,10 @@
 - **ID**: model_ifm_k2_horizon_0_9b
 - **Source**: 
 
+## IFM/K2-Horizon-3.7B-GGUF
+- **ID**: model_ifm_k2_horizon_3_7b_gguf
+- **Source**: 
+
 ## IFM/K2-Horizon-7B
 - **ID**: model_ifm_k2_horizon_7b
 - **Source**: 
@@ -2718,6 +2730,10 @@
 
 ## igorls/gemma-4-12B-it-heretic-GGUF
 - **ID**: model_igorls_gemma_4_12b_it_heretic_gguf
+- **Source**: 
+
+## Iker/Latxa-Llama-3.1-70B-Instruct-w4a4_nvfp4
+- **ID**: model_iker_latxa_llama_3_1_70b_instruct_w4a4_nvfp4
 - **Source**: 
 
 ## IlyaGusev/gemma-2-2b-it-abliterated
@@ -3718,6 +3734,10 @@
 
 ## LordNeel/Agents-A1-GGUF
 - **ID**: model_lordneel_agents_a1_gguf
+- **Source**: 
+
+## LoyalAI/Underdog-Saluki-27B-1.0
+- **ID**: model_loyalai_underdog_saluki_27b_1_0
 - **Source**: 
 
 ## LSX-UniWue/LLaMmlein_1B_prerelease
@@ -5232,6 +5252,10 @@
 - **ID**: model_optimum_intel_internal_testing_tiny_random_gpt_oss_mxfp4
 - **Source**: 
 
+## optimum-intel-internal-testing/tiny-random-nemotron-h
+- **ID**: model_optimum_intel_internal_testing_tiny_random_nemotron_h
+- **Source**: 
+
 ## optimum-intel-internal-testing/tiny-random-Phi3ForCausalLM
 - **ID**: model_optimum_intel_internal_testing_tiny_random_phi3forcausallm
 - **Source**: 
@@ -5242,6 +5266,10 @@
 
 ## orcarouter/GLM-5.3-Flash-Uncensored-FP8
 - **ID**: model_orcarouter_glm_5_3_flash_uncensored_fp8
+- **Source**: 
+
+## orcarouter/Hy4-flash-abliterated-GGUF
+- **ID**: model_orcarouter_hy4_flash_abliterated_gguf
 - **Source**: 
 
 ## Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
@@ -7474,6 +7502,10 @@
 
 ## ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF
 - **ID**: model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf
+- **Source**: 
+
+## tuanlai001/H3-IMAGE-PE-HERETIC-NVFP4-COMFYUI
+- **ID**: model_tuanlai001_h3_image_pe_heretic_nvfp4_comfyui
 - **Source**: 
 
 ## tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF

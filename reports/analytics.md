@@ -1,14 +1,14 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 94180
+**Total Entities Tracked**: 94215
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2986
-- **models**: 2133
+- **datasets**: 3013
+- **models**: 2141
 - **cs.CV**: 1853
 - **news**: 1464
 - **dataset**: 1271
@@ -104,7 +104,7 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 32297
+- ****: 32332
 - **ArXiv**: 5958
 - **Hugging Face**: 2030
 - **OpenAI Blog**: 1449
@@ -149,32 +149,32 @@
 ## Top Tags
 
 - **region:us**: 368
-- **library:datasets**: 102
-- **library:mlcroissant**: 102
+- **library:datasets**: 107
+- **library:mlcroissant**: 107
 - **text-generation**: 99
-- **modality:text**: 94
+- **modality:text**: 98
 - **language:en**: 92
 - **license:apache-2.0**: 87
 - **endpoints_compatible**: 83
 - **conversational**: 80
 - **safetensors**: 79
 - **transformers**: 77
-- **library:polars**: 71
+- **library:polars**: 75
+- **format:parquet**: 60
 - **license:mit**: 60
-- **format:parquet**: 57
-- **modality:image**: 40
+- **modality:image**: 41
 - **text-generation-inference**: 39
 - **deploy:azure**: 38
+- **library:dask**: 38
+- **library:pandas**: 38
 - **en**: 37
-- **library:pandas**: 37
 - **task_categories:text-generation**: 36
-- **library:dask**: 35
 - **license:other**: 35
+- **modality:tabular**: 32
 - **deploy:sagemaker**: 30
-- **modality:tabular**: 30
 - **size_categories:n<1K**: 30
 - **eval-results**: 29
-- **size_categories:10K<n<100K**: 28
+- **size_categories:10K<n<100K**: 27
 - **license:cc-by-4.0**: 26
 - **enterprise**: 25
 - **modality:video**: 25
@@ -192,9 +192,9 @@
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
 - **robotics**: 14
+- **format:json**: 13
+- **size_categories:1K<n<10K**: 13
 - **custom_code**: 12
-- **format:json**: 12
-- **size_categories:1K<n<10K**: 12
+- **size_categories:100M<n<1B**: 12
+- **size_categories:10M<n<100M**: 12
 - **size_categories:n>1T**: 12
-- **8-bit**: 11
-- **size_categories:100M<n<1B**: 11

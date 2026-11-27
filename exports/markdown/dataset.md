@@ -476,7 +476,7 @@
 - **ID**: hf_ds_675d7e29e24babdf1842d270
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/m-a-p/FineFineWeb](https://huggingface.co/datasets/m-a-p/FineFineWeb)
-- **Tags**: language:en, license:apache-2.0, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-classification, task_categories:text-generation
+- **Tags**: format:json, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-classification, task_categories:text-generation
 
 ## hf-internal-testing/transformers_circleci_workflow_runs
 - **ID**: hf_ds_676477a23a379cdda443f577
@@ -620,7 +620,7 @@
 - **ID**: hf_ds_67eb39ec9c3049765889d084
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/updatebao/geonamebase_1](https://huggingface.co/datasets/updatebao/geonamebase_1)
-- **Tags**: modality:image, region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:10K<n<100K
 
 ## ZTWHHH/envs_1
 - **ID**: hf_ds_68020294df94b88d36e6140c
@@ -800,7 +800,7 @@
 - **ID**: hf_ds_68c6d459d95ef41da81c9b41
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M)
-- **Tags**: arxiv:2509.23661, license:apache-2.0, region:us
+- **Tags**: arxiv:2509.23661, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:image, modality:text, region:us, size_categories:10M<n<100M
 
 ## boltzgen/inference-data
 - **ID**: hf_ds_68d19889ef48faaef08b8710
@@ -944,7 +944,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, format:parquet, leaderboards, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1330,17 +1330,17 @@
 - **URL**: [https://huggingface.co/datasets/TGMR/one_pass_ingestion](https://huggingface.co/datasets/TGMR/one_pass_ingestion)
 - **Tags**: region:us
 
-## 3dcodeverse/3dcodeverse-2m
-- **ID**: hf_ds_6a409561222ffbb14f69924c
-- **Source**: HuggingFace Datasets
-- **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
-- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
-
 ## ilabai/3dcodeverse
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
 - **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
+
+## 3dcodeverse/3dcodeverse-2m
+- **ID**: hf_ds_6a409561222ffbb14f69924c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
+- **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:tabular, modality:text, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
@@ -1556,7 +1556,7 @@
 - **ID**: hf_ds_6acca32f6fa844eabec4e77b
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/lerobot/FineART](https://huggingface.co/datasets/lerobot/FineART)
-- **Tags**: LeRobot, arxiv:2609.36416, bimanual-manipulation, license:cc-by-4.0, modality:video, region:us, robotics, size_categories:10K<n<100K, subtask-annotations, task_categories:robotics, vision-language-action
+- **Tags**: LeRobot, arxiv:2609.36416, bimanual-manipulation, format:parquet, library:dask, library:datasets, library:lerobot, library:mlcroissant, library:polars, license:cc-by-4.0, modality:tabular, modality:text, modality:timeseries, modality:video, region:us, robotics, size_categories:100M<n<1B, subtask-annotations, task_categories:robotics, vision-language-action
 
 ## hdlzidane/ConteRecopilacion
 - **ID**: hf_ds_6accfa5c558696f3caf5dbfc

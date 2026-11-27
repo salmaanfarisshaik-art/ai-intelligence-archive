@@ -16,8 +16,13 @@
     "language:en",
     "license:apache-2.0",
     "size_categories:1B<n<10B",
+    "format:json",
     "modality:tabular",
     "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
     "region:us"
   ],
   "createdAt": "2024-12-14T12:46:33.000Z",

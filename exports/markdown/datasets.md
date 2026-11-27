@@ -1077,6 +1077,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_baai_eventtouch
+- **Source**: 
+
+## 
 - **ID**: dataset_baber_paul_graham_essays
 - **Source**: 
 
@@ -1353,6 +1357,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bodai_matrixcity
+- **Source**: 
+
+## 
 - **ID**: dataset_bodymaps_cancerverse
 - **Source**: 
 
@@ -1493,6 +1501,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bytedtsinghua_sia_dapo_math_17k
+- **Source**: 
+
+## 
 - **ID**: dataset_cadene_agibot_alpha_v30
 - **Source**: 
 
@@ -1606,6 +1618,10 @@
 
 ## 
 - **ID**: dataset_charlielll_browsecomp_nvl72_eval_traces_0907
+- **Source**: 
+
+## 
+- **ID**: dataset_charlottev_google_streetview_images_by_country
 - **Source**: 
 
 ## 
@@ -2517,6 +2533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ericng17_hcm_traffic_snapshots
+- **Source**: 
+
+## 
 - **ID**: dataset_eriksarriegui_nunc_news_dataset
 - **Source**: 
 
@@ -2558,6 +2578,10 @@
 
 ## 
 - **ID**: dataset_ethz_food101
+- **Source**: 
+
+## 
+- **ID**: dataset_etri_forestpersons
 - **Source**: 
 
 ## 
@@ -3458,6 +3482,10 @@
 
 ## 
 - **ID**: dataset_hebrish_hebrish_tts_voice_recordings
+- **Source**: 
+
+## 
+- **ID**: dataset_hebrish_irish_english_sentences
 - **Source**: 
 
 ## 
@@ -5469,6 +5497,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ideallll_aerobrain
+- **Source**: 
+
+## 
+- **ID**: dataset_ideallll_openfly
+- **Source**: 
+
+## 
 - **ID**: dataset_ideas_lab_northwestern_maniguard_bench
 - **Source**: 
 
@@ -6145,6 +6181,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_kazuyi1222_test_lr
+- **Source**: 
+
+## 
 - **ID**: dataset_kbsdjames_omni_math
 - **Source**: 
 
@@ -6389,6 +6429,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lccshunli_mvbench
+- **Source**: 
+
+## 
 - **ID**: dataset_leap_climsim_high_res
 - **Source**: 
 
@@ -6430,6 +6474,10 @@
 
 ## 
 - **ID**: dataset_lemas_project_lemas_dataset_train
+- **Source**: 
+
+## 
+- **ID**: dataset_leofan01_robobench
 - **Source**: 
 
 ## 
@@ -7041,6 +7089,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_marcel_gohsen_slurp
+- **Source**: 
+
+## 
 - **ID**: dataset_marco_molinari_vla_activations
 - **Source**: 
 
@@ -7485,6 +7537,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mlvu_mvlu
+- **Source**: 
+
+## 
 - **ID**: dataset_mm_eval_vlmevalkit
 - **Source**: 
 
@@ -7618,6 +7674,10 @@
 
 ## 
 - **ID**: dataset_mumbumble_gaze_soundspace
+- **Source**: 
+
+## 
+- **ID**: dataset_muncy_audiobookru
 - **Source**: 
 
 ## 
@@ -7778,6 +7838,10 @@
 
 ## 
 - **ID**: dataset_neigezhu_china_a_share_1min_ohlcv
+- **Source**: 
+
+## 
+- **ID**: dataset_neomi26_cc12m_images_078
 - **Source**: 
 
 ## 
@@ -7966,6 +8030,10 @@
 
 ## 
 - **ID**: dataset_nmontanabrown_saramis_amos
+- **Source**: 
+
+## 
+- **ID**: dataset_nnnnnr_onevtok_reg16_models_20261122
 - **Source**: 
 
 ## 
@@ -8945,6 +9013,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pleias_us_pd_newspapers
+- **Source**: 
+
+## 
 - **ID**: dataset_pleumpreeti_driving_behavior_classification
 - **Source**: 
 
@@ -9113,6 +9185,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pudderludde_geoguessr_raw
+- **Source**: 
+
+## 
 - **ID**: dataset_pulmo_ncbi_genbank_complete
 - **Source**: 
 
@@ -9130,6 +9206,10 @@
 
 ## 
 - **ID**: dataset_qi0925_vln_ego_making
+- **Source**: 
+
+## 
+- **ID**: dataset_qiao123rvvr_eccv2026_cad_challenge_data
 - **Source**: 
 
 ## 
@@ -9202,6 +9282,10 @@
 
 ## 
 - **ID**: dataset_r3ca1c1trant_oprd_video
+- **Source**: 
+
+## 
+- **ID**: dataset_rabornkraken_xhs_travel_photos
 - **Source**: 
 
 ## 
@@ -9302,6 +9386,10 @@
 
 ## 
 - **ID**: dataset_renton_ren_vgcp_robosuite
+- **Source**: 
+
+## 
+- **ID**: dataset_replicaverse_replica_predictors
 - **Source**: 
 
 ## 
@@ -10053,6 +10141,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_spacetech9900_old_data
+- **Source**: 
+
+## 
 - **ID**: dataset_spark_school_school_corpus
 - **Source**: 
 
@@ -10322,6 +10414,10 @@
 
 ## 
 - **ID**: dataset_syncster_data_economic_data
+- **Source**: 
+
+## 
+- **ID**: dataset_syncster_data_historical_market_data
 - **Source**: 
 
 ## 
@@ -10950,6 +11046,10 @@
 
 ## 
 - **ID**: dataset_vector_institute_open_pmc_18m
+- **Source**: 
+
+## 
+- **ID**: dataset_vehicle_research_multi_weather_traffic_data
 - **Source**: 
 
 ## 
@@ -11597,6 +11697,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yizhouz_masiv
+- **Source**: 
+
+## 
 - **ID**: dataset_ylacombe_cml_tts
 - **Source**: 
 
@@ -11846,6 +11950,10 @@
 
 ## 
 - **ID**: dataset_zhenzhiwang_humanvid
+- **Source**: 
+
+## 
+- **ID**: dataset_zhicao_egoforce
 - **Source**: 
 
 ## 
