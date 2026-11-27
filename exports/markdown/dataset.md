@@ -944,7 +944,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, format:parquet, leaderboards, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1395,6 +1395,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/willi19/autodex-gallery-video](https://huggingface.co/datasets/willi19/autodex-gallery-video)
 - **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:10K<n<100K
+
+## laion/voice-acting-cutscene-prompts
+- **ID**: hf_ds_6a589a522b06fed92d136d43
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/laion/voice-acting-cutscene-prompts](https://huggingface.co/datasets/laion/voice-acting-cutscene-prompts)
+- **Tags**: emotion, format:parquet, language:de, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:tabular, modality:text, region:us, size_categories:1M<n<10M, synthetic, task_categories:text-generation, text-to-speech, voice-acting
 
 ## scorpionjacketguy/physics-course-vids
 - **ID**: hf_ds_6a60568ac2d6c31b7f81bdc8

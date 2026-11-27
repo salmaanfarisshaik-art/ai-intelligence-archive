@@ -1,0 +1,32 @@
+{
+  "_id": "6a6b1ecea861095ede06c01e",
+  "id": "replicaverse/replica-predictors",
+  "author": "replicaverse",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-11-12T21:43:38.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "b872bfc62c335079537ab0f546b604cc1e86b4e6",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tREPLICA predictor store\n\t\n\nPer-unit predictors for computational models of human sentence processing:\nsurprisal, several entropies, similarity-adjusted surprisal, information\nvalue and unigram surprisal, scored by language models over reading\ncorpora (eye tracking, self-paced reading, maze, N400). Every row names the\ntext unit it describes and the unit its number is in.\n\n\t\n\t\t\ndataset\ntag\npredictor\nstimulus_id\nunit_index\ntext_unit\nvalue\nvalue_unit\nlayer\nstorage_class\nunit_rule… See the full description on the dataset page: https://huggingface.co/datasets/replicaverse/replica-predictors.",
+  "downloads": 43127,
+  "tags": [
+    "size_categories:100M<n<1B",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "psycholinguistics",
+    "reading-times",
+    "surprisal",
+    "entropy"
+  ],
+  "createdAt": "2026-07-30T09:52:14.000Z",
+  "key": "",
+  "unique_id": "dataset_replicaverse_replica_predictors",
+  "schema_version": "1.0"
+}

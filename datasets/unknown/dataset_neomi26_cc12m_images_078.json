@@ -1,0 +1,29 @@
+{
+  "_id": "6a1d85dd7e526d7fb30cb78b",
+  "id": "Neomi26/cc12m-images-078",
+  "author": "Neomi26",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-06-02T20:33:44.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "6f6b768ae415e2e1a3871e070b6615d223eb5e34",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tcc12m-images-078\n\t\n\nSubset of CC12M images re-hosted as\nindividual JPEG files for browser access.\n\nImages in this repo: 90,000\nImage URL pattern: https://huggingface.co/datasets/Neomi26/cc12m-images-078/resolve/main/{folder}/{key}.jpg\nManifest: manifest.parquet — columns: key, image_url, source_url, caption,\nwidth, height, original_width, original_height, shard, repo, path\n\nPart of Neomi26/cc12m-images-* series — 122 repos, from cc12m-images-000 to cc12m-images-121.\nGlobal index:… See the full description on the dataset page: https://huggingface.co/datasets/Neomi26/cc12m-images-078.",
+  "downloads": 104964,
+  "tags": [
+    "task_categories:image-to-text",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "cc12m",
+    "images"
+  ],
+  "createdAt": "2026-06-01T13:15:09.000Z",
+  "key": "",
+  "unique_id": "dataset_neomi26_cc12m_images_078",
+  "schema_version": "1.0"
+}

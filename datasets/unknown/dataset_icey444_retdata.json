@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ac774394bab4efc0988fefbe8a1011c22ddc7817",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tretdata: reasoning-based composed image retrieval pairs\n\t\n\nQuery image + instruction -> target image, where the target follows from the query by an\ninference rather than visual similarity. Rows are the judge-accepted (validity.keep)\nset of the general pipeline, packed in the Qwenvl2d5 v2 pair format with images inline.\n\n\t\n\t\t\nsubset\nrows\ndropped (image unreadable)\n\n\n\t\t\nweb_search\n153,883\n0\n\n\nfaiss_legacy\n1,558,022\n0\n\n\n\t\n\npairs/category=<subset>/ holds the training rows: query, cand… See the full description on the dataset page: https://huggingface.co/datasets/Icey444/retdata.",
-  "downloads": 45684,
+  "downloads": 45687,
   "tags": [
     "task_categories:image-to-image",
     "license:other",

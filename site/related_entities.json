@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:30:38Z",
+  "generated_at": "2026-11-27T13:30:19Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -75,6 +75,9 @@
     ],
     "hf_Aleph-Alpha_Kolibri-1-BF16": [
       "model_huihui_ai_huihui_kolibri_1_bf16_abliterated_gguf"
+    ],
+    "hf_Aleph-Alpha_Kolibri-1.1": [
+      "model_aleph_alpha_kolibri_1_1_gguf"
     ],
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF": [
       "hf_google_gemma-3-1b-it"
@@ -366,6 +369,9 @@
     "hf_HemmingwayAI_Hemmingway-1": [
       "model_bartowski_altworld_hemmingway_1_gguf"
     ],
+    "hf_HiTZ_Latxa-Llama-3.1-70B-Instruct": [
+      "model_iker_latxa_llama_3_1_70b_instruct_w4a4_nvfp4"
+    ],
     "hf_HiTZ_euscrawl": [
       "model_bsc_lt_salamandra_7b_instruct"
     ],
@@ -465,6 +471,9 @@
       "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
       "model_bartowski_dolphin3_0_llama3_1_8b_gguf"
     ],
+    "hf_IFM_K2-Horizon-3.7B": [
+      "model_ifm_k2_horizon_3_7b_gguf"
+    ],
     "hf_IFM_K2-Horizon-7B": [
       "hf_OsaurusAI_Diplodocus-preview-GGUF",
       "model_ifm_k2_horizon_7b_gguf",
@@ -473,6 +482,7 @@
     ],
     "hf_IFM_K2-Horizon-Midtrain-Data": [
       "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
+      "model_ifm_k2_horizon_3_7b_gguf",
       "model_ifm_k2_horizon_7b",
       "model_ifm_k2_horizon_7b_gguf",
       "model_ifm_k2_horizon_mova_36b_a4b_gguf"
@@ -484,6 +494,7 @@
     ],
     "hf_IFM_K2-Horizon-Pretrain-Data": [
       "model_bartowski_k2_horizon_mova_36b_a4b_gguf",
+      "model_ifm_k2_horizon_3_7b_gguf",
       "model_ifm_k2_horizon_7b",
       "model_ifm_k2_horizon_7b_gguf",
       "model_ifm_k2_horizon_mova_36b_a4b_gguf"
@@ -497,7 +508,11 @@
       "model_atomicchat_deepseek_v4_1_flash_1017_uncensored_gsq_rco_gguf"
     ],
     "hf_ISTA-DASLab_Qwen3.8-27B-GSQ-RCO-GGUF": [
-      "model_conwayresearch_underdog_saluki_27b_1_0"
+      "model_conwayresearch_underdog_saluki_27b_1_0",
+      "model_loyalai_underdog_saluki_27b_1_0"
+    ],
+    "hf_Iker_calibration-dataset": [
+      "model_iker_latxa_llama_3_1_70b_instruct_w4a4_nvfp4"
     ],
     "hf_IlyaGusev_gemma-2-2b-it-abliterated": [
       "model_bartowski_gemma_2_2b_it_abliterated_gguf"
@@ -1557,6 +1572,7 @@
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
       "model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf",
+      "model_tuanlai001_h3_image_pe_heretic_nvfp4_comfyui",
       "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq",
       "model_youssofal_qwen3_8_27b_mtplx_optimized_speed",
       "model_z_lab_qwen3_8_27b_dflash2",
@@ -2333,6 +2349,7 @@
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
     "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW": [
+      "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_novel",
       "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf"
     ],
     "hf_dphn_Dolphin-Mistral-24B-Venice-Edition": [
@@ -3832,6 +3849,9 @@
       "model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf",
       "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4"
     ],
+    "hf_orcarouter_Hy4-flash-abliterated": [
+      "model_orcarouter_hy4_flash_abliterated_gguf"
+    ],
     "hf_orcarouter_Qwen3.8-27B-Uncensored": [
       "model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored"
     ],
@@ -4485,6 +4505,9 @@
     ],
     "model_alennnndy_qwen3_6_27b_awq_4bit": [
       "hf_Qwen_Qwen3.6-27B"
+    ],
+    "model_aleph_alpha_kolibri_1_1_gguf": [
+      "hf_Aleph-Alpha_Kolibri-1.1"
     ],
     "model_alibiserikbay_jevk5": [
       "hf_Qwen_Qwen3.5-4B"
@@ -5439,6 +5462,9 @@
     "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4": [
       "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8"
     ],
+    "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_novel": [
+      "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW"
+    ],
     "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf": [
       "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW"
     ],
@@ -5963,6 +5989,11 @@
     "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4": [
       "hf_meta-llama_Llama-3.3-70B-Instruct"
     ],
+    "model_ifm_k2_horizon_3_7b_gguf": [
+      "hf_IFM_K2-Horizon-3.7B",
+      "hf_IFM_K2-Horizon-Midtrain-Data",
+      "hf_IFM_K2-Horizon-Pretrain-Data"
+    ],
     "model_ifm_k2_horizon_7b": [
       "hf_IFM_K2-Horizon-Midtrain-Data",
       "hf_IFM_K2-Horizon-Pretrain-Data"
@@ -5982,6 +6013,10 @@
     ],
     "model_igorls_gemma_4_12b_it_heretic_gguf": [
       "hf_igorls_gemma-4-12B-it-heretic"
+    ],
+    "model_iker_latxa_llama_3_1_70b_instruct_w4a4_nvfp4": [
+      "hf_HiTZ_Latxa-Llama-3.1-70B-Instruct",
+      "hf_Iker_calibration-dataset"
     ],
     "model_ilyagusev_saiga_llama3_8b": [
       "hf_IlyaGusev_saiga_scored"
@@ -6623,6 +6658,9 @@
     ],
     "model_lordneel_agents_a1_gguf": [
       "hf_InternScience_Agents-A1"
+    ],
+    "model_loyalai_underdog_saluki_27b_1_0": [
+      "hf_ISTA-DASLab_Qwen3.8-27B-GSQ-RCO-GGUF"
     ],
     "model_lsx_uniwue_llammlein_1b_prerelease": [
       "hf_LSX-UniWue_LLaMmlein-Dataset",
@@ -7608,6 +7646,9 @@
     ],
     "model_orcarouter_glm_5_3_flash_uncensored_fp8": [
       "hf_zai-org_GLM-5.3-Flash"
+    ],
+    "model_orcarouter_hy4_flash_abliterated_gguf": [
+      "hf_orcarouter_Hy4-flash-abliterated"
     ],
     "model_org2ai_wald_26b_a4b": [
       "hf_google_gemma-4-26B-A4B-it"
@@ -8757,6 +8798,9 @@
     ],
     "model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf": [
       "hf_DavidAU_Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF"
+    ],
+    "model_tuanlai001_h3_image_pe_heretic_nvfp4_comfyui": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf": [
       "hf_Glint-Research_Fable-5-traces",

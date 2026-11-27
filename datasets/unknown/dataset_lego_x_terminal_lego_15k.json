@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9c197f1c2e87b64cc316b1a5bfcef57b584929f0",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tTerminal-Lego-15k: Docker-Verified Terminal Agent Tasks from Real StackOverflow Issues\n\t\n\nProject Page · Code · Paper · Models\nTerminal-Lego-15k is a large-scale collection of Docker-verified, Terminal-Bench-style agentic tasks built from real StackOverflow technical issues. Each task is constructed through the Terminal-Lego pipeline: StackOverflow questions are filtered, converted via cascaded LLM generation, and retained only after Docker round-trip verification.\nThis dataset is… See the full description on the dataset page: https://huggingface.co/datasets/Lego-X/Terminal-Lego-15k.",
-  "downloads": 62797,
+  "downloads": 63304,
   "tags": [
     "task_categories:question-answering",
     "language:en",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:30:38Z",
+  "generated_at": "2026-11-27T13:30:18Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -769,6 +769,11 @@
     {
       "source_id": "model_alennnndy_qwen3_6_27b_awq_4bit",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_aleph_alpha_kolibri_1_1_gguf",
+      "target_id": "hf_Aleph-Alpha_Kolibri-1.1",
       "type": "derived_from"
     },
     {
@@ -2827,6 +2832,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_novel",
+      "target_id": "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf",
       "target_id": "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW",
       "type": "derived_from"
@@ -3877,6 +3887,21 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ifm_k2_horizon_3_7b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-3.7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_3_7b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Midtrain-Data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_3_7b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Pretrain-Data",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_ifm_k2_horizon_7b",
       "target_id": "hf_IFM_K2-Horizon-Midtrain-Data",
       "type": "trained_on"
@@ -3925,6 +3950,16 @@
       "source_id": "model_igorls_gemma_4_12b_it_heretic_gguf",
       "target_id": "hf_igorls_gemma-4-12B-it-heretic",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_iker_latxa_llama_3_1_70b_instruct_w4a4_nvfp4",
+      "target_id": "hf_HiTZ_Latxa-Llama-3.1-70B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_iker_latxa_llama_3_1_70b_instruct_w4a4_nvfp4",
+      "target_id": "hf_Iker_calibration-dataset",
+      "type": "trained_on"
     },
     {
       "source_id": "model_ilyagusev_saiga_llama3_8b",
@@ -5309,6 +5344,11 @@
     {
       "source_id": "model_lordneel_agents_a1_gguf",
       "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_loyalai_underdog_saluki_27b_1_0",
+      "target_id": "hf_ISTA-DASLab_Qwen3.8-27B-GSQ-RCO-GGUF",
       "type": "derived_from"
     },
     {
@@ -7777,6 +7817,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_orcarouter_hy4_flash_abliterated_gguf",
+      "target_id": "hf_orcarouter_Hy4-flash-abliterated",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_org2ai_wald_26b_a4b",
       "target_id": "hf_google_gemma-4-26B-A4B-it",
       "type": "derived_from"
@@ -10029,6 +10074,11 @@
     {
       "source_id": "model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf",
       "target_id": "hf_DavidAU_Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_tuanlai001_h3_image_pe_heretic_nvfp4_comfyui",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {

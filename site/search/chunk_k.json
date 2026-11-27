@@ -30,6 +30,11 @@
       "score": 9.5
     },
     {
+      "entity_id": "model_ifm_k2_horizon_3_7b_gguf",
+      "match_type": "exact",
+      "score": 9.5
+    },
+    {
       "entity_id": "model_ifm_k2_horizon_7b_gguf",
       "match_type": "exact",
       "score": 9.5
@@ -6832,6 +6837,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_neomi26_cc12m_images_078",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-1001639705480653960",
       "match_type": "exact",
       "score": 1.0
@@ -8743,6 +8753,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_rabornkraken_xhs_travel_photos",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "gh_1108837393",
       "match_type": "exact",
       "score": 1.0
@@ -9492,6 +9507,13 @@
   "khtao": [
     {
       "entity_id": "dataset_khtao_openmind",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "khu": [
+    {
+      "entity_id": "dataset_ericng17_hcm_traffic_snapshots",
       "match_type": "exact",
       "score": 1.0
     }
@@ -22316,6 +22338,11 @@
     }
   ],
   "kolibri": [
+    {
+      "entity_id": "model_aleph_alpha_kolibri_1_1_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "model_hob_forge_kolibri_1_gguf",
       "match_type": "exact",

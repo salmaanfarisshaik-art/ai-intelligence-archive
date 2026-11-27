@@ -9,7 +9,7 @@
   "private": false,
   "sha": "91f0c1b9a29f8d1c5bad18182a43975255512cce",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nThis dataset is part of LEMAS-Project (lemas-project.github.io/LEMAS-Project).\nIt contains a large-scale training set (150k+ hours) and a curated evaluation set\n(500 utterances per language) covering 10 languages, all with word-level alignment.\n\n\t\n\t\t\n\t\n\t\n\t\tFields\n\t\n\n\nkey: unique utterance identifier; the first two characters indicate the language ID\naudio: relative path to the MP3 audio file (in the eval set, this key is renamed to \"file_name\" for compatibility with the… See the full description on the dataset page: https://huggingface.co/datasets/LEMAS-Project/LEMAS-Dataset-train.",
-  "downloads": 42241,
+  "downloads": 51568,
   "tags": [
     "task_categories:text-to-speech",
     "task_categories:automatic-speech-recognition",

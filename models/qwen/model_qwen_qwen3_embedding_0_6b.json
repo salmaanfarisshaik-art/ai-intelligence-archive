@@ -3,7 +3,7 @@
   "id": "Qwen/Qwen3-Embedding-0.6B",
   "likes": 1364,
   "private": false,
-  "downloads": 6813415,
+  "downloads": 6629681,
   "tags": [
     "sentence-transformers",
     "safetensors",
@@ -18,9 +18,9 @@
     "base_model:finetune:Qwen/Qwen3-0.6B-Base",
     "license:apache-2.0",
     "endpoints_compatible",
-    "region:us",
     "deploy:sagemaker",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "feature-extraction",
   "library_name": "sentence-transformers",

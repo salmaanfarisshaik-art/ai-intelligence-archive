@@ -1,0 +1,20 @@
+{
+  "_id": "6b02df3dc3a7647760a78552",
+  "id": "NNNNNr/onevtok-reg16-models-20261122",
+  "author": "NNNNNr",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-11-23T08:35:12.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "526e83abaa3c9ff601885fb78fda635a14ef082a",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tOneVTok sixteen-register models — 2026-11-22\n\t\n\nPublic code and weight release. Original private archive remains private.\nCurrent release phase: Exact EMA inference weights first. Files are listed as available only after HF size and SHA256 verification.\n\n\t\n\t\t\n\t\n\t\n\t\tExact FP32 EMA inference weights\n\t\n\nThese files contain the original EMA tensors without precision conversion. They exclude Adam, RAW copies and RNG training state. Recovered tensor shapes/dtypes/values were checked… See the full description on the dataset page: https://huggingface.co/datasets/NNNNNr/onevtok-reg16-models-20261122.",
+  "downloads": 61449,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2026-11-22T12:25:33.000Z",
+  "key": "",
+  "unique_id": "dataset_nnnnnr_onevtok_reg16_models_20261122",
+  "schema_version": "1.0"
+}

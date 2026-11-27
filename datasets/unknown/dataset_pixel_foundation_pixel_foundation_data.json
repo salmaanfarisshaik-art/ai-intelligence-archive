@@ -9,7 +9,7 @@
   "private": false,
   "sha": "eebb90d9a13901446ddd33d378f5fa1995f5f319",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tpixel-foundation data\n\t\n\nProcessed training / evaluation data of the pixel-foundation project: vision tasks\n(perception, low-level, 3D) whose outputs are encoded as RGB images and learned by\nimage-generation / editing models. Each subset = one source dataset, in a unified\nrecord format with the raw ground truth (boxes, masks, depth in meters, normals, flow,\ndisparity, camera, ...). The RGB encoding of targets is done online at training time;\nthe preview column shows one such… See the full description on the dataset page: https://huggingface.co/datasets/pixel-foundation/pixel-foundation-data.",
-  "downloads": 43038,
+  "downloads": 48698,
   "tags": [
     "size_categories:1M<n<10M",
     "format:parquet",

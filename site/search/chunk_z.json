@@ -2840,6 +2840,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_rabornkraken_xhs_travel_photos",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_ran0_jiezi",
       "match_type": "exact",
       "score": 1.5
@@ -3326,6 +3331,11 @@
     },
     {
       "entity_id": "model_dogcontext_glm_5_3_flash_uncensored_q2_ds4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_novel",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3956,6 +3966,11 @@
     },
     {
       "entity_id": "model_orcarouter_glm_5_3_flash_uncensored_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_orcarouter_hy4_flash_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -4717,6 +4732,13 @@
       "score": 1.0
     }
   ],
+  "zhao1": [
+    {
+      "entity_id": "dataset_yizhouz_masiv",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "zhao2026sythnverse": [
     {
       "entity_id": "dataset_internrobotics_synthverse",
@@ -4789,6 +4811,13 @@
       "score": 1.0
     }
   ],
+  "zhenyang": [
+    {
+      "entity_id": "dataset_yizhouz_masiv",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "zhenyu": [
     {
       "entity_id": "dataset_chenhn02_metafold",
@@ -4797,6 +4826,20 @@
     },
     {
       "entity_id": "dataset_tonyfanggalaxies_rh20t",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zhi": [
+    {
+      "entity_id": "dataset_zhicao_egoforce",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zhicao": [
+    {
+      "entity_id": "dataset_zhicao_egoforce",
       "match_type": "exact",
       "score": 1.0
     }

@@ -154001,6 +154001,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6a589a522b06fed92d136d43",
+      "label": "laion/voice-acting-cutscene-prompts",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_6a60568ac2d6c31b7f81bdc8",
       "label": "scorpionjacketguy/physics-course-vids",
       "category": "dataset"
@@ -501710,6 +501715,11 @@
     {
       "source": "hf_ds_6a5485bf73e76a43b79498f6",
       "target": "datasets/axisrobotics",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a589a522b06fed92d136d43",
+      "target": "datasets/laion",
       "relationship": "related_models"
     },
     {

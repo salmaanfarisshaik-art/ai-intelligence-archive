@@ -342730,6 +342730,7 @@
       "qwen3.8",
       "region:us",
       "roleplay",
+      "safetensors",
       "text-generation",
       "transformers",
       "uncensored"
@@ -353941,19 +353942,13 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
-      "format:parquet",
       "leaderboards",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:pandas",
-      "library:polars",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -355936,6 +355931,41 @@
     },
     "source_url": "https://huggingface.co/datasets/willi19/autodex-gallery-video",
     "local_path": "datasets/willi19/hf_ds_6a580014dab1978b184dc4a0.json"
+  },
+  {
+    "id": "hf_ds_6a589a522b06fed92d136d43",
+    "title": "laion/voice-acting-cutscene-prompts",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "emotion",
+      "format:parquet",
+      "language:de",
+      "language:en",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:cc-by-4.0",
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "synthetic",
+      "task_categories:text-generation",
+      "text-to-speech",
+      "voice-acting"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/laion"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/laion/voice-acting-cutscene-prompts",
+    "local_path": "datasets/laion/hf_ds_6a589a522b06fed92d136d43.json"
   },
   {
     "id": "hf_ds_6a60568ac2d6c31b7f81bdc8",
