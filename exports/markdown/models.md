@@ -8176,6 +8176,10 @@
 - **ID**: model_vllm_project_tiny_random_llamaforcausallm
 - **Source**: 
 
+## vllm/tiny-random-LlamaForCausalLM
+- **ID**: model_vllm_tiny_random_llamaforcausallm
+- **Source**: 
+
 ## VLTX/VertaLily-1.2-1B-GGUF
 - **ID**: model_vltx_vertalily_1_2_1b_gguf
 - **Source**: 

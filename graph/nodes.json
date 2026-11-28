@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:29:37.757802+00:00",
+  "generated_at": "2026-11-28T04:31:34.084601+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -154086,12 +154086,12 @@
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "ilabai/3dcodeverse"
+      "label": "3dcodeverse/3dcodeverse-2m"
     },
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "3dcodeverse/3dcodeverse-2m"
+      "label": "ilabai/3dcodeverse"
     },
     {
       "category": "dataset",
@@ -172152,6 +172152,11 @@
       "category": "models",
       "id": "model_vllm_project_tiny_random_llamaforcausallm",
       "label": "vllm-project/tiny-random-LlamaForCausalLM"
+    },
+    {
+      "category": "models",
+      "id": "model_vllm_tiny_random_llamaforcausallm",
+      "label": "vllm/tiny-random-LlamaForCausalLM"
     },
     {
       "category": "models",
@@ -471080,5 +471085,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 94215
+  "total_nodes": 94216
 }
